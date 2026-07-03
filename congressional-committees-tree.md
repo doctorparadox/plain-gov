@@ -348,5 +348,3 @@ U.S. CONGRESS — FULL COMMITTEE & SUBCOMMITTEE LEADERSHIP (119th Congress, mid-
 
 **One label quirk.** House Ways & Means' sixth subcommittee is called "Work and Welfare" by the majority and "Worker and Family Support" by the minority — same panel, two names (LaHood / Davis).
 
-This tree covers full committees, their subcommittees, and the four joint committees. It does not descend below the subcommittee level. The lighter top-level-only version lives at [[Congressional Committees Tree]].
-
