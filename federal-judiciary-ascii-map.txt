@@ -1,0 +1,61 @@
+U.S. FEDERAL JUDICIARY — STRUCTURE & COMPOSITION (as of July 1, 2026)
+│   Article III courts (appeals flow upward ▲) + Article I/IV courts alongside
+│   Named only at the Supreme Court; lower-court chief judges rotate by seniority
+│
+■ SUPREME COURT OF THE UNITED STATES (SCOTUS)   —   9 justices · final appellate + limited original jurisdiction
+│   │   Chief Justice presides; each justice is the "circuit justice" for one or more circuits
+│   │
+│   ├─ Chief Justice ...... John G. Roberts Jr.     (appt. G.W. Bush, 2005)
+│   ├─ Associate Justice .. Clarence Thomas         (appt. G.H.W. Bush, 1991 — longest-serving)
+│   ├─ Associate Justice .. Samuel A. Alito Jr.     (appt. G.W. Bush, 2006)
+│   ├─ Associate Justice .. Sonia Sotomayor         (appt. Obama, 2009)
+│   ├─ Associate Justice .. Elena Kagan             (appt. Obama, 2010)
+│   ├─ Associate Justice .. Neil M. Gorsuch         (appt. Trump, 2017)
+│   ├─ Associate Justice .. Brett M. Kavanaugh      (appt. Trump, 2018)
+│   ├─ Associate Justice .. Amy Coney Barrett       (appt. Trump, 2020)
+│   └─ Associate Justice .. Ketanji Brown Jackson   (appt. Biden, 2022)
+│        current balance: 6 Republican-appointed  ·  3 Democratic-appointed  (a 6–3 conservative majority)
+│
+├─◆ U.S. COURTS OF APPEALS  —  13 circuits (intermediate appellate)   ▲ hear appeals from the district courts
+│   │   12 regional circuits + 1 nationwide subject-matter circuit; each led by a Chief Judge (rotates by seniority)
+│   │
+│   ├─ D.C. Circuit ......... District of Columbia        [agency & administrative-law review; the "second-highest court"]
+│   ├─ First Circuit ........ ME · MA · NH · RI · Puerto Rico
+│   ├─ Second Circuit ....... CT · NY · VT
+│   ├─ Third Circuit ........ DE · NJ · PA · U.S. Virgin Islands
+│   ├─ Fourth Circuit ....... MD · VA · WV · NC · SC
+│   ├─ Fifth Circuit ........ LA · MS · TX
+│   ├─ Sixth Circuit ........ KY · MI · OH · TN
+│   ├─ Seventh Circuit ...... IL · IN · WI
+│   ├─ Eighth Circuit ....... AR · IA · MN · MO · NE · ND · SD
+│   ├─ Ninth Circuit ........ AK · AZ · CA · HI · ID · MT · NV · OR · WA · Guam · N. Mariana Is.
+│   ├─ Tenth Circuit ........ CO · KS · NM · OK · UT · WY
+│   ├─ Eleventh Circuit ..... AL · FL · GA
+│   └─ Federal Circuit ...... nationwide by subject-matter: patents · int'l trade · federal claims · veterans
+│
+├─◆ U.S. DISTRICT COURTS  —  94 districts (federal trial courts of general jurisdiction)   ▲ appeal to the regional circuit
+│   │   ≥1 district per state (larger states split into 2–4) + D.C. + Puerto Rico + territorial courts
+│   │
+│   ├─ Units within each district:
+│   │     ├─ U.S. Bankruptcy Court ....... one unit per district (Article I, under the district court)
+│   │     └─ U.S. Magistrate Judges ...... assist district judges (pretrial matters & misdemeanors)
+│   └─ Territorial district courts (Article IV): Guam · N. Mariana Islands · U.S. Virgin Islands
+│
+├─◆ SPECIALIZED ARTICLE III COURT
+│   └─ U.S. Court of International Trade ......... customs & international-trade cases   ▲ appeals to the Federal Circuit
+│
+├─◆ SURVEILLANCE COURTS  (staffed by designated Article III judges)
+│   ├─ Foreign Intelligence Surveillance Court (FISC) ...... reviews/approves FISA surveillance applications
+│   └─ Foreign Intelligence Surveillance Court of Review ... reviews FISC denials   ▲ then SCOTUS
+│
+├─◆ ARTICLE I / LEGISLATIVE COURTS  (created by Congress; outside the Article III judiciary)
+│   ├─ U.S. Tax Court ............................ ▲ appeals to the taxpayer's regional circuit
+│   ├─ U.S. Court of Federal Claims .............. monetary claims against the U.S.   ▲ appeals to the Federal Circuit
+│   ├─ U.S. Court of Appeals for Veterans Claims . ▲ appeals to the Federal Circuit
+│   └─ U.S. Court of Appeals for the Armed Forces  military justice   ▲ review by SCOTUS
+│
+└─◆ JUDICIAL ADMINISTRATION  (governance & support, not adjudication)
+    ├─ Judicial Conference of the United States ... national policy-making body (Chief Justice presides)
+    ├─ Administrative Office of the U.S. Courts .... day-to-day administration of the branch
+    ├─ Federal Judicial Center .................... research & judicial education
+    └─ U.S. Sentencing Commission ................. sets federal sentencing guidelines
