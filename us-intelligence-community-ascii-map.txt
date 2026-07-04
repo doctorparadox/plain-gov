@@ -1,0 +1,39 @@
+U.S. INTELLIGENCE COMMUNITY — 18 ELEMENTS BY PARENT DEPARTMENT (as of July 3, 2026)
+│   Coordinated (not commanded) by the DNI · budget flags: [NIP] national · [MIP] military
+│   Named only at the two coordinating principals; department elements shown as institutions
+│
+■ DIRECTOR OF NATIONAL INTELLIGENCE (DNI) — Bill Pulte (acting)   [T. Gabbard resigned Jun 30 2026; J. Clayton nominated]
+│   │   Head of the IC · principal intelligence adviser to the President · controls the [NIP]
+│   │
+├─◆ COORDINATING & INDEPENDENT ELEMENTS   (2 of 18 — stand outside any Cabinet department)
+│   │
+│   ├─ 1. Office of the Director of National Intelligence (ODNI) .. (indep.) [NIP]   coordinator; runs NCTC, NCSC, Cyber TIC
+│   └─ 2. Central Intelligence Agency (CIA) ...................... (indep.) [NIP]   Director: John Ratcliffe
+│
+├─◆ DEPARTMENT OF DEFENSE ELEMENTS   (8 of 18 — the largest bloc)
+│   │   4 defense agencies + the intelligence arm of each of the 4 armed services
+│   │
+│   ├─ 3. Defense Intelligence Agency (DIA) ...................... [MIP]   all-source military intelligence
+│   ├─ 4. National Security Agency (NSA) / Central Security Svc .. [NIP+MIP]  signals intelligence (SIGINT) & cyber
+│   ├─ 5. National Geospatial-Intelligence Agency (NGA) ......... [NIP+MIP]  geospatial intelligence (GEOINT)
+│   ├─ 6. National Reconnaissance Office (NRO) .................. [NIP+MIP]  designs & operates recon satellites
+│   ├─ 7. Army Intelligence (G-2 / INSCOM) ...................... [MIP]
+│   ├─ 8. Navy Intelligence (ONI) ............................... [MIP]
+│   ├─ 9. Air Force Intelligence (ISR / 16th Air Force) ......... [MIP]
+│   └─ 10. Marine Corps Intelligence (MCIA) .................... [MIP]
+│
+├─◆ DEPARTMENT OF JUSTICE ELEMENTS   (2 of 18)
+│   ├─ 11. FBI — Intelligence Branch ........................... [NIP]   domestic intel & counterintelligence
+│   └─ 12. DEA — Office of National Security Intelligence (ONSI)  [NIP]   narcotics-related intelligence
+│
+├─◆ DEPARTMENT OF HOMELAND SECURITY ELEMENTS   (2 of 18)
+│   ├─ 13. Office of Intelligence & Analysis (I&A) ............. [NIP]   homeland threat intel; feeds fusion centers
+│   └─ 14. Coast Guard Intelligence ........................... [NIP+MIP]  maritime intelligence
+│
+├─◆ SINGLE-OFFICE DEPARTMENTAL ELEMENTS   (4 of 18 — one intelligence office each)
+│   ├─ 15. STATE — Bureau of Intelligence & Research (INR) .... [NIP]   diplomatic all-source analysis
+│   ├─ 16. TREASURY — Office of Intelligence & Analysis (OIA) . [NIP]   financial intelligence
+│   └─ 17. ENERGY — Office of Intelligence & Counterintel. (OICI) [NIP]  nuclear & science intelligence
+│
+└─◆ (18th element = the DNI's own ODNI, counted above under Coordinating & Independent)
+      Note: the ODNI is both the coordinator (root) and one of the 18 statutory elements.
