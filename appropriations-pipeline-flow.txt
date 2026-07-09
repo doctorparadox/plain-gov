@@ -1,0 +1,74 @@
+THE APPROPRIATIONS PIPELINE — AUTHORIZATION TO OUTLAY  (annual cycle, FY starts Oct 1)
+│   Legend:  ──▶ main path   └─▶ branch   ◇ decision   ✕ funding stops   ★ money spent
+│
+■ 0. AUTHORIZATION  (the permission — NOT the money)
+│     Authorizing committees (Armed Services, Judiciary, Energy & Commerce, etc.)
+│     create/continue a program and set an authorized ceiling ("such sums as...").
+│     ◇ authorization lapsed? ──▶ program can still be funded (unauthorized
+│        appropriations are common) — the ceiling is a guideline, not a gate.
+│     └─▶ authorization ≠ dollars: a fully authorized program can receive $0.
+│
+├─◆ 1. THE PRESIDENT'S REQUEST  (the opening bid)
+│     First Monday in February: the [[President's Budget Request]] lands, built by OMB.
+│     Congress is free to ignore it — it sets the terms of debate, not the numbers.
+│
+├─◆ 2. THE BUDGET RESOLUTION  (Congress's top-line — no President's signature)
+│     Concurrent resolution → sets total discretionary ceiling (the 302(a) allocation)
+│     ├─ Appropriations Committees carve that total into 302(b) suballocations,
+│     │    one per subcommittee — the real spending caps for the year
+│     └─ ◇ no budget resolution passed? ──▶ deeming resolution / prior caps fill in
+│          (Congress often skips the resolution entirely and appropriates anyway)
+│
+├─◆ 3. THE TWELVE BILLS  (the appropriations machine — House originates)
+│     12 subcommittees, 12 bills, ~27% of all federal outlays (discretionary only):
+│     Defense · Labor-HHS-Ed · Commerce-Justice-Science · Energy-Water · Interior-Env ·
+│     Agriculture · Transportation-HUD · Financial Services · Homeland Security ·
+│     MilCon-VA · State-Foreign Ops · Legislative Branch
+│     ├─ subcommittee markup ──▶ full committee ──▶ floor ──▶ pass one chamber
+│     ├─ repeat in the other chamber ──▶ resolve differences (conference / ping-pong)
+│     └─ ◇ enacted before Oct 1? ── this is where the wheels come off (see branch ↓)
+│
+├─◆ 4. ENACTMENT  (presentment — Art. I, § 7)
+│     President signs (or veto/override) ──▶ ★ BUDGET AUTHORITY (BA) becomes law.
+│     BA = legal permission to obligate funds. Still not a dollar spent — the money
+│     now has to make it through OMB and Treasury.
+│
+├─◆ 5. APPORTIONMENT  (OMB's release valve — the slow-walk lever)
+│     OMB apportions the enacted BA back to each agency by time period, program,
+│     or activity — the point at which enacted money can be quietly delayed.
+│     ├─ ◇ apportionment withheld / footnoted? ──▶ funds sit unobligated
+│     │      └─▶ if it becomes a policy refusal to spend ──▶ IMPOUNDMENT territory:
+│     │          the [[Impoundment Control Act]] requires reporting a rescission or
+│     │          deferral to Congress — see [[Rescission and Impoundment]]
+│     └─ apportioned ──▶ agency may now obligate
+│
+├─◆ 6. OBLIGATION  (the agency commits — the legal hook)
+│     Agency signs contracts, awards grants, hires — legally binding the government.
+│     ◇ obligating without/beyond an appropriation? ──▶ ✕ violates the
+│        [[Antideficiency Act]] (the wall that makes a shutdown a shutdown)
+│
+└─◆ 7. OUTLAY  (money actually leaves the Treasury)
+      Treasury issues the warrant and disburses cash against the obligation.
+      ★ OUTLAY — the only figure that measures what was truly spent.
+      └─▶ authorized → appropriated → apportioned → obligated → OUTLAID:
+          money can be lost at every arrow. The distance between the top and the
+          bottom of this chain is exactly what [[The Spending Gap]] tracks.
+
+═══ THE BRANCH THAT ACTUALLY RUNS THE GOVERNMENT ═══════════════════════════════
+◇ all twelve bills enacted by Oct 1?  (on-time passage is essentially extinct)
+│
+├─ NO, deadline looming ──▶ CONTINUING RESOLUTION ([[Continuing Resolution]])
+│     stopgap that funds agencies at (roughly) prior-year rates for days–months;
+│     freezes new starts, holds programs flat, buys time. Serial CRs are the norm.
+│     └─▶ at a later deadline, bills get bundled into an OMNIBUS / minibus and passed.
+│
+└─ NO, and the CR lapses with no deal ──▶ ✕ GOVERNMENT SHUTDOWN
+      ([[Government Shutdown]]) — with no appropriation, the [[Antideficiency Act]]
+      bars agencies from obligating funds; non-excepted work stops, excepted
+      (safety/security) staff work unpaid until funding is restored.
+      [FY2026 set the record: a 43-day shutdown, then a partial one, before all
+       twelve bills were finally enacted.]
+
+  Note: BUDGET RECONCILIATION is a DIFFERENT track — it moves mandatory spending
+  and tax law by 51 votes and does NOT fund the discretionary agencies. It is not
+  part of this pipeline.
