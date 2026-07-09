@@ -1,0 +1,36 @@
+THE FEDERAL RESERVE SYSTEM — STRUCTURE & LEADERSHIP (as of July 7, 2026)
+│   Board of Governors + Federal Open Market Committee + 12 regional Reserve Banks
+│   ★ = votes on the FOMC in 2026    (interim) = pending a permanent appointment
+│
+■ FEDERAL RESERVE SYSTEM   (est. Federal Reserve Act, 1913 · independent within government)
+│
+├─◆ BOARD OF GOVERNORS   (7 seats · 14-year staggered terms · Senate-confirmed · for-cause removal only)
+│   ├─ Chair ★ ........................ Kevin Warsh          [sworn in May 22, 2026; chair term to May 2030]
+│   ├─ Vice Chair ★ ................... Philip Jefferson
+│   ├─ Vice Chair for Supervision ★ ... Michelle Bowman
+│   ├─ Governor ★ ..................... Michael Barr
+│   ├─ Governor ★ ..................... Lisa Cook            [removal blocked — SCOTUS 5–4, Jun 29, 2026]
+│   ├─ Governor ★ ..................... Jerome Powell        [stayed on after chairmanship — first ex-chair
+│   │                                                         to remain since Marriner Eccles, 1948]
+│   └─ Governor ★ ..................... Christopher Waller
+│
+├─◆ FEDERAL OPEN MARKET COMMITTEE (FOMC)   (12 votes: 7 governors + New York + 4 rotating presidents)
+│   ├─ Chair .......................... Kevin Warsh   (the Board chair, by tradition)
+│   ├─ Vice Chair ..................... John C. Williams   (New York Fed president — permanent seat)
+│   ├─ 2026 rotating voters ........... Cleveland · Philadelphia · Dallas · Minneapolis
+│   └─ Sets the federal funds rate target · directs open-market operations · QE / QT
+│
+└─◆ THE 12 REGIONAL FEDERAL RESERVE BANKS   (by district · presidents chosen by district boards,
+    │                                        approved by the Board of Governors)
+    ├─  1st  BOSTON ............ Susan Collins
+    ├─  2nd  NEW YORK ★ ........ John C. Williams     [permanent FOMC vote · runs the open-market desk]
+    ├─  3rd  PHILADELPHIA ★ .... Anna Paulson         [took office Jul 2025]
+    ├─  4th  CLEVELAND ★ ....... Beth Hammack
+    ├─  5th  RICHMOND .......... Tom Barkin
+    ├─  6th  ATLANTA ........... Cheryl Venable (interim)   [R. Bostic retired Feb 28, 2026; search under way]
+    ├─  7th  CHICAGO ........... Austan Goolsbee
+    ├─  8th  ST. LOUIS ......... Alberto Musalem
+    ├─  9th  MINNEAPOLIS ★ ..... Neel Kashkari
+    ├─ 10th  KANSAS CITY ....... Jeff Schmid
+    ├─ 11th  DALLAS ★ .......... Lorie Logan
+    └─ 12th  SAN FRANCISCO ..... Mary Daly
