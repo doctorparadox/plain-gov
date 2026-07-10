@@ -1,0 +1,80 @@
+HOW A CASE REACHES THE SUPREME COURT — THE CERTIORARI FUNNEL  (per October Term)
+│   Legend:  ──▶ main path   └─▶ branch/bypass   ◇ decision   ✕ case stops   ★ merits ruling
+│   Scale:  ~7,000–8,000 petitions filed  →  ~60–70 argued  (grant rate ≈ 1%)
+│
+■ 0. A FINAL JUDGMENT BELOW  (you cannot appeal a case that isn't over)
+│     A dispute is tried and loses in a U.S. District Court, then loses again on
+│     appeal in a U.S. Court of Appeals (or a state's highest court on a federal
+│     question). SCOTUS reviews FINAL judgments — not live, mid-trial rulings.
+│     ◇ state case? ──▶ only reviewable if it turns on FEDERAL law, from the
+│        state's court of last resort (the "adequate & independent state ground"
+│        bar keeps purely state-law questions out).
+│
+├─◆ 1. HOW A CASE CAN ARRIVE  (three doors — one is used almost always)
+│     ├─ CERTIORARI (discretionary) ──▶ ~99% of the docket; the rest of this map
+│     ├─ ORIGINAL JURISDICTION ──▶ state-v-state & similar: filed DIRECTLY at
+│     │    SCOTUS, skips the whole funnel (a handful of cases, ever)
+│     └─ CERTIFIED QUESTION ──▶ a Court of Appeals asks SCOTUS a legal question
+│          directly (nearly extinct in modern practice)
+│
+├─◆ 2. THE PETITION  (the loser asks to be heard)
+│     Petitioner files a "petition for a writ of certiorari" within 90 days of the
+│     final judgment. Its heart is the QUESTION PRESENTED — one clean legal issue.
+│     ├─ paid docket ──▶ printed briefs, filing fee
+│     └─ in forma pauperis ──▶ fee waived (prisoners, indigent parties); the bulk
+│          of raw filings, a vanishing share of grants
+│     Respondent files a brief in opposition; amici may file at the cert stage.
+│
+├─◆ 3. SCREENING  (the cert pool does the first cut)
+│     Most chambers pool their law clerks; one clerk writes a single memo per
+│     petition recommending grant or deny, shared across the pooled chambers.
+│     ├─ flagged as certworthy ──▶ goes on the "discuss list"
+│     └─ ◇ not flagged? ──▶ the "dead list" ──▶ ✕ denied without discussion
+│          (the fate of the overwhelming majority of petitions)
+│
+├─◆ 4. THE CONFERENCE  (the nine meet in private)
+│     Petitions on the discuss list are voted, most-senior justice first.
+│     ◇◇◇ THE RULE OF FOUR ──▶ do 4 of the 9 vote to grant?
+│     ├─ FEWER THAN 4 ──▶ ✕ CERT DENIED
+│     │     The lower court's judgment STANDS — but a denial sets NO precedent
+│     │     and signals nothing about the merits. (Occasionally a justice files a
+│     │     "dissent from denial" to flag an issue for a future petition.)
+│     └─ 4 OR MORE ──▶ ★ CERT GRANTED ──▶ continue to merits (stage 5)
+│
+├─◆ 5. MERITS BRIEFING & ARGUMENT  (now the case is really heard)
+│     Merits briefs (petitioner, respondent) ──▶ amicus curiae briefs flood in
+│     ──▶ ORAL ARGUMENT (~1 hour, questions from the bench) ──▶ the justices
+│     meet in conference and take a tentative vote.
+│     └─ the Solicitor General ([[Solicitor General]]) argues for the United
+│        States, and the Court often invites its views (CVSG) even in private
+│        disputes — the "Tenth Justice" effect.
+│
+└─◆ 6. THE DECISION  (opinion + judgment)
+      Senior justice in the majority assigns the opinion (the Chief, if in the
+      majority, always assigns). Drafts circulate; concurrences and dissents attach.
+      ★ OPINION ISSUED ──▶ affirm · reverse · or vacate & remand.
+      └─▶ the holding becomes binding NATIONAL precedent under [[Stare Decisis]] —
+          the payoff that makes a single granted case reshape the law everywhere.
+
+  ── Off-ramps that skip the clean 4→5→6 path ─────────────────────────────────
+  • GVR (Grant, Vacate, Remand): granted, then bounced back to the lower court in
+    light of an intervening ruling — no full argument.
+  • DIG (Dismissed as Improvidently Granted): the Court grants, hears argument,
+    then decides it should not have taken the case ──▶ cert dismissed, no merits.
+
+═══ THE EMERGENCY TRACK — THE SHADOW DOCKET  ([[Shadow Docket]]) ════════════════
+◇ a party needs the Court to act NOW — before the normal appeal can finish?
+│   (a stay of execution, a stay/injunction of a policy or lower-court order)
+│
+├─ APPLICATION filed with the CIRCUIT JUSTICE for that circuit ──▶ referred to
+│    the full Court ──▶ ruled on in days or weeks, often with NO oral argument,
+│    thin or no briefing, and frequently an UNSIGNED order with no reasoning.
+│
+├─ ◇ 5 votes to grant relief? ──▶ ★ the lower-court order is STAYED / an
+│    injunction issues — the challenged policy runs (or is blocked) immediately,
+│    nationwide, while the slow merits litigation continues below.
+│
+└─ NOTE: this track bypasses the Rule of Four (it takes 5, not 4) and the entire
+     cert-and-argument process. Increasingly the Court makes consequential,
+     precedent-shaping law here — fast, unexplained, and hard to track. This is
+     why the emergency docket increasingly matters as much as the merits docket.
