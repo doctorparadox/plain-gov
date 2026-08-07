@@ -1,0 +1,103 @@
+IMPEACHMENT & REMOVAL — THE CONSTITUTIONAL MACHINERY  (as of July 2026)
+│   Legend:  ──▶ main path   └─▶ branch/bypass   ◇ decision   ✕ effort dies   ★ removal
+│
+■ 0. WHO CAN BE IMPEACHED  (Art. II, § 4)
+│     "The President, Vice President and all civil Officers of the United States"
+│     ├─ presidents · vice presidents · cabinet secretaries · agency heads
+│     ├─ federal judges (Art. III) — by far the most common target: 15 of 21 impeachments
+│     └─ NOT members of Congress — Blount (1797) settled it: each chamber EXPELS its own
+│          (⅔ vote, Art. I, § 5); senators and representatives are not "civil Officers"
+│
+│     GROUNDS: "Treason, Bribery, or other high Crimes and Misdemeanors"
+│     ├─ no statutory definition — no crime is required; the offense is POLITICAL, not
+│     │    criminal (Hamilton, Federalist No. 65: "abuse or violation of some public trust")
+│     └─ in practice: whatever a House majority says it is, and whatever ⅔ of the
+│          Senate will agree it is — the two thresholds ARE the definition
+│
+├─◆ 1. HOW IT STARTS — five doors, all leading to the same room
+│     ├─ a member introduces an impeachment resolution ──▶ referred to Judiciary
+│     ├─ the House votes to AUTHORIZE a formal inquiry (Nixon '74, Clinton '98, Trump '19)
+│     ├─ ◇ PRIVILEGED RESOLUTION — any single member may offer articles as a question of
+│     │    the privileges of the House, forcing floor action within TWO legislative days
+│     │      └─▶ the majority almost always MOVES TO TABLE ──▶ ✕ killed without debate
+│     │          (the standard fate: a recorded vote, no inquiry — the release-valve)
+│     ├─ referral from outside: an independent/special counsel report, an inspector
+│     │    general, a judicial-conference certification (the usual route for judges)
+│     └─ a select committee or oversight investigation ripens into articles
+│
+├─◆ 2. HOUSE JUDICIARY COMMITTEE — the investigative stage
+│     ├─ subpoenas · depositions · public hearings · staff report
+│     │    └─▶ ◇ executive privilege / stonewalling? ──▶ contempt referral, or courts
+│     │         (litigation takes months-to-years — often longer than the political window;
+│     │          obstruction of the inquiry itself has twice BECOME an article)
+│     ├─ markup of ARTICLES OF IMPEACHMENT — each article is a separate charge,
+│     │    voted separately in committee and again on the floor
+│     └─ ◇ reported out? ──no──▶ ✕ dies in committee   ──yes──▶ the floor
+│
+├─◆ 3. THE HOUSE FLOOR — "the sole Power of Impeachment"  (Art. I, § 2, cl. 5)
+│     ├─ debate under a rule ──▶ vote ARTICLE BY ARTICLE
+│     ├─ ◇ SIMPLE MAJORITY of members present and voting on ANY ONE article?
+│     │      ├─ no on all ──▶ ✕ effort dies (Nixon never reached this vote — he resigned)
+│     │      └─ yes on ≥1 ──▶ ★ THE OFFICER IS IMPEACHED (indicted, not removed —
+│     │           the office is retained; impeachment alone changes nothing but the record)
+│     └─ the House appoints MANAGERS — members who prosecute the case in the Senate
+│
+├─◆ 4. THE SENATE TRIAL — "the sole Power to try all Impeachments"  (Art. I, § 3, cl. 6)
+│     ├─ senators sit as jurors under a special oath; no recusal mechanism exists
+│     │    (jurors may be witnesses, fact-participants, or open partisans — and have been)
+│     ├─ PRESIDING OFFICER:
+│     │    ├─ trial of a sitting PRESIDENT ──▶ the CHIEF JUSTICE presides (Chase 1868,
+│     │    │    Rehnquist 1999, Roberts 2020) — the Constitution's only such requirement
+│     │    └─ anyone else ──▶ the Vice President or the President pro tempore presides
+│     │         [2021: Roberts declined the second Trump trial — Trump was a FORMER
+│     │          president — and Sen. Patrick Leahy, president pro tem, presided instead]
+│     ├─ ◇ FULL TRIAL, or dispose of it?
+│     │    ├─ Rule XI TRIAL COMMITTEE — a committee of senators takes the evidence and
+│     │    │    reports to the full body; upheld as nonjusticiable in Nixon v. U.S. (1993).
+│     │    │    Standard for JUDGES; never used for a president
+│     │    ├─ motion to DISMISS on a point of order ──▶ ✕ articles disposed of with no
+│     │    │    trial at all (Mayorkas, April 2024 — a simple-majority kill switch)
+│     │    └─ ◇ witnesses and documents? — decided by SIMPLE MAJORITY vote, not by any
+│     │         rule of evidence (the 2020 Senate voted 49–51 to hear NO witnesses)
+│     └─ closing arguments ──▶ deliberation ──▶ vote ARTICLE BY ARTICLE
+│
+├─◆ 5. THE ⅔ GATE — where impeachment goes to die
+│     ├─ ◇ TWO-THIRDS OF SENATORS PRESENT vote guilty on any one article?
+│     │      (67 of 100 in a full Senate — a supermajority that has NEVER been assembled
+│     │       against a president; it requires large-scale defection by the officer's
+│     │       own party, and the modern party system is built to prevent exactly that)
+│     ├─ NO ──▶ ✕ ACQUITTAL — the officer stays; the trial record becomes a campaign asset
+│     │      ├─ Johnson 1868: acquitted by ONE vote (35–19)
+│     │      ├─ Clinton 1999: 45–55 perjury · 50–50 obstruction
+│     │      ├─ Trump 2020: 48–52 abuse of power · 47–53 obstruction of Congress
+│     │      └─ Trump 2021: 57–43 incitement — a MAJORITY to convict, 10 votes short of ⅔
+│     └─ YES ──▶ step 6
+│
+├─◆ 6. JUDGMENT — the only two punishments  (Art. I, § 3, cl. 7)
+│     ├─ ★ REMOVAL FROM OFFICE — automatic and immediate on conviction; no further vote,
+│     │    no appeal, no judicial review. The office is vacant that instant.
+│     │      └─▶ presidency ──▶ the Vice President succeeds (see the succession map)
+│     ├─ ◇ DISQUALIFICATION from "any Office of honor, Trust or Profit under the U.S."
+│     │      └─▶ a SEPARATE, SIMPLE-MAJORITY vote after conviction — optional, and only
+│     │           three times imposed (Humphreys 1862 · Archbald 1913 · Porteous 2010).
+│     │           [Distinct from the 14th Amendment § 3 insurrection bar, which is not
+│     │            an impeachment power at all]
+│     └─ NOTHING ELSE. No fine, no prison. "But the Party convicted shall nevertheless
+│          be liable and subject to Indictment, Trial, Judgment and Punishment,
+│          according to Law" ──▶ ordinary criminal prosecution is a SEPARATE track,
+│          before a court, with due process, beyond a reasonable doubt
+│
+└─◆ 7. THE ESCAPE HATCHES — why the ⅔ vote usually never happens
+      ├─ RESIGN FIRST ──▶ the House loses interest; the record is never made
+      │    (Nixon, Aug. 9 1974, eight days after the committee voted articles)
+      ├─ RUN OUT THE CLOCK ──▶ litigate every subpoena; the Congress expires; articles die
+      ├─ THE LATE-IMPEACHMENT QUESTION ──▶ can a FORMER officer be tried, purely to
+      │    disqualify? Belknap (1876): Senate said YES it had jurisdiction, then acquitted.
+      │    Trump (2021): Senate voted 56–44 that the trial WAS constitutional, then
+      │    acquitted — with acquitting senators citing the very jurisdiction they'd upheld
+      ├─ PARTY DISCIPLINE ──▶ the ⅔ gate converts impeachment from an accountability
+      │    tool into a LOYALTY TEST; with the officer's party holding >33 Senate seats,
+      │    removal is arithmetically impossible regardless of the evidence
+      └─ NO JUDICIAL REVIEW ──▶ Nixon v. United States (1993): "sole Power to try" is a
+           nonjusticiable political question. Whatever the Senate does IS the process.
+           There is no appeal from an acquittal, and none from a conviction either.
