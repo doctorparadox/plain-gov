@@ -1,0 +1,71 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY — COMPONENTS & LEADERSHIP (as of July 28, 2026)
+│   Created 2003 from 22 merged agencies · ~260,000 employees · third-largest department
+│   ★ = Senate-confirmed head    (acting) = serving without confirmation for the seat
+│
+■ SECRETARY OF HOMELAND SECURITY ★ — Markwayne Mullin   [sworn Mar 24, 2026; replaced K. Noem]
+│   Deputy Secretary: Troy Edgar ★
+│
+├─◆ THE 8 OPERATIONAL COMPONENTS   (the front-line agencies)
+│   │
+│   ├─ CUSTOMS & BORDER PROTECTION (CBP) ....... Commissioner: Rodney Scott ★
+│   │     ├─ U.S. Border Patrol   (between the ports of entry)
+│   │     ├─ Office of Field Operations   (the ~330 ports of entry)
+│   │     ├─ Air & Marine Operations
+│   │     └─ Office of Trade   (tariff collection — the revenue arm)
+│   │
+│   ├─ IMMIGRATION & CUSTOMS ENFORCEMENT (ICE) . Director: David Venturella (acting)
+│   │     │                                        [L. Schroyer nominated Jun 27, 2026; pending]
+│   │     ├─ Enforcement & Removal Operations (ERO)   (arrests · detention · deportation)
+│   │     ├─ Homeland Security Investigations (HSI)   (transnational-crime investigations)
+│   │     └─ Office of the Principal Legal Advisor   (immigration-court prosecutors)
+│   │
+│   ├─ CITIZENSHIP & IMMIGRATION SVCS (USCIS) .. Director: Joseph Edlow ★
+│   │     ├─ Field Operations   (naturalization · green cards · benefits)
+│   │     ├─ Refugee, Asylum & International Operations
+│   │     └─ Fraud Detection & National Security (FDNS)
+│   │
+│   ├─ TRANSPORTATION SECURITY ADMIN (TSA) ..... Administrator: Ha Nguyen McNeill (acting)
+│   │     │                                        [D. Cummins nominated; hearing Jul 16, 2026]
+│   │     ├─ Airport checkpoint & baggage screening
+│   │     ├─ Federal Air Marshal Service
+│   │     └─ Surface transportation   (rail · transit · pipeline)
+│   │
+│   ├─ U.S. SECRET SERVICE (USSS) .............. Director: Sean Curran
+│   │     ├─ Protective mission   (President · VP · candidates · foreign leaders)
+│   │     ├─ Investigative mission   (financial crimes · counterfeiting · cyber-fraud)
+│   │     └─ Uniformed Division   (White House & foreign-missions policing)
+│   │
+│   ├─ U.S. COAST GUARD (USCG) ................. Commandant: Adm. Kevin Lunday ★
+│   │     │   An armed force — the only military service outside DoD;
+│   │     │   transfers to the Navy in wartime
+│   │     ├─ 11 statutory missions   (search & rescue · drug & migrant interdiction ·
+│   │     │     port security · fisheries · icebreaking · marine safety)
+│   │     └─ Coast Guard Intelligence   (an element of the Intelligence Community)
+│   │
+│   ├─ FEMA .................................... Administrator: Robert Fenton (acting)
+│   │     │                                        [C. Hamilton nominated; on Senate floor]
+│   │     ├─ Disaster response & recovery   (Stafford Act declarations)
+│   │     ├─ National Flood Insurance Program (NFIP)
+│   │     ├─ Preparedness grants   (state & local)
+│   │     └─ IPAWS   (the national emergency-alert backbone)
+│   │
+│   └─ CYBERSECURITY & INFRA. SECURITY (CISA) .. Director: Nick Andersen (acting)
+│         │                                        [S. Plankey withdrew Apr 2026; no nominee]
+│         ├─ Cybersecurity Division   (federal networks + critical-infrastructure defense)
+│         ├─ Infrastructure Security Division
+│         ├─ Emergency Communications Division
+│         └─ Election security   (election infrastructure designated critical, 2017– )
+│
+├─◆ SUPPORT & HEADQUARTERS COMPONENTS
+│   ├─ Office of Intelligence & Analysis (I&A)   (the IC element built for state/local sharing)
+│   ├─ Science & Technology Directorate (S&T)
+│   ├─ Countering Weapons of Mass Destruction Office (CWMD)
+│   ├─ Federal Law Enforcement Training Centers (FLETC — Glynco, GA)
+│   ├─ Management Directorate   (budget · HR · procurement)
+│   └─ Office of Strategy, Policy & Plans
+│
+└─◆ OVERSIGHT & RIGHTS OFFICES   (the internal-check tier)
+    ├─ Office of Inspector General (OIG)
+    ├─ Office for Civil Rights & Civil Liberties (CRCL)   [staff largely cut, Mar 2025]
+    ├─ Privacy Office
+    └─ CIS Ombudsman · Immigration Detention Ombudsman   [statutory; gutted Mar 2025]
