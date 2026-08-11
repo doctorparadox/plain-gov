@@ -1,0 +1,129 @@
+THE CONFIRMATION PIPELINE — ADVICE AND CONSENT, END TO END   (as of July 2026)
+│   Legend:  ──▶ main path   └─▶ branch/bypass   ◇ decision   ✕ nomination dies   ★ confirmed
+│            EXEC = executive-branch track   JUD = Article III track   BYPASS = no Senate vote
+│
+■ 0. THE UNIVERSE OF SEATS  (Art. II, § 2, cl. 2)
+│     "...shall nominate, and by and with the Advice and Consent of the Senate, shall appoint
+│      Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all
+│      other Officers of the United States..."
+│     ├─ ~1,200 PAS positions (Presidential Appointment, Senate confirmation)
+│     ├─ ~800 PA positions — presidential appointment, NO Senate vote (White House staff,
+│     │    most of the Executive Office of the President: chief of staff, NSC, counsel)
+│     ├─ ~4,000 political appointees in total, incl. Schedule C and non-career SES
+│     └─ INFERIOR OFFICERS: Congress may vest their appointment in the President alone, the
+│          courts, or a department head (Art. II, § 2) — the constitutional seam every
+│          "acting official" fight is fought over
+│
+├─◆ 1. SELECTION  —  before the Senate ever sees a name
+│     ├─ White House Presidential Personnel Office (PPO) sources and vets the candidate
+│     ├─ outside pipelines supply the names: Federalist Society and allied networks for the
+│     │    bench; think tanks, donors, and industry for the agencies; loyalty screening is
+│     │    the explicit second-term criterion
+│     ├─ FBI background investigation (SF-86) · Office of Government Ethics financial
+│     │    disclosure (SF-278) and ethics agreement (recusals, divestitures)
+│     └─ ◇ home-state consultation? ──yes──▶ smooths the blue-slip gate below
+│                                  └─no───▶ a district-judge or U.S.-attorney pick can be
+│                                            dead on arrival in a blue state
+│
+├─◆ 2. NOMINATION FORMALLY TRANSMITTED to the Senate ──▶ REFERRED to committee
+│     │    (referral is automatic, by jurisdiction — the parliamentarian, not a vote)
+│     ├─ Judiciary → all Article III judges, DOJ, U.S. attorneys, U.S. marshals, FBI
+│     ├─ Armed Services → DoD civilians + every military promotion above O-6
+│     ├─ Foreign Relations → ambassadors, State  ·  Finance → Treasury, HHS, IRS, CMS
+│     ├─ Banking → Fed governors, SEC, FDIC  ·  HSGAC → DHS, OMB, OPM, GSA
+│     └─ ...and so on across the standing committees (see the Committees Tree)
+│
+├─◆ 3. COMMITTEE STAGE  —  the first and now the FIRMEST chokepoint
+│     ├─ questionnaire returned (Senate Judiciary Questionnaire for judges) + ABA rating
+│     │    [the second-term White House stopped giving the ABA pre-nomination access]
+│     ├─ ◇ BLUE SLIP  (Judiciary only — a courtesy, not a rule; the chair sets the policy)
+│     │    ├─ DISTRICT judges, U.S. attorneys, U.S. marshals: chair Chuck Grassley still
+│     │    │    HONORS the blue slip — either home-state senator can withhold it
+│     │    │      └─▶ ✕ no hearing, no vote  (the single most effective minority tool left;
+│     │    │            it has killed or forced the withdrawal of multiple U.S.-attorney
+│     │    │            picks in blue states, and drew public presidential attacks on
+│     │    │            Grassley in 2025 — he did not abandon the practice)
+│     │    └─ CIRCUIT judges: blue slip ABANDONED since 2017 — home-state objection is
+│     │         noted and ignored
+│     ├─ HEARING (usually public; judges answer in writing afterward — "questions for the
+│     │    record") ──▶ committee vote to REPORT
+│     │    ├─ reported favorably ──────────────────────▶ to the Executive Calendar
+│     │    ├─ reported without recommendation ─────────▶ to the Executive Calendar
+│     │    └─ ◇ tie or majority against ──▶ ✕ dies in committee (the chair can also simply
+│     │         never schedule it — the pocket kill; no rule compels a hearing)
+│     └─ [the chair's scheduling power IS the gate: it is what a committee majority is FOR]
+│
+├─◆ 4. THE FLOOR  —  where the friction used to be, and mostly no longer is
+│     │
+│     ├─ EXEC ▸ ◇ UNANIMOUS CONSENT? ──yes──▶ voice-voted through, no roll call
+│     │              (still how the large majority of nominees are actually confirmed)
+│     │         └─no──▶ a HOLD is in effect ──▶ the majority leader must burn floor time
+│     │
+│     ├─ ▸ THE HOLD — any single senator, anonymously, indefinitely. Not a rule; a threat
+│     │      to withhold unanimous consent. Post-2025 it no longer stops a nominee — it
+│     │      only makes them expensive. Blanket holds on whole categories (e.g. military
+│     │      promotions) are the modern escalation.
+│     │
+│     ├─ ▸ CLOTURE — motion filed ──▶ ripens ──▶ ◇ SIMPLE MAJORITY (51)
+│     │      ├─ 1789–2013 ................. 60 votes (the nominations filibuster)
+│     │      ├─ Nov 2013 nuclear option ... 51 — executive + lower-court judges (Reid)
+│     │      ├─ Apr 2017 nuclear option ... 51 — Supreme Court too (McConnell/Gorsuch)
+│     │      └─ 2019 rule change .......... post-cloture debate cut 30 hrs ──▶ 2 hrs for
+│     │           most executive and district nominees (a time change, not a vote change)
+│     │
+│     ├─ ▸ EN BLOC BATCHING — the Sept 11, 2025 nuclear option (53–45)
+│     │      ├─ an UNLIMITED number of executive nominees may be bundled into ONE cloture
+│     │      │    vote and ONE confirmation vote, by simple majority
+│     │      ├─ first use Sept 18–19, 2025: 48 nominees confirmed in a single vote
+│     │      ├─ COVERS: sub-cabinet, ambassadors, U.S. attorneys, mid-level agency officials
+│     │      └─ DOES NOT COVER: Article III judges, or cabinet secretaries
+│     │           [so the judicial track below still runs one nominee at a time]
+│     │
+│     ├─ JUD ▸ ARTICLE III — no batching. Each judge: cloture (51) ──▶ up to 2 hrs debate
+│     │      (30 hrs for circuit + SCOTUS) ──▶ ◇ CONFIRMATION VOTE, simple majority
+│     │      └─▶ ◇ 50–50 tie? ──▶ the VICE PRESIDENT breaks it (used for Cabinet and for
+│     │            judges — the tie-break is why a 50-seat majority is a working majority)
+│     │
+│     └─ ◇ CONFIRMATION VOTE ──pass──▶ ★ commission signed, oath taken, officer seated
+│                              └─fail──▶ ✕ returned to the President
+│
+├─◆ 5. WHEN THE PIPELINE IS BYPASSED ENTIRELY
+│     │
+│     ├─ BYPASS ▸ FEDERAL VACANCIES REFORM ACT of 1998 (5 U.S.C. § 3345)
+│     │      ├─ the President may install an ACTING official with NO Senate vote:
+│     │      │    (a) the first assistant, by default · (b) any other PAS officer already
+│     │      │    confirmed to some other post · (c) a senior employee of that agency
+│     │      │        (GS-15+, 90 days' service in the prior year)
+│     │      ├─ TIME LIMIT: 210 days from the vacancy — but the clock RESETS while a
+│     │      │    nomination is pending, and resets again after a failed nomination, so a
+│     │      │    serial-nomination strategy can hold an acting official in place for years
+│     │      ├─ ENFORCEMENT: an action taken by an improperly serving official is void —
+│     │      │    but someone must sue, and standing is hard. The check is a lawsuit, not a
+│     │      │    vote, which is why the acting-official pattern keeps growing.
+│     │      └─ agency-specific succession statutes can override the FVRA entirely
+│     │
+│     ├─ BYPASS ▸ RECESS APPOINTMENT (Art. II, § 2, cl. 3) — dormant, and deliberately so
+│     │      ├─ a recess appointee serves without any vote through the end of the NEXT
+│     │      │    session of Congress (up to ~2 years)
+│     │      ├─ NLRB v. Noel Canning (2014, 9–0): the recess must run at least ~10 DAYS
+│     │      ├─ ◇ so: is the Senate ever in recess for 10 days?  ──▶ NO. PRO FORMA SESSIONS
+│     │      │    every 3 days keep it technically in session. Thune scheduled them through
+│     │      │    the Aug 2025 state work period and again around the spring 2026 break —
+│     │      │    the Senate blocking its OWN majority's president, on purpose.
+│     │      └─ ◇ the Art. II, § 3 ADJOURNMENT POWER — if the two chambers disagree on
+│     │           adjournment, the President "may adjourn them" and manufacture the recess.
+│     │           NEVER USED in American history. Requires the House to first pass an
+│     │           adjournment resolution the Senate refuses. Repeatedly floated 2024–2026.
+│     │
+│     └─ BYPASS ▸ THE NON-CONFIRMED POWER CENTER — the structural answer to a slow Senate:
+│            move the real authority to seats that need no confirmation at all — White
+│            House czars, the EOP, senior advisers, and "special government employees" —
+│            and leave the Senate to confirm the figurehead. Advice and consent is a check
+│            on OFFICES, not on POWER; power migrates to the offices it can't reach.
+│
+└─◆ 6. WHAT HAPPENS TO NOMINATIONS THAT DON'T MAKE IT
+      ├─ RETURNED at the end of a session or on a recess >30 days (Senate Rule XXXI, ¶ 6)
+      │    ──▶ the President may resubmit; most are, by unanimous consent
+      ├─ WITHDRAWN by the President — the quiet exit; the second term has set the modern
+      │    record for first-year withdrawals, most of them blue-slip and vetting casualties
+      └─ NEVER SCHEDULED — the most common death of all, and it leaves no record
