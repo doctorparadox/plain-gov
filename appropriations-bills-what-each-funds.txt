@@ -1,0 +1,102 @@
+THE TWELVE APPROPRIATIONS BILLS → WHAT EACH ONE FUNDS   (119th Congress · FY2027 cycle)
+│  Legend:  ▸ subcommittee / bill    → agencies funded
+│           ⚠ funded by a subcommittee that does not match the agency's parent department
+│
+├─▸ 1. AGRICULTURE, RURAL DEVELOPMENT, FDA, AND RELATED AGENCIES
+│     → Department of Agriculture — except the Forest Service: FSA · NRCS · RMA · AMS · APHIS
+│     → rural development · SNAP and WIC appropriations · commodity and crop-insurance programs
+│     → ⚠ Food and Drug Administration — an HHS agency, funded in the farm bill's approps lane
+│     → Farm Credit Administration · Commodity Futures Trading Commission [House side]
+│
+├─▸ 2. COMMERCE, JUSTICE, SCIENCE, AND RELATED AGENCIES  (CJS)
+│     → Department of Justice: FBI · DEA · ATF · Bureau of Prisons · U.S. Marshals · U.S. Attorneys
+│     → Department of Commerce: Census Bureau · NOAA · NIST · Patent and Trademark Office · EDA
+│     → NASA · National Science Foundation · Legal Services Corporation · EEOC
+│
+├─▸ 3. DEFENSE
+│     → Department of Defense military functions: military personnel · operation and maintenance
+│       · procurement · research, development, test and evaluation · defense health program
+│     → the DoD-funded intelligence elements: NSA · DIA · NGA · NRO
+│     → NOT military construction (bill 10) · NOT nuclear weapons (bill 4) · NOT the Corps (bill 4)
+│
+├─▸ 4. ENERGY AND WATER DEVELOPMENT, AND RELATED AGENCIES
+│     → Department of Energy — including ⚠ the National Nuclear Security Administration, so the
+│       nuclear weapons complex is funded outside the Defense bill entirely
+│     → ⚠ Army Corps of Engineers civil works — a DoD agency, funded here, not in Defense
+│     → Bureau of Reclamation · FERC · Nuclear Regulatory Commission · Appalachian Reg. Commission
+│
+├─▸ 5. FINANCIAL SERVICES AND GENERAL GOVERNMENT  (FSGG)
+│     → Department of the Treasury, including the IRS · Executive Office of the President
+│     → ⚠ the entire federal judiciary — a separate branch, funded by one House subcommittee
+│     → District of Columbia · GSA · OPM · Small Business Administration · National Archives
+│     → the independent regulators: SEC · FTC · FCC · FEC · CPSC · Election Assistance Commission
+│
+├─▸ 6. HOMELAND SECURITY
+│     → Department of Homeland Security: CBP · ICE · TSA · Coast Guard · Secret Service
+│     → FEMA and the Disaster Relief Fund · CISA · FLETC · S&T
+│     → USCIS appears here but runs mostly on user fees, not appropriations
+│
+├─▸ 7. INTERIOR, ENVIRONMENT, AND RELATED AGENCIES
+│     → Department of the Interior except Reclamation: BLM · NPS · Fish and Wildlife · USGS · BIA
+│     → Environmental Protection Agency
+│     → ⚠ Forest Service — a USDA agency, funded here rather than in the Agriculture bill
+│     → ⚠ Indian Health Service — an HHS agency, funded here rather than in Labor-HHS
+│     → Smithsonian Institution · National Endowment for the Arts · Nat'l Endowment for the
+│       Humanities · National Gallery of Art
+│
+├─▸ 8. LABOR, HEALTH AND HUMAN SERVICES, EDUCATION, AND RELATED AGENCIES  (LHHS)
+│     → Department of Labor · Department of Education
+│     → HHS except FDA and IHS: NIH · CDC · CMS program administration · ACF · HRSA · SAMHSA
+│     → Social Security Administration operating budget (benefits themselves are mandatory)
+│     → NLRB · Institute of Museum and Library Services · AmeriCorps
+│     → Corporation for Public Broadcasting [advance funding rescinded 2025 — line effectively dead]
+│     → the largest and most contested of the twelve; the one most often left for a year-end deal
+│
+├─▸ 9. LEGISLATIVE BRANCH
+│     → the House and the Senate themselves · U.S. Capitol Police · Architect of the Capitol
+│     → Library of Congress · Government Publishing Office
+│     → Government Accountability Office · Congressional Budget Office
+│     → by long custom each chamber defers to the other on its own internal accounts
+│
+├─▸ 10. MILITARY CONSTRUCTION, VETERANS AFFAIRS, AND RELATED AGENCIES  (MilCon-VA)
+│     → military construction and family housing · BRAC environmental cleanup · NATO infrastructure
+│     → Department of Veterans Affairs: VHA · VBA · National Cemetery Administration
+│     → VA medical care is **advance-appropriated a full year ahead**, which is why VA hospitals
+│       keep running through a lapse that closes other agencies
+│     → Arlington National Cemetery · American Battle Monuments Commission
+│
+├─▸ 11. NATIONAL SECURITY, DEPARTMENT OF STATE, AND RELATED PROGRAMS  (House)
+│      ▸ STATE, FOREIGN OPERATIONS, AND RELATED PROGRAMS  (Senate — the older name)
+│     → Department of State and the whole foreign-assistance account structure, including the
+│       portfolio absorbed when USAID was closed
+│     → Peace Corps · Millennium Challenge Corp · Development Finance Corp · Export-Import Bank
+│     → U.S. Agency for Global Media · contributions to international organizations and to
+│       international peacekeeping activities
+│     → the House renamed this subcommittee in the 119th; the Senate kept the old title, so the
+│       two chambers now conference bills that do not share a name
+│
+└─▸ 12. TRANSPORTATION, HOUSING AND URBAN DEVELOPMENT, AND RELATED AGENCIES  (T-HUD)
+      → Department of Transportation: FAA · FHWA · FTA · FRA · MARAD · PHMSA · NHTSA
+      → Department of Housing and Urban Development: Section 8 · public housing · CDBG · FHA
+      → Amtrak · NTSB · Surface Transportation Board · Federal Maritime Commission
+
+■ THE SEVEN ANOMALIES — agencies whose money lane ≠ their department
+│
+├─ Food and Drug Administration ....... HHS agency ........... funded in AGRICULTURE
+├─ Indian Health Service .............. HHS agency ........... funded in INTERIOR
+├─ Forest Service ..................... USDA agency .......... funded in INTERIOR
+├─ Army Corps of Engineers (civil) .... DoD agency ........... funded in ENERGY-WATER
+├─ NNSA / nuclear weapons ............. DOE agency ........... funded in ENERGY-WATER, not DEFENSE
+├─ Military construction .............. DoD account .......... funded in MILCON-VA, not DEFENSE
+└─ The federal judiciary .............. a separate BRANCH .... funded in FSGG
+      Each line is a place where the subcommittee writing the check is not the subcommittee
+      you would predict from an org chart — and not the authorizing committee either.
+
+■ WHAT THE TWELVE BILLS DO NOT REACH
+│
+├─ ~27% of federal outlays. Social Security benefits, Medicare, Medicaid, and net interest are
+│     mandatory spending on autopilot — no annual vote, no subcommittee, no lane on this map.
+├─ Fee-funded operations (most of USCIS, much of PTO) and self-financing entities (TVA, the
+│     Postal Service's operating account, the Federal Reserve) sit outside the process.
+├─ The intelligence budget's classified detail, which passes through Defense as an aggregate.
+└─ Supplementals and rescissions, which move outside the twelve-bill cycle entirely.
