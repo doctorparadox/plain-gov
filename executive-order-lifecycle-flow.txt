@@ -1,0 +1,81 @@
+HOW AN EXECUTIVE ORDER IS ISSUED AND CHALLENGED
+│   Legend:  ──▶ main path   └─▶ branch/bypass   ◇ decision   ✕ dies/struck   ★ takes effect
+│
+■ 0. AUTHORITY — WHERE THE POWER COMES FROM
+│     No constitutional "EO clause." Every order rests on Art. II (vesting + take-care
+│     clauses) and/or a statutory delegation from Congress. The measuring stick is the
+│     Youngstown framework (Jackson concurrence, 1952) — three zones:
+│       ├─ Zone 1: Congress AUTHORIZED it ──▶ presidential power at its MAXIMUM
+│       ├─ Zone 2: Congress is SILENT ──▶ the "twilight zone" of concurrent authority
+│       └─ Zone 3: Congress FORBADE it ──▶ power at its "LOWEST EBB" — usually ✕
+│
+├─◆ 1. DRAFTING
+│     ├─ sources: WH policy councils (DPC · NEC · NSC) · agencies · the Counsel's Office
+│     │    · outside blueprints [2025–26: many orders arrived pre-drafted by aligned
+│     │    think tanks — the Project 2025 pipeline]
+│     └─ Staff Secretary controls the paper flow to the Resolute desk
+│
+├─◆ 2. CIRCULATION & LEGAL REVIEW  (EO 11030 of 1962 — the process EO for EOs)
+│     ├─ draft submitted to the OMB DIRECTOR ──▶ budgetary + administrative-impact review
+│     ├─ then to the ATTORNEY GENERAL "as to both form and legality" ──▶ delegated to
+│     │    career attorneys at the Office of Legal Counsel (OLC)
+│     ├─ ◇ OLC flags legal defects? ──yes──▶ redraft / narrow / add severability language
+│     └─ [2025–26: reporting indicates this gate is now often TRUNCATED OR BYPASSED —
+│          orders issued without full OLC vetting, a recurring source of the drafting
+│          errors later cited in court losses]
+│
+├─◆ 3. SIGNING
+│     └─ President signs ──▶ original transmitted to the Office of the Federal Register
+│          (NARA) — often staged as a public signing-ceremony event
+│
+├─◆ 4. PUBLICATION & NUMBERING  (Federal Register Act of 1935, 44 U.S.C. § 1505)
+│     ├─ published in the Federal Register ──▶ assigned the next sequential EO number
+│     │    ──▶ codified annually in Title 3, Code of Federal Regulations
+│     └─▶ contrast branch — the UNNUMBERED instruments:
+│          ├─ presidential MEMORANDA (same force, no numbering, publication optional)
+│          ├─ PROCLAMATIONS (numbered; historically ceremonial, now substantive)
+│          └─ classified national-security directives (NSPMs) — never published at all
+│
+├─◆ 5. IMPLEMENTATION  ★ takes effect (binds the executive branch only — not citizens,
+│     │    not Congress, not the states, except as agencies act on them)
+│     ├─ ◇ self-executing? ──yes──▶ internal branch effect immediately (personnel,
+│     │    enforcement priorities, org structure)
+│     └─ ──no──▶ directs agencies to act ──▶ rulemaking / guidance / enforcement
+│          [see the APA map — the agency's implementing action, not the EO itself,
+│           is usually what gets sued]
+│
+╞═══════════════════════════ THE CHALLENGE TRACKS ═══════════════════════════
+│
+├─◆ 6. CONGRESS  (the weakest track in practice)
+│     ├─ pass a statute overriding or defunding the order ──▶ ◇ veto? ──▶ ⅔ override
+│     ├─ appropriations riders — forbid spending any funds to implement
+│     ├─ oversight hearings + must-pass-bill leverage
+│     └─ [NO fast track: the Congressional Review Act covers agency RULES only —
+│          there is no CRA-style 51-vote kill switch for executive orders]
+│
+├─◆ 7. THE COURTS  (the live track — rules rewritten 2025–26)
+│     ├─ GATES: standing (concrete injury) · ripeness · sovereign immunity workarounds
+│     ├─ VEHICLES:
+│     │    ├─ APA § 706 suit against the implementing AGENCY action ("arbitrary and
+│     │    │    capricious… not in accordance with law") — the EO itself is not
+│     │    │    "agency action," so challengers sue what agencies do with it
+│     │    ├─ direct constitutional / ultra-vires claims against the order
+│     │    └─ [post-2024: courts read the underlying statute de novo — no more
+│     │         Chevron deference to the executive's interpretation]
+│     ├─ MERITS: which Youngstown zone? ──▶ Zone 3 orders usually ✕
+│     ├─ RELIEF — the post-CASA landscape (June 27, 2025, 6–3):
+│     │    ├─ ✕ universal/nationwide injunctions CURTAILED — relief limited to
+│     │    │    "complete relief" for the PARTIES before the court
+│     │    └─ the workarounds that replaced them:
+│     │         ├─ Rule 23 CLASS ACTIONS (nationwide class ≈ nationwide relief —
+│     │         │    the birthright-citizenship class certified within two weeks)
+│     │         ├─ APA § 706 VACATUR of implementing rules (scope contested)
+│     │         └─ STATE-plaintiff suits (states argue only universal relief is
+│     │              "complete" as to them — scope contested)
+│     └─ ◇ final merits ruling ──▶ ✕ struck (e.g. the birthright EO, 6–3, June 30,
+│          2026) ──or──▶ ★ upheld and entrenched
+│
+└─◆ 8. THE NEXT PRESIDENT  (the only guaranteed check)
+      └─ any later president may REVOKE or REPLACE any EO by signing a new one —
+           the stroke-of-a-pen instrument dies by the stroke of a pen. Nothing
+           vests; day-one revocation waves are now standard practice.
