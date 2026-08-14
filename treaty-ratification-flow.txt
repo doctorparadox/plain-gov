@@ -1,0 +1,168 @@
+HOW A TREATY IS MADE AND RATIFIED
+│   Legend:  ──▶ main path   └─▶ branch/bypass   ◇ decision   ★ legally operative   ✕ dies here
+│   Time-slice: process is evergreen · current-events notes verified 2026-08-14
+│
+■ 0. THE TEXT
+│     Art. II, § 2, cl. 2 — the President "shall have Power, by and with the Advice and
+│     Consent of the Senate, to make Treaties, provided two thirds of the Senators
+│     present concur."
+│       ├─ "PRESENT" — the denominator is the senators on the floor, not 100. With a
+│       │    bare quorum of 51 present, 34 votes carry a treaty.
+│       ├─ The HOUSE is not mentioned. It has no vote. (It reappears in step 7.)
+│       └─ The Constitution says how to ENTER. It says NOTHING about how to LEAVE.
+│            That silence is step 9 and the most consequential thing on this page.
+│
+├─◆ 1. NEGOTIATION  —  executive branch only
+│     ├─ President · Secretary of State · designated negotiators carrying "full powers"
+│     ├─ Congress has NO formal seat. Informal practice: senators travel as observers or
+│     │    delegates so the eventual ⅔ is pre-negotiated — the "advice" half of the clause,
+│     │    which in modern practice happens here or not at all.
+│     └─ ◇ Will the Senate ever accept this? ─── if the answer is no, the deal is usually
+│          restructured as an executive agreement BEFORE it is signed (see step 8).
+│
+├─◆ 2. SIGNATURE
+│     ├─ Signing does NOT bind the United States.
+│     ├─ Under VCLT Art. 18 it creates an interim duty not to defeat the treaty's object
+│     │    and purpose pending a ratification decision.
+│     ├─ ✕ The President may sign and simply never transmit — the treaty sits forever.
+│     └─ ✕ Or may "unsign": withdraw the signature and the Art. 18 obligation with it.
+│          [The Rome Statute, signed Dec 2000, unsigned May 2002, is the standing example.]
+│
+├─◆ 3. TRANSMITTAL TO THE SENATE  ──▶ ★ the first real gate
+│     ├─ President transmits the text with a letter of transmittal and a State Department
+│     │    report ──▶ printed as a numbered TREATY DOCUMENT (e.g. Treaty Doc. 102-38)
+│     ├─ AUTOMATIC referral — no motion required — to the COMMITTEE ON FOREIGN RELATIONS
+│     └─ ✕ THE DECISION NOT TO TRANSMIT IS THE BIGGEST KILL SWITCH IN THE SYSTEM, and it
+│          belongs entirely to the President. Signed-but-never-transmitted, and
+│          transmitted-but-never-voted, is where most American treaty commitments live.
+│          [The Vienna Convention on the Law of Treaties — signed 1970, never voted.]
+│
+├─◆ 4. COMMITTEE STAGE  —  SENATE FOREIGN RELATIONS
+│     ├─ hearings ──▶ business meeting ──▶ the committee may report FAVORABLY,
+│     │    UNFAVORABLY, WITHOUT RECOMMENDATION — or do nothing at all
+│     ├─ ✕ THE CHAIR'S POCKET KILL: no discharge petition exists for treaties. A treaty
+│     │    the chair declines to schedule is simply never heard from.
+│     │
+│     ├─ ★ TREATIES DO NOT DIE AT THE END OF A CONGRESS. Unlike bills, a pending treaty
+│     │    is re-referred and CARRIES OVER INDEFINITELY until the Senate acts or the
+│     │    document is formally returned to the President on request. Treaties from
+│     │    prior decades remain live on the committee calendar.
+│     │
+│     └─◆ THE COMMITTEE REWRITES THE DEAL — "RUDs" attached to the resolution:
+│            ├─ RESERVATION ...... changes the US legal obligation; other parties must
+│            │                     accept it or the treaty does not enter into force
+│            │                     between them
+│            ├─ UNDERSTANDING .... an interpretation the US declares it is signing up to
+│            ├─ DECLARATION ...... a statement of policy or of constitutional position
+│            │                     ★ including the NON-SELF-EXECUTING declaration, now
+│            │                       routine — see step 7, where it does its damage
+│            └─ PROVISO .......... a condition binding on the executive branch only;
+│                                  not communicated to the other parties
+│
+├─◆ 5. THE FLOOR  —  EXECUTIVE SESSION
+│     ├─ placed on the EXECUTIVE CALENDAR (separate from the legislative calendar);
+│     │    the Senate resolves into executive session to consider it
+│     ├─ debate is on the RESOLUTION OF RATIFICATION, not on the treaty text
+│     ├─ amendments to the RESOLUTION (i.e. the RUDs) ...... SIMPLE MAJORITY
+│     ├─ amendments to the TREATY TEXT itself ............. force RENEGOTIATION with
+│     │    every other party — which in practice kills the treaty
+│     ├─ cloture is available (Rule XXII, 60 votes) but is nearly pointless: the final
+│     │    bar is higher than the cloture bar, so the filibuster is not the obstacle here
+│     │
+│     └─▶ ◇ ★ THE VOTE — TWO-THIRDS OF SENATORS PRESENT AND VOTING
+│            ├─ ✕ FAILS ──▶ the treaty is NOT dead — it returns to the calendar and may
+│            │      be taken up again. [Versailles, 1919–20, was voted down twice.]
+│            └─ ──▶ PASSES ──▶ ★ ADVICE AND CONSENT GIVEN ──▶ step 6
+│
+├─◆ 6. RATIFICATION  —  back to the President, and it is HIS act
+│     ├─ Senate consent AUTHORIZES ratification. It does not require it.
+│     ├─ ✕ The President may decline to ratify after winning the vote, or hold the
+│     │    instrument indefinitely, or ratify only if the other parties accept the RUDs.
+│     ├─ ──▶ President signs the INSTRUMENT OF RATIFICATION ──▶ ★ deposited with the
+│     │    designated depositary (or exchanged, for a bilateral treaty)
+│     └─ ──▶ ENTRY INTO FORCE on the treaty's own terms — often on a threshold of
+│          ratifications, not on the date of deposit
+│
+├─◆ 7. DOMESTIC EFFECT  —  ◇ IS IT SELF-EXECUTING?
+│     │    Art. VI: treaties are "the supreme Law of the Land." Heavily qualified:
+│     │
+│     ├─ YES, SELF-EXECUTING ──▶ operative in US courts on its own force; preempts
+│     │      contrary STATE law
+│     │
+│     └─ NO, NON-SELF-EXECUTING ──▶ binds the US internationally, creates NO enforceable
+│            domestic rights until Congress passes IMPLEMENTING LEGISLATION
+│              ├─ ★ AND HERE THE HOUSE RE-ENTERS — the chamber with no vote on the treaty
+│              │    now holds a veto over whether it means anything at home
+│              └─ Since the non-self-executing declaration became routine, this is the
+│                   default branch for modern US treaty practice
+│
+│     THE THREE LIMITS ON WHAT A RATIFIED TREATY CAN DO:
+│       ├─ vs. STATE law ......... treaty wins (Missouri v. Holland, 1920 — the treaty
+│       │                          power reaches subjects otherwise reserved to states)
+│       ├─ vs. the CONSTITUTION .. Constitution wins (Reid v. Covert, 1957)
+│       └─ vs. a LATER STATUTE ... the LATER-IN-TIME rule — a subsequent act of Congress
+│                                  overrides the treaty domestically by simple majority,
+│                                  while leaving the US in breach internationally
+│
+╞═══════════════ 8. THE BYPASS TRACKS — WHERE THE TRAFFIC ACTUALLY GOES ═══════════════
+│     The Article II treaty is now the exception. The great majority of binding US
+│     international commitments since 1945 have taken one of these forms instead:
+│
+├─◆ CONGRESSIONAL-EXECUTIVE AGREEMENT ──▶ simple majority of BOTH chambers
+│     ├─ 51 + 218 instead of ⅔ of the Senate — and it lets the House in, which is part
+│     │    of why the trade committees prefer it
+│     └─ the entire trade architecture rides on this: NAFTA · USMCA · the WTO agreements
+│
+├─◆ EXECUTIVE AGREEMENT PURSUANT TO A TREATY ──▶ authority delegated by an already-
+│     ratified treaty; no new vote of any kind
+│
+├─◆ SOLE EXECUTIVE AGREEMENT ──▶ the President alone, on claimed Art. II authority.
+│     └─ narrowest legal footing, most contested, and the least visible
+│
+├─◆ POLITICAL COMMITMENT / NON-BINDING INSTRUMENT ──▶ not binding under international
+│     │    law at all; structured precisely so that no Senate vote is required
+│     └─ ★ and therefore exitable by memorandum. [The Paris Agreement and the JCPOA
+│          were both built this way, and both were left this way.]
+│
+└─◆ THE ONLY CHECK ON ANY OF IT — CASE-ZABLOCKI ACT (1 U.S.C. § 112b)
+      ├─ requires the Secretary of State to TRANSMIT the text of non-treaty agreements
+      │    to Congress. It is a REPORTING statute, not an approval statute.
+      ├─ [2022 amendments, effective Sept 2023: monthly transmittal, a required
+      │    statement of claimed legal authority, public publication, and — new —
+      │    coverage of "qualifying non-binding instruments."]
+      └─ ✕ Congress learns. Congress does not consent.
+
+╞═══════════════════ 9. THE EXIT — THE HOLE IN THE WHOLE SYSTEM ═══════════════════════
+│     The Constitution prescribes an elaborate ⅔ procedure for ENTERING a treaty and
+│     is entirely SILENT on LEAVING one.
+│
+├─◆ WHAT THE TREATY ITSELF SAYS ──▶ most contain a withdrawal clause with a notice
+│     period (commonly one year). A treaty with NO withdrawal clause generally may not
+│     be exited unilaterally under the default rules of the law of treaties.
+│
+├─◆ WHO DECIDES DOMESTICALLY ──▶ ◇ UNRESOLVED
+│     ├─ GOLDWATER v. CARTER (1979) — Carter terminated the Taiwan defense treaty
+│     │    without the Senate; 25 members of Congress sued.
+│     └─ ✕ NO MAJORITY OPINION. Four justices: political question. One: not ripe.
+│          The complaint was dismissed and the question has never been answered.
+│
+├─◆ THE PRACTICE THAT FILLED THE VACUUM ──▶ ABM Treaty (2002) · the JCPOA (2018) ·
+│     the Paris Agreement · the INF and Open Skies exits — all unilateral, all unchallenged
+│     to judgment.
+│
+├─◆ [JAN 7, 2026 — THE MASS WITHDRAWAL.] A presidential action directed agencies to
+│     cease participation in and funding of 66 international bodies and instruments
+│     (31 UN entities, 35 non-UN). It did not itself withdraw the United States from
+│     anything — it started 66 separate exit procedures, each governed by its own
+│     instrument's terms.
+│       └─ ★ THE ESCALATION: the list reaches the UN FRAMEWORK CONVENTION ON CLIMATE
+│            CHANGE — a SENATE-RATIFIED ARTICLE II TREATY, consented to unanimously
+│            in October 1992. Prior unilateral exits were from executive agreements and
+│            political commitments. This one erases a ⅔ Senate vote, which is the fact
+│            pattern Goldwater v. Carter declined to decide.
+│
+└─◆ WHAT CONGRESS CAN ACTUALLY DO ABOUT IT
+      ├─ ✕ no privileged resolution, no vote of disapproval, no statutory clock
+      ├─ repeal or amend the IMPLEMENTING legislation — reaches domestic effect only
+      ├─ appropriations riders barring funds for the withdrawal — the tool with teeth
+      └─ a ⅔ veto-proof statute — i.e. the same bar it took to enter, now needed to stay
