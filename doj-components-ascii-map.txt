@@ -1,0 +1,94 @@
+U.S. DEPARTMENT OF JUSTICE — COMPONENTS & LEADERSHIP (as of August 13, 2026)
+│   AG office created 1789 · department built around it 1870 · ~115,000 employees
+│   ★ = Senate-confirmed head    (acting) = serving without confirmation for the seat
+│
+■ ATTORNEY GENERAL ★ — Todd Blanche      [confirmed 50–49 Aug 8, sworn Aug 10, 2026;
+│                                          acting since Apr 2, 2026; replaced P. Bondi]
+│   Deputy Attorney General ......... [VACANT]   [Blanche's own former seat; 25 components
+│   │                                             and 93 U.S. Attorneys report to it]
+│   Associate Attorney General ...... Stanley Woodward ★
+│   Solicitor General ............... D. John Sauer ★
+│   Chief of Staff · Office of Public Affairs · Office of Legislative Affairs
+│
+├─◆ LAW ENFORCEMENT COMPONENTS   (the badge-and-gun tier)
+│   │
+│   ├─ FEDERAL BUREAU OF INVESTIGATION (FBI) ... Director: Kash Patel ★
+│   │     │   Co-Deputy Directors: Andrew Bailey · Christopher Raia
+│   │     │     [D. Bongino resigned Jan 3, 2026; Raia named Jan 9, 2026]
+│   │     ├─ National Security Branch   (counterterrorism · counterintelligence · WMD)
+│   │     ├─ Criminal, Cyber, Response & Services Branch
+│   │     ├─ Intelligence Branch   (an element of the Intelligence Community)
+│   │     ├─ Science & Technology Branch   (Quantico lab · CJIS · NICS gun checks)
+│   │     └─ 55 field offices · ~350 resident agencies · legal attachés abroad
+│   │
+│   ├─ DRUG ENFORCEMENT ADMINISTRATION (DEA) ... Administrator: Terry Cole ★
+│   │     ├─ Operations Division   (domestic field divisions · foreign offices)
+│   │     ├─ Diversion Control Division   (the prescription-opioid registration regime)
+│   │     └─ Special Operations Division   (multi-agency intercept coordination)
+│   │
+│   ├─ ALCOHOL, TOBACCO, FIREARMS & EXPLOSIVES  Director: Robert Cekada ★
+│   │     │   (ATF)                              [sworn Apr 30, 2026; Deputy: K. de Tineo]
+│   │     ├─ Field Operations   (25 field divisions)
+│   │     ├─ Industry Operations   (federal firearms licensee inspection)
+│   │     └─ National Tracing Center · National Firearms Act Branch
+│   │
+│   ├─ U.S. MARSHALS SERVICE (USMS) ............ Director: Gadyaces Serralta ★
+│   │     ├─ Judicial security   (protection of federal judges and courthouses)
+│   │     ├─ Fugitive apprehension · witness security · asset forfeiture
+│   │     └─ 94 district offices, each with a presidentially appointed U.S. Marshal
+│   │
+│   └─ FEDERAL BUREAU OF PRISONS (BOP) ......... Director: William K. Marshall III
+│         ├─ ~122 institutions · 6 regional offices · ~36,000 staff · ~156,000 inmates
+│         ├─ Residential reentry management   (halfway houses)
+│         └─ UNICOR / Federal Prison Industries
+│
+├─◆ THE LITIGATING DIVISIONS   (the lawyers — where charging and argument are decided)
+│   ├─ Criminal Division ....................... AAG: Tysen Duva
+│   │     (supervises, absorbs, or declines cases brought by the U.S. Attorneys)
+│   ├─ Civil Division .......................... AAG: Brett Shumate ★
+│   │     (the largest division — defends every executive order that gets sued)
+│   ├─ Civil Rights Division ................... AAG: Harmeet Dhillon ★
+│   │     (voting · police practices · fair housing — mission redirected 2025–26)
+│   ├─ Antitrust Division ...................... AAG: Omeed Assefi (acting)
+│   │                                             [G. Slater resigned Feb 12, 2026]
+│   ├─ National Security Division .............. AAG: John Eisenberg ★
+│   │     (counterterrorism & counterintelligence prosecution · FARA unit · FISA office)
+│   ├─ Environment & Natural Resources Division  [head unconfirmed]
+│   └─ Tax Division ............................ [head unconfirmed]
+│
+├─◆ LEGAL ADVICE & POLICY   (the offices that say what the law is, before a court does)
+│   ├─ Office of Legal Counsel (OLC) ........... AAG: T. Elliot Gaiser ★
+│   │     (binding legal opinions for the executive branch · EO form-and-legality review)
+│   ├─ Office of the Solicitor General (OSG) ... SG: D. John Sauer ★
+│   │     (controls what the United States argues, and appeals, in the Supreme Court)
+│   ├─ Office of Legal Policy
+│   └─ Office of Justice Programs legal counsel · Office of Tribal Justice
+│
+├─◆ THE PROSECUTORS IN THE FIELD
+│   ├─ Executive Office for U.S. Attorneys (EOUSA)   (Main Justice's channel to the field)
+│   └─ 94 judicial districts · 93 U.S. Attorneys   (Guam and the N. Marianas share one)
+│         ├─ Presidentially appointed, Senate-confirmed — or 120-day court-appointed
+│         │     interim, or a first-assistant serving under the Vacancies Act
+│         └─ Blue slips still honored for U.S. Attorney nominations   [see Confirmation
+│               Pipeline — the last effective minority tool in this lane]
+│
+├─◆ ADJUDICATION — THE IMMIGRATION COURTS
+│   └─ Executive Office for Immigration Review .. Director: Sirce Owen (acting)
+│         │   (EOIR)                              [D. Margolin resigned Jul 18, 2026]
+│         ├─ Office of the Chief Immigration Judge   (~700 immigration judges, FY2026)
+│         └─ Board of Immigration Appeals
+│               [immigration judges are DOJ employees, not Article III judges —
+│                the AG can certify and overrule any BIA decision to himself]
+│
+├─◆ GRANTS, PROGRAMS & COMMUNITY
+│   ├─ Office of Justice Programs   (BJA · BJS · NIJ · OJJDP · OVC)
+│   ├─ COPS Office   (local police hiring grants)
+│   ├─ Office on Violence Against Women
+│   └─ Community Relations Service · INTERPOL Washington
+│
+└─◆ OVERSIGHT & INTERNAL CHECK   (the tier that polices the department)
+    ├─ Office of the Inspector General (OIG)
+    ├─ Office of Professional Responsibility (OPR)   (prosecutorial misconduct)
+    ├─ Office of Information Policy   (FOIA administration)
+    ├─ Office of the Pardon Attorney   (clemency recommendations to the President)
+    └─ Justice Management Division   (budget · procurement · personnel)
