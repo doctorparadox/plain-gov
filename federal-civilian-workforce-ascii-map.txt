@@ -1,0 +1,95 @@
+FEDERAL CIVILIAN WORKFORCE — SERVICE STRUCTURE & REMOVAL PROTECTIONS (as of Aug 16, 2026)
+│   ~2.0–2.1M civilian employees excluding the Postal Service — lowest since the mid-1960s
+│   Executive-branch employment fell ~281,000 (≈12%) between Jan 2025 and Mar 2026 (OPM)
+│   ★ = full MSPB appeal rights   ✗ = no MSPB appeal   ◐ = contested / newly narrowed
+│
+■ THE FEDERAL CIVILIAN WORKFORCE
+│
+├─◆ COMPETITIVE SERVICE ★            the merit system — Pendleton 1883, rebuilt by CSRA 1978
+│   │   Entry by competitive examination · veterans' preference · "for cause" removal only
+│   │
+│   ├─ General Schedule .............. GS-1 through GS-15, the pay & classification spine
+│   ├─ Federal Wage System ........... trade, craft, and labor positions
+│   └─ Probationers ◐ ................ no appeal rights until tenure vests
+│         [EO 14284, Apr 24 2025 — tenure no longer vests by default; an affirmative
+│          retention decision is now required 30 days out or the appointment ends]
+│
+├─◆ EXCEPTED SERVICE                  positions excepted from competitive examination
+│   │   by statute, by OPM regulation, or by presidential order — seven schedules
+│   │
+│   ├─ Schedule A ★ ......... examination impracticable (agency attorneys · chaplains ·
+│   │                          the 213.3102(u) disability-hiring authority)
+│   ├─ Schedule B ★ ......... noncompetitive examination; specialized or critical need
+│   ├─ Schedule C ✗ ......... POLITICAL — confidential or policy-determining, GS-15 and
+│   │                          below; serve at the pleasure of the appointing official
+│   ├─ Schedule D ★ ......... Pathways — interns, recent graduates, Presidential
+│   │                          Management Fellows
+│   ├─ Schedule E ◐ ......... Administrative Law Judges [excepted by EO 13843, Jul 2018;
+│   │                          removal still requires an MSPB good-cause finding,
+│   │                          5 U.S.C. § 7521 — the protection survived the reclass.]
+│   ├─ Schedule POLICY/CAREER ✗ ...... FORMERLY SCHEDULE F
+│   │      Career employees, merit-hired, in "policy-influencing" positions — who keep
+│   │      competitive status but lose adverse-action procedure and MSPB appeal.
+│   │      EO 13957 (Oct 21 2020) → rescinded by EO 14003 (Jan 2021) →
+│   │      EO 14171 (Jan 20 2025, renamed, designation moved to the President) →
+│   │      OPM final rule published Feb 5 2026, effective Mar 9 2026 →
+│   │      EO 14410 (Jun 3 2026) — the transfer actually happens
+│   │      [≈8,000 positions in a 229-page appendix; ~97% at or above GS-15;
+│   │       the GS-13/14 exceptions are concentrated at OMB. OPM's rulemaking
+│   │       estimate was ~50,000; earlier outside estimates ran to 200,000.]
+│   └─ Schedule G ✗ ......... NONCAREER policy-making / policy-advocating positions that
+│                              turn over with a presidential transition
+│                              [created by EO 14317, Jul 17 2025 — a second political
+│                               layer above Schedule C; appointment and withdrawal run
+│                               through the White House Office of Presidential Personnel]
+│
+├─◆ SENIOR EXECUTIVE SERVICE ◐       the corps between career staff and appointees
+│   │   6,647 members (Apr 2026) · statutory cap: noncareer ≤10% government-wide,
+│   │   ≤25% within any one agency · removal and demotion run through a separate track
+│   │
+│   ├─ Career SES ............ competitively selected, certified by a Qualifications
+│   │                           Review Board; MSPB rights are narrower than GS
+│   ├─ Noncareer SES ✗ ....... politically appointed, no QRB, serve at pleasure
+│   ├─ Limited term · limited emergency ..... time-capped appointments
+│   └─ [The lever here is REASSIGNMENT, not removal: 15-day notice, a 120-day
+│        moratorium after a new agency head arrives — and then a career executive
+│        can be sent anywhere in the country. OPM memos of Jan 20 2025 and
+│        Dec 1 2025 both urged agencies to use it.]
+│
+├─◆ PRESIDENTIAL APPOINTEES ✗        outside the civil service entirely
+│   ├─ PAS ... Presidential Appointment, Senate confirmation required (~1,200 seats)
+│   ├─ PA .... Presidential Appointment, no Senate vote (~800 seats)
+│   └─ [PAS + PA + noncareer SES + Schedule C + Schedule G = the "Plum Book" layer,
+│        historically ~4,000 positions and now growing by the addition of Schedule G]
+│
+├─◆ SEPARATE PERSONNEL SYSTEMS       statutorily outside the Title 5 competitive service
+│   │   Their own hiring, pay, and appeal regimes — reached by different levers
+│   ├─ Foreign Service (State) · VA Title 38 clinicians · FBI · the intelligence agencies
+│   ├─ TSA screeners · FAA · Postal Service · TVA · Federal Reserve Board staff
+│   └─ Legislative & judicial branch staff · GAO · the Article III judiciary
+│
+└─◆ THE ENFORCEMENT LAYER            who hears the appeal — and whether it still functions
+    │
+    ├─ Office of Personnel Management ....... Director: Scott Kupor (sworn Jul 14 2025)
+    │      Writes the rules; receives agency petitions and recommends positions to the
+    │      President for Schedule Policy/Career. [OPM cut its own staff by ~a third.]
+    ├─ Merit Systems Protection Board ....... Acting Chairman: Henry J. Kerner
+    │      Member: James J. Woodruff II · THIRD SEAT VACANT
+    │      [Quorum lost Mar 2025 when Chair Cathy Harris was removed; restored
+    │       Oct 28 2025 when Woodruff was sworn in — the Board runs on 2 of 3.]
+    ├─ Office of Special Counsel ............ NO CONFIRMED SPECIAL COUNSEL
+    │      [Hampton Dellinger removed Mar 2025; Charles Baldis nominated May 2026 —
+    │       Senate action not confirmed as of this writing]
+    ├─ Federal Labor Relations Authority .... [chair unconfirmed]
+    │      Jurisdiction hollowed by EO 14251 (Mar 2025) and EO 14343 (Aug 2025),
+    │      which invoke the § 7103(b)(1) national-security exclusion; OPM guidance
+    │      Feb 12 2026 told covered agencies to terminate their CBAs outright
+    └─ The federal courts ................... the only forum left once the above are gone
+
+    ─────────────────────────────────────────────────────────────────────────────────────
+    THE EXIT RAMPS — five ways a career position stops being a protected career position
+    ├─ 1. Reduction in force ..... abolish the position; competitive-area rules decide who
+    ├─ 2. Deferred resignation ... the "Fork in the Road" offer, Jan–Feb 2025
+    ├─ 3. Probationary firing .... no appeal; the default flipped by EO 14284
+    ├─ 4. Reclassification ....... competitive service ──▶ Schedule Policy/Career (EO 14410)
+    └─ 5. Function transfer ...... move the work to another agency and leave the box empty
