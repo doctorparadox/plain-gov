@@ -1,0 +1,141 @@
+THE ELECTORAL COLLEGE — POPULAR VOTE TO INAUGURATION
+│   Legend:  ──▶ main path   └─▶ branch/workaround   ◇ decision   ★ legally operative   ✕ closed
+│   Time-slice: law as of Aug 2026 · dates shown are the 2028 cycle
+│
+■ 0. WHAT IS ACTUALLY BEING ELECTED
+│     Art. II, § 1, cl. 2 — each state appoints electors "in such Manner as the
+│     Legislature thereof may direct," equal to its House + Senate delegation.
+│       ├─ 538 electors total · 435 House-based + 100 Senate-based + 3 for D.C. (23rd Am.)
+│       ├─ 270 = a majority = the win condition. NOT the national popular vote.
+│       └─ ◇ HOW A STATE ALLOCATES ITS SLATE — state law, not the Constitution:
+│              ├─ WINNER-TAKE-ALL ...... 48 states + D.C.
+│              └─ CONGRESSIONAL DISTRICT  Maine (since 1972) · Nebraska (since 1992)
+│                    1 elector per district + 2 to the statewide winner
+│                    [Nebraska: LR24CA, a constitutional amendment to revert to
+│                     winner-take-all, advanced from committee July 2026 —
+│                     floor and ballot status unconfirmed at build time]
+│
+├─◆ 1. ELECTION DAY  [Tue Nov 7, 2028]
+│     │    "the Tuesday next after the first Monday in November" — 3 U.S.C. § 1.
+│     ├─ voters cast ballots for a CANDIDATE but legally appoint that candidate's
+│     │    SLATE OF ELECTORS, nominated in advance by the state party
+│     └─ ✕ [ECRA] THE "FAILED ELECTION" LOOPHOLE IS CLOSED. The 1887 Act let a
+│          legislature appoint electors itself if the state "failed to make a choice."
+│          The rewrite deletes that. A state may now only extend the voting period
+│          for "extraordinary and catastrophic" force-majeure events, and only under
+│          law enacted BEFORE Election Day. No post-hoc legislative takeover.
+│
+├─◆ 2. STATE CANVASS AND CERTIFICATION  [Nov–Dec 2028]
+│     ├─ county canvass ──▶ state canvass ──▶ recounts and state-law contests resolve
+│     └─ ◇ this is the ONLY stage with real evidentiary process — see the midterm map
+│
+├─◆ 3. ★ CERTIFICATE OF ASCERTAINMENT  [due Wed Dec 13, 2028]
+│     │    [ECRA] The state EXECUTIVE — the governor, unless state law designated
+│     │    someone else BEFORE Election Day — identifies the appointed electors and
+│     │    the vote totals, under state seal, and transmits to the Archivist.
+│     │      ├─ DEADLINE: at least SIX DAYS before the electors meet.
+│     │      ├─ must issue "under and in pursuance of" law enacted before Election Day
+│     │      ├─ ★ MEETING IT MAKES THE SLATE CONCLUSIVE ON CONGRESS.
+│     │      │     [ECRA] The old optional "safe harbor" is now mandatory and binding.
+│     │      └─ ★ ONE LAWFUL CERTIFICATE PER STATE. There is no such thing as a
+│     │            competing slate for Congress to choose between. This single
+│     │            sentence is what the 2020 fake-elector scheme was built to exploit.
+│     │
+│     └─▶ ◇ THE EXECUTIVE REFUSES, DELAYS, OR CERTIFIES THE WRONG SLATE ─────────────┐
+│              [ECRA] EXPEDITED JUDICIAL REVIEW — the reform's enforcement teeth.     │
+│                ├─ WHO MAY SUE: an aggrieved PRESIDENTIAL CANDIDATE. Only.          │
+│                ├─ FORUM: a three-judge panel — TWO CIRCUIT judges + ONE district   │
+│                │     judge (inverted from the usual § 2284 composition), and the   │
+│                │     5-day notice requirement does not apply                       │
+│                ├─ APPEAL: directly to the Supreme Court, heard on an expedited     │
+│                │     basis so a final order lands before the electors meet         │
+│                └─ ──▶ a court-ordered certificate REPLACES the executive's and     │
+│                     rejoins the main path ──────────────────────────────────────────┘
+│
+├─◆ 4. THE ELECTORS MEET  [Tue Dec 19, 2028]
+│     │    "the first Tuesday after the second Wednesday in December" — in each state
+│     │    capital, not in one national body. There is no national meeting, ever.
+│     ├─ ★ SEPARATE BALLOTS for President and Vice President (12th Am. — the 1804 fix)
+│     ├─ ★ CERTIFICATE OF VOTE signed and paired with the ascertainment
+│     ├─ six duplicate originals ──▶ the Archivist · the President of the Senate ·
+│     │    the state secretary of state · the local federal district judge
+│     │
+│     └─▶ ◇ AN ELECTOR BREAKS THE PLEDGE — the FAITHLESS ELECTOR branch
+│            ├─ ✕ largely CLOSED by Chiafalo v. Washington (2020, unanimous): a
+│            │     state may fine, remove, and replace a defecting elector
+│            ├─ the appointment power is broad enough to carry conditions on it
+│            └─ WHY IT MATTERS: shutting this door in July 2020 is part of why the
+│                 effort that followed targeted CERTIFICATION and COUNTING instead
+│
+├─◆ 5. TRANSMITTAL AND THE NEW CONGRESS  [Wed Jan 3, 2029]
+│     ├─ 20th Am., § 1 — the INCOMING Congress is sworn in first and counts the votes.
+│     │    The outgoing chambers never touch them.
+│     └─ the Archivist transmits copies in full of every certificate to both houses
+│
+╞═════════════════ 6. ★ THE JOINT SESSION — Sat Jan 6, 2029, 1:00 p.m. ═══════════════
+│     The Vice President presides as President of the Senate. Certificates are opened
+│     in alphabetical order and the votes are counted.
+│
+│     ★ [ECRA] THE PRESIDING OFFICER'S ROLE IS MINISTERIAL. Stated in the text.
+│       ├─ NO power to reject a certificate, resolve a dispute, choose between slates,
+│       │    or delay the count
+│       └─ this provision exists solely to foreclose the Eastman theory of Jan 6, 2021
+│
+│     └─▶ ◇ AN OBJECTION IS RAISED
+│            ├─ THRESHOLD: in writing, signed by ONE-FIFTH of the House AND one-fifth
+│            │    of the Senate. [ECRA — was ONE member of each chamber.]
+│            ├─ GROUNDS: exactly two, and no others —
+│            │      1. the electors "were not lawfully certified"
+│            │      2. an elector's vote was not "regularly given"
+│            │         (narrow: ineligible candidate, wrong day, bribery)
+│            ├─ chambers separate ──▶ up to TWO HOURS of debate each
+│            ├─ ◇ SUSTAINED? requires a MAJORITY OF THE WHOLE NUMBER in EACH chamber.
+│            │      Both must agree. Either chamber alone kills the objection.
+│            └─ ✕ note what is NOT a ground: the result is disputed · fraud is alleged ·
+│                 an audit is pending · the state's law was wrong. Congress reviews the
+│                 CERTIFICATE, not the election.
+│
+├─◆ 7. ◇ DOES ANYONE HAVE 270?
+│     ├─ YES ──▶ ★ the presiding officer ANNOUNCES the result. The count is the
+│     │           election. Nothing further is required of anyone.
+│     │
+│     └─ NO ──▶ CONTINGENT ELECTION  (12th Am.) — the anti-majoritarian branch
+│           │
+│           ├─◆ PRESIDENT — chosen by THE HOUSE
+│           │     ├─ from the TOP THREE electoral-vote recipients
+│           │     ├─ ★ VOTING BY STATE DELEGATION — ONE VOTE PER STATE.
+│           │     │     Wyoming's single member equals California's entire delegation.
+│           │     ├─ quorum: members from two-thirds of the states
+│           │     └─ ★ 26 STATES TO WIN. Ballot after ballot until someone has 26.
+│           │
+│           ├─◆ VICE PRESIDENT — chosen by THE SENATE, separately and in parallel
+│           │     ├─ from the TOP TWO · each senator casts ONE vote
+│           │     └─ quorum two-thirds · majority of the whole number (51) to win
+│           │
+│           └─▶ ◇ HOUSE STILL DEADLOCKED AT NOON JAN 20?
+│                  └─ 20th Am., § 3 ──▶ ★ the VICE PRESIDENT-ELECT ACTS AS PRESIDENT
+│                       until the House chooses. The Senate's pick governs. Used never;
+│                       the contingent election itself has run twice — 1800 and 1824.
+│
+└─◆ 8. ★ INAUGURATION — noon, Sat Jan 20, 2029  (20th Am., § 1)
+
+╞═════════════════ THE WORKAROUNDS — WHAT SITS OUTSIDE THIS FLOW ═════════════════════
+│
+├─◆ NATIONAL POPULAR VOTE INTERSTATE COMPACT — change the outcome, not the machinery
+│     ├─ member states pledge their electors to the national popular-vote winner
+│     ├─ ★ takes effect ONLY when members hold 270 electoral votes
+│     ├─ STATUS: 18 states + D.C. = 222 electoral votes (Virginia joined April 2026).
+│     │    48 short. Every member is a state that votes Democratic for president.
+│     └─ ◇ untested: whether it needs congressional consent under the Compact Clause,
+│          and whether a member legislature could repeal on the eve of a count
+│
+├─◆ INDEPENDENT STATE LEGISLATURE THEORY — the theory that the "Legislature" in
+│     Art. II answers to no state constitution or state court
+│     └─ ✕ narrowed by Moore v. Harper (2023): state courts DO review, though federal
+│          courts may police the outer bound. The ECRA's "law enacted before Election
+│          Day" requirement independently blocks the mid-count version.
+│
+└─◆ FAKE ELECTOR SLATES — the 2020 method, aimed at step 3
+      └─ ✕ closed by the one-certificate rule + the expedited judicial track above.
+           The remaining exposure is not the theory. It is DELAY: an executive who
+           simply does not sign, and a clock that runs out.
