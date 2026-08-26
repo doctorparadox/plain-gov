@@ -1,0 +1,141 @@
+CONTINUITY OF GOVERNMENT — STRUCTURE OF THE FEDERAL CONTINUITY ENTERPRISE (as of Aug 21, 2026)
+│   Three nested programs, one classified spine, and four branch-specific problems
+│   ★ = the load-bearing piece is a convention, a chamber rule, or a classified document — not a statute
+│
+■ THE FEDERAL CONTINUITY ENTERPRISE
+│
+├─◆ 1. THE THREE NESTED PROGRAMS  (the vocabulary everything else uses)
+│   │
+│   ├─ COOP — Continuity of Operations ....... one agency keeps performing its own essential functions
+│   │   └─ scope: every federal executive department and agency, individually
+│   ├─ COG — Continuity of Government ....... the branch as a whole keeps governing
+│   │   └─ scope: survival of the executive branch's capacity to direct the nation
+│   └─ ECG — Enduring Constitutional Government  all three branches keep their constitutional roles ★
+│       └─ scope: the only tier that names Congress and the courts — and the thinnest of the three
+│
+├─◆ 2. THE POLICY LAYER  (who writes the rules)
+│   │
+│   ├─ NSPD-51 / HSPD-20 (May 2007) ......... the post-9/11 charter; annexes remain classified ★
+│   ├─ PPD-40, National Continuity Policy ... issued July 15, 2016; the operative directive
+│   │   └─ establishes the eight National Essential Functions (NEFs) all planning maps back to
+│   ├─ Federal Continuity Directive (FCD) ... FEMA/ONCP, December 2023 — planning requirements
+│   ├─ FCD — Program Management Requirements  DHS, August 2024 — program-management requirements
+│   └─ Continuity Guidance Circular (CGC) ... the non-federal analogue for state/local/tribal use
+│       │
+│       └─ WHO COORDINATES IT
+│           ├─ National Continuity Coordinator  the Assistant to the President for Homeland
+│           │   │                               Security and Counterterrorism, by designation
+│           │   └─ Homeland Security Advisor ... Stephen Miller (since Jan 20, 2025)
+│           │       [whether the NSPD-51 NCC designation formally attaches to him: unconfirmed]
+│           └─ Executive agent .............. DHS, through the FEMA Administrator
+│               ├─ FEMA Administrator ....... Cameron Hamilton (confirmed Aug 7, sworn Aug 10, 2026)
+│               ├─ Secretary of Homeland Sec.  Markwayne Mullin (sworn Mar 24, 2026)
+│               └─ Office of National Continuity Programs (ONCP) — the FEMA directorate that
+│                   owns federal continuity guidance, training, and assessment
+│                   [FEMA has lost ~4,500 employees since Jan 2025 and rescinded its strategic
+│                    plan in May 2025 — GAO-26-108427, Aug 2026]
+│
+├─◆ 3. CONTINUITY OF THE PRESIDENCY  (the one problem with a clean statute)
+│   │
+│   ├─ Presidential Succession Act of 1947 .. 3 U.S.C. § 19 — VP, Speaker, President pro tempore,
+│   │   │                                      then the Cabinet in department-creation order
+│   │   ├─ Vice President .................. JD Vance
+│   │   ├─ Speaker of the House ............ Mike Johnson (R-LA)
+│   │   └─ President pro tempore ........... Chuck Grassley (R-IA)
+│   │       [an acting secretary not Senate-confirmed to the office is passed over — see the
+│   │        succession map for the full ordered list and the current skip flags]
+│   ├─ Twentieth Amendment, § 3 ............ president-elect dies or fails to qualify before noon
+│   ├─ Twenty-Fifth Amendment ............... vacancy, temporary transfer, and inability
+│   ├─ Designated survivor ................. a convention, not a law ★
+│   │   └─ one eligible successor held away from any event gathering the whole line
+│   └─ Nuclear command authority ........... survives with the office, not with the building
+│       └─ carried on the airborne platforms in layer 5, not tied to any fixed site
+│
+├─◆ 4. CONTINUITY OF CONGRESS  (the quorum problem — no statute, no amendment)
+│   │
+│   ├─ THE CONSTITUTIONAL CONSTRAINT
+│   │   ├─ Art. I, § 5 ..................... "a Majority of each shall constitute a Quorum"
+│   │   ├─ Art. I, § 2, cl. 4 .............. House vacancies filled ONLY by special election —
+│   │   │                                    a governor cannot appoint a Representative
+│   │   └─ Seventeenth Amendment ........... Senate vacancies MAY be filled by gubernatorial
+│   │                                        appointment where state law allows — so the Senate
+│   │                                        can be refilled in days and the House cannot
+│   ├─ THE HOUSE'S ANSWER
+│   │   └─ Rule XX, cl. 5(c) — "provisional quorum" ★
+│   │       ├─ on catastrophic circumstances, quorum = a majority of the PROVISIONAL number
+│   │       ├─ codified in the 108th Congress; re-adopted via H.Res. 5, 109th Congress
+│   │       └─ [constitutionality never resolved — the Speaker declined to entertain the point
+│   │          of order, leaving the House to judge its own rule]
+│   ├─ THE SENATE'S ANSWER .................. none of comparable specificity; it relies on
+│   │                                        gubernatorial appointment to rebuild membership
+│   └─ THE REFORM THAT DIDN'T PASS
+│       └─ Continuity of Government Commission (AEI + Brookings, 2002–2011)
+│           ├─ proposed a constitutional amendment for temporary House appointments — not adopted
+│           └─ proposed removing the Speaker and President pro tempore from the succession line
+│
+├─◆ 5. CONTINUITY OF THE JUDICIARY  (one section of Title 28, and almost nothing else)
+│   │
+│   ├─ 28 U.S.C. § 1 ....................... nine justices; ANY SIX constitute a quorum
+│   ├─ 28 U.S.C. § 2109 .................... if a direct appeal cannot be heard for want of a
+│   │                                        quorum, the Chief Justice may remit it to the court
+│   │                                        of appeals; other cases simply remain pending
+│   ├─ no mechanism to replace justices .... Art. II appointment is the only route; there is no
+│   │                                        emergency-appointment provision anywhere
+│   └─ lower courts ........................ Judicial Conference / AO continuity planning;
+│                                            special sessions may be held at alternate locations
+│
+├─◆ 6. THE PHYSICAL AND AIRBORNE LAYER  (where the government goes)
+│   │
+│   ├─ FIXED SITES
+│   │   ├─ Mount Weather Emergency Operations Center ... Bluemont, VA — FEMA-operated
+│   │   ├─ Raven Rock Mountain Complex (Site R) ....... near Blue Ridge Summit, PA — DoD
+│   │   ├─ Cheyenne Mountain Space Force Station ...... Colorado Springs, CO — NORAD alternate
+│   │   ├─ Presidential Emergency Operations Center ... beneath the White House East Wing
+│   │   └─ The Greenbrier (Project Greek Island) ...... congressional relocation site, WV —
+│   │                                                   exposed by press reporting in 1992
+│   │                                                   and decommissioned; NO announced successor
+│   └─ AIRBORNE PLATFORMS
+│       ├─ E-4B Nightwatch (NAOC) ................... 4 aircraft — the "doomsday plane"
+│       ├─ E-6B Mercury (TACAMO / ABNCP) ............ airborne launch control and fleet comms
+│       └─ E-4C SAOC replacement ................... Sierra Nevada Corp., $13B award Apr 2024
+│           ├─ first test flight Aug 7, 2025; testing continues through 2026
+│           ├─ planned fleet 6–8 aircraft, up from the 4 E-4Bs
+│           └─ contract completion date July 10, 2036 — an 11-year overlap with the fleet it
+│              replaces, which is the practical measure of how old the current one is
+│
+├─◆ 7. THE ESSENTIAL-FUNCTIONS STACK AND DEVOLUTION  (how authority actually moves)
+│   │
+│   ├─ THE FUNCTION HIERARCHY
+│   │   ├─ NEFs — National Essential Functions ...... eight, set by PPD-40; the national floor
+│   │   ├─ PMEFs — Primary Mission Essential Fns .... an agency's functions that support a NEF
+│   │   └─ MEFs — Mission Essential Functions ....... everything else an agency must keep doing
+│   ├─ ORDERS OF SUCCESSION ...................... every agency must pre-designate at least
+│   │                                              three deep for each key position
+│   ├─ DELEGATIONS OF AUTHORITY .................. pre-signed, so a successor's power does not
+│   │                                              wait on a new signature
+│   └─ DEVOLUTION OF OPERATIONS .................. transfer of an agency's functions to
+│       │                                          geographically separated personnel
+│       └─ triggered when the primary staff and the alternate site are both unavailable —
+│          the deepest fallback, and the least exercised
+│
+└─◆ 8. THE UNREVIEWED LAYER  (the part with no external check at all) ★
+    │
+    ├─ Presidential Emergency Action Documents (PEADs)
+    │   ├─ pre-drafted EOs, proclamations, and messages to Congress, held ready for execution
+    │   ├─ originated in the Eisenhower administration as part of nuclear COG planning
+    │   ├─ 56 in effect as of 2017, up from 48 two decades earlier
+    │   ├─ NOT ONE has ever been publicly released; ~6,000 pages withheld in full as classified
+    │   └─ no statutory basis, no congressional notification requirement, no judicial review
+    └─ classified annexes to NSPD-51 / HSPD-20
+        └─ the ECG annex — the tier that governs Congress and the courts — is among them
+
+──────────────────────────────────────────────────────────────────────────────────────────────
+WHERE THE STRUCTURE IS THINNEST — the four load-bearing pieces that are not law
+──────────────────────────────────────────────────────────────────────────────────────────────
+  1. THE DESIGNATED SURVIVOR is a convention. Nothing compels it, and nothing sets who it is.
+  2. THE HOUSE'S PROVISIONAL QUORUM is a chamber rule of contested constitutionality, adopted
+     by the body that would be judging its own compliance with it.
+  3. THE JUDICIARY has a quorum floor and no way to refill below it. Six of nine, or nothing.
+  4. THE PEADs AND THE ECG ANNEX are classified documents that would govern the moment the
+     other three failed — and the branch they most directly constrain has never seen them.
+──────────────────────────────────────────────────────────────────────────────────────────────
