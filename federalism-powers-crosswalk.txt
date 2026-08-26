@@ -1,0 +1,179 @@
+FEDERALISM POWERS CROSSWALK — who may exercise which power        (as of August 2026)
+│  Legend:  ■ column   ▸ power   § constitutional text   ⚖ scope set by case law
+│           ⚑ actively contested in 2025–26 — see Notes
+│
+■ EXCLUSIVELY FEDERAL — enumerated; states are barred by text or by structure
+│
+├─▸ COIN MONEY · REGULATE ITS VALUE
+│     § Art. I § 8 cl. 5  (grant)   §  Art. I § 10 cl. 1  (express bar on states)
+│     → no state may coin money, emit bills of credit, or make anything but gold
+│       and silver coin a tender in payment of debts
+│
+├─▸ DECLARE WAR · RAISE AND SUPPORT ARMIES · MAINTAIN A NAVY
+│     § Art. I § 8 cl. 11–14   §  Art. I § 10 cl. 3  (states barred absent invasion)
+│     → a state may "engage in War" only if actually invaded or in imminent danger
+│
+├─▸ MAKE TREATIES · CONDUCT FOREIGN RELATIONS
+│     § Art. II § 2 cl. 2  ·  Art. I § 10 cl. 1  (states barred outright)
+│     → states may enter interstate compacts only with congressional consent
+│
+├─▸ REGULATE IMMIGRATION AND NATURALIZATION           ⚑
+│     § Art. I § 8 cl. 4  (uniform rule of naturalization) + sovereign attributes
+│     ⚖ field-preempted:  Arizona v. United States (2012)
+│
+├─▸ REGULATE INTERSTATE AND FOREIGN COMMERCE          ⚑
+│     § Art. I § 8 cl. 3
+│     ⚖ scope:  Wickard (1942) aggregation → Lopez (1995) three-category limit
+│                → Raich (2005) reaffirming aggregation for economic activity
+│     → the "dormant" side bars state laws that discriminate against or unduly
+│       burden interstate commerce even where Congress has not acted
+│
+├─▸ ESTABLISH POST OFFICES · PATENTS AND COPYRIGHTS · BANKRUPTCY LAW
+│     § Art. I § 8 cl. 7, 8, 4  (uniform national systems by design)
+│
+├─▸ CONSTITUTE TRIBUNALS INFERIOR TO THE SUPREME COURT
+│     § Art. I § 8 cl. 9  ·  Art. III § 1
+│
+├─▸ GOVERN FEDERAL TERRITORY AND THE SEAT OF GOVERNMENT
+│     § Art. I § 8 cl. 17  ·  Art. IV § 3 cl. 2  (Territory and Property Clause)
+│
+└─▸ ADMIT NEW STATES · SET THE TERMS OF ADMISSION
+      § Art. IV § 3 cl. 1  → no state may be formed from another without its consent
+│
+■ EXCLUSIVELY STATE — residual; no enumeration required
+│
+├─▸ THE POLICE POWER — health, safety, morals, general welfare
+│     § 10th Amendment (reserved)   → the substantive content of everything below
+│     → this is a RESIDUAL grant: it needs no clause, which is why the entries
+│       here cite no text while every federal entry above does
+│
+├─▸ ADMINISTER ELECTIONS — registration, ballots, polling places, canvass  ⚑
+│     § Art. I § 4 cl. 1  (Elections Clause)  —  BUT Congress may "make or alter"
+│     § Art. II § 1 cl. 2  (presidential electors: legislature directs the manner)
+│     ⚖ Moore v. Harper (2023): state legislatures remain bound by state
+│       constitutions and state judicial review
+│
+├─▸ CREATE AND CONTROL LOCAL GOVERNMENT
+│     → counties, cities, school districts, special districts are creatures of the
+│       state; "home rule" is a state grant, revocable by the state
+│
+├─▸ ORDINARY CRIMINAL LAW · FAMILY LAW · PROPERTY AND CONTRACT LAW
+│     → the overwhelming majority of law an American actually encounters
+│
+├─▸ LICENSE PROFESSIONS AND OCCUPATIONS · CHARTER CORPORATIONS
+│     → limited by the Privileges and Immunities Clause, Art. IV § 2, which bars
+│       discrimination against out-of-state citizens as to fundamental rights
+│
+├─▸ LAND USE · ZONING · INTRASTATE INFRASTRUCTURE SITING
+│
+├─▸ PUBLIC EDUCATION — curriculum, standards, certification, school governance   ⚑
+│     → no federal power over curriculum exists; federal leverage is money only
+│
+├─▸ RATIFY CONSTITUTIONAL AMENDMENTS · APPLY FOR A CONVENTION
+│     § Art. V  → the one place states hold an absolute veto over the federal system
+│
+└─▸ COMMAND THE NATIONAL GUARD IN STATE STATUS                                   ⚑
+      → State Active Duty and Title 32 status: the governor commands
+        [Title 10 federalization moves command to the President — see the
+         emergency hinge below]
+│
+■ CONCURRENT — both may act; conflicts resolved by the hinges below
+│
+├─▸ TAX AND SPEND
+│     § Art. I § 8 cl. 1 (federal)  ·  reserved power (state)
+│     → the single largest concurrent power and the main channel of federal
+│       influence over exclusively state domains
+│
+├─▸ ESTABLISH COURTS AND DEFINE CRIMES
+│     → dual sovereignty: the same act may be prosecuted by both without double
+│       jeopardy (Gamble v. United States, 2019)
+│
+├─▸ BORROW MONEY · CHARTER BANKS · REGULATE FINANCIAL INSTITUTIONS
+│
+├─▸ BUILD INFRASTRUCTURE · REGULATE TRANSPORTATION
+│
+├─▸ PROTECT PUBLIC HEALTH · REGULATE THE ENVIRONMENT
+│     → typically a federal FLOOR with states free to go higher, unless the
+│       statute preempts the field or a waiver regime governs
+│
+├─▸ REGULATE BUSINESS, LABOR, AND CONSUMER PROTECTION                            ⚑
+│
+└─▸ ENFORCE CIVIL RIGHTS
+      § 14th Amendment § 5 (federal enforcement power) + state civil-rights acts
+│
+■ THE FOUR HINGES — where the columns stop being a partition
+│
+├─◆ HINGE 1 · SUPREMACY AND PREEMPTION — federal law displaces state law
+│     § Art. VI cl. 2
+│     ├─ EXPRESS preemption ....... the statute says so; the fight is over scope
+│     ├─ FIELD preemption ......... federal scheme so pervasive it leaves no room
+│     │                              (immigration status: Arizona v. US, 2012)
+│     ├─ CONFLICT preemption ...... compliance with both impossible, OR state law
+│     │                              obstructs the federal purpose
+│     └─ DORMANT COMMERCE ......... state law struck for burdening interstate
+│                                    commerce with no federal statute at all
+│     ⚑ AGENCY RULES PREEMPT TOO — which makes preemption an EXECUTIVE tool: a
+│       rulemaking can displace state law with no vote in Congress
+│
+├─◆ HINGE 2 · ANTI-COMMANDEERING — the wall preemption cannot climb
+│     § 10th Amendment + structure
+│     ├─ New York v. United States (1992) ... may not commandeer a state LEGISLATURE
+│     ├─ Printz v. United States (1997) ..... may not commandeer state EXECUTIVE officers
+│     └─ Murphy v. NCAA (2018) ............. may not forbid a state from REPEALING its
+│                                             own law
+│     → the asymmetry that makes this the most important rule on the map:
+│       Washington may NULLIFY a state law, and may BUY state cooperation,
+│       but may not CONSCRIPT state officials to run a federal program
+│     → it is politically bidirectional by design: the same rule protects
+│       sanctuary policies, state marijuana regimes, and 1990s gun-law resistance
+│
+├─◆ HINGE 3 · CONDITIONAL SPENDING — how Washington reaches the state column anyway
+│     § Art. I § 8 cl. 1
+│     ├─ THE DOLE TEST (1987) ...... general welfare · unambiguous · related to the
+│     │                               federal interest · no independent bar
+│     ├─ THE COERCION LIMIT ........ "pressure turns into compulsion" — dictum in
+│     │                               Dole, first ENFORCED in NFIB v. Sebelius (2012),
+│     │                               which made the Medicaid expansion optional
+│     └─ ⚑ THE 2025–26 QUESTION .... not whether CONGRESS may condition a grant, but
+│                                     whether the EXECUTIVE may attach conditions
+│                                     Congress never enacted — a spending-power and
+│                                     separation-of-powers problem before it is a
+│                                     Tenth Amendment one
+│
+└─◆ HINGE 4 · EMERGENCY AND FORCE — the column boundary suspended
+      ├─ Art. IV § 4 ............... federal protection against "domestic Violence"
+      │                              on APPLICATION of the state — consent required
+      ├─ Insurrection Act .......... statutory route to federal force WITHOUT state
+      │                              consent; the constitutional default inverted
+      ├─ 10 U.S.C. § 12406 ......... federalizing the Guard; the governor is cut out
+      │     ⚑ Trump v. Illinois (Dec 23, 2025): "regular forces" in § 12406(3) means
+      │        the regular UNITED STATES MILITARY, not federal civilian law
+      │        enforcement — stay denied, deployment blocked
+      └─ National Emergencies Act ... ~150 standby statutory authorities switched on
+                                      by declaration [mapped separately]
+│
+■ WHERE THE CROSSWALK IS BREAKING — the 2025–26 pressure points
+│
+├─ PREEMPTION BY EXECUTIVE ACTION  ⚑  The Dec 11, 2025 executive order on a national
+│     AI framework directs a DOJ AI Litigation Task Force (stood up Jan 10, 2026) to
+│     sue states over AI statutes on preemption and dormant-commerce theories, and
+│     to condition federal funds. It carves out child safety, data-center siting, and
+│     state procurement. The novelty is not the preemption theory — it is litigation
+│     and money deployed as a substitute for a preempting statute Congress declined
+│     to pass. [state-AI-law challenges pending as of Aug 2026]
+│
+├─ FUNDING CONDITIONS AS LEVERAGE  ⚑  Categorical threats to withhold federal funds
+│     from sanctuary jurisdictions have been repeatedly enjoined — on Spending Clause
+│     and separation-of-powers grounds (the executive attaching conditions Congress
+│     did not enact) as much as on Tenth Amendment coercion grounds. The doctrine
+│     holding here is Dole plus NFIB, not the Tenth Amendment alone.
+│
+├─ FEDERALIZING THE GUARD  ⚑  The § 12406 theory used in Illinois, California, and
+│     Oregon was checked by the Supreme Court's Dec 23, 2025 order. It is an interim
+│     stay ruling, not a merits holding — the statutory question remains open below.
+│
+└─ THE ASYMMETRY WORTH KEEPING  The state column is a residual, so it cannot be
+      "repealed" — it can only be displaced power by power, and each displacement
+      needs its own federal hook. That is why the pressure runs through money and
+      litigation rather than through statutes: those are the two routes that need
+      no new enumerated power and no vote in Congress.
