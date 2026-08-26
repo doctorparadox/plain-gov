@@ -1,0 +1,85 @@
+MONETARY POLICY TRANSMISSION — FROM AN FOMC VOTE TO PRICES AND JOBS  (as of August 22, 2026)
+│   ──▶ main path   └─▶ branch   ◇ decision point   ⏱ typical lag   [ ] live 2026 reading
+│   Names inside this fence are plain text; the wikilinks are in the prose below.
+│
+■ STEP 1 · THE DECISION                                    (FOMC · 8 scheduled meetings a year)
+│   Inputs ...... staff Tealbook · Beige Book · CPI and PCE · payrolls · financial conditions
+│   Vote ........ 12 votes = 7 governors + New York + 4 rotating Reserve Bank presidents
+│   Output ...... a TARGET RANGE for the federal funds rate + a directive to the NY Desk
+│                 [Jul 28–29, 2026: HELD at 3-1/2 to 3-3/4 percent on a 9–3 vote]
+│                 [all three dissents wanted a HIKE — Hammack, Kashkari, Logan]
+│   Also issued . statement language · SEP and dot plot (4x/yr) · chair press conference
+│   ⏱ effect on the money market: SAME DAY
+│
+├──▶ STEP 2 · THE ADMINISTERED RATES  (the target range is a goal; these are the actual levers)
+│    │   In an AMPLE-RESERVES regime the Fed does not ration reserves — it sets prices.
+│    ├─ IORB ................ 3.65 %   interest on reserve balances, paid to banks; the rate
+│    │                                 every other overnight rate is arbitraged against
+│    ├─ ON RRP .............. 3.50 %   overnight reverse repo, open to money funds and GSEs;
+│    │                                 the FLOOR for lenders with no Fed account
+│    │                                 [per-counterparty cap $160B/day]
+│    ├─ Standing repo ....... 3.75 %   the Fed lends against Treasuries at a fixed rate;
+│    │                                 the CEILING that caps repo-market spikes
+│    ├─ Discount window ..... 3.75 %   primary credit — same rate, but stigmatized in use
+│    └─ Open-market ops ..... reserve-management T-bill purchases (plumbing, not stimulus)
+│                             [runoff ENDED Dec 1, 2025 · assets $6.76T · reserves ~$3.1T]
+│   ⏱ SAME DAY → the effective fed funds rate and SOFR settle inside the corridor
+│
+├──▶ STEP 3 · MONEY-MARKET AND BANK FUNDING COSTS                                   ⏱ DAYS
+│    ├─ SOFR · EFFR · commercial paper · Treasury bills all reprice off the corridor
+│    ├─ Deposit and CD rates follow — SLOWLY and INCOMPLETELY (the "deposit beta" gap)
+│    └─ The PRIME RATE moves mechanically: fed funds target + 3 percentage points
+│         └─▶ credit cards · HELOCs · small-business and floating-rate corporate loans
+│
+├──▶ STEP 4 · THE YIELD CURVE AND EXPECTATIONS    ⏱ IMMEDIATE, but only partly controllable
+│    │   A long rate = the average expected short rate over its life + a TERM PREMIUM.
+│    │   The Fed sets the first term. It does NOT set the second.
+│    ├─ Tools aimed at the first term: forward guidance · the dot plot · QE and QT
+│    ├─ ◇ Does the market believe the path? ──yes──▶ long rates follow the policy rate
+│    │                                       └─no──▶ long rates DECOUPLE
+│    └─ [AUG 2026 — DECOUPLED. Policy sits at 3.50–3.75 %, the 10-year near 4.65 %, and
+│        the 30-year auction cleared 5.22 %, the highest since 2001. That gap is term
+│        premium — supply, foreign demand, and credibility — not the expected rate path.]
+│
+├──▶ STEP 5 · THE FIVE CHANNELS  (where policy actually reaches households and firms)
+│    │
+│    ├─◆ INTEREST-RATE / COST-OF-CAPITAL ..... hurdle rates rise → capex, housing, durables
+│    │      └─▶ MORTGAGES key off the 10-year, NOT off the fed funds rate
+│    │          [30-yr fixed 6.65 % on Aug 20, 2026 — roughly 200bp over the 10-year]
+│    ├─◆ BANK-LENDING / CREDIT .............. funding costs + capital + risk appetite →
+│    │      └─▶ tighter standards and thinner credit for bank-dependent borrowers
+│    │          (small firms feel this; investment-grade issuers route around it)
+│    ├─◆ ASSET-PRICE / WEALTH ............... discount rates up → equities and property down
+│    │      └─▶ spending falls, concentrated in the households that own the assets
+│    ├─◆ EXCHANGE-RATE ...................... relative rates → capital flows → the dollar
+│    │      └─▶ dollar up = cheaper imports (disinflation) + dearer exports (demand down)
+│    │          [muted in 2026: tariffs push import prices the OTHER way]
+│    └─◆ EXPECTATIONS ........................ the channel with no plumbing —
+│           └─▶ credibility alone. If households and firms believe 2 %, wage- and
+│               price-setting does the Fed's work for it. If they don't, nothing
+│               else on this list is large enough to substitute.
+│
+├──▶ STEP 6 · AGGREGATE DEMAND                                            ⏱ 6–12 MONTHS
+│    Investment · consumption · net exports · hiring, job postings, quits
+│         └─▶ the output gap opens or closes
+│
+└──▶ STEP 7 · THE DUAL MANDATE   (12 U.S.C. § 225a)                       ⏱ 12–24 MONTHS
+     ├─ MAXIMUM EMPLOYMENT ..... [unemployment 4.1 % · payrolls −23,000 in July 2026,
+     │                            with −103,000 in revisions to the two prior months]
+     └─ STABLE PRICES (2 %) .... [headline CPI 3.4 % y/y · core CPI 2.5 % y/y, July 2026]
+          └─▶ back to STEP 1 — the Fed steers a car whose wheels turn a year later
+
+──────────────────────────────────────────────────────────────────────────────────────────
+WHERE THE CHAIN BREAKS
+──────────────────────────────────────────────────────────────────────────────────────────
+ ✕ THE LONG END     The Fed owns the overnight rate outright and the 30-year not at all.
+                    Term premium is priced by supply, foreign demand, and credibility.
+ ✕ THE LAGS         "Long and variable." By the time the data show whether a decision was
+                    right, three or four more decisions have already been made.
+ ✕ SUPPLY SHOCKS    Rates work on DEMAND. A tariff, an oil disruption, or a war raises
+                    prices with no excess demand to remove — so the only way to hit the
+                    inflation leg of the mandate is to damage the employment leg.
+ ✕ FISCAL FLOW      Deficits, tariffs, and Treasury issuance move prices and the curve
+                    directly, with no FOMC vote involved anywhere in the process.
+ ✕ CREDIBILITY      The expectations channel is not a mechanism, it is a BELIEF — and it
+                    is the only channel that can be destroyed by a personnel decision.
