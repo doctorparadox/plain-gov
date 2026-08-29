@@ -1,0 +1,200 @@
+EMERGENCY POWERS CROSSWALK — statute → what a declaration unlocks   (as of August 2026)
+│  Legend:  ▸ statute   ⚡ trigger   → power unlocked   ⏱ how it ends
+│           ⚑ actively contested in 2025–26 — see Notes
+│
+■ THE FRAMEWORK — procedure, not power
+│
+└─▸ NATIONAL EMERGENCIES ACT ................ 50 U.S.C. §§ 1601–1651  (1976)
+      ⚡ the President declares a national emergency
+         [the Act sets NO substantive standard for what qualifies]
+      → activates standby authorities scattered across the U.S. Code
+      → the President must SPECIFY which authorities he is invoking
+      → ~135–137 authorities are presidentially activatable; ~13 more require a
+        congressional declaration — roughly 150 in total  [Brennan Center count;
+        the number moves between editions as the Code changes]
+      ⏱ presidential revocation · automatic ANNUAL lapse UNLESS the President
+        publishes a continuation notice within 90 days  (§ 1622(d))
+      ⏱ joint resolution of Congress  (§ 1622(a)) — see the termination block below
+      ⏱ each House "shall meet to consider a vote" every SIX MONTHS  (§ 1622(b))
+         [not observed in practice, by either party, in fifty years]
+      ✱ THE NEA CONFERS NO POWER OF ITS OWN. It is the switch, not the current.
+│
+■ THE ECONOMIC LEVER
+│
+└─▸ INTERNATIONAL EMERGENCY ECONOMIC POWERS ACT ... 50 U.S.C. §§ 1701–1708  (1977)
+      ⚡ an NEA declaration PLUS an "unusual and extraordinary threat" whose source
+        is substantially OUTSIDE the United States
+      → investigate, regulate, block, and prohibit transactions in any property in
+        which a foreign country or national has an interest
+      → asset freezes · SDN designations · sanctions programs administered by OFAC
+      → the 50-percent rule: an entity half-owned by designated persons is blocked
+        WITHOUT a separate listing
+      → correspondent-banking spillover reaches parties never designated at all
+      ⚑ → NOT TARIFFS.  Learning Resources v. Trump (Feb 20, 2026), 6–3: IEEPA does
+        not authorize tariffs; the word appears nowhere in the statute. The IEEPA
+        tariffs terminated 12:00 a.m. ET, Feb 24, 2026.
+      ⏱ tied to the underlying NEA declaration — annual renewal, same as above
+│
+■ THE FORCE LEVERS — the domestic military exceptions
+│
+├─  BASELINE: POSSE COMITATUS ACT ........... 18 U.S.C. § 1385  (1878)
+│      the Army and Air Force may not execute the laws EXCEPT where Congress has
+│      expressly authorized it. Everything below is one of those exceptions.
+│
+├─▸ INSURRECTION ACT ........................ 10 U.S.C. §§ 251–255  (1792/1807)
+│     ⚡ § 251 — the state LEGISLATURE or governor requests federal help
+│     ⚡ § 252 — the President alone finds unlawful obstructions make ordinary
+│                enforcement "impracticable"       [no state consent required]
+│     ⚡ § 253 — insurrection or domestic violence depriving people of
+│                constitutional rights the state will not or cannot protect
+│     → deploy REGULAR federal troops and federalized Guard to enforce the law
+│     → the broadest standing exception to Posse Comitatus in American law
+│     ⚡ procedural prerequisite: a proclamation ordering dispersal  (§ 254)
+│     ⏱ NONE. No clock, no reporting requirement, no congressional review, no
+│       automatic expiration, no statutory role for anyone but the President.
+│     ⚑ [threatened repeatedly in 2025–26 — Chicago, Portland, Minneapolis —
+│        and NEVER INVOKED. The threat has done the work of the statute.]
+│
+├─▸ FEDERALIZING THE NATIONAL GUARD ......... 10 U.S.C. § 12406
+│     ⚡ (1) invasion · (2) rebellion or danger of rebellion · (3) the President is
+│        "unable with the regular forces to execute the laws of the United States"
+│     → moves a Guard unit from state status to Title 10: the President commands,
+│       the governor is cut out
+│     ⚡ orders "shall be issued through the governors" — the one procedural hook
+│     ⚑ Trump v. Illinois (Dec 23, 2025): "regular forces" in § 12406(3) means the
+│        regular UNITED STATES MILITARY, not federal civilian law enforcement.
+│        Stay denied; deployment blocked. An interim order, not a merits holding.
+│     ⏱ ends when the President says so  [Chicago, Portland, and Los Angeles
+│        deployments ended Dec 31, 2025; federalized Guard remains in D.C.]
+│
+└─▸ ALIEN ENEMIES ACT ....................... 50 U.S.C. §§ 21–24  (1798)
+      ⚡ DECLARED WAR, or an invasion or predatory incursion perpetrated by a
+        FOREIGN NATION OR GOVERNMENT
+      → apprehend, restrain, and remove natives and citizens of the hostile nation,
+        age 14 and up, on the President's terms
+      ✱ the trigger requires a foreign STATE actor — the narrowest textual trigger
+        on this map, and the whole 2025–26 litigation turns on that phrase
+      ⏱ ends with the war or the declared incursion; no independent clock
+│
+■ THE RESPONSE LEVERS — consent-based, and structurally different
+│
+├─▸ STAFFORD ACT ............................ 42 U.S.C. §§ 5121–5207  (1988)
+│     ⚡ a GOVERNOR requests, certifying that the event exceeds state capacity
+│        [narrow exception for incidents of federal primary responsibility]
+│     → two tiers: an EMERGENCY declaration and the broader MAJOR DISASTER one
+│     → FEMA individual assistance · public assistance · hazard mitigation grants
+│     → mission assignments directing other federal agencies
+│     ✱ the federal role SUPPLEMENTS the state; it does not supplant it. This is
+│       the cooperative half of American emergency law, and the request
+│       requirement is what makes it so.
+│     ⏱ program closeout, not a clock
+│
+├─▸ PUBLIC HEALTH SERVICE ACT § 319 ......... 42 U.S.C. § 247d  (1944)
+│     ⚡ the SECRETARY OF HHS determines a public health emergency exists
+│        [not the President — no NEA declaration required]
+│     → the Public Health Emergency Fund · grant and reporting flexibilities
+│     → pairs with FD&C Act § 564 for emergency use authorizations
+│     → § 1135 Medicare/Medicaid/HIPAA waivers require BOTH a § 319 declaration
+│       AND a presidential declaration — the one interlock on this map
+│     ⏱ 90 DAYS, renewable indefinitely — short clock, self-renewing
+│
+└─▸ DEFENSE PRODUCTION ACT .................. 50 U.S.C. §§ 4501 et seq.  (1950)
+      ⚡ a presidential finding tied to "national defense" — a term the statute
+        defines to include emergency preparedness and critical infrastructure
+        [no NEA declaration required]
+      → Title I: priority-rated contracts; allocation of materials and services
+      → Title III: loans, purchase commitments, and subsidies to build capacity
+      → Title VII: voluntary agreements with antitrust protection
+      ⏱ the ACT ITSELF SUNSETS and must be reauthorized — the only major authority
+        here that expires unless Congress affirmatively acts
+│
+■ THE INFRASTRUCTURE LEVERS — rarely used, and that is the point
+│
+├─▸ COMMUNICATIONS ACT § 706 ................ 47 U.S.C. § 606  (1934)
+│     ⚡ (a) during a war in which the U.S. is engaged
+│     ⚡ (c) upon PROCLAMATION of a state or THREAT OF WAR, or of public peril,
+│            disaster, or other national emergency
+│     ⚡ (d) state of public peril or disaster, as to WIRE facilities
+│     → priority for defense-essential communications
+│     → suspend or amend FCC rules · close radio stations · authorize government
+│       use or control of stations and wire facilities
+│     ✱ popularly called an internet "kill switch." The text is older and narrower
+│       than the phrase, has never been construed for modern networks, and its
+│       broadest subsection is keyed to WAR rather than to an ordinary emergency.
+│     ⏱ no clock; tied to the proclaimed condition
+│
+└─▸ D.C. HOME RULE ACT § 740 ................ Pub. L. 93-198  (1973)
+      ⚡ the President determines "special conditions of an emergency nature exist"
+      → direct the Mayor to provide Metropolitan Police services for federal use
+      ⏱ 48 HOURS, extended to a hard ceiling of 30 DAYS on notification of
+        Congress — and beyond 30 days ONLY by enacted joint resolution
+      ✱ the rare emergency authority Congress must act to CONTINUE rather than act
+        to END. That inversion is why it expires and the others do not.
+      ⚑ [invoked August 2025; the 30-day ceiling ran out; the federalized Guard
+         presence in the District outlasted the police-control authority]
+│
+■ THE TERMINATION MACHINERY — and the two times it was disabled
+│
+├─◆ DISABLED ONCE, BY THE COURT — 1983
+│     The NEA as enacted let Congress end an emergency by CONCURRENT RESOLUTION:
+│     both chambers, no presidential signature, no veto. INS v. Chadha (1983)
+│     voided the legislative veto on bicameralism and presentment grounds. In 1985
+│     Congress substituted a JOINT resolution, which goes to the President.
+│     ✱ NET EFFECT: ending an emergency the President wants to keep now takes
+│       TWO-THIRDS OF BOTH CHAMBERS — the same supermajority as a veto override.
+│       The delegation survived intact; only the reversal mechanism died.
+│
+├─◆ DISABLED AGAIN, BY THE HOUSE — 2025–26   ⚑
+│     What survived Chadha was § 202's EXPEDITED PROCEDURE: a termination
+│     resolution must be reported within 15 CALENDAR DAYS and voted within 3.
+│     That privileged status is the only guaranteed floor vote in the statute.
+│     Beginning with H.Res. 211 (Mar 11, 2025), the House wrote into ordinary
+│     rules the provision that each day "shall not constitute a calendar day for
+│     purposes of section 202 of the National Emergencies Act."
+│     ✱ If no day counts, the clock never runs, and the privileged resolution
+│       never ripens. The statute is untouched and inoperative at the same time.
+│     Extended Apr 9 – Sep 30, 2025, then Sep 16, 2025 – Mar 31, 2026.
+│     Lapsed end of January 2026.
+│     Feb 10, 2026: a rule reinstating it through Jul 31, 2026 was REJECTED,
+│                   214–217, three Republicans voting no.
+│     Feb 11, 2026: H.J.Res. 72 passed the House 219–211, six Republicans joining.
+│     Feb 20, 2026: the Supreme Court struck the IEEPA tariffs anyway.
+│     ✱ THE COURT GOT THERE FIRST. The one time in fifty years the House cleared
+│       its own procedural blockade and voted, the judiciary had already acted —
+│       and a House-passed joint resolution still needed the Senate, the
+│       President's signature, and failing that, two-thirds of both chambers.
+│
+└─◆ THE REVIEW THAT NEVER HAPPENS
+      § 1622(b) commands each House to MEET AND CONSIDER a termination vote every
+      six months for every emergency in force. There is no penalty for not doing
+      it, no point of order, and no way for a member to compel it. It has been
+      ignored by both parties since 1976.
+      ✱ The default is CONTINUATION BY SIGNATURE: under § 1622(d) an emergency
+        renews automatically each year unless the President publishes a notice
+        saying otherwise. Emergencies declared in the 1970s remain in force.
+│
+■ WHAT NO EMERGENCY STATUTE ON THIS MAP DOES
+│
+├─ POSTPONE, MOVE, OR ALTER A FEDERAL ELECTION  ⚑  Congressional election day is
+│     fixed by statute (2 U.S.C. §§ 1, 7) and the presidential elector date by
+│     3 U.S.C. § 1. No emergency authority reaches them. Administration of
+│     elections belongs to the states under Art. I § 4, subject to Congress —
+│     not to the President. There is no statute to invoke.
+│     [live: the President declined in August 2026 to rule out declaring a
+│      "national security emergency" bearing on the 2026 midterms]
+│
+├─ DECLARE MARTIAL LAW  No federal statute authorizes it and the Constitution
+│     does not mention it. Ex parte Milligan (1866) bars military trial of
+│     civilians where the civil courts are open. The Insurrection Act lets troops
+│     ASSIST in enforcing the law; it does not suspend courts or transfer
+│     governance.
+│
+├─ SUSPEND HABEAS CORPUS  Art. I § 9 places the suspension power in the article
+│     governing CONGRESS, and it has been exercised by statute or with subsequent
+│     congressional ratification every time it has stood.
+│
+└─ THE ASYMMETRY WORTH KEEPING  Every grant on this map activates on ONE
+      SIGNATURE. Every check requires a SUPERMAJORITY, an affirmative act of both
+      chambers, or a lawsuit. Congress delegated the powers permanently and kept
+      the oversight in a form that needs its own future cooperation to work.
+      That is not a loophole in the design. It IS the design.
