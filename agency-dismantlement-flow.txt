@@ -1,0 +1,140 @@
+HOW A FEDERAL AGENCY IS DISMANTLED — THE 2025-26 PLAYBOOK AS A PROCESS  (as of August 24, 2026)
+│  ──▶ main path   └─▶ branch   ◆ tool   ◇ decision point   ✕ stopped   [ ] live 2026 status
+│  Names inside this fence are plain text; the wikilinks are in the prose below.
+│
+■ STAGE 0 · THE AUTHORITY PROBLEM        (what the whole playbook is built to work around)
+│   An agency created by statute can be abolished only by statute. The President's standing
+│   REORGANIZATION AUTHORITY — the fast-track power to send Congress a reorganization plan
+│   that took effect unless Congress objected — LAPSED IN 1984 and was never renewed.
+│   ⇒ Nothing below abolishes an agency. Everything below EMPTIES one.
+│     Every tool on this map is execution-side: personnel, money, and paperwork.
+│
+├──▶ STAGE 1 · DRAIN THE HEADCOUNT           (voluntary exits — no RIF procedure applies) ⏱ MONTHS
+│    ├─◆ Hiring freeze + 4-to-1 rule .. EO 14210 (Feb 11, 2025): one hire per four departures
+│    │                                  [exempt: public safety, immigration, law enforcement]
+│    ├─◆ Deferred resignation ........ "resign now, stay on payroll" — full pay, no duties
+│    │                                  [~154,000 drew full salary for 6+ months; agencies
+│    │                                   reported ~144,000 more approved to exit by end-2025]
+│    ├─◆ Probationary terminations ... employees inside the 1-2 year window have almost no
+│    │                                  appeal rights; the cheapest cut in the entire playbook
+│    └─◆ Early retirement (VERA/VSIP) . the pre-existing, lawful, uncontroversial tool
+│         └─▶ NET EFFECT [Dec 2024 → Jan 2026]: about -256,000 employees, roughly -11 to -12 %
+│             — the largest federal workforce reduction since the 1990s, and a civilian
+│             headcount near 2.0-2.1 million, the lowest since the mid-1960s
+│
+├──▶ STAGE 2 · THE REDUCTION IN FORCE            (the involuntary layer — 5 CFR Part 351) ⏱ 60+ DAYS
+│    ├─ EO 14210 orders agencies to "promptly undertake preparations to initiate large-scale
+│    │  RIFs," prioritizing functions NOT mandated by statute and staff not deemed essential
+│    │  in the agency's own SHUTDOWN CONTINGENCY PLAN — the plan repurposed as a target list
+│    ├─ OMB + OPM joint memo (Feb 26, 2025) → Agency RIF and Reorganization Plans due Mar 13
+│    ├─ Mechanics: define the COMPETITIVE AREA (drawn narrow, the outcome is decided here) →
+│    │  build the retention register → rank → issue 60-day specific notice → separate
+│    ├─◇ Retention order — WHAT RANKS FIRST?
+│    │    ├─ Old rule ....... tenure group → veterans' preference → LENGTH OF SERVICE → rating
+│    │    └─ New rule ....... tenure group → PERFORMANCE (prior 3 years) → seniority as tiebreak
+│    │       [OPM final rule published Aug 3, 2026 · EFFECTIVE SEPTEMBER 2, 2026 — also
+│    │        rewrites RPL, CTAP, ICTAP and transfer-of-function rules, and moves RIF,
+│    │        suitability and probationary APPEALS from MSPB adjudication to OPM]
+│    └─◇ Can a court stop it? — see STAGE 7. [SCOTUS stayed the government-wide injunction
+│         8-1 on Jul 8, 2025, expressly reserving judgment on any individual agency plan]
+│
+├──▶ STAGE 3 · MOVE THE FUNCTIONS OUT           (the paperwork layer — no statute repealed) ⏱ MONTHS
+│    │   A statutory program cannot be cancelled, so its DAY-TO-DAY ADMINISTRATION is
+│    │   contracted out to another department by INTERAGENCY AGREEMENT. The program still
+│    │   exists on paper, at the original agency, funded by the original appropriation.
+│    ├─◆ Interagency agreement ....... signed by two secretaries; no vote, no rulemaking,
+│    │                                 no public comment, no Federal Register notice required
+│    ├─◆ Transfer of function ........ employees follow the work, or don't; either way the
+│    │                                 sending agency's org chart hollows out
+│    └─ THE WORKED EXAMPLE — Department of Education
+│         ├─ Mar 20, 2025 EO: close the Department "to the maximum extent appropriate and
+│         │  permitted by law," while continuing delivery of programs Congress authorized
+│         ├─ [as of Jul 1, 2026: 14 published interagency agreements moving day-to-day
+│         │   management of ~150 programs to SIX agencies — Labor, Interior, State, HHS,
+│         │   Treasury, DOJ. Labor now oversees K-12 grants, including Title I]
+│         ├─ [the reimbursements are trivial: up to $262,000 in FY2025, ~$807,000 in FY2026
+│         │   — the transfers are not being priced as if they were transfers]
+│         ├─ ✕ Congress FULLY FUNDED the Department in the FY2026 bills. The transfers
+│         │   continued anyway. Funding an agency does not staff it.
+│         └─ [Jul 15, 2026: House Education & Workforce approved 10 bills to CODIFY the
+│             dispersal, near party-line — the first attempt to make any of it law]
+│
+├──▶ STAGE 4 · CHOKE THE MONEY          (the appropriation stays enacted; the cash stops moving)
+│    ├─◆ Grant termination ......... 2 CFR 200.340(a)(4) — terminate when an award "no longer
+│    │                               effectuates the program goals or agency priorities"
+│    │     ✕ [D. Mass., Jul 17, 2026 — 20 states, 3 governors and D.C.: the Termination
+│    │        Clause "does not permit agencies to terminate grants based on program goals and
+│    │        agency priorities identified AFTER grants were awarded." Declaratory judgment
+│    │        only; no terminated grant was reinstated. OMB has proposed rewriting the
+│    │        regulation, which would move the ground out from under the ruling.]
+│    ├─◆ Contract termination ...... "for convenience" clauses, FAR Part 49 — always lawful,
+│    │                               remedy is money later, never the work continuing now
+│    ├─◆ Apportionment footnotes ... OMB releases the money slowly, or conditionally, or in a
+│    │                               way that guarantees it cannot be obligated in time
+│    ├─◆ Pocket rescission ......... propose a rescission inside the last 45 days of the
+│    │                               fiscal year, then sit on the funds until they expire
+│    │     [SCOTUS allowed ~$4B in foreign aid to lapse this way, 6-3 on the emergency
+│    │      docket, Sept 2025 — Jackson, Sotomayor and Kagan dissenting]
+│    └─◆ Impoundment ............... simply not spending it
+│          [GAO was reviewing ~39 possible Impoundment Control Act violations as of Apr 2025
+│           and has issued violation decisions on DOT/NEVI, HHS Head Start, NIH grants,
+│           IMLS, and DOE school funds. GAO's remedy is a REPORT and a referral. That is all.]
+│
+├──▶ STAGE 5 · RECLASSIFY THE SURVIVORS         (make the remaining workforce removable) ⏱ ONGOING
+│    ├─◆ Schedule Policy/Career .... moves career positions that are "policy-influencing" out
+│    │                               of the competitive service and into the excepted service,
+│    │                               stripping adverse-action and appeal protections
+│    │     [EO 14410, Jun 3, 2026 — about 8,000 positions, from a 229-page appendix of
+│    │      ~4,800 position descriptions. OPM's own earlier estimate ran up to 50,000.]
+│    ├─◆ Performance system ........ forced distributions in the current ratings cycle — which
+│    │                               now feeds directly into RIF retention under the new rule
+│    └─◆ Return-to-office + relocation .. attrition by working condition, no procedure at all
+│
+├──▶ STAGE 6 · WHAT CONGRESS CAN ACTUALLY DO        (three real tools, one of them brand new)
+│    ├─◆ Appropriations riders ..... THE ONE THAT BIT. The FY2026 minibus (enacted Jan 2026)
+│    │     bars covered agencies from spending funds to reorganize without ADVANCE NOTICE to
+│    │     the Appropriations Committees — reprogramming to create or end a program, moving
+│    │     an office, or cutting >5 % of a program's staff or funding — and requires
+│    │     45 DAYS' PRIOR NOTICE OF ANY RIF. [Covers DOJ, Interior, Commerce, Energy, EPA,
+│    │     NSF, NASA and more; reprogramming requests were due by Jun 30, 2026.]
+│    ├─◆ The ICA / GAO referral .... GAO finds the violation; the Comptroller General may sue.
+│    │                               No automatic penalty, no automatic release of funds.
+│    ├─◆ Authorizing legislation ... abolish it properly, or restore it properly. Needs 60 in
+│    │                               the Senate, which is why it is the least-used tool here.
+│    └─◆ Oversight and confirmation  hearings, holds, subpoenas — leverage, not remedy
+│
+└──▶ STAGE 7 · WHAT COURTS HAVE ACTUALLY DONE        (four tracks, and only two of them work)
+     ├─ TRACK A · APA "arbitrary and capricious" ....... the strongest theory, slowest relief
+     │    ✓ Voice of America / USAGM — Mar 17, 2026, D.D.C.: dismantlement unlawful and
+     │      arbitrary and capricious; 1,042 employees ordered back to work Mar 23
+     │      ✕ [appeals panel STAYED that order Mar 31, 2026 pending appeal]
+     ├─ TRACK B · Tucker Act channelling .............. the theory that KILLED most funding
+     │    suits: a grant termination is in substance a contract claim, so it belongs in the
+     │    Court of Federal Claims — which can award DAMAGES but cannot order the money to
+     │    keep flowing. [Dept. of Education v. California, Apr 2025 · NIH v. APHA, Aug 2025]
+     ├─ TRACK C · Civil-service channelling ........... RIF challenges belong in the MSPB/FLRA
+     │    system, not district court — and OPM's new rule moves that adjudication in-house
+     │    ✕ [SCOTUS stay, Jul 8, 2025, 8-1 · Ninth Circuit vacated the 22-agency injunction
+     │       Sept 19, 2025 · but the D.C. Circuit sitting EN BANC reinstated the CFPB
+     │       injunction, argued Feb 24, 2026 — the one agency-wide block still standing]
+     └─ TRACK D · Breach of an appropriations DEAL ..... the narrowest and most effective
+          ✓ After the 43-day Oct-Nov 2025 shutdown, the reopening deal barred shutdown-period
+            RIFs. The court held every RIF taken from Oct 1 NULL AND VOID, ordered rescission
+            and full back pay, restored employees to their Sept 30, 2025 status, and barred
+            further RIF steps at State, Education, GSA and SBA through Jan 30, 2026.
+            ⇒ A CONTRACT theory beat every constitutional one on the board.
+
+──────────────────────────────────────────────────────────────────────────────────────────────
+THE FIVE STRUCTURAL FACTS
+──────────────────────────────────────────────────────────────────────────────────────────────
+ ① THE APPROPRIATION IS NOT THE CONTROL.  Congress fully funded the Department of Education
+   and the dispersal continued. Money is authority to spend, not a duty to staff.
+ ② NARROW THE COMPETITIVE AREA AND YOU HAVE DECIDED THE RIF.  Everything after that is
+   arithmetic. The contested judgment happens before any employee is ranked.
+ ③ THE REMEDY IS THE WHOLE FIGHT.  Damages later ≠ the program running now. Tucker Act
+   channelling did not say the terminations were lawful — it said the courthouse was wrong.
+ ④ PROCEDURE BEATS PRINCIPLE.  The tools that actually stopped things were an appropriations
+   rider and a reopening deal. The separation-of-powers arguments are still pending.
+ ⑤ NONE OF IT IS PERMANENT, AND THAT IS THE POINT.  No statute was repealed, so every agency
+   on this map still legally exists. Rebuilding institutional capacity, however, is not a
+   paperwork step — and unlike the dismantlement, it has no fast track.
