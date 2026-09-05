@@ -1,0 +1,203 @@
+HOW THE CENSUS APPORTIONS CONGRESS — ENUMERATION TO SEATS
+│   Legend:  ──▶ main path   └─▶ branch/attack surface   ◇ decision   ★ operative   ✕ closed
+│   Time-slice: law as of Sept 1, 2026 · dates shown are the 2030 cycle
+│
+■ 0. THE FLOOR — TWO NUMBERS THAT DO NOT MOVE, ONE THAT DOES
+│     Art. I, § 2, cl. 3 — an "actual Enumeration" every ten years, "in such Manner as
+│     they shall by Law direct." THE POWER IS CONGRESS'S. Congress handed the count to
+│     the Secretary of Commerce by statute (13 U.S.C. § 141(a)). The President appears
+│     exactly once in this pipeline, at step 5, as a courier.
+│       ├─ 14th Am., § 2 — seats apportioned "counting the whole number of persons in
+│       │    each State." Superseded the three-fifths clause. The only textual carve-out,
+│       │    "Indians not taxed," has had no practical effect for a century.
+│       │
+│       ├─ ★ FIXED #1 — 435 SEATS. This is a STATUTE, not the Constitution. Capped at
+│       │    435 by the Apportionment Act of 1911 and made permanent — the size frozen and
+│       │    reapportionment made automatic — by the Permanent Apportionment Act of 1929.
+│       │    A simple majority of Congress could change it tomorrow.
+│       ├─ ★ FIXED #2 — ONE SEAT PER STATE MINIMUM. This one IS constitutional.
+│       ├─ ✕ NOT IN THE POOL — D.C., Puerto Rico, and the territories. No voting seats,
+│       │    so their residents are counted but not apportioned. (D.C. gets 3 electoral
+│       │    votes under the 23rd Am.; that is a separate mechanism.)
+│       └─ ◆ WHAT MOVES — which states gain and lose. Nothing else in this block does.
+│
+├─◆ 1. WHO COUNTS, AND WHERE — the residence rule does more work than any other step
+│     │    APPORTIONMENT POPULATION = resident population + overseas federal employees
+│     │    allocated back to a home state. That sum, and only that sum, enters the formula.
+│     ├─ ★ USUAL RESIDENCE — where a person lives and sleeps most of the time. Not
+│     │    citizenship. Not voter eligibility. Not age. Newborns count; noncitizens count.
+│     ├─ GROUP QUARTERS — counted where the facility is:
+│     │      ├─ prisons ...... at the prison, not the last home address
+│     │      │     (the origin of the prison-gerrymandering problem downstream)
+│     │      ├─ college dorms  at the school
+│     │      └─ nursing homes · shelters · barracks ... at the facility
+│     ├─ OVERSEAS — military and civilian federal employees and dependents living with
+│     │    them, allocated to a home state from employer administrative records. Private
+│     │    citizens living abroad are NOT counted at all.
+│     │
+│     └─▶ ◇ ATTACK SURFACE #1 — CHANGE WHO IS IN THE BASE
+│            ├─ 2019: an EO directed agencies to build citizenship data for the 2020 count
+│            ├─ Jul 2020: a presidential memo ordered persons without lawful status
+│            │     excluded from the apportionment base — the first such attempt ever
+│            ├─ Jan 2021: EO 13986 revoked both and restored the whole-persons rule
+│            ├─ Jan 20, 2025: EO 14148 revoked EO 13986 [live — no replacement policy
+│            │     has been issued, so the operative rule is the statute, not an EO]
+│            └─ ✕ NEVER ADJUDICATED ON THE MERITS. The Court blocked the 2020 citizenship
+│                 QUESTION as pretextual but has never ruled on whether the President may
+│                 exclude anyone from the apportionment BASE. That door is untested, not shut.
+│
+├─◆ 2. THE QUESTION CLOCK — the deadlines that decide 2030, four years early
+│     │    13 U.S.C. § 141(f). Whatever is on the form must clear Congress first, in writing.
+│     ├─ ★ SUBJECTS REPORT — due 3 years before the census date ....... by Apr 1, 2027
+│     ├─ ★ QUESTIONS REPORT — due 2 years before the census date ...... by Apr 1, 2028
+│     ├─ [live] THIS IS THE REAL 2030 DEADLINE. An immigration-status question that is
+│     │    not in the subjects report is a question with a statutory problem before it has
+│     │    a constitutional one. Seven months out as of this build.
+│     └─ ◇ and the reverse: a question reported in 2027 can still be pulled by a later
+│            administration or by Congress before the forms are printed in 2029
+│
+├─◆ 3. THE COUNT ITSELF  [census date: Mon Apr 1, 2030]
+│     ├─ address canvassing ──▶ self-response (internet · phone · paper)
+│     │      ──▶ NONRESPONSE FOLLOWUP (enumerators in the field)
+│     │      ──▶ administrative records and imputation for what remains
+│     ├─ ✕ SAMPLING IS BARRED FOR APPORTIONMENT. 13 U.S.C. § 195 permits statistical
+│     │    sampling everywhere in Title 13 EXCEPT the apportionment determination, and the
+│     │    Court so held in 1999. Sampling remains lawful for redistricting data and
+│     │    funding formulas — the split that makes the apportionment number the least
+│     │    correctable number the Bureau produces.
+│     ├─ ✓ IMPUTATION IS NOT SAMPLING. Utah v. Evans (2002) upheld hot-deck imputation
+│     │    for the counts that fed apportionment — a distinction of a few thousand people
+│     │    and, that year, one House seat.
+│     ├─ POST-ENUMERATION SURVEY — measures the differential undercount AFTER the fact.
+│     │      ★ It never changes the apportionment number. It is a report card, not a fix.
+│     └─ DISCLOSURE AVOIDANCE — noise injected into PUBLISHED tables to protect
+│            confidentiality. State apportionment totals are published as enumerated.
+│            [live: a 2026 Commerce order changed the method; the fight is over the
+│             granularity of race, ethnicity, and small-area data, not the seat math]
+│
+├─◆ 4. ★ TABULATION → SECRETARY → PRESIDENT  [due Tue Dec 31, 2030]
+│     │    13 U.S.C. § 141(b) — the tabulation of total population by state, "as required
+│     │    for the apportionment," completed within 9 MONTHS of the census date and
+│     │    reported by the Secretary of Commerce to the President.
+│     └─ ◆ THIS IS WHERE JUDICIAL REVIEW ATTACHES. The Secretary is an agency head doing
+│            a statutory act. Everything after this step is much harder to sue over.
+│
+╞═════════ 5. ★ THE MATH — METHOD OF EQUAL PROPORTIONS (2 U.S.C. § 2a) ══════════════════
+│     Adopted 1941, used after every census since 1940. Also called Huntington-Hill.
+│     The ONLY inputs are the fifty state numbers from step 4. There is no discretion here.
+│
+│     STEP A ──▶ every state gets 1 seat first .......... 50 assigned · 385 remain
+│     STEP B ──▶ for each state, compute a PRIORITY VALUE for its nth seat:
+│                     priority(n) = state population ÷ √(n × (n−1))
+│                (the divisor is the geometric mean of the seat it has and the seat it wants)
+│     STEP C ──▶ rank every priority value nationwide, largest to smallest
+│     STEP D ──▶ ★ the top 385 values take the remaining seats. Done.
+│
+│     WHY THE MARGINS ARE THE STORY — 2020 result, for scale:
+│       ├─ average district after 2020 ........... 761,169 people (up 7.1% from 2010)
+│       ├─ gained ... TX +2 · CO, FL, MT, NC, OR +1        (7 seats moved)
+│       ├─ lost ..... CA, IL, MI, NY, OH, PA, WV −1
+│       └─ ★ THE 435TH SEAT WENT TO MINNESOTA. NEW YORK MISSED IT BY 89 PEOPLE.
+│              A differential undercount of one mid-sized apartment block is a seat.
+│
+├─◆ 6. ★ THE PRESIDENT TRANSMITS  [within 1 week of the new session opening — Jan 2031]
+│     │    2 U.S.C. § 2a(a) — a statement to Congress showing the whole number of persons
+│     │    in each state and the number of Representatives each is entitled to.
+│     ├─ ✕ FRANKLIN v. MASSACHUSETTS (1992) — the President is not an "agency," so the
+│     │    transmittal is not final agency action reviewable under the APA. The courthouse
+│     │    door at THIS step is closed; it was open one step earlier.
+│     └─▶ ◇ THE PRESIDENT TRANSMITS A NUMBER OTHER THAN THE WHOLE NUMBER OF PERSONS
+│            ├─ tried once, in 2020, by presidential memorandum
+│            ├─ ✕ Trump v. New York (2020) — vacated as UNRIPE and premature. The Court
+│            │     never reached whether it may be done. The 2020 count ran late, the
+│            │     term ended, and the successor revoked the memo. The question survives.
+│            └─ ⚠ the combination is the structural hazard: an act with no APA review at
+│                 step 6, resting on a question the Court has twice declined to answer
+│
+├─◆ 7. ★ THE CLERK CERTIFIES TO THE STATES  [within 15 days of receipt]
+│     ├─ 2 U.S.C. § 2a(b) — the Clerk of the House sends each governor the number of
+│     │    Representatives that state is entitled to. Ministerial. No discretion.
+│     └─ 2 U.S.C. § 2a(c) — the DEFAULT RULES if a state has not redistricted in time:
+│            a state that gained seats elects the extra members AT LARGE; a state that
+│            lost seats elects its whole delegation at large. Rarely reached — but it is
+│            the reason a state legislature that misses its own deadline still has a map.
+│
+└─◆ 8. ──▶ HANDOFF TO REDISTRICTING
+      ├─ 13 U.S.C. § 141(c) — block-level tabulations (the P.L. 94-171 file) go to each
+      │    governor and redistricting body WITHIN ONE YEAR of the census date [Apr 2031]
+      └─ ──▶ from here the process is fifty separate state processes. See the redistricting map.
+
+╞═════════════════ THE THREE LEVERS — EVERY FIGHT IS ONE OF THESE ════════════════════════
+│
+├─◆ LEVER 1 — CHANGE WHO IS COUNTED  (attacks step 1)
+│     ├─ an immigration-status or citizenship question on the form
+│     ├─ excluding a class of residents from the apportionment base after the count
+│     └─ ◇ the constitutional hook is the phrase "whole number of persons," and it has
+│            never been construed by the Court in this posture
+│
+├─◆ LEVER 2 — CHANGE HOW WELL THEY ARE COUNTED  (attacks step 3, and leaves no fingerprints)
+│     ├─ outreach funding · field-office count · length of the response window ·
+│     │    a question that suppresses response in specific communities
+│     ├─ ★ THE UNDERCOUNT IS NOT RANDOM. It concentrates in the same populations every
+│     │    decade, so degrading accuracy has a predictable direction.
+│     └─ ✕ and there is no correction downstream — sampling is barred at step 3 and the
+│            post-enumeration survey only measures the error it cannot fix
+│
+└─◆ LEVER 3 — CHANGE THE NUMBER OF SEATS  (attacks step 0)
+      ├─ 435 is an ordinary statute. Enlarging the House is the one lever that requires
+      │    no constitutional argument at all — and the one nobody with power wants.
+      ├─ ✕ THE MID-DECADE ROUTE IS CLOSED BY STATUTE. 13 U.S.C. § 141(d) authorizes a
+      │    mid-decade census in years ending in 5 — but § 141(e)(2) says its information
+      │    "shall not be used for apportionment of Representatives in Congress among the
+      │    several States, nor ... in prescribing congressional districts." An off-cycle
+      │    recount can be run. It cannot move a seat without Congress amending that clause.
+      └─ ◇ a bill could do all of this — change the base, the size, or the timing — which
+             is why the live proposals are legislative and not merely executive
+
+╞═════════════════ WHAT IS ACTUALLY IN MOTION — 2025 TO SEPT 2026 ════════════════════════
+│
+├─ Jan 20, 2025 .... EO 14148 revokes EO 13986, removing the whole-persons executive policy
+├─ Jul 2025 ........ the 2030 operational plan, v1, is published; the 2026 field test is set
+├─ Aug 7, 2025 ..... the President posts that he has directed Commerce to begin a "new"
+│                     census excluding people without lawful status, keyed to the 2024
+│                     election results. No implementing document has followed.
+├─ Jan 30, 2026 .... Missouri and three residents sue Commerce and the Bureau in E.D. Mo.,
+│                     seeking to void the 2020 method, REDO the 2020 count, and bar
+│                     noncitizens from the 2030 apportionment base
+├─ Feb–Apr 2026 .... four sets of intervenors move in on the defense side; the court
+│                     DENIES a three-judge panel (Apr 3) at this stage of the case
+├─ Jun 26, 2026 .... ⚠ THE FEDERAL DEFENDANTS MOVE TO STAY THE CASE — the administration
+│                     asks the court to pause a suit seeking the outcome it has demanded
+├─ Jul 29, 2026 .... GAO reports to Commerce that 2030 planning and PII protection both
+│                     "warrant timely and focused attention"
+└─ Aug 2026 ........ Senate CR carries a census funding anomaly (Sec. 120) letting 2030
+                      prep be funded at need under a CR; the House CR carries none [live —
+                      unreconciled, and the fiscal year ends Sept 30]
+
+╞═════════════════════════════ FIVE STRUCTURAL FACTS ═════════════════════════════════════
+│
+│  1. THE FORMULA IS THE ONLY HONEST STEP, WHICH IS WHY EVERY FIGHT IS UPSTREAM OF IT.
+│       Steps 5 through 7 have no discretion in them at all. Every contested decision
+│       happens at steps 1, 2, and 3 — who is in the base, what is on the form, and how
+│       hard anyone tries to find people.
+│
+│  2. THE POWER IS CONGRESS'S AND HAS BEEN DELEGATED, NOT SURRENDERED.
+│       Article I gives the enumeration to Congress "in such Manner as they shall by Law
+│       direct." Everything the executive does here — the count, the method, the deadlines,
+│       the ban on sampling — it does because a statute says so, and Congress can rewrite
+│       any of it by simple majority.
+│
+│  3. THE APPORTIONMENT NUMBER IS THE LEAST CORRECTABLE NUMBER THE GOVERNMENT PRODUCES.
+│       Sampling is barred, the post-enumeration survey is diagnostic only, and no statute
+│       provides for revising an apportionment once transmitted. An error found in 2032
+│       is an error the country lives with until 2033.
+│
+│  4. THE REVIEW WINDOW IS ONE STEP WIDE.
+│       The Secretary's report is agency action and reviewable. The President's transmittal
+│       is not (Franklin). The Clerk's certification is ministerial. Anyone who wants a
+│       court to look at an apportionment has to be in front of one before December 31.
+│
+│  5. 435 IS NOT IN THE CONSTITUTION.
+│       The cap is a 1911 statute made permanent in 1929, and the average district has
+│       grown from about 210,000 people to about 761,000 since. Every zero-sum state-vs-
+│       state fight in this map exists because one number stopped moving in 1929.
