@@ -1,0 +1,240 @@
+SANCTIONS DESIGNATION PIPELINE
+│   Legend:  ──▶ main path   └─▶ branch/off-ramp   ◇ decision   ✕ ends   ★ effective
+│            §  = 50 U.S.C. unless another title is named
+│            [] = dated 2025-26 practice note or caveat
+│
+■ 0. THE SWITCH — NO DECLARED EMERGENCY, NO IEEPA
+│     ├─ National Emergencies Act of 1976 (§§ 1601-1651)
+│     │    ├─ § 1621 ...... President declares by proclamation or executive order
+│     │    ├─ § 1631 ...... must SPECIFY which statutory powers are being activated
+│     │    ├─ § 1641 ...... publish in the Federal Register; report to Congress
+│     │    ├─ § 1622(d) ... EXPIRES after one year unless renewed by a notice
+│     │    │                 [renewal is a two-paragraph Federal Register notice;
+│     │    │                  the oldest live emergency dates to Nov 14, 1979 (Iran)]
+│     │    └─ § 1622(b) ... Congress "shall" meet every six months to consider
+│     │                      terminating ──▶ ✕ has never once happened
+│     ├─ Termination routes
+│     │    ├─ President ends it ..... by proclamation (also ends every designation
+│     │    │                           made under it — the mass-delisting mechanism)
+│     │    └─ Congress ends it ...... joint resolution, § 1622(a) — after INS v.
+│     │                               Chadha (1983) this needs the President's
+│     │                               signature or a veto override ──▶ ✕ never done
+│     └─ Several dozen declared emergencies are live at any time; most of them
+│          exist for one purpose — to keep a sanctions program switched on.
+│
+│  ◆ THE STRUCTURAL FACT: the "emergency" is not an event, it is a legal
+│    precondition. A program that has run for forty-six years is still,
+│    formally, a response to an "unusual and extraordinary threat."
+│
+■ 1. THE AUTHORITIES — WHAT A DESIGNATION CAN REST ON
+│     ├─ IEEPA (§§ 1701-1708) ...... the workhorse; block property, prohibit
+│     │    │                          transactions, regulate imports/exports
+│     │    ├─ requires: threat originating "in whole or substantial part"
+│     │    │            OUTSIDE the United States, plus a live § 1621 declaration
+│     │    ├─ § 1702(b) carve-outs: personal communications, informational
+│     │    │            materials, humanitarian donations (the "Berman amendments")
+│     │    └─ OUTER LIMIT: Learning Resources v. Trump (SCOTUS, 6-3, Feb 20, 2026)
+│     │                    IEEPA does NOT authorize tariffs. The statute's only
+│     │                    Supreme Court merits loss in forty-nine years — and
+│     │                    it touched trade, not a single designation.
+│     ├─ Trading with the Enemy Act (1917) ..... wartime only since 1977;
+│     │                                          the Cuba embargo is its last tenant
+│     ├─ Program statutes (each adds a trigger, none replaces the machinery)
+│     │    ├─ Magnitsky Act (2012) .............. Russia-specific, named-list origin
+│     │    ├─ Global Magnitsky Act (2016) ....... human-rights abuse & corruption,
+│     │    │     + EO 13818 (Dec 2017)             anywhere; § 1263(d): committee
+│     │    │                                        chairs can force a 120-day answer
+│     │    ├─ CAATSA (2017) ..................... Russia/Iran/N. Korea; SECONDARY
+│     │    │                                        sanctions on third parties; the
+│     │    │                                        congressional-review lock on
+│     │    │                                        lifting Russia sanctions
+│     │    ├─ Kingpin Act (1999) ................ narcotics traffickers (SDNTK)
+│     │    └─ Country programs ................... Iran, Syria, N. Korea, Cuba,
+│     │                                             Venezuela, Russia/Ukraine, etc.
+│     ├─ Executive orders as programs (the emergency + the criteria in one text)
+│     │    ├─ EO 13224 (Sep 2001) .... Specially Designated Global Terrorist (SDGT)
+│     │    ├─ EO 13818 (Dec 2017) .... Global Magnitsky implementation
+│     │    └─ EO 14203 (Feb 6, 2025) . sanctions on the International Criminal
+│     │                                 Court and those who assist it
+│     └─ THE PARALLEL STATE DEPARTMENT TRACK (not OFAC, not IEEPA)
+│          ├─ Foreign Terrorist Organization — INA § 219 (8 U.S.C. § 1189)
+│          │    ├─ Secretary of State designates, after consulting Treasury & AG
+│          │    ├─ 7-day advance notice to congressional leadership, then FR notice
+│          │    └─ consequences no IEEPA listing carries: 18 U.S.C. § 2339B
+│          │         "material support" FELONY, immigration inadmissibility,
+│          │         mandatory bank blocking
+│          └─ § 7031(c) visa bans (annual appropriations rider) — entry ban only,
+│               no asset freeze; the State Department's own quiet designation tool
+│
+│  ◆ THE FUSION OF 2025-26: the same person is now routinely designated on BOTH
+│    tracks — SDGT under EO 13224 by Treasury, then FTO by State — and the FTO
+│    label is what converts a listing into a criminal predicate. See Notes.
+│
+■ 2. THE NOMINATION — WHO PUTS A NAME FORWARD
+│     ├─ Sources of a target
+│     │    ├─ OFAC's own investigators (sanctions targeting officers)
+│     │    ├─ State (esp. for FTO, Magnitsky, ICC programs)
+│     │    ├─ DOJ / FBI / DEA (often paired with an indictment or a seizure)
+│     │    ├─ the intelligence community (classified reporting)
+│     │    ├─ allied governments (coordinated packages: UK, EU, Canada)
+│     │    ├─ Congress — Global Magnitsky § 1263(d) letters; the Senate Foreign
+│     │    │    Relations and Banking chairs and ranking members can compel a
+│     │    │    written determination within 120 days [a "compel" without a
+│     │    │    remedy: the answer can be "no"]
+│     │    └─ NGOs and journalists — Global Magnitsky invites "credible
+│     │         information" submissions; the origin of most human-rights listings
+│     ├─ Interagency clearance ..... Treasury (OFAC + Office of Terrorism and
+│     │                              Financial Intelligence) · State · DOJ ·
+│     │                              NSC for anything with a diplomatic cost
+│     └─ ◇ is the target inside a live program's criteria? ─no─▶ ✕ (or: write a
+│          new EO declaring a new emergency — the EO 14203 route)
+│
+■ 3. THE EVIDENTIARY MEMO — THE STANDARD IS "REASON TO BELIEVE"
+│     ├─ OFAC drafts a designation memorandum: identifiers, program criteria,
+│     │    the evidence, and a legal sufficiency review by Treasury counsel
+│     ├─ Standard .......... "reason to believe" / "reasonable basis" — NOT
+│     │                       probable cause, NOT preponderance, NOT a hearing
+│     ├─ Evidence .......... open-source, commercial, law-enforcement, AND
+│     │                       classified reporting the target will never see
+│     ├─ Notice ............ NONE before designation. The stated rationale:
+│     │                       advance notice lets the target move the assets
+│     └─ Signature ......... OFAC Director (delegated from the Secretary of the
+│                            Treasury); Secretary of State for FTO and State-run
+│                            programs; the President for a new EO program
+│
+■ 4. ★ THE DESIGNATION — WHAT HAPPENS AT THE MOMENT OF LISTING
+│     ├─ SDN List entry published on OFAC's website ──▶ ★ EFFECTIVE IMMEDIATELY
+│     │    ├─ Federal Register notice follows (days later); the website is the
+│     │    │    operative instrument
+│     │    └─ the list runs to many thousands of entries — individuals, entities,
+│     │         vessels, aircraft, crypto addresses
+│     ├─ Blocking ........... all property "in the United States" or in the
+│     │                        possession or control of a "U.S. person" is frozen
+│     │                        — not seized; title does not pass (Notes)
+│     ├─ Reporting .......... U.S. persons must report blocked property to OFAC
+│     │                        within 10 business days (31 C.F.R. § 501.603)
+│     ├─ THE 50 PERCENT RULE (OFAC guidance, revised Aug 13, 2014)
+│     │    ├─ any entity owned 50% or more, directly or indirectly, in the
+│     │    │    AGGREGATE by one or more blocked persons is ITSELF BLOCKED
+│     │    ├─ automatically — no listing, no notice, no name on any list
+│     │    └─ "control" without ownership is NOT enough; 49% is not enough;
+│     │         two SDNs at 25% each IS enough
+│     ├─ Non-SDN lists (narrower restrictions, same machinery)
+│     │    ├─ Sectoral Sanctions Identifications (SSI) — debt/equity limits only
+│     │    ├─ Foreign Sanctions Evaders (FSE) · CAPTA (correspondent-account bans)
+│     │    ├─ Non-SDN Menu-Based Sanctions (NS-MBS) · Chinese Military-Industrial
+│     │    └─ the Consolidated Sanctions List aggregates all non-SDN entries
+│     └─ Penalties for U.S. persons who transact: strict liability civil penalty
+│          (greater of a statutory cap, inflation-adjusted, or 2x the transaction)
+│          · willful violation is a 20-year felony (§ 1705)
+│
+■ 5. THE SPILLOVER — REACHING PARTIES WHO WERE NEVER DESIGNATED
+│     ├─ Correspondent banking ...... nearly every dollar transaction anywhere
+│     │                               clears through a U.S. bank, which is a
+│     │                               "U.S. person" ──▶ the freeze travels with
+│     │                               the dollar, not with the target
+│     ├─ De-risking ................. foreign banks drop clients who LOOK like
+│     │                               a sanctions problem; the largest effect of
+│     │                               the system and the least attributable
+│     ├─ Secondary sanctions ........ the designation of a FOREIGN party for
+│     │    │                          dealing with a designated party
+│     │    ├─ CAATSA §§ 224-233 (Russia) · Iran: EO 13902 (2020) and the
+│     │    │    "significant transaction" test
+│     │    ├─ Dec 2023 EO 14114 amendment: foreign financial institutions
+│     │    │    facilitating Russia's military-industrial base can be cut off
+│     │    │    from correspondent accounts outright
+│     │    └─ no U.S. nexus required — the coercion runs on access to the
+│     │         dollar, which is why it works and why it is contested
+│     └─ FTO consequences ........... a bank that processes a payment for an FTO
+│                                     has provided "material support"; the
+│                                     Anti-Terrorism Act (18 U.S.C. § 2333)
+│                                     opens private treble-damages suits
+│
+■ 6. LICENSES — WHERE THE POLICY ACTUALLY FLEXES
+│     ├─ General licenses ........ published, self-executing, no application;
+│     │    │                        anyone who fits the terms may transact
+│     │    └─ [THE WAIVER INSTRUMENT: the March 2026 Russian-oil and Iranian-oil
+│     │        relief was general licenses, not delistings — nothing left the
+│     │        SDN list; the transactions were simply authorized for 30 days]
+│     ├─ Specific licenses ....... application to OFAC; case-by-case; no
+│     │                             statutory deadline; humanitarian, legal-fee,
+│     │                             wind-down, and personal-remittance licenses
+│     ├─ Statutory carve-outs .... § 1702(b) informational materials and
+│     │                             humanitarian donations; UNSCR 2664-style
+│     │                             humanitarian exceptions written into
+│     │                             programs since Dec 2022
+│     └─ ◆ THE STRUCTURAL FACT: a designation is permanent until acted on; a
+│          license is discretionary, revocable and unreviewed. The politics
+│          of sanctions in 2025-26 ran through the license desk, not the list.
+│
+■ 7. GETTING OFF — THE DELISTING PETITION (31 C.F.R. § 501.807)
+│     ├─ Who may file ......... the listed person or counsel; no standing rule
+│     ├─ The two arguments
+│     │    ├─ INSUFFICIENT BASIS — the designation was wrong when made (mistaken
+│     │    │    identity, the person had already resigned the role)
+│     │    └─ CHANGE IN CIRCUMSTANCES — the conduct stopped; ownership changed;
+│     │         the entity dissolved; remedial measures (never sufficient alone)
+│     ├─ Burden .............. ON THE PETITIONER, to rebut a record it cannot see
+│     ├─ "Courtesy document" .. OFAC may release the unclassified, non-privileged
+│     │                          portion of the evidentiary memo on request
+│     │                          [formalized in the Reconsideration Portal,
+│     │                           launched July 2026 — Notes]
+│     ├─ Timeline ............. NONE. No statutory or regulatory deadline for a
+│     │                          decision; petitions have run for years
+│     ├─ ◇ granted? ─yes─▶ removed from the list; blocked property unblocked
+│     │              (but never compensated for the freeze)
+│     │           ─no──▶ written determination; may reapply ONLY with new
+│     │                  arguments or evidence (OFAC FAQ 1261, July 2026)
+│     ├─ Mass delisting ........ the President terminates the emergency itself
+│     │                          (Burma 2016 · Sudan 2017) — every designation
+│     │                          under it lapses at once, no petition needed
+│     └─ FTO revocation (8 U.S.C. § 1189(a)(4)-(6))
+│          ├─ the organization may petition 2 years after designation
+│          ├─ State must review every 5 years if no petition is filed
+│          ├─ Secretary may revoke on changed circumstances or national security
+│          └─ CONGRESS may block or revoke an FTO designation "by an Act of
+│               Congress" (§ 1189(a)(5)) — an ordinary bill, so it needs the
+│               President's signature; the only listing Congress can touch by name
+│
+■ 8. JUDICIAL REVIEW — TWO DOORS, BOTH NEARLY SHUT
+│     ├─ OFAC designations ...... Administrative Procedure Act, 5 U.S.C. § 706
+│     │    ├─ standard ........... "arbitrary and capricious"; the court reviews
+│     │    │                        the ADMINISTRATIVE RECORD OFAC assembled,
+│     │    │                        including classified material ex parte and
+│     │    │                        in camera
+│     │    ├─ no discovery, no cross-examination, no jury
+│     │    ├─ due process ........ POST-deprivation notice and a chance to
+│     │    │                        respond satisfies the Fifth Amendment
+│     │    │                        (Holy Land Foundation v. Ashcroft, D.C. Cir.
+│     │    │                        2003; Zevallos v. Obama, D.C. Cir. 2015)
+│     │    └─ foreign persons with no U.S. presence or property have NO
+│     │         constitutional claim at all (the Verdugo-Urquidez line)
+│     ├─ FTO designations ........ 8 U.S.C. § 1189(c): D.C. Circuit ONLY, within
+│     │                             30 days, on the administrative record; the
+│     │                             organization may not contest the underlying
+│     │                             facts in any later criminal prosecution
+│     └─ ◇ outcome? ─almost always─▶ ✕ AFFIRMED. Reversals are rare enough to
+│                                       be named individually — Van Loon v.
+│                                       Treasury (5th Cir., Nov 26, 2024: Tornado
+│                                       Cash's immutable smart contracts are not
+│                                       "property") is the recent one, and it
+│                                       turned on the STATUTE's reach, not the
+│                                       evidence. The effective forum is
+│                                       § 501.807, not a courtroom
+│
+■ 9. STATE OF THE BOARD — SEPTEMBER 2026 (see Notes for sources and dates)
+│     ├─ EO 14203 (ICC) ......... seven tranches in eighteen months: eight ICC
+│     │                             judges, a former Prosecutor, two deputy
+│     │                             prosecutors, a UN rapporteur, three NGOs
+│     │                             [constitutional challenge filed S.D.N.Y.
+│     │                              Aug 11, 2026 — pending]
+│     ├─ Venezuela ............... Cartel de los Soles: SDGT (Treasury, July 2025)
+│     │                             ──▶ FTO (State, effective Nov 24, 2025)
+│     │                             ──▶ narcoterrorism predicate for the
+│     │                             Jan 3, 2026 capture of Nicolás Maduro
+│     ├─ Russia / Iran ........... March 2026 general licenses suspended oil
+│     │                             sanctions for ~30 days each; no delistings
+│     ├─ Learning Resources ...... Feb 20, 2026: IEEPA cannot carry tariffs;
+│     │                             every sanctions program left untouched
+│     └─ Delisting ............... Reconsideration Portal launched July 2026;
+│                                   email petitions being phased out
