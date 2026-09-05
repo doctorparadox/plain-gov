@@ -1,0 +1,148 @@
+HOW A CONGRESSIONAL REDISTRICTING MAP IS DRAWN AND CHALLENGED  (doctrine as of Aug 31, 2026)
+│   Federal congressional districts · state-legislative maps follow a parallel but looser track
+│   ◇ = decision point   ⛔ = hard stop   ⏱ = clock that can decide the case
+│
+■ STAGE 0 — THE CONSTITUTIONAL FLOOR: WHO GETS TO DRAW AT ALL
+│
+├─◆ Art. I §2 + 14th Am. §2 ...... seats apportioned among the states by population, every 10 years
+├─◆ Art. I §4 (Elections Clause) . "Times, Places and Manner" prescribed by each STATE legislature,
+│                                   BUT "Congress may at any time by Law make or alter such
+│                                   Regulations" — a federal power that exists and is mostly unused
+├─◆ 2 U.S.C. § 2c ................ federal statute: single-member districts, one Rep per district
+├─◆ 14th Am. Equal Protection .... districts must be substantially equal in population
+└─◆ Voting Rights Act § 2 ........ no practice that "results in" denial or abridgement on account
+                                    of race  [narrowed to near-inoperability by CALLAIS — Stage 5c]
+│
+│   ⭐ NOTHING HERE SAYS "ONCE PER DECADE." The Constitution requires apportionment every ten
+│      years; no federal law caps how often a state may REDRAW within the decade. LULAC v. Perry
+│      (2006) confirmed it. The once-a-decade pattern was a norm, and norms do not need repealing.
+│
+──▶ STAGE 1 — APPORTIONMENT (the input, fixed for the decade)
+│
+│   Census enumeration ──▶ method of equal proportions divides 435 seats ──▶ Commerce Secretary
+│   reports to the President ──▶ President transmits to Congress ──▶ Clerk notifies each governor
+│
+│   Output: each state's SEAT COUNT. States gaining or losing seats must redraw; every state
+│   redraws anyway to re-equalize population.        [the apportionment stage is mapped separately]
+│
+──▶ STAGE 2 — WHO HOLDS THE PEN  ◇ varies by state
+│
+├─◇ LEGISLATURE DRAWS (majority of states) ──▶ ordinary bill ──▶ governor's veto applies
+│   │                                            └─▶ ⚠ in NC, MD, CT and a few others the
+│   │                                                congressional map is NOT subject to veto
+│   └─▶ the drawing body is the body with the most direct stake in the outcome
+│
+├─◇ INDEPENDENT COMMISSION (AZ, CA, MI, CO, WA...) ── legislators excluded; map takes effect
+│   │                                                  without legislative adoption
+│   └─▶ upheld against an Elections Clause challenge in Arizona State Legislature (2015)
+│
+├─◇ POLITICAL / BACKUP COMMISSION (NJ, HI; OH, IN as backup) ── party-appointed, or acts only
+│                                                                on legislative deadlock
+├─◇ ADVISORY COMMISSION ──▶ recommends only; legislature still adopts  ⛔ not a real constraint
+│
+└─◇ COURT-DRAWN (default on failure) ──▶ deadlock, veto, or a struck map with no timely
+                                          replacement ──▶ special master ──▶ remedial map
+│
+│   ⭐ THE COMMISSION IS ONLY AS STRONG AS THE STATE CONSTITUTION BEHIND IT. Where a legislature
+│      can amend or bypass the commission it created, the commission is a speed bump.
+│
+──▶ STAGE 3 — THE DRAWING CONSTRAINTS  (one is objective; the rest are where discretion lives)
+│
+├─◆ EQUAL POPULATION ....... congressional: near-mathematical equality (Wesberry / Karcher)
+│                             state legislative: ~10% total deviation generally tolerated
+│                             ⭐ the ONLY criterion with a number attached to it
+├─◆ RACE ................... § 2 may REQUIRE a majority-minority district (Gingles, 1986)
+│                             …while the 14th Am. FORBIDS race as the predominant motive (Shaw)
+│                             ⭐ states have been caught between these two for 30 years
+├─◆ CONTIGUITY ............. required nearly everywhere; the weakest real limit (point contiguity,
+│                             water contiguity, and "land bridges" all commonly accepted)
+├─◆ COMPACTNESS ............ required in ~40 states — but the metric is almost never specified,
+│                             and the dozen standard measures disagree with each other
+├─◆ POLITICAL SUBDIVISIONS . keep counties/cities whole "where practicable" — always yielding
+├─◆ COMMUNITIES OF INTEREST  the least defined criterion, and the main public-testimony channel
+├─◆ INCUMBENT PROTECTION ... expressly permitted in some states, expressly banned in others
+└─◆ PARTISAN ADVANTAGE ..... ⭐ NOT prohibited by federal law at all after Rucho (Stage 5d)
+│
+──▶ STAGE 4 — ENACTMENT
+│
+│   Draft ──▶ committee / commission hearings ──▶ floor or commission vote ──▶ ◇ governor's
+│   signature (where the veto applies) ──▶ MAP ENACTED ──▶ candidate filing opens under new lines
+│                                    └─▶ veto ──▶ override, or deadlock ──▶ back to Stage 2 court
+│
+└─◇ CITIZEN VETO TRACK (referendum states only)
+    signatures gathered ──▶ ◇ does state law allow a referendum on THIS subject?
+    ├─ yes ──▶ measure certified to the ballot ──▶ map suspended or not, per state law
+    └─ no  ──▶ ⛔ petition rejected — and that threshold question is itself litigated
+       [MO 2026: ~300,000 signatures gathered; Sec. of State rejected the petition Aug 4; a Cole
+        County judge held Aug 19 that the state constitution does not permit a referendum on
+        congressional redistricting; on appeal, with a ⏱ Sept 8 deadline for ballot placement]
+│
+──▶ STAGE 5 — THE FOUR CHALLENGE DOORS  (a map can be attacked on any or all)
+│
+├─◆ (a) EQUAL POPULATION / ONE PERSON ONE VOTE .......... 14th Am. · Baker, Reynolds, Wesberry
+│       Status: LIVE and rarely contested — the arithmetic is checkable, so states comply.
+│
+├─◆ (b) RACIAL GERRYMANDER .............................. 14th Am. · Shaw v. Reno (1993)
+│       Claim: race was the PREDOMINANT factor ──▶ strict scrutiny ──▶ state must show a
+│       compelling interest, narrowly tailored. Status: LIVE — and now the ascendant theory.
+│
+├─◆ (c) VOTE DILUTION under VRA § 2 ..................... statutory · Gingles (1986)
+│   │   Old test: 3 preconditions (compact minority group · political cohesion · white bloc
+│   │   voting usually defeats it) + totality of circumstances. EFFECTS, not intent.
+│   └─▶ ⛔ LOUISIANA v. CALLAIS, Apr 29 2026, 6–3 (Alito): § 2 is violated "only when the
+│           evidence supports a strong inference that the State INTENTIONALLY drew its districts
+│           to afford minority voters less opportunity because of their race." Past discrimination
+│           and the ongoing "effects of societal discrimination" get "much less weight."
+│           ⭐ § 2 WAS ENACTED IN 1982 PRECISELY TO REMOVE AN INTENT REQUIREMENT. Restoring it
+│              collapses the statute into the constitutional claim it was written to supplement.
+│
+└─◆ (d) PARTISAN GERRYMANDER ............................ ⛔ federal door CLOSED
+    │   Rucho v. Common Cause (2019, 5–4): nonjusticiable political question in FEDERAL court —
+    │   "beyond the reach of the federal courts," while conceding the maps were "highly partisan."
+    └─▶ SURVIVING ROUTE: STATE constitutional claims in STATE court (free-elections clauses,
+        equal-protection and free-speech analogues) — PA 2018, NC 2022, NY 2022, UT 2025
+        └─▶ ◇ but a state constitution can be amended, a state supreme court is often ELECTED,
+            and Rucho expressly blessed this route while leaving it entirely to the states
+            [VA 2026: amendment passed a referendum by ~3 pts on Apr 21 — and the Supreme Court
+             of Virginia struck it on May 8 for defects in HOW the legislature advanced it;
+             2022/2024 lines ordered used. The counter-map died on procedure, not on merits.]
+│
+──▶ STAGE 6 — THE CLOCKS  ⏱  (where most challenges are actually decided)
+│
+├─⏱ THE PURCELL PRINCIPLE ..... courts grow reluctant to change election rules as an election
+│                                nears. No fixed deadline exists — which is the point.
+├─⏱ CANDIDATE FILING .......... once filing opens under a map, disruption arguments compound
+├─⏱ PRIMARY DATE .............. a map used in a primary is very hard to dislodge for the general
+└─⏱ APPELLATE / SHADOW DOCKET . a stay can install a map for a full cycle with no merits ruling
+│
+│   ⭐ TIMING IS A MERITS-INDEPENDENT DEFENSE. A plaintiff can be right and still lose, because
+│      the calendar ran — and the election then proceeds under the very map being challenged.
+│
+──▶ STAGE 7 — REMEDY  (what a court can actually do)
+│
+├─▶ enjoin the map ──▶ ◇ remand to the legislature with a deadline
+│                      ├─ legislature complies ──▶ new map (often materially similar)
+│                      └─ misses the deadline ──▶ special master draws a remedial map
+├─▶ declaratory relief only ──▶ ⛔ map stays in use
+└─▶ deny relief on Purcell ──▶ ⛔ election proceeds under the challenged map
+│
+│   ⛔⭐ THERE IS NO RE-RUN. No court has ever ordered a congressional election re-held because
+│         the districts were later held unlawful. The seats won under an unlawful map are seated,
+│         vote for two years, and count toward control of the chamber. THE REMEDY IS ALWAYS
+│         PROSPECTIVE, WHICH MEANS DELAY IS NOT A COST OF LITIGATION — IT IS A STRATEGY IN IT.
+│
+════════════════════════════════════════════════════════════════════════════════════════════
+  FIVE STRUCTURAL FACTS
+  1. The pen is held by the interested party in most states, and that is the default design,
+     not a failure of it. Every reform on this map is an exception carved out of that default.
+  2. Federal law bans map-drawing on race and permits map-drawing on party — so the safest
+     defense to a racial-gerrymander claim is to say the motive was partisan.
+  3. Rucho closed the federal door and pointed to the states; Callais narrowed the statute to
+     an intent test. Both moves shifted redistricting from federal-judicial to state-political
+     control — and state courts and state constitutions are themselves electable and amendable.
+  4. Every criterion except equal population is either undefined or optional. The one number in
+     the whole system is the one nobody fights about.
+  5. The clock outranks the merits. Purcell, filing deadlines and the shadow docket dispose of
+     more redistricting challenges than any doctrine on this map — and losing on the clock
+     produces a real election under the disputed lines, with no mechanism to undo it.
+════════════════════════════════════════════════════════════════════════════════════════════
