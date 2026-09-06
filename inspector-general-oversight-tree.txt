@@ -1,0 +1,112 @@
+INSPECTOR GENERAL OVERSIGHT TREE — THE INTERNAL-WATCHDOG LAYER (as of September 6, 2026)
+│   Inspector General Act of 1978, as amended (5 U.S.C. §§ 401–424) · ~74 statutory IGs
+│   ★ = presidentially appointed, Senate-confirmed    ◇ = appointed by the agency head
+│   (acting) = no confirmed IG    [bracketed] = 2025–26 change-notes    ──▶ = reporting line
+│
+■ THE DESIGN — ONE OFFICE, TWO MASTERS
+│   Every IG sits INSIDE the agency it audits and reports OUTSIDE it at the same time.
+│
+│                    ┌──────────────────────────────────┐
+│                    │   OFFICE OF INSPECTOR GENERAL    │
+│                    └──────────────┬───────────────────┘
+│                        ┌──────────┴──────────┐
+│           "general supervision"        semiannual reports · 7-day letters
+│                        ▼                     ▼
+│                  AGENCY HEAD              CONGRESS  (both chambers; oversight
+│     (may not prevent or prohibit any       and appropriations committees)
+│      audit or investigation — § 403(a))
+│
+├─◆ THE TWO APPOINTMENT TYPES (roughly half and half)
+│   ├─ ★ ESTABLISHMENT IGs (~37) — nominated by the President, confirmed by the Senate
+│   │     Removal: by the President only · 30 days' written notice to BOTH chambers with a
+│   │     case-specific, substantive rationale (Securing IG Independence Act, Dec 2022) ·
+│   │     no fixed term · no for-cause protection
+│   │     Seats: the 15 Cabinet departments (Treasury has two: Treasury OIG + TIGTA) · EPA ·
+│   │     NASA · SSA · GSA · OPM · SBA · NSF · NRC · Intelligence Community (ICIG, 2010) · ...
+│   └─ ◇ DESIGNATED FEDERAL ENTITY IGs (~37) — appointed and removable by the entity head
+│         Same 30-day notice-to-Congress rule since 2022 · Amtrak · FEC · FCC · FTC · NLRB ·
+│         SEC · Peace Corps · Smithsonian · National Archives · CPB · EEOC · Legal Services ·
+│         Federal Reserve Board + CFPB (one office, appointed by the Fed Chair) · ...
+│
+├─◆ THE POWERS (what makes the office more than an internal auditor)
+│   ├─ Access to "all records" of the agency ............ § 406(a)(1) · IG Empowerment Act 2016
+│   ├─ Subpoena power over documents — not testimony ..... § 406(a)(4)
+│   ├─ Law-enforcement authority for criminal agents ...... § 406(f) · refer prosecutions to DOJ
+│   ├─ Semiannual report ──▶ agency head ──▶ Congress within 30 days, transmitted UNALTERED
+│   ├─ 7-day letter — "particularly serious or flagrant" ──▶ agency head ──▶ Congress in 7 days
+│   └─ Whistleblower intake — OIG hotline · a Whistleblower Protection Coordinator in every OIG
+│         (retaliation claims run to Office of Special Counsel ──▶ Merit Systems Protection Board)
+│
+├─◆ CIGIE — COUNCIL OF THE INSPECTORS GENERAL ON INTEGRITY AND EFFICIENCY (statutory, 2008)
+│   │   The community's own body: all ~74 IGs + OMB Deputy Director for Management + OGE + OSC
+│   │   + OPM + an FBI designee. Elects its chair from among the IGs.
+│   ├─ Chair ................... Cheryl Mason (VA IG) — elected 3/24/26, serves 4/6/26 – 12/31/26
+│   │     [Tammy Hull (USPS IG) was acting chair Jan 2025 – Apr 2026; the race was uncontested]
+│   │     [next election late 2026 for the two-year term beginning 1/1/2027]
+│   ├─ Integrity Committee ..... investigates misconduct allegations against IGs THEMSELVES
+│   │     (IG members + FBI designee + OGE + OSC) ──▶ findings to the President or agency head
+│   ├─ Standards & peer review . Quality Standards for Federal OIGs ("Silver Book") · peer review
+│   ├─ Training Institute · Oversight.gov (single public portal for every OIG report)
+│   └─ Funding ................. assessments on member OIGs, routed through OMB
+│         [OMB withheld FY26 funds; restored Nov 2025 after Sens. Grassley and Collins objected;
+│          CIGIE must now request its own money from OMB quarterly]
+│
+├─◆ SPECIAL & TEMPORARY IGs (created by statute for one program; sunset with it)
+│   ├─ SIGAR — Afghanistan Reconstruction (2008) ......... CLOSED — final report Dec 2025
+│   ├─ SIGPR — Pandemic Recovery (CARES Act, 2020) ....... SUNSET March 2025
+│   ├─ SIGTARP — Troubled Asset Relief Program (2008) .... [status unconfirmed as of 9/6/26]
+│   └─ PRAC — Pandemic Response Accountability Committee . a CIGIE committee, 2020
+│         [still operating; new chair appointed Feb 2026]
+│
+├─◆ SELECTED OFFICES (a slice, not the roster; heads named only where verified this week)
+│   ├─ DoD OIG ★ — the largest OIG, ~1,600 staff ...... IG: Platte Moring (confirmed 12/22/25)
+│   │     [Robert Storch fired 1/24/25; Steven Stebbins acting through 2025]
+│   ├─ DOJ OIG ★ ................................... IG: Don Berthiaume (confirmed 8/7/26, 51–47)
+│   │     [Michael Horowitz left 6/30/25 for the Fed/CFPB OIG; Berthiaume acting Oct 2025 –
+│   │      Jan 2026 until the acting clock ran out; deputy William Blier then held the duties]
+│   ├─ DHS OIG ★ ................................... IG: Joseph Cuffari (since 2019)
+│   │     [told Congress in 2026 that DHS officials "systematically obstructed" his office]
+│   ├─ VA OIG ★ ............................. IG: Cheryl Mason (confirmed 2025, party-line vote;
+│   │      former senior adviser to VA Secretary Doug Collins) — also CIGIE chair, above
+│   ├─ Labor OIG ★ ................................. IG: Anthony D'Esposito (former Rep., NY-04)
+│   ├─ USDA OIG ★ .................................. IG: John Walk (confirmed Dec 2025)
+│   ├─ Fed Board / CFPB OIG ◇ ...................... IG: Michael Horowitz (appointed June 2025)
+│   ├─ Intelligence Community IG ★ .......... [Michael Atkinson fired Apr 2020 — 1st-term precedent]
+│   ├─ HHS ★ · State ★ · Treasury ★ · TIGTA ★ · Interior ★ · Energy ★ · Education ★ · HUD ★ ·
+│   │     Transportation ★ · Commerce ★ · EPA ★ · SSA ★ · NASA ★ · GSA ★ · OPM ★ · SBA ★ ...
+│   │     [most of these seats were emptied on 1/24/25; the fill-rate is in the removal track below]
+│   └─ Legislative-branch OIGs (outside the IG Act's removal rules): GAO · Library of Congress ·
+│         U.S. Capitol Police · Architect of the Capitol · Government Publishing Office
+│
+├─◆ THE REMOVAL TRACK — HOW AN IG ACTUALLY LEAVES (statute vs. 2025–26 practice)
+│   │
+│   │   STATUTE:   President decides ──▶ 30-day written notice to both chambers, with case-
+│   │              specific reasons ──▶ removal ──▶ acting IG must be the first assistant or a
+│   │              senior official of another OIG (2022 Act) ──▶ nomination ──▶ confirmation
+│   │
+│   │   PRACTICE:  1/24/25 — 17 IGs removed overnight by e-mail citing "changing priorities";
+│   │              no notice, no reasons ──▶ Storch v. Hegseth (D.D.C.) ──▶ 9/24/25 Judge Ana
+│   │              Reyes: the firings were UNLAWFUL; reinstatement DENIED (no irreparable harm —
+│   │              the President could re-fire them after 30 days' notice)
+│   │              ──▶ 19 IGs fired by Mar 2026 [Government Executive count]; acting IGs swapped
+│   │              at 5 agencies; ★ vacancies peaked at 39 [CREW]; 28 ★ seats open in Oct 2025
+│   │              with nominations pending for only 5
+│   │              ──▶ fill-rate: 5 confirmed en bloc 53–43 (Dec 2025) · 8 total by Apr 2026 ·
+│   │              DOJ in Aug 2026 makes at least 9 — most had served in a Trump administration
+│   │              ──▶ FY27 budget request: Cabinet OIGs −12% vs FY24 on average; Interior and
+│   │              DOJ OIGs −28%; staffing −9% projected on top of −10% in 2025 [Partnership for
+│   │              Public Service] · IG workforce down ~12% overall [Public Citizen, Mar 2026]
+│   │
+│   └─ THE PAYOFF: the 30-day rule is a NOTICE requirement, not a CAUSE requirement. The court
+│         found the violation and supplied no remedy; the emptied seats were refilled from inside
+│         the administration; the council's money now runs through OMB one quarter at a time.
+│         The office survives with the same statute, a smaller staff, and a different master.
+│
+└─◆ THE OUTER RING (the bodies the IG system was built to feed)
+    ├─ Government Accountability Office — Congress's own auditor, outside the executive entirely
+    ├─ Office of Special Counsel — retaliation cases; Special Counsel Charles Baldis (conf. 8/7/26)
+    │     [Hampton Dellinger, the Biden-appointed incumbent, removed Mar 2025 mid-term]
+    ├─ Merit Systems Protection Board — adjudicates retaliation; Chair James Woodruff (conf. 8/7/26)
+    │     [Democratic member Cathy Harris fired 2025; SCOTUS June 2026 allowed removal w/o cause]
+    ├─ Congressional committees — House Oversight · Senate HSGAC · both Judiciary · appropriators
+    └─ DOJ — where an OIG's criminal referrals go, or don't (see the DOJ Component Tree)
