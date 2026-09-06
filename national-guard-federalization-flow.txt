@@ -1,0 +1,215 @@
+NATIONAL GUARD FEDERALIZATION FLOW  —  three statuses, four doors, one criminal statute
+│   Legend: ──▶ status change  ◇ decision  ★ operative act  ✕ closed path  ⚑ contested claim
+│   Process evergreen · 2025–26 worked examples verified 2026-09-02 · no officeholders by design
+│
+■ 0. THE FLOOR  —  one soldier, two commissions, and a switch between them
+│
+│   Art. I §8 cl.15–16 (the Militia Clauses): CONGRESS holds the power "to provide for
+│   calling forth the Militia to execute the Laws of the Union, suppress Insurrections
+│   and repel Invasions," and to organize and arm it — the STATES keep officer
+│   appointment and training authority.
+│   Art. II §2: the President commands the militia only "when called into the actual
+│   Service of the United States."
+│   ⚑ The sequence is the whole design. The call-forth power is LEGISLATIVE; the command
+│     power is executive and CONDITIONAL on a call Congress authorized by statute.
+│
+│   Since the Militia Act of 1903 and the 1933 amendments every Guard member holds a
+│   DUAL ENLISTMENT — a state militia commission AND a commission in the National Guard
+│   of the United States, a federal reserve component. Federalization therefore does not
+│   transfer a soldier anywhere. It flips which commission is active.
+│   Perpich v. Dep't of Defense (1990, 9-0) settled that Congress may activate the
+│   federal commission for overseas training over a governor's express refusal.
+│
+├──▶ STATUS 1 ── STATE ACTIVE DUTY (SAD)  —  state law, top to bottom
+│      Commander ......... the Governor
+│      Payer ............. the State
+│      Posse Comitatus ... DOES NOT APPLY — these are not federal forces at all
+│      Typical use ....... hurricanes, floods, wildfires, state-law policing support
+│      Federal role ...... none
+│
+├──▶ STATUS 2 ── TITLE 32  —  federally funded, state commanded      ◀── the workhorse
+│      Commander ......... the Governor  (32 U.S.C. §328 — the GOVERNOR issues the order)
+│      Payer ............. the United States  (32 U.S.C. §502(f), "training or other duty")
+│      Posse Comitatus ... DOES NOT APPLY — §1385 reaches the FEDERAL armed forces, and a
+│                          Title 32 soldier remains under state command and control
+│      Consent ........... the GOVERNOR's. Under §502(f)(2)(A) the President or SecDef may
+│                          only REQUEST such duty. A governor may simply decline.
+│      ⚑ This status does most of the real work, and it is the quiet one. Federal money,
+│        federal mission, federal request — and none of the federal restriction. It is
+│        what the Brennan Center calls the Posse Comitatus loophole, and closing it has
+│        been proposed in every recent NDAA cycle and enacted in none.
+│      ⚑ Consented Title 32 deployments generate almost no federal litigation, because
+│        there is no federalization to challenge. Memphis (Oct 2025) and New Orleans
+│        (Dec 2025) both ran here at the governors' own request.
+│
+└──▶ STATUS 3 ── TITLE 10  —  federalized
+       Commander ......... the President → SecDef → the combatant command (NORTHCOM)
+       Payer ............. the United States
+       The Governor ...... CUT OUT. Not asked, not required, cannot recall the unit.
+       Posse Comitatus ... APPLIES. 18 U.S.C. §1385 makes it punishable by up to 2 years
+                           to willfully use the Army, Navy, Marine Corps, Air Force or
+                           Space Force "to execute the laws," except as expressly
+                           authorized by the Constitution or an Act of Congress.
+                           [ Navy, Marines and Space Force added by the FY22 NDAA,
+                             Pub. L. 117-81 §1045(a), 12/27/2021 — the "Army and Air
+                             Force only" description of the PCA is now five years stale ]
+       ⚑ So: the fight was never about whether troops appear on a street. It is about
+         which STATUS puts them there, because the status decides whether §1385 is in
+         the room — and §1385 is the premise of every injunction that has issued.
+
+◆ THE FOUR DOORS INTO TITLE 10  —  and they are not interchangeable
+│
+├─ DOOR A ── 10 U.S.C. §12406   "National Guard in Federal service: call"
+│    ◇ Predicate — the President must find ONE of three:
+│        (1) the U.S. "is invaded or is in danger of invasion by a foreign nation"
+│        (2) "there is a rebellion or danger of a rebellion against the authority of
+│            the Government of the United States"        [ "rebellion" is UNDEFINED ]
+│        (3) the President "is unable with the regular forces to execute the laws of
+│            the United States"
+│    ★ Orders "shall be issued THROUGH the governors of the States."
+│      ⚑ Executed since June 2025 as a notification, not a request. No court has held
+│        the clause gives a governor a veto — and none has held it does not.
+│    ✕ What §12406 does NOT do: it federalizes, and that is all. It does not authorize
+│      law enforcement. §1385 attaches to the Title 10 force the moment it is created.
+│      The government's repeated conflation of these two is what it kept losing on.
+│    ⚑ No numeric cap. No duration limit. No report to Congress. Compare Door D.
+│
+├─ DOOR B ── the INSURRECTION ACT   (10 U.S.C. §§251-255; renumbered from 331-335 in 2016)
+│    §251  insurrection against a STATE government ...... REQUIRES that state's request
+│                                                          (legislature, or governor if
+│                                                          it cannot be convened)
+│    §252  obstruction makes it "impracticable to           NO state request needed
+│          enforce the laws of the United States ... by
+│          the ordinary course of judicial proceedings"
+│    §253  deprivation of a class's constitutional          NO state request needed — and
+│          rights the state cannot or will not protect,     the verb is "SHALL take such
+│          OR obstruction of federal law or justice         measures as he considers
+│                                                           necessary"
+│    §254  ★ PROCLAMATION TO DISPERSE — required first, whenever the chapter is used
+│    ⚑ This is the door that switches Posse Comitatus OFF, because §1385 excepts what an
+│      Act of Congress expressly authorizes. It is also the only door with a public,
+│      dated, signed instrument at its threshold — and that visibility is the deterrent.
+│      THREATENED REPEATEDLY IN 2025-26. NEVER INVOKED.
+│
+├─ DOOR C ── the D.C. EXCEPTION  —  no governor to route an order through
+│    D.C. Code §49-409 (Act of Mar. 1, 1889): "The President of the United States shall
+│    be the Commander-in-Chief of the militia of the District of Columbia."
+│    Delegated by EO 11485 (1969): President → SecDef → Secretary of the Army.
+│    §12406's orders clause routes through "the commanding general of the National Guard
+│    of the District of Columbia" instead of a governor.
+│    ⚑ Consequence: the D.C. Guard can be deployed under direct presidential command
+│      WITHOUT being federalized — which is the government's argument that §1385 never
+│      attaches at all. It is the only structural argument it has so far won on.
+│
+└─ DOOR D ── the §1230x MOBILIZATION AUTHORITIES  —  a door Congress bolted shut
+     §12301(a)  full mobilization — war or emergency declared by CONGRESS
+     §12302     partial mobilization — presidential emergency; ≤24 months, ≤1,000,000
+     §12304     Presidential Reserve Call-Up — ≤365 days, ≤200,000, 24-hour report to
+                Congress
+     ✕ §12304(c)(1) EXPRESSLY FORBIDS using that authority to perform "any of the
+       functions authorized by chapter 15 or section 12406 of this title."
+     ⚑ Read Doors A and D together and the asymmetry is the finding: Congress attached
+       caps, clocks and reporting to every mobilization authority, then walled them off
+       from domestic use — leaving the domestic instrument, §12406, the only one with
+       no cap, no clock and no reporting requirement at all.
+
+◆ ONCE TROOPS MOVE  —  the courthouse, and what it can actually reach
+│
+├─ ◇ Is the President's §12406 finding reviewable at all?
+│     Government ......... Martin v. Mott (1827): the exigency determination "belongs
+│                          exclusively to the President, and ... his decision is
+│                          conclusive upon all other persons."
+│     Every court to
+│     reach it, 2025-26 ... NO. Sterling v. Constantin (1932) supplies the standard —
+│                          the executive gets a "permitted range of honest judgment,"
+│                          which is deference, not immunity.
+│     9th Cir. 6/19/2025 .. reviewable, but "highly deferential"      → stay GRANTED
+│     7th Cir. 10/16/2025 . reviewable; great deference on the FACTS, but NO deference
+│                          and de novo review on what the STATUTORY WORDS MEAN
+│
+├─ ★ SUPREME COURT — Trump v. Illinois, 12/23/2025  (stay DENIED · unsigned · 3 dissents)
+│     "Regular forces" in §12406(3) LIKELY MEANS THE REGULAR U.S. MILITARY — not ICE,
+│     not the Federal Protective Service, not any federal civilian officer.
+│       ⟹ the President must be unable WITH THE MILITARY to execute the laws
+│       ⟹ which presupposes the military COULD lawfully execute them
+│       ⟹ which §1385 makes exceptional
+│       ⟹ and the government "failed to identify a source of authority" that would.
+│     ⚑ Formally an interim stay order at the "likely" stage, not a merits holding.
+│       REVIEWABILITY EXPRESSLY RESERVED. The Insurrection Act is untouched by it.
+│       One concurrence reached the judgment on the narrower ground that the required
+│       determination had simply never been made — so the broad statutory reading
+│       commanded fewer votes than the 6-3 outcome suggests.
+│
+├─ WHO CAN SUE ......... STATES and CITIES, on sovereign and proprietary injury.
+│                        Individual protesters generally cannot: Laird v. Tatum (1972)
+│                        holds that subjective chill is not an Article III injury.
+│
+└─ ◇ WHAT A COURT CAN ORDER — and the gap that ended every single one of these cases
+      ✓ Enjoin the DEPLOYMENT — the operational use of the troops ....... done, repeatedly
+      ✓ Declare a PCA violation and enjoin law-enforcement use ........... 9/2/2025
+      ✓ Enter a PERMANENT INJUNCTION after trial on the predicates ....... 11/7/2025
+      ~ Order DEFEDERALIZATION — the unit back to the governor ........... ordered
+                                 6/12/2025, stayed within hours, never sustained
+      ✕ Reach the merits after the executive has already withdrawn ....... ⚑ THE GAP
+        A case ends when the troops go home. Withdrawal moots the appeal, and the
+        ruling below survives unreviewed — or, if it was the government's own appeal,
+        is dismissed on the government's own motion.
+
+◆ THE 2025-26 RECORD  —  the same shape five times
+│
+│  LOS ANGELES .... 6/7/2025 · §12406(3) · ~4,000 CA Guard + ~700 Marines over the
+│                   governor's objection · TRO 6/12 stayed in hours · 9th Cir. stay 6/19 ·
+│                   PCA VIOLATION FOUND 9/2 · en banc denied 10/22 over ten dissents ·
+│                   deployment ended 12/10-12/15 · control back to the governor 12/30-12/31
+│
+│  PORTLAND ....... 9/2025 · §12406 · ~200 OR Guard · TROs 10/4 and 10/5 · 9th Cir. panel
+│                   stay 10/20 · EN BANC GRANTED AND STAY VACATED 10/28 · trial 10/29-10/31 ·
+│                   PERMANENT INJUNCTION 11/7 — neither (2) nor (3) satisfied ·
+│                   government dismissed ITS OWN APPEAL 2/17/2026, so the en banc court
+│                   never ruled and the injunction stands unreviewed
+│
+│  CHICAGO ........ 10/4-10/5/2025 · §12406(3) · ~300 IL Guard + ~200 TX Guard · TRO 10/9 ·
+│                   7th Cir. 10/16 · SCOTUS DENIES STAY 12/23 · troops out mid-Jan 2026 ·
+│                   DISMISSED AS MOOT from the bench 4/20/2026
+│
+│  WASHINGTON DC .. 8/2025 · NOT a §12406 case — Title 32 out-of-state units plus the D.C.
+│                   Guard under direct presidential command · PI 11/20/2025 · D.C. Circuit
+│                   STAYED it 12/17 on the President's "unique power within the District
+│                   ... under 32 U.S.C. §502(f)" · deployment extended through end of 2026
+│                   by Army memorandum 1/14/2026 · appeal still pending
+│
+│  MEMPHIS ....... 10/2025 ┐ governor-REQUESTED, Title 32. The Memphis state-court
+│  NEW ORLEANS ... 12/2025 ┘ challenge was reversed on standing 4/28/2026. No §12406 suit
+│                            exists for either, because there is nothing to challenge.
+│
+│  MINNEAPOLIS ... 1/2026 · the governor mobilized the Guard himself under STATE authority
+│                  after a federal shooting. The Insurrection Act was publicly threatened
+│                  and not invoked. No federalization; therefore no case.
+
+◆ FIVE THINGS THIS MAP IS FOR
+│
+│  1. THE CONTESTED VARIABLE IS STATUS, NOT DEPLOYMENT. Title 32 already gives the
+│     federal government everything it wants except the ability to act over a governor's
+│     objection. Every fight of 2025-26 was about buying that one thing.
+│
+│  2. THE POSSE COMITATUS ACT IS THE HINGE, AND IT IS A CRIMINAL STATUTE NOBODY IS EVER
+│     PROSECUTED UNDER. Its entire practical force is as the premise of a civil
+│     injunction — which is why the argument is always about whether it applies, never
+│     about whether it was broken.
+│
+│  3. §12406 FEDERALIZES; IT DOES NOT AUTHORIZE POLICING. The government's litigating
+│     position collapsed those two repeatedly, and every court that reached it pulled
+│     them apart. A district court put it plainly: reading §12406 as its own exception
+│     to §1385 would nullify the Act.
+│
+│  4. THE ONE DOOR THAT WOULD ACTUALLY WORK WAS NEVER OPENED. The Insurrection Act
+│     switches §1385 off by its terms. It was threatened for eighteen months and never
+│     invoked — because §254 requires a signed, dated, published proclamation ordering
+│     the insurgents to disperse, and that document is a political cost the informal
+│     route avoids entirely.
+│
+│  5. NOT ONE OF THESE RULINGS WAS AFFIRMED ON THE MERITS. Four district courts ruled
+│     against the government; every case ended in withdrawal, voluntary dismissal, or
+│     mootness before an appellate court could decide it. The law now governing the
+│     next federalization is a three-page interim stay order, a permanent injunction
+│     nobody reviewed, and a circuit stay in the one jurisdiction with no governor.
