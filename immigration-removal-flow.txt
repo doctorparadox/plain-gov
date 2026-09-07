@@ -1,0 +1,305 @@
+IMMIGRATION REMOVAL PIPELINE  —  the formal track, the bypasses, and where the judge sits
+│   Legend: ──▶ main path  └─▶ branch  ◇ decision  ★ operative act  ✕ closed  ⚑ structural point
+│   Process evergreen · dispositions and seats verified 2026-09-07 · cites to 8 U.S.C. unless noted
+│
+■ 0. THE FLOOR  —  removal is civil, the grounds are statutory, and the forum is executive
+│
+│   Two lists make a person removable: §1182(a) INADMISSIBILITY (never lawfully admitted, or
+│   seeking admission) and §1227(a) DEPORTABILITY (admitted, then fell into a ground — crime,
+│   overstay, fraud, security). Removal is a CIVIL proceeding: no jury, no Sixth Amendment
+│   counsel (§1362 — counsel "at no expense to the Government"), no ex post facto bar,
+│   and detention is "regulatory," not punishment (Demore v. Kim, 2003).
+│
+│   Who does what:
+│      PROSECUTES ..... DHS — ICE's Office of the Principal Legal Advisor (OPLA) in court;
+│                       CBP at the border; USCIS on the asylum-screening side
+│      ADJUDICATES .... DOJ — the Executive Office for Immigration Review (EOIR):
+│                       ~700 immigration judges (IJs) → the Board of Immigration Appeals (BIA)
+│      REVIEWS ........ Article III — but only at two doors: habeas (detention) and the
+│                       petition for review (after a final order)
+│   ⚑ The Constitution's "plenary power" line (Chae Chan Ping 1889; Knauff 1950 — for an
+│     arriving alien "the decision of the executive officer IS due process") sits beside the
+│     other line: a person inside the country is a "person" under the Fifth Amendment
+│     (Yamataya 1903; Zadvydas 2001; Reno v. Flores 1993). Which line applies is decided by
+│     WHERE THE STATUTE PLACES YOU — and 2025 moved the placement (Stage 4).
+│
+■ 1. ENCOUNTER AND ARREST  —  four doors in
+│
+├──▶ AT A PORT / BETWEEN PORTS ... CBP (Office of Field Operations · Border Patrol)
+│      §1225(a)(1): anyone "present in the United States who has not been admitted" is an
+│      "APPLICANT FOR ADMISSION" — the phrase the whole detention fight turns on.
+│
+├──▶ INTERIOR ARREST ............. ICE Enforcement and Removal Operations (ERO)
+│      ★ Administrative warrant (Form I-200 / I-205), signed by an ICE SUPERVISOR, not a
+│        judge — it authorizes arrest, not entry into a home (that needs consent or a
+│        judicial warrant). Courthouse, worksite, and "collateral" arrests (anyone else
+│        present) run here. Noem v. Vasquez Perdomo (S. Ct. stay, 9/8/2025) let roving
+│        Los Angeles stops resume pending appeal; the merits never reached the Court.
+│
+├──▶ JAIL TRANSFER ............... the IMMIGRATION DETAINER (Form I-247A)
+│      A REQUEST that a jail hold a person up to 48 hours past release. Not a command:
+│      compliance is voluntary (Galarza v. Szalczyk, 3d Cir. 2014) — which is the whole
+│      legal content of "sanctuary." §287(g) agreements deputize state and local officers
+│      to serve as the front end of this door; the program expanded sharply from 2025.
+│
+└──▶ CRIMINAL CUSTODY ............ §1226(c) attaches on release from criminal custody;
+       ★ Laken Riley Act (Pub. L. 119-1, 1/29/2025) added ARREST or CHARGE — no
+         conviction — for theft, burglary, shoplifting, or assault on a police officer.
+         DHS counted 17,500 detentions under it in the first year.
+
+■ 2. THE FORK  —  formal proceedings, or a bypass?
+│
+│   ◇ Arriving, or entered without inspection and can't show 2 YEARS continuous presence?
+│        ──yes──▶  EXPEDITED REMOVAL  (Bypass A — no judge)
+│   ◇ Removed before and re-entered?
+│        ──yes──▶  REINSTATEMENT  (Bypass B — the old order comes back to life)
+│   ◇ Non-LPR with an aggravated-felony conviction?
+│        ──yes──▶  ADMINISTRATIVE REMOVAL  (Bypass D — officer-issued)
+│   ◇ Covered by a proclamation (§212(f) · Alien Enemies Act)?
+│        ──yes──▶  Bypasses E / F  (both lost or mooted in court — see below)
+│   └── otherwise ──▶ §240 REMOVAL PROCEEDINGS  (Stages 3–7)
+│   ⚑ The fork is the most consequential decision in the pipeline and an OFFICER makes it,
+│     on a classification (arriving / EWI / prior order / conviction), before any judge.
+│
+■ 3. THE NOTICE TO APPEAR (Form I-862)  —  the charging document
+│
+│   ★ §1229(a) requires ONE document stating the nature of the proceedings, the charges,
+│     the statutory grounds, and the TIME AND PLACE of the hearing. Pereira v. Sessions
+│     (2018) and Niz-Chavez v. Garland (2021): a notice missing the time and place is not
+│     a "notice to appear" and does not stop the clock for cancellation eligibility.
+│   ★ Jurisdiction vests in the immigration court when the NTA is FILED there
+│     (8 C.F.R. § 1003.14) — DHS, not the court, decides when and whether to file.
+│   ⚑ DHS can also decline to file, or move to dismiss, at any time. Prosecutorial
+│     discretion is the one lever that runs the whole length of the pipeline and leaves
+│     no record when exercised in the negative.
+│
+■ 4. DETENTION AND BOND  —  decided before the merits, and now the main fight
+│
+├─ §1226(a) DISCRETIONARY ........ ICE sets a bond or releases; the person may ask an IJ
+│      for a bond redetermination. Burden on the NONCITIZEN to show no danger and no
+│      flight risk (Matter of Guerra, 2006). This was the default for interior arrests
+│      of people who had lived here for years — until September 2025.
+│
+├─ §1226(c) MANDATORY ............ enumerated crimes (+ Laken Riley arrests): no bond.
+│      ◇ how long? Demore (2003) upheld "brief" mandatory detention; Jennings v. Rodriguez
+│        (2018) found no STATUTORY right to periodic bond hearings and sent the
+│        constitutional question back. Genalo v. G.M. (2d Cir. 2024: 21 months without a
+│        hearing is too long; cert granted 6/15/2026, ARGUMENT 10/13/2026) will answer it.
+│
+├─ §1225(b)(2)(A) "APPLICANT FOR ADMISSION" ... "shall be detained" — the reclassification
+│      ★ Matter of Yajure Hurtado (BIA, 9/5/2025): EVERY person who entered without
+│        inspection — regardless of years present — is an applicant for admission,
+│        detained under §1225(b), and an IJ has NO authority to hold a bond hearing.
+│        ──▶ Buenrostro-Mendez v. Bondi (5th Cir., 2/6/2026) agreed. 2d, 3d, 6th
+│            Circuits disagreed. Maldonado Bautista v. Noem (C.D. Cal., 2/18/2026)
+│            VACATED Yajure Hurtado for a nationwide class. Sosnava-Rodriguez v. Ortega
+│            (5th Cir., 7/2/2026: due process caps it at 90 days without a hearing) was
+│            vacated for en banc rehearing 7/10/2026, set for September 2026.
+│      ⚑ Detention is decided by CLASSIFICATION, not dangerousness. Move the person from
+│        §1226(a) to §1225(b) on paper and the bond hearing disappears; the only door
+│        left is Article III habeas, one petition at a time.
+│
+├─ POST-ORDER ..................... §1231(a)(6); Zadvydas v. Davis (2001): six months is
+│      the presumptive limit once removal is not reasonably foreseeable.
+│
+└─ THE ONLY OUTSIDE REVIEW ....... HABEAS CORPUS, 28 U.S.C. § 2241, in the district of
+       confinement. This is where an Article III judge first enters — and only for the
+       custody, not the removal order.
+       Population: ~65,800 in ICE detention (July 2026), 70.6% with no criminal
+       conviction (Vera / TRAC); the FY2026 build-out targets 100,000+ beds by 9/30/2026.
+
+■ 5. THE MERITS HEARING  —  §240 (8 U.S.C. § 1229a) before an immigration judge
+│
+│   The judge: a DOJ ATTORNEY (§1101(b)(4)) appointed by the Attorney General, employed by
+│   EOIR's Office of the Chief Immigration Judge, subject to performance quotas, removable
+│   by the department that is the other party's parent. Not Article III; not an ALJ.
+│
+├─ MASTER CALENDAR ................ pleadings: admit or deny the NTA's allegations
+├─ REMOVABILITY .................. DHS bears "clear and convincing" for an ADMITTED person
+│      (§1229a(c)(3)); an EWI bears the burden of showing lawful presence (§1229a(c)(2)).
+├─ RELIEF  (the noncitizen's burden, all of it):
+│      ASYLUM ............ §1158 — "well-founded fear" on a protected ground; 1-year
+│                          filing deadline; DISCRETIONARY; leads to a green card
+│      WITHHOLDING ....... §1231(b)(3) — "more likely than not"; MANDATORY if met; bars
+│                          removal to that country only; no status, no path to a green card
+│      CAT ............... 8 C.F.R. §§ 1208.16–.18 — torture "more likely than not";
+│                          no criminal bars; deferral is the last resort
+│      CANCELLATION ...... §1229b — LPRs: 5 yrs LPR + 7 yrs residence, no agg felony;
+│                          non-LPRs: 10 yrs presence + "exceptional and extremely unusual
+│                          hardship" to a U.S.-citizen or LPR spouse/parent/child;
+│                          capped at 4,000 grants a year
+│      ADJUSTMENT ........ §1255 — a green card through a qualifying relative or petition
+│      VOLUNTARY DEPARTURE §1229c — leave at your own expense; no removal ORDER, so no
+│                          §1182(a)(9)(A) order-based bar (the unlawful-presence bar can
+│                          still apply)
+│      ⚑ PRETERMISSION: DHS may move to deny asylum WITHOUT a hearing where the application
+│        fails on its face; ~30,700 cases were pretermitted with an Asylum Cooperative
+│        Agreement country listed as the first country of removal (Mobile Pathways, 6/2026).
+│
+├─ THE 2025–26 BENCH ............. 100+ IJs fired since 1/2025 (UN special rapporteurs
+│      count 135 incl. 13 assistant chiefs and 9 appellate judges); 202 gone counting
+│      resignations. Backfill: up to 600 military JAG officers authorized as six-month
+│      TEMPORARY IJs (Hegseth, 8/27/2025); the May 2026 class of 77 IJs + 55 temporary
+│      IJs brought the corps back to ~700.
+│
+└──▶ IJ DECISION ................. removal ordered · relief granted · proceedings
+       terminated.  Either side may appeal.
+
+■ 6. THE BOARD OF IMMIGRATION APPEALS  —  30 days, and a boss who can overrule it
+│
+├─ APPEAL ....................... within 30 days (8 C.F.R. § 1003.38). Board size cut
+│      from 28 to 15 members by interim rule (4/14/2025). The 2/6/2026 interim rule made
+│      merits review DISCRETIONARY and shortened briefing.
+├─ PRECEDENT .................... a published Board decision binds every IJ and DHS.
+│      Under 8 C.F.R. § 1003.1(g)(3) the Attorney General may DESIGNATE an unpublished
+│      decision as precedent — used 2025–26 (Matter of Cotrufo — bond; Matter of
+│      O-Y-A-E- — CAT deferral reversed; Matter of De Jesus-Platon; Matter of
+│      Garcia-Flores) — bypassing the Board's own publication process and amicus briefing.
+└─ ★ ATTORNEY GENERAL CERTIFICATION  (8 C.F.R. § 1003.1(h))
+       The AG may refer ANY Board decision to himself and decide it — rewriting the
+       precedent nationwide. Matter of A-B- (2018, gang/domestic-violence asylum) and
+       Matter of Castro-Tum (2018, no administrative closure) were certified, vacated in
+       2021, and the lines restored from 2025. There is no vote, no panel, no hearing.
+       ⚑ The prosecutor's department head is the appellate court's final reviewer.
+
+■ 7. THE PETITION FOR REVIEW  —  the first Article III judge, at the end
+│
+├─ §1252 ........................ EXCLUSIVE review in the court of appeals for the circuit
+│      where the IJ sat; 30 days from the BIA's order. Riley v. Bondi (S. Ct., 6/26/2025):
+│      the 30 days is a claims-processing rule, not jurisdictional — and a BIA order in
+│      WITHHOLDING-ONLY proceedings is not a "final order of removal" at all.
+├─ ✕ NO AUTOMATIC STAY .......... §1252(b)(3)(B). Filing the petition does not stop the
+│      plane; a separate stay motion is needed and is often decided after removal.
+├─ ✕ WHAT THE COURT MAY NOT REVIEW: discretionary judgments (§1252(a)(2)(B); Patel v.
+│      Garland, 2022 — even the underlying facts); most orders against people with
+│      criminal grounds (§1252(a)(2)(C)); expedited-removal orders except identity /
+│      status / whether an order exists (§1252(e); DHS v. Thuraissigiam, 2020).
+│      Preserved: constitutional claims and questions of law (§1252(a)(2)(D)).
+│      Loper Bright (2024) ended Chevron deference to the BIA's readings of the statute.
+└──▶ SUPREME COURT ............... certiorari — rare, and mostly on the pipeline's own
+       machinery (Pereira, Niz-Chavez, Riley, Jennings, Genalo) rather than any merits.
+
+■ 8. EXECUTION  —  the order becomes a plane
+│
+├─ §1231(a)(1) .................. 90-day "removal period" from the final order; custody
+│      review at 90 days and 180 (Zadvydas).
+├─ WHERE TO  §1231(b) ........... the country designated → citizenship → birth → …
+│      → §1231(b)(2)(E)(vii): "another country whose government will accept the alien."
+│      That clause is the statutory hook for THIRD-COUNTRY REMOVAL (Bypass G).
+├─ MOTION TO REOPEN ............. §1229a(c)(7): one motion, 90 days, new evidence — the
+│      only ordinary route back into a closed case.
+├─ THE WRONGFUL REMOVAL ......... Kilmar Abrego Garcia: removed 3/15/2025 to El Salvador
+│      despite a 2019 grant of withholding to that country; Noem v. Abrego Garcia
+│      (S. Ct., 4/10/2025) — the government must "facilitate" return; returned 6/6/2025
+│      to face a federal indictment. ⚑ No stage of the formal pipeline prevented it; only
+│      a court order after the fact reached it.
+└─ VOLUME ....................... 234,236 ICE removals 10/1/2025–4/4/2026, a pace above
+       460,000 for FY2026 (ICE data via Kocher / TRAC). FY2025: 319,980 removals, or
+       442,637 counting voluntary returns (ICE's own two figures).
+
+◆ THE BYPASS TRACKS  —  where the volume actually goes
+│
+├─ A. EXPEDITED REMOVAL  §1225(b)(1)  ★ an OFFICER orders removal; no IJ, no appeal
+│      ◇ fear of return claimed? ──▶ CREDIBLE-FEAR interview by a USCIS asylum officer
+│           ──positive──▶ §240 proceedings (or an asylum-merits interview)
+│           ──negative──▶ IJ "review" (a same-day telephonic check) ──▶ removal
+│      Built by IIRIRA (1996); applied within 100 miles / 14 days by a 2004 designation.
+│      ★ 1/21/2025 DHS designation: NATIONWIDE, anyone who cannot show 2 YEARS of
+│        continuous presence. Make the Road New York v. Mullin: D.D.C. (Cobb) stayed it
+│        8/29/2025 ──▶ D.C. Cir. vacated the stay 2–1 (6/23/2026) ──▶ in effect 7/17/2026.
+│      ✕ Judicial review: §1252(e)(2) allows habeas only on identity, status, and whether
+│        an order exists — and Thuraissigiam (2020) held that is all the Suspension Clause
+│        requires for a recent entrant. The 2-year rule makes people who have lived here
+│        23 months "recent entrants."
+│
+├─ B. REINSTATEMENT  §1231(a)(5)  ★ the prior order is "reinstated from its original
+│      date," "not subject to being reopened or reviewed," and the person "may not apply
+│      for any relief." Only a REASONABLE-FEAR screening (USCIS) → withholding-only
+│      proceedings (withholding / CAT, never asylum). Riley: that track's BIA order is not
+│      a final order of removal — so the 30-day petition clock is measured differently.
+│
+├─ C. STIPULATED REMOVAL  8 C.F.R. § 1003.25(b)  ★ the person signs a waiver of hearing;
+│      the IJ signs the order without ever seeing them. Used on detained, unrepresented
+│      people; the "voluntary" in it is the contested part.
+│
+├─ D. ADMINISTRATIVE REMOVAL  §1228(b)  ★ non-LPRs with an aggravated-felony conviction:
+│      ICE issues the order itself; 10 days to respond; no IJ.
+│
+├─ E. §212(f) PROCLAMATION  (8 U.S.C. § 1182(f))  ✕ LOST
+│      Proc. 10888, "Guaranteeing the States Protection Against Invasion" (1/20/2025):
+│      suspend entry across the southern border and BAR ASYLUM for those who cross.
+│      Trump v. Hawaii (2018) had upheld §1182(f) for entry from abroad. RAICES v. Noem:
+│      D.D.C. (Moss) vacated the asylum bar 7/2/2025 ──▶ D.C. Cir. AFFIRMED 4/24/2026 —
+│      the suspension-of-entry power cannot override §1158's guarantee that "any alien
+│      who is physically present" may apply for asylum.
+│
+├─ F. ALIEN ENEMIES ACT  50 U.S.C. § 21  ✕ MOOTED, never decided
+│      Proc. 10903 (3/14/2025): Tren de Aragua declared an "invasion or predatory
+│      incursion"; 238 Venezuelans flown to El Salvador's CECOT 3/15/2025 (137 under the
+│      Act). Trump v. J.G.G. (S. Ct., 4/7/2025): challenges go by habeas in the district of
+│      confinement, with notice "within a reasonable time"; A.A.R.P. v. Trump (5/16/2025):
+│      24 hours is not reasonable. Rodriguez (S.D. Tex., 5/1/2025): the invocation was
+│      unlawful — no war, no invasion by a foreign nation. W.M.M. v. Trump (5th Cir. en
+│      banc, 8/13/2026): DISMISSED AS MOOT — all three named plaintiffs had been removed
+│      under ordinary INA authority. ⚑ The 1798 statute's meaning remains undecided; the
+│      ordinary pipeline did the work the emergency statute could not.
+│
+├─ G. THIRD-COUNTRY REMOVAL  §1231(b)(2)(E)(vii)  ⚑ STAYED, running
+│      DHS guidance (2/–3/2025): remove to a country that "will accept," with notice and
+│      a fear screening only if the destination has given no diplomatic assurance.
+│      D.V.D. v. DHS (D. Mass., Murphy): injunction 4/18/2025 ──▶ S. Ct. STAYED it
+│      6/23/2025 (unsigned; Sotomayor dissent) ──▶ final judgment SET ASIDE the policy
+│      2/25/2026 ──▶ 1st Cir. stayed that pending expedited appeal. The removals continue.
+│      Destinations: El Salvador (CECOT) · Eswatini (≥30 by 7/2026; up to 160 for $5.1M)
+│      · Ghana (agreement 9/2025) · Uganda · Rwanda · South Sudan · Costa Rica · Panama.
+│
+└─ H. "SELF-DEPORTATION"  ✕ no order at all
+       The CBP Home app + a travel stipend: leave and no removal order issues. The
+       §1182(a)(9)(B) unlawful-presence bar (3 / 10 years) still attaches on exit.
+
+◆ WHO HOLDS THE SEATS  —  verified 2026-09-07
+│
+│   Attorney General ............... Todd Blanche  (acting from 4/2/2026 after Bondi's
+│                                    removal; confirmed 8/8, sworn 8/10/2026)
+│   EOIR Director .................. Sirce Owen (acting) — Daren Margolin, director from
+│                                    10/2025, resigned effective 7/18/2026; Owen returned
+│   BIA Chief Appellate IJ ......... David H. Wetmore
+│   DHS Secretary .................. Markwayne Mullin  (confirmed 54–45, 3/23/2026;
+│                                    Kristi Noem removed 3/5/2026)
+│   ICE Director ................... David Venturella (acting, from 6/1/2026; ex-GEO
+│                                    Group) — Todd Lyons resigned effective 5/31/2026
+│   CBP Commissioner ............... Rodney Scott
+│   USCIS Director ................. Joseph Edlow
+│   White House ..................... Tom Homan (border czar) · Stephen Miller (Deputy
+│                                    Chief of Staff for Policy — sidelined from
+│                                    operational control after Minneapolis, 3/2026)
+
+◆ WHAT THE PIPELINE TELLS YOU  —  five facts
+│
+│  1. THE ADJUDICATOR WORKS FOR THE PROSECUTOR'S DEPARTMENT. The judge is a DOJ employee;
+│     the Attorney General appoints her, can fire her (100+ fired since 2025), can replace
+│     her with a six-month military lawyer, and can certify her reviewing court's decision
+│     to himself. Article III appears twice — habeas for custody, the petition for review
+│     after the order — and neither stops the plane by itself.
+│
+│  2. THE FORK IS TAKEN BY AN OFFICER, ON A CLASSIFICATION, BEFORE ANY JUDGE. Arriving /
+│     entered without inspection / prior order / conviction — each label routes a person
+│     around Stages 3–7 entirely. The 2025 changes were almost all changes to the LABELS
+│     (2 years, not 14 days; "applicant for admission," not "present"), not to the statute.
+│
+│  3. THE BYPASS THAT WORKS IS THE ONE CONGRESS WROTE. Expedited removal (1996), mandatory
+│     detention (1996), reinstatement (1996), third-country removal (1996's §1231(b)) all
+│     carry volume in 2026. The emergency-authority shortcuts — §212(f) and the Alien
+│     Enemies Act — lost in the D.C. Circuit or were mooted in the Fifth. The FY2026 pace
+│     of 460,000 removals runs on IIRIRA, not on 1798.
+│
+│  4. DETENTION IS DECIDED BY CLASSIFICATION, NOT DANGEROUSNESS. Yajure Hurtado moved every
+│     EWI from §1226(a) to §1225(b) with one Board decision; 70.6% of the ~65,800 detained
+│     have no conviction. Whether a bond hearing exists now depends on the circuit; the
+│     Supreme Court hears the §1226(c) half on 10/13/2026 and the Fifth Circuit en banc the
+│     §1225(b) half in September.
+│
+│  5. NOTHING IN THE FORMAL PIPELINE PREVENTED THE WRONGFUL REMOVAL. Abrego Garcia held a
+│     withholding grant — Stage 5's mandatory relief — and was on the plane anyway. The
+│     remedy came from an Article III court after the fact, was contested for three months,
+│     and did not exist for the 238 sent to CECOT the same day.
