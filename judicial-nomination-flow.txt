@@ -1,0 +1,226 @@
+HOW A NOMINEE BECOMES A FEDERAL JUDGE — THE ARTICLE III TRACK   (as of September 3, 2026)
+│   Legend:  ──▶ main path   └─▶ branch/bypass   ◇ decision   ✕ dies here   ★ seated
+│            [precedent] = Senate practice with no basis in the Standing Rules or any statute
+│
+■ 0. THE FLOOR  —  what the Constitution actually assigns, and to whom
+│     │
+│     ├─ APPOINTMENTS CLAUSE (Art. II, § 2, cl. 2) — the President "shall nominate, and by
+│     │    and with the Advice and Consent of the Senate, shall appoint ... Judges of the
+│     │    supreme Court".  TWO acts, not one: nomination is the President's alone;
+│     │    appointment happens only after the Senate consents.  The House has no role.
+│     │
+│     ├─ ARTICLE III, § 1 — judges "shall hold their Offices during good Behaviour" and their
+│     │    compensation "shall not be diminished during their Continuance in Office."
+│     │    No term.  No mandatory retirement age.  No performance review.
+│     │
+│     └─ CONGRESS CREATES THE SEATS, BY ORDINARY STATUTE — not the Constitution
+│          ├─ 9 Supreme Court justices ......... set by statute since 1869; NOT constitutional
+│          ├─ 179 circuit judgeships ........... 28 U.S.C. § 44, allocated circuit by circuit
+│          │      DC 11 · 1st 6 · 2d 13 · 3d 14 · 4th 15 · 5th 17 · 6th 16 · 7th 11
+│          │      8th 11 · 9th 29 · 10th 12 · 11th 12 · Federal 12
+│          ├─ 677 district judgeships .......... 28 U.S.C. § 133, allocated district by district
+│          │      [677 includes 10 temporary judgeships and 4 Article IV territorial seats;
+│          │       673 is the Article III district count — both figures are correct, they
+│          │       answer different questions]
+│          └─ 9 Court of International Trade ... also Article III, also life-tenured
+│               [Total authorized Article III seats: 9 + 179 + 673 + 9]
+│
+├──▶ 1. A SEAT MUST OPEN   ◆ THE STAGE THAT ACTUALLY RATIONS THE APPOINTMENT POWER
+│     │   Six doors, and the executive branch controls exactly one of them.
+│     │
+│     ├─ DEATH IN ACTIVE SERVICE ................................ nobody's decision
+│     ├─ RESIGNATION or full retirement (28 U.S.C. § 371(a)) ..... the judge's decision
+│     ├─ ELEVATION (district judge confirmed to a circuit) ....... creates a second vacancy
+│     │      behind it — one confirmation, two seats to fill
+│     ├─ REMOVAL BY IMPEACHMENT ................................. the ONLY removal route
+│     │      House impeaches by majority · Senate convicts by two-thirds
+│     │      [15 federal judges impeached since 1803; 8 convicted and removed;
+│     │       4 acquitted; 3 resigned before a Senate vote.  Most recent: 2010]
+│     ├─ NEW JUDGESHIP CREATED BY STATUTE ....................... requires an act of Congress
+│     │      [NONE enacted 2025-26.  JUDGES Act of 2024 passed both chambers and was
+│     │       VETOED Dec 2024.  Reintroduced as H.R. 1702 (65 permanent + 1 temporary
+│     │       district seats): reported out of House Judiciary 16-11 on Mar 5, 2025 and
+│     │       has had NO further action since]
+│     │
+│     └─◆ SENIOR STATUS (28 U.S.C. § 371(b)) — the door that supplies most vacancies
+│          │   The judge keeps the office and the salary, retires from REGULAR ACTIVE
+│          │   service, and the seat opens for a successor (§ 371(d)).  Voluntary.
+│          │
+│          ├─ ELIGIBILITY — the "RULE OF 80" (§ 371(c)), though the statute never says 80:
+│          │      age 65 + 15 yrs · 66 + 14 · 67 + 13 · 68 + 12 · 69 + 11 · 70 + 10
+│          │      Each pair sums to 80.  § 371(f): service on ANY Art. III court counts,
+│          │      so an elevated district judge qualifies earlier than a direct appointee.
+│          ├─ ELIGIBLE ≠ OBLIGED — a qualifying judge may stay in active service for life
+│          ├─ CONDITIONAL TIMING — a judge may announce senior status effective on a date,
+│          │      on a successor's confirmation, or not at all.  This makes the timing of
+│          │      the vacancy a political act available to the judge, not to the President.
+│          └─ KEEPING THE SALARY (§ 371(e)) — a senior judge draws the CURRENT salary with
+│                 future raises only if certified annually by the chief judge of the circuit
+│                 as carrying >= 3 months of an average active judge's caseload (or disabled);
+│                 otherwise the pay freezes at the rate on the day of retirement.
+│
+│     ┌── THE 2026 STATE OF THE BOARD  (uscourts.gov, as of Sept 2, 2026) ────────────────┐
+│     │  CURRENT VACANCIES ......... 26   — ALL 26 ARE DISTRICT SEATS                     │
+│     │  Supreme Court ............... 0     Courts of Appeals .... 0                      │
+│     │  Court of International Trade  0     Nominees pending ...... 4                     │
+│     │  FUTURE (announced) VACANCIES  12   — 3 circuit (5th, 8th, 10th) + 9 district      │
+│     │  ART. III JUDGES CONFIRMED SINCE JAN 2025 ......... 53                             │
+│     │      42 district · 10 circuit · 1 Court of International Trade                     │
+│     │      [last Art. III confirmation: Antonio Pozos, E.D. Pa., July 23, 2026 —         │
+│     │       nothing judicial confirmed in the six weeks since]                           │
+│     │  ⇒ THE APPELLATE BENCH IS FULL.  The pipeline is not slow; it is out of seats.     │
+│     └────────────────────────────────────────────────────────────────────────────────────┘
+│
+├──▶ 2. SELECTION   —   inside the executive branch, no public record, no deadline
+│     │
+│     ├─◆ WHITE HOUSE COUNSEL'S OFFICE — runs point.  Owns the shortlist and the decision
+│     │      memo to the President, who is the final word.
+│     │      [Will Scharf took office as White House Counsel Sept 1, 2026, succeeding
+│     │       David Warrington, who left for the private sector.  Announced Aug 9, 2026]
+│     │
+│     ├─ DOJ OFFICE OF LEGAL POLICY — the post-selection shop: record-combing, questionnaire
+│     │      preparation, confirmation management.  OLP does not pick; it processes.
+│     │      [AAG for Legal Policy: Daniel Burrows, confirmed 52-46 on Feb 10, 2026,
+│     │       after the seat sat vacant from June 2025]
+│     │
+│     ├─ HOME-STATE SENATORS — consulted for district seats because the blue slip is waiting
+│     │      downstream at Stage 5.  Circuit seats need no such consultation since 2017.
+│     │
+│     └─ OUTSIDE PIPELINES — consultative, not directive:
+│          ├─ Federalist Society network — still the talent pool for essentially every
+│          │      nominee, notwithstanding the President's public break with Leonard Leo
+│          │      personally on May 29-30, 2025 over the tariff ruling
+│          ├─ Article III Project · America First Legal · allied movement litigators
+│          └─ [WHAT CHANGED: the vetting is run from the White House rather than delegated
+│               to an outside credentialing body.  The bench it draws from did not change]
+│
+├──▶ 3. VETTING   —   what is compiled before a name is sent up
+│     │
+│     ├─ FBI full-field background investigation ......... executive branch, not public
+│     ├─ Financial disclosure ......................... required, public after nomination
+│     ├─ SENATE JUDICIARY QUESTIONNAIRE (the "SJQ") .... the core public record: every
+│     │      published writing, speech, case, client and judicial opinion
+│     └─◇ AMERICAN BAR ASSOCIATION RATING?
+│          │   Well Qualified / Qualified / Not Qualified.  A custom, never a rule; no
+│          │   statute or Senate rule has ever required it.
+│          ├─ PRE-NOMINATION ACCESS: gone since 2001, briefly restored 2009-16, gone again
+│          │      since Mar 17, 2017
+│          └─ COOPERATION: withdrawn May 29, 2025 — the Attorney General notified the ABA
+│                 that nominees would no longer sign confidentiality waivers for bar records,
+│                 respond to ABA questionnaires, or sit for ABA interviews.
+│                 ⇒ The ABA still rates nominees, now FROM THE PUBLIC RECORD ONLY, and still
+│                    files the ratings with the committee, where the majority treats a low
+│                    rating as a credential rather than an obstacle.
+│                 [First "Not Qualified" of the term: Kathleen Lane, D. Mont., rated NQ on
+│                  experience alone; reported out Apr 30, 2026 and CONFIRMED 52-46 June 2, 2026]
+│
+├──▶ 4. NOMINATION FORMALLY TRANSMITTED to the Senate ──▶ referred to the JUDICIARY COMMITTEE
+│     │      [Senate Judiciary, 119th Congress: 12 R - 10 D · Chairman Chuck Grassley ·
+│     │       Ranking Member Dick Durbin]
+│     │      CUSTOM, NOT RULE: ~28 days between the committee receiving background materials
+│     │      and the hearing.  In late 2025 the White House began withholding the PUBLIC
+│     │      announcement until roughly 48 hours before the hearing, compressing outside
+│     │      scrutiny without shortening the committee's own clock.  [single-source]
+│     │
+├──▶ 5. ◇ THE BLUE SLIP GATE   ◆ THE LAST MINORITY VETO IN THE JUDICIAL PIPELINE
+│     │   Each home-state senator receives a blue form.  Returned = proceed.  Withheld =
+│     │   the chairman does not schedule a hearing, and the nomination simply never moves.
+│     │   Not a rule.  Not a statute.  Not enforceable.  Entirely the chairman's policy.
+│     │
+│     ├─ CIRCUIT JUDGES ......... NO BLUE SLIP.  Abandoned in 2017.  Objections are noted
+│     │                             and ignored.
+│     ├─ DISTRICT JUDGES ........ BLUE SLIP APPLIES
+│     ├─ U.S. ATTORNEYS ......... BLUE SLIP APPLIES
+│     ├─ U.S. MARSHALS .......... BLUE SLIP APPLIES
+│     │
+│     ├──✕ WITHHELD ─▶ the nomination dies of never being scheduled.  No vote is ever taken,
+│     │        so there is no record of it failing.
+│     │        [LIVE 2026: the Senate Democratic leader has withheld slips on New York
+│     │         district and U.S. Attorney nominees for over a year.  A U.S. Attorney
+│     │         nomination in New Jersey collapsed on withheld slips in Dec 2025]
+│     │        [AND IT CUTS BOTH WAYS: Michigan's and Pennsylvania's Democratic senators
+│     │         RETURNED slips in 2026, which is the only reason two district nominees from
+│     │         blue states got hearings on June 10, 2026]
+│     │
+│     └─ WHY IT SURVIVED: the President demanded publicly, repeatedly, from July 2025
+│            onward that the chairman abolish it.  The chairman refused and, on June 18,
+│            2026, said he will keep it as long as he chairs the committee.  The majority
+│            leader backed him, citing his own use of a blue slip against a Biden nominee.
+│            ⇒ It is held in place by the expectation of being in the minority again —
+│              not by tradition, and not by any text.
+│
+├──▶ 6. COMMITTEE STAGE
+│     ├─ HEARING — typically 4-5 district nominees on one panel; circuit and Supreme Court
+│     │      nominees heard alone.  Questions for the Record follow in writing.
+│     ├─ HELD OVER — any single member may hold a nomination over for one week at the first
+│     │      markup it appears on.  Effectively automatic; costs one week.
+│     ├─◇ COMMITTEE VOTE — simple majority.  Party-line is now the norm.
+│     │      └──✕ voted down ─▶ dead (a chairman may still discharge, but does not)
+│     └─ REPORTED ──▶ placed on the SENATE EXECUTIVE CALENDAR
+│
+├──▶ 7. FLOOR   ◆ AND HERE THE ARTICLE III TRACK IS DELIBERATELY THE SLOW ONE
+│     │
+│     ├─◇ CLOTURE — SIMPLE MAJORITY for every judicial nominee.   [precedent]
+│     │      district + circuit: since the Nov 2013 nuclear option
+│     │      Supreme Court:      since the Apr 2017 nuclear option
+│     │
+│     ├─ POST-CLOTURE DEBATE TIME
+│     │      district judges ......  2 hours   [precedent, set Apr 3, 2019]
+│     │      circuit judges ....... 30 hours
+│     │      Supreme Court ........ 30 hours
+│     │
+│     ├─◆ THE EN BLOC TRACK IS CLOSED TO ARTICLE III JUDGES — BY EXPRESS TEXT
+│     │      In Sept 2025 the majority reversed the chair twice (Sept 11 and Sept 17) to
+│     │      permit SIMPLE-MAJORITY cloture on batches of nominations moved as a single
+│     │      package.  The point of order carving out the exceptions reads: all nominations
+│     │      "other than those on level 1 of the executive schedule under 5 U.S.C. 5312
+│     │      or article III judges."
+│     │      ├─ EXCLUDED: Supreme Court, Courts of Appeals, District Courts, Court of
+│     │      │      International Trade — and the 21 Level I executive-schedule seats
+│     │      ├─ INCLUDED: everything else, including U.S. Attorneys and U.S. Marshals
+│     │      └─ ⇒ A U.S. Attorney must clear a blue slip in committee but can then ride a
+│     │             70-name package to the floor.  A DISTRICT JUDGE MUST CLEAR THE SAME BLUE
+│     │             SLIP AND THEN BE TAKEN UP ALONE.  The carve-out was written on purpose.
+│     │
+│     ├─ CONFIRMATION VOTE — simple majority, taken individually, one judge at a time
+│     │      [No Article III nominee has been confirmed by voice vote or unanimous consent
+│     │       at any point in this term.  Every judge costs floor time]
+│     │
+│     └──✕ RETURNED TO THE PRESIDENT — at the end of a session, or any adjournment or recess
+│              of more than 30 days, every pending nomination is returned unless the Senate
+│              agrees to hold it over (Senate Rule XXXI).  A returned nominee must be
+│              RENOMINATED and, in practice, re-run through the committee.
+│
+└──▶ 8. APPOINTMENT AND SEATING   ★
+      ├─ The President signs the COMMISSION — the appointment is complete at this act,
+      │      not at the Senate vote.  The President may decline to sign; a nominee may
+      │      decline to accept.
+      ├─ TWO OATHS, both required before taking office:
+      │      constitutional oath ... 5 U.S.C. § 3331 ("support and defend the Constitution")
+      │      judicial oath ......... 28 U.S.C. § 453 ("administer justice without respect
+      │                              to persons, and do equal right to the poor and to the rich")
+      ├─ Investiture; the judge takes the bench
+      └─ TENURE BEGINS AND DOES NOT END — no term, no reappointment, no review, no recall.
+           The next decision point on this seat is Stage 1, and it belongs to the judge.
+
+═══════════════════════════════════════════════════════════════════════════════════════════
+  FIVE STRUCTURAL FACTS
+  1. THE VACANCY IS THE SCARCE RESOURCE, NOT THE VOTES.  With a friendly Senate and no
+     filibuster, the appointment power still stalls, because the only large supply of
+     vacancies comes from sitting judges volunteering to leave — and the timing of that
+     is theirs.  Zero circuit vacancies in Sept 2026 is not a Senate outcome.
+  2. NEARLY EVERY SENATE RULE HERE IS PRECEDENT, NOT TEXT.  Majority cloture (2013, 2017),
+     the 2-hour district clock (2019), and the en bloc procedure (2025) were all created by
+     a majority overturning the presiding officer.  None is in the Standing Rules.  Each can
+     be undone the same way, in one afternoon, by whoever next holds 51 seats.
+  3. THE BLUE SLIP IS THE ONLY REMAINING MINORITY VETO, AND IT IS A COURTESY.  It survives
+     on the majority's expectation of someday being the minority.  One chairman's decision
+     ends it — and the chairmanship is unsettled, since the senator next in line for the
+     Republican slot died in July 2026.
+  4. THE SLOW LANE FOR JUDGES IS DELIBERATE, AND IT WAS BUILT BY THE JUDGES' OWN ALLIES.
+     The 2025 en bloc carve-out for Article III seats was written into the text of the point
+     of order.  A majority that wanted to batch-confirm judges could have; it chose not to.
+  5. THE EXIT IS NARROWER THAN THE ENTRANCE.  Confirmation takes 51 votes.  Removal takes
+     a House majority and 67 senators, and has succeeded 8 times in 220 years.  Everything
+     upstream of Stage 1 is contested annually; Stage 8 is effectively permanent.
+═══════════════════════════════════════════════════════════════════════════════════════════
