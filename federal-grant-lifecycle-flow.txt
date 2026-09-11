@@ -1,0 +1,156 @@
+THE FEDERAL GRANT LIFECYCLE — APPROPRIATION TO CLOSEOUT  (and the ways it stops)
+│   Legend:  ──▶ main path   └─▶ branch/bypass   ◇ decision   ✕ money stops   ★ money moves
+│   Scope: FEDERAL FINANCIAL ASSISTANCE (grants + cooperative agreements), 2 CFR Part 200.
+│          Procurement contracts run on the FAR and are NOT on this map.
+│
+■ 0. THE FLOOR — WHAT KIND OF MONEY IS THIS?  (decided before anything else)
+│     Three axes set every downstream rule:
+│     ├─ DISCRETIONARY (agency picks winners by competition)  vs
+│     │  FORMULA / BLOCK (statute picks winners by arithmetic — population, poverty,
+│     │  road miles; the agency has almost no say in WHO gets it)
+│     ├─ MANDATORY (entitlement authority, flows without an annual bill)  vs
+│     │  ANNUALLY APPROPRIATED (dies if the bill dies)
+│     └─ PASS-THROUGH: most federal grant money is not spent by whoever receives it.
+│        Federal agency ──▶ pass-through entity (usually a STATE) ──▶ subrecipient
+│        (county, district, clinic, nonprofit). Each layer re-imposes the terms.
+│     ◇ Which axis a program sits on determines what a cancellation can even reach:
+│        a formula grant is hard to deny to a named recipient; a discretionary
+│        award is a decision, and a decision can be revisited.
+│
+├─◆ 1. AUTHORITY + APPROPRIATION  (upstream — see the appropriations map)
+│     A statute creates the program and permits the assistance; an appropriations
+│     act supplies the budget authority. Neither of these moves a dollar.
+│
+├─◆ 2. OMB APPORTIONMENT  (the first place enacted money can sit still)
+│     OMB releases budget authority to the agency by time period, program, or
+│     activity — and may attach FOOTNOTES conditioning or delaying release.
+│     └─▶ ✕ APPORTIONMENT FOOTNOTE / SLOW-WALK: enacted, unspent, no vote taken.
+│          Policy-motivated withholding is the impoundment line; deferral and
+│          rescission are the only lawful routes and both report to Congress.
+│     └─▶ ✕ POCKET RESCISSION: a rescission proposal sent so late in the fiscal
+│          year that the 45-day clock outlives the funds. [Used in 2025–26 and
+│          contested as an evasion of the Impoundment Control Act.]
+│
+├─◆ 3. THE NOTICE OF FUNDING OPPORTUNITY  (the NOFO — the agency's shopping list)
+│     Published on the government-wide site; states eligibility, the ceiling, the
+│     match, the review criteria, the period of performance, and the priorities.
+│     ★ THIS IS WHERE POLICY IS ACTUALLY SET. Rewriting the criteria redirects a
+│       program without touching the statute or the appropriation.
+│     [EO 14332 (Aug 7, 2025) requires a SENIOR POLITICAL APPOINTEE to review new
+│      discretionary funding opportunities and awards for consistency with agency
+│      priorities and the national interest — a political gate ahead of the
+│      technical one, at the stage that defines who can even apply.]
+│     └─▶ ✕ NOFO CANCELED OR NEVER ISSUED: the quietest stop of all. Appropriated
+│          money with no competition open cannot be applied for.
+│
+├─◆ 4. APPLICATION + MERIT REVIEW  (the part everyone pictures)
+│     Applicant registers (entity ID + system registration) ──▶ submits ──▶
+│     screened for responsiveness ──▶ peer / merit panel scores ──▶ program
+│     officer ranks ──▶ ◇ selecting official decides.
+│     ├─ Peer review is ADVISORY almost everywhere. The score orders the queue;
+│     │    it does not compel an award.
+│     └─▶ ✕ non-selection: no appeal. There is no right to a grant.
+│
+├─◆ 5. THE AWARD  (the notice of award — where the rules attach)
+│     Obligation recorded. The award document + 2 CFR Part 200 + agency terms +
+│     program terms + any SPECIAL conditions = the recipient's whole rulebook.
+│     ├─ GENERAL terms: cost principles, procurement standards, reporting,
+│     │    record retention, civil-rights and other cross-cutting assurances.
+│     ├─ INDIRECT COST RATE: the negotiated percentage that funds the facilities
+│     │    and administration behind the work. [Attempts to cap it at a flat rate
+│     │    across research agencies in 2025 were enjoined; the fight moved into
+│     │    rate negotiation and into the proposed rewrite of the regulation.]
+│     └─ ★ TERMINATION CLAUSE: the single most consequential line in the document.
+│          Whether the agency may end the award "for convenience" — and on what
+│          grounds — is decided HERE, in boilerplate, years before it is used.
+│
+├─◆ 6. PERFORMANCE + DRAWDOWN  (★ money finally moves)
+│     Recipient incurs costs ──▶ draws funds through the agency's payment system
+│     ──▶ files financial and performance reports on a set cycle.
+│     Reimbursement is the default; advance payment is the exception.
+│     └─▶ ✕ DRAWDOWN FREEZE: the account is switched off without any formal
+│          termination. Fast, undocumented, and the hardest step to litigate,
+│          because there may be no final agency action to point at.
+│
+├─◆ 7. AMENDMENT, CONTINUATION, AND RENEWAL  (the annual re-decision)
+│     Multi-year awards are usually funded one budget period at a time. Each
+│     continuation is a fresh discretionary act.
+│     └─▶ ✕ NON-CONTINUATION: not a termination — just no next year. Same effect
+│          on the recipient, far less process owed.
+│     └─▶ ◇ NEW CONDITION ATTACHED AT RENEWAL: the leverage move. Accepting the
+│          money means accepting terms the original competition never mentioned.
+│
+├─◆ 8. SUSPENSION AND TERMINATION  (the interruption track that carried 2025–26)
+│     ├─ SUSPENSION: a temporary stop-work pending review. No finding required
+│     │    up front; costs incurred during it are generally not allowable.
+│     ├─ TERMINATION FOR CAUSE: the recipient failed to comply. Slow, documented,
+│     │    appealable, and rare.
+│     └─ ★ TERMINATION "FOR CONVENIENCE" / NO LONGER EFFECTUATING PRIORITIES —
+│          2 CFR 200.340. THE MECHANISM OF THE ERA.
+│          ├─ The Oct 1, 2024 revision NARROWED it: for awards made after that
+│          │    date, an agency generally may not terminate on the "program goals
+│          │    or agency priorities" ground unless that authority was written
+│          │    expressly into the award. Pre-2024 awards are on the old text.
+│          ├─ [Agencies nonetheless leaned on that ground from 2025 to cancel
+│          │    billions across research, education, public health and climate
+│          │    portfolios — the largest documented tranches at NIH and NSF.]
+│          ├─ [EO 14332 (Aug 7, 2025) ordered agencies to REVISE EXISTING terms
+│          │    to permit immediate termination for convenience — closing the
+│          │    gap the 2024 revision had opened, by contract rather than rule.]
+│          ├─ [✕ D. Mass., Jul 17, 2026 (No. 1:25-cv-11816-IT, multistate suit):
+│          │    § 200.340 does NOT authorize terminating a grant over priorities
+│          │    the agency adopted AFTER the award, where the award itself
+│          │    reserved no such ground — resting on the regulation's own notice
+│          │    requirements and Spending Clause notice doctrine. The clause is
+│          │    read as a notice rule, not a reservation of open-ended discretion.]
+│          └─ [The May 29, 2026 proposed rewrite of 2 CFR Part 200 would import
+│               the procurement termination-for-convenience standard wholesale
+│               and let an agency terminate if the award does not effectuate
+│               priorities "as they exist at the time of termination." Comments
+│               closed Jul 13, 2026; proposed effective date Oct 1, 2026 (FY27).
+│               NOT FINAL as of this map's date.]
+│
+├─◆ 9. THE RECIPIENT'S REMEDIES  (three doors, and a jurisdictional trap)
+│     ├─ AGENCY-LEVEL: dispute or appeal to the agency's own board or appeals
+│     │    office. Availability varies by agency; some have none at all.
+│     ├─ DISTRICT COURT under the APA: attacks the POLICY or the process as
+│     │    arbitrary, capricious, or beyond authority. Remedy is vacatur, not cash.
+│     └─ COURT OF FEDERAL CLAIMS under the Tucker Act: attacks the loss of MONEY
+│          owed under the award. Remedy is damages, not reinstatement.
+│     ◇ THE TRAP: the Supreme Court's Aug 21, 2025 stay order in the NIH research
+│        grant litigation held that a district court likely lacks jurisdiction
+│        over claims resting on an obligation to pay money — those belong in the
+│        Court of Federal Claims. A recipient who wants BOTH the policy undone and
+│        the money back must now generally file TWO suits in TWO courts, on two
+│        clocks, neither of which can give the other's remedy.
+│        [Follows the Apr 2025 stay in the Department of Education teacher-grant
+│         case, which drew the same money-vs-policy line.]
+│     └─▶ ✕ And no court has to reach any of it if the award's own terms
+│          authorized the termination in the first place — see stage 5.
+│
+└─◆ 10. CLOSEOUT AND AUDIT  (the tail nobody plans for)
+      Final reports ──▶ final drawdown ──▶ liquidation of obligations ──▶ closeout.
+      ├─ SINGLE AUDIT: entities spending above the federal threshold in a year get
+      │    one organization-wide audit rather than one per grant. Findings feed a
+      │    government-wide clearinghouse and follow the entity to its next award.
+      ├─ RECORD RETENTION runs years past closeout; so does the government's
+      │    ability to disallow a cost already spent and demand it back.
+      └─ ◇ DISALLOWED COSTS ──▶ debt collection ──▶ offset against other awards.
+           Closeout is not the end of exposure.
+
+  ┌──────────────────────────────────────────────────────────────────────────┐
+  │  WHAT THE SHAPE SHOWS                                                    │
+  │  1. Appropriation is the START of the pipeline, not the end. Every stop   │
+  │     on this map happens AFTER Congress has already voted the money.       │
+  │  2. Every one of those stops is administrative. Apportionment footnote,   │
+  │     NOFO never issued, drawdown freeze, non-continuation, termination for │
+  │     convenience — not one requires a bill, a vote, or a finding of fault. │
+  │  3. The decisive text is boilerplate. Whether an award can be canceled at │
+  │     will is settled in the terms and conditions at stage 5 — years before │
+  │     anyone wants to cancel it, and by no one the recipient negotiated with.│
+  │  4. The remedy was split in two. After Aug 2025 the recipient sues in one │
+  │     court for the policy and another for the money, and wins reinstatement │
+  │     in neither by itself.                                                 │
+  │  5. Most of this money is not the government's to hand out directly — it  │
+  │     passes through states, which re-impose every term one layer down.     │
+  └──────────────────────────────────────────────────────────────────────────┘
