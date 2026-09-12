@@ -1,0 +1,233 @@
+THE PARDON AND CLEMENCY PIPELINE  —  the formal track, the informal track, and the missing checks
+│   Legend: ──▶ main path  └─▶ branch  ◇ decision  ★ operative act  ✕ closed  ⚑ structural point
+│   Process evergreen · seats and dispositions verified 2026-09-11 · cites to 28 C.F.R. Part 1
+│
+■ 0. THE FLOOR  —  one sentence of constitutional text, and four limits inside it
+│
+│   Art. II, §2, cl. 1: the President "shall have Power to grant Reprieves and Pardons for
+│   Offences against the United States, except in Cases of Impeachment."
+│
+│   ⚑ FOUR LIMITS LIVE IN THAT SENTENCE — AND THEY ARE THE ONLY ONES.
+│   ├─ 1. FEDERAL ONLY. "Offences against the United States" excludes every state crime.
+│   │       A pardoned defendant remains exposed to state prosecution for the same conduct.
+│   │       ✕ No president can reach a state charge, a state conviction, or a state fine.
+│   ├─ 2. NOT IMPEACHMENT. The one express carve-out. A pardon cannot stop, undo, or
+│   │       reverse an impeachment, a Senate trial, or a judgment of disqualification.
+│   ├─ 3. PAST CONDUCT ONLY. The offence must already have been committed. A pardon
+│   │       may issue BEFORE charge, indictment, or conviction (Ex parte Garland, 1866;
+│   │       the Nixon pardon, 1974) — but it cannot license future conduct.
+│   └─ 4. CRIMINAL ONLY. It reaches criminal penalties. It does NOT reach civil liability,
+│           private suits, professional discipline, immigration consequences in every case,
+│           or (in the ordinary case) a civil judgment owed to a victim.
+│
+│   ⚑ EVERYTHING ELSE PEOPLE BELIEVE IS A LIMIT IS ACTUALLY A REGULATION.
+│   The waiting period, the application form, the FBI check, the "acceptance of
+│   responsibility" criterion, the Pardon Attorney's recommendation — all 28 C.F.R.
+│   Part 1, all internal to DOJ, all waivable by the President in any case, silently.
+│
+■ 1. THE FIVE FORMS  —  what the power can actually issue
+│
+│   ├─ FULL PARDON .............. forgives the offence; restores civil rights (vote, firearms
+│   │                             under federal law, office); does NOT expunge the conviction
+│   │                             and does NOT erase the record.
+│   ├─ COMMUTATION ............. shortens or ends the SENTENCE; leaves the conviction intact
+│   │                             and does NOT restore civil rights.
+│   ├─ REMISSION ............... cancels a fine, forfeiture, or restitution obligation.
+│   │                             ★ This is the form that moves money. See block 7.
+│   ├─ REPRIEVE ................ postpones execution of a sentence (temporary, not final).
+│   └─ BLANKET / CATEGORICAL ... a proclamation covering a defined CLASS rather than named
+│                                individuals (the J6 proclamation, Jan. 20, 2025; Carter's
+│                                1977 draft-evader amnesty). No petitions, no files, no names.
+│
+│   ◇ Preemptive (pre-charge) clemency? ──yes──▶ lawful; no petition exists to process;
+│     Track A has no role at all. This is the purest form of Track B.
+│
+■ 2. TRACK A  —  THE FORMAL ROUTE  (28 C.F.R. §§ 1.1–1.11)
+│
+│   ◆ 2a. ELIGIBILITY GATE  (§§ 1.1–1.2) — a filing rule, not a power limit
+│   │   ├─ Pardon: wait ≥ 5 YEARS from release from confinement, or from conviction if
+│   │   │     no prison term was imposed (§ 1.2).
+│   │   ├─ Generally no petition while on probation, parole, or supervised release.
+│   │   ├─ Commutation: petition while still serving (§ 1.3); exhaust other remedies first.
+│   │   └─ ⚑ WHO IS EXEMPT FROM THE FIVE-YEAR RULE: everyone the President wants to be.
+│   │         The waiting period binds the CLERK, not the PRESIDENT. A grant that skips it
+│   │         is not irregular and not reviewable — it simply never entered Track A.
+│   │
+│   ◆ 2b. PETITION FILED  (§ 1.1) — addressed to the President, delivered to the Pardon
+│   │       Attorney. Sworn. Offence, sentence, restitution status, employment, references.
+│   │
+│   ◆ 2c. OFFICE OF THE PARDON ATTORNEY — investigation and recommendation
+│   │   ├─ FBI background investigation · court and BOP records pulled
+│   │   ├─ Views solicited from the prosecuting U.S. Attorney's office (§ 1.6)
+│   │   ├─ Victim input where applicable
+│   │   ├─ Merit criteria applied: post-conviction conduct, seriousness and recency of the
+│   │   │     offence, acceptance of responsibility, need for relief, official recommendations
+│   │   └─ ★ WRITTEN RECOMMENDATION prepared for the Deputy Attorney General (§ 1.6)
+│   │         ⚑ Advisory only. § 1.11 says so in terms: the regulations are "advisory only"
+│   │           and create NO enforceable rights in any person.
+│   │
+│   ◆ 2d. DEPUTY ATTORNEY GENERAL  (28 C.F.R. § 0.35–0.36) — the DOJ signature layer
+│   │   └─▶ transmits the recommendation, or does not. A recommendation that stops here
+│   │         is not appealable and the petitioner is not told why.
+│   │
+│   ◆ 2e. WHITE HOUSE COUNSEL'S OFFICE — the real chokepoint of Track A
+│   │   └─▶ staff review → Counsel to the President → Chief of Staff controls whether
+│   │         the case ever reaches the Oval Office at all.
+│   │
+│   ◆ 2f. ★ THE PRESIDENT SIGNS — or does nothing, forever. Denial and inaction are
+│           indistinguishable to the petitioner. § 1.8: notice of denial issues, and the
+│           petitioner may refile after two years. No reasons are given.
+│
+│   ⚑ TRACK A'S THROUGHPUT IS A POLICY CHOICE, NOT A CAPACITY LIMIT.
+│   ≈14,000 clemency applications were pending before DOJ as of Aug. 2026 (House Judiciary
+│   Cmte. minority staff report, Aug. 21, 2026). The backlog had been cut from ≈18,000 to
+│   ≈3,000 under the career Pardon Attorney removed in March 2025, with ≈6,000+ pending on
+│   the day of that removal. The office is staffed at roughly 40 attorney and non-attorney
+│   personnel. Nothing in Track A is fast, and nothing in Track B has to be.
+│
+■ 3. TRACK B  —  THE INFORMAL ROUTE  (no regulation governs this and none can)
+│
+│   ENTRY POINTS ──▶ ◆ direct access to the President (rally, club, dinner, phone)
+│                ──▶ ◆ the White House "pardon czar" — a staff role created Feb. 2025 with
+│                │        no statutory basis, no confirmation, and no place in Part 1
+│                ──▶ ◆ the White House Counsel's office (staff attorney → Counsel)
+│                ──▶ ◆ the Chief of Staff, who controls the Oval Office schedule
+│                ──▶ ◆ family members and longtime allies outside the government
+│                ──▶ ◆ retained advocates: lawyers, lobbyists, former officials
+│
+│   ├─ NO petition required.          ├─ NO five-year wait.
+│   ├─ NO FBI investigation.          ├─ NO prosecutor's views solicited.
+│   ├─ NO victim notice.              ├─ NO DOJ file — so no FOIA-able record of the ask.
+│   └─ NO written recommendation, therefore nothing later to compare the grant against.
+│
+│   ◇ What makes a Track B case succeed? Two things, per every account of the operation:
+│     └─▶ ACCESS (who can physically get the case in front of the President), and
+│     └─▶ NARRATIVE (whether the case can be framed as political persecution — a
+│           weaponized prosecution, a hostile judge, a Biden-era target).
+│
+│   ⚑ TRACK B IS NOT A LOOPHOLE. IT IS THE CONSTITUTIONAL DEFAULT.
+│   Track A is the thing that was built on top. When the two disagree, Track A loses,
+│   and there is no forum in which to say so.
+│
+│   ⚑ THE MARKET THAT FORMS AROUND AN UNREVIEWABLE POWER.
+│   Because access is the scarce input, access is what gets priced. Advocacy fees in the
+│   millions have been reported by people inside the process, including fees taken from
+│   defendants on whose behalf nothing was ever done — a market with no disclosure regime,
+│   no registration requirement that clearly covers it, and no remedy for nonperformance.
+│
+■ 4. THE ACT ITSELF  —  what it takes to make a pardon legally effective
+│
+│   ├─ FORM: the Constitution specifies none. The Fourth Circuit has held that a pardon
+│   │     need not be written or signed to be effective — the text imposes no such limit.
+│   │     ⚑ This is why the autopen argument fails on its own terms: if no signature is
+│   │       required at all, the manner of signature cannot be what voids a grant. The
+│   │       live question is AUTHORIZATION (did the President decide?), not INK.
+│   ├─ DELIVERY AND ACCEPTANCE: a pardon must be accepted to take effect as to the
+│   │     recipient (Burdick v. United States, 1915 — a pardon may be REFUSED, and Burdick
+│   │     refused one to keep his Fifth Amendment privilege). A commutation, by contrast,
+│   │     may be imposed without consent.
+│   └─ ✕ NO REVOCATION. Once delivered and accepted, a pardon is done. A later President
+│         cannot void a predecessor's grant by proclamation, post, or order. An assertion
+│         that prior grants are "null and void" has no operative effect on its own; it
+│         would have to be tested by charging someone and litigating the defence.
+│
+■ 5. WHAT A PARDON DOES AND DOES NOT DO
+│
+│   DOES ──▶ ends the punishment · restores federal civil rights (vote in federal elections
+│        where state law follows, hold federal office, federal firearms disability lifted)
+│        · removes the conviction as a bar to many federal benefits and licenses
+│
+│   DOES NOT ──▶ ✕ expunge or seal the conviction — the record survives
+│            ──▶ ✕ establish innocence — acceptance has long been read as carrying an
+│                    imputation of guilt (Burdick)
+│            ──▶ ✕ reach state charges arising from the same conduct
+│            ──▶ ✕ automatically restore state-law rights (voting, firearms, licensure)
+│            ──▶ ✕ bar a congressional subpoena — and, once criminal exposure is gone,
+│                    the Fifth Amendment privilege against testifying largely goes with it
+│
+■ 6. THE CHECKS  —  drawn as a list of things that are not there
+│
+│   ✕ NO Senate vote.            ✕ NO judicial review of a grant or a denial.
+│   ✕ NO statutory criteria.     ✕ NO disclosure requirement for who asked, or was paid.
+│   ✕ NO reversal.               ✕ NO conflict-of-interest rule that reaches the President.
+│   ✕ NO appeal from a denial.   ✕ NO recusal mechanism for a self-interested grant.
+│
+│   WHAT ACTUALLY REMAINS:
+│   ├─ IMPEACHMENT — the only formal remedy, and the one proceeding a pardon cannot touch
+│   ├─ CONGRESSIONAL OVERSIGHT — hearings, staff reports, subpoenas (enforcement is weak)
+│   ├─ BRIBERY PROSECUTION of the INTERMEDIARIES — the pardon is unreviewable; a payment
+│   │     made to obtain one is still a federal crime for everyone below the President
+│   ├─ STATE PROSECUTORS — the jurisdiction no pardon reaches
+│   └─ ELECTIONS
+│
+│   ◇ Can the President pardon himself? ──▶ UNRESOLVED. Never done, never litigated,
+│     never decided by any court. A 1974 DOJ Office of Legal Counsel memorandum concluded
+│     he could not, on the nemo iudex principle; OLC binds the executive, not a court.
+│     ⚑ The map states this as open. Anyone who tells you it is settled is wrong in both
+│       directions.
+│
+■ 7. ⚑ THE MONEY DOOR  —  remission, and why it is the part that matters most
+│
+│   A full pardon in the ordinary case does not cancel a restitution obligation already
+│   reduced to a civil judgment — but a REMISSION expressly can, and a commutation can be
+│   drafted to relieve the balance of a financial penalty along with the sentence.
+│
+│   ──▶ fine remitted ──▶ forfeiture remitted ──▶ restitution obligation lifted
+│       └─▶ the victims' claim is extinguished by an act no victim can contest,
+│             in a proceeding with no notice, no hearing, and no record.
+│
+│   SCALE (attributed, not settled): the House Judiciary Committee minority staff put the
+│   second-term total of erased restitution, fines, and forfeitures at ≈$1.7 BILLION as of
+│   Aug. 21, 2026, up from its own ≈$1.3 billion estimate a year earlier. These are the
+│   minority's figures and include contested valuation choices; no neutral official total
+│   exists, because no office is required to compute one.
+│
+│   ⚑ THIS IS THE STRUCTURAL POINT OF THE WHOLE MAP. The clemency power is generally
+│   discussed as mercy toward a prisoner. Its largest measurable effect in 2025–26 has
+│   been the transfer of money away from crime victims and the Treasury — through the
+│   one instrument in American government with no review, no disclosure, and no appeal.
+│
+■ 8. STATE OF THE PIPELINE  —  as of 2026-09-11
+│
+│   ├─ ≈1,700+ people granted clemency since Jan. 2025 (press tallies), of which ≈1,500
+│   │     came from the single Jan. 20, 2025 J6 proclamation — a Track B categorical act
+│   ├─ Individual grants have come in bursts, with long gaps: only two new individual
+│   │     grants between early June and late Oct. 2025; a group of ≈30 announced by the
+│   │     White House pardon czar in early Sept. 2026
+│   ├─ ≈14,000 applications pending in Track A (HJC minority staff, Aug. 2026)
+│   ├─ A Reuters investigation cited in that report identified 290 advocates behind 197
+│   │     successful second-term bids, 624 advocacy efforts, ≥110 known allies
+│   └─ Removal of the career Pardon Attorney (Mar. 2025) → litigation still live in 2026
+│
+│   ◆ WHO HOLDS THE SEATS  (web-verified 2026-09-11 — ⚑ TWO OF THREE TURNED OVER IN 3 WEEKS)
+│   ├─ President .......................... Donald Trump  [the only decision-maker]
+│   ├─ White House Chief of Staff ......... Susie Wiles  [controls Oval Office access]
+│   ├─ Counsel to the President ........... Will Scharf  [since Sept. 1, 2026]
+│   │     └─ predecessor: David Warrington, Jan. 20, 2025 – Sept. 1, 2026
+│   ├─ White House "pardon czar" .......... Alice Marie Johnson  [since Feb. 2025;
+│   │     special government employee — capped at 130 days/yr, may earn outside income]
+│   ├─ Attorney General ................... Todd Blanche  [confirmed Aug. 8, 2026]
+│   ├─ Deputy Attorney General ............ Trent McCotter (acting)  [since Aug. 10, 2026]
+│   └─ Pardon Attorney .................... ✕ VACANT / [unconfirmed]
+│         └─ Ed Martin departed after the President's Aug. 21, 2026 announcement;
+│            no successor or acting designee had been publicly named as of this build.
+│            Predecessor: Elizabeth Oyer, career SES, removed March 2025.
+│
+│   ⚑ READ THAT SEAT LIST AGAIN. The office the regulations put at the centre of the
+│   process is EMPTY, and the process has not slowed down — because the regulations were
+│   never what was moving it.
+│
+■ 9. WHAT THE SHAPE SHOWS
+│
+│   1. TRACK A IS A COURTESY. Every step in it is regulatory, every regulation is
+│      advisory by its own terms (§ 1.11), and none of it binds the one person deciding.
+│   2. THE FIVE-YEAR RULE IS A FILING DEADLINE FOR STRANGERS. It screens the people
+│      who have to apply. It has never screened anyone who could telephone instead.
+│   3. THE GATEKEEPERS ARE SCHEDULERS. Chief of Staff, Counsel, czar — the contest is
+│      over whose case gets in front of the President, not over whether it qualifies.
+│   4. THE ABSENCE OF REVIEW CREATES A MARKET. An unreviewable, undisclosed, unappealable
+│      power with a scarce input (access) prices that input. That is not a scandal about
+│      individuals; it is what this structure does.
+│   5. THE ONLY REAL LIMITS ARE JURISDICTIONAL. State charge, impeachment, future conduct.
+│      A state attorney general is a harder constraint on this power than a federal judge,
+│      because a federal judge has no role in it at all.
