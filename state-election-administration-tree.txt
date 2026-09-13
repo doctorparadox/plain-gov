@@ -1,0 +1,184 @@
+STATE ELECTION ADMINISTRATION TREE — who actually runs American elections
+│   Legend:  ■ root  ◆ layer  ★ federally designated seat  ✕ absent/vacant  ⚑ 2026 pressure
+│   Time-slice: September 13, 2026 — 51 days before the November 3, 2026 midterm
+│
+■ 0. THE RULE THAT MAKES ALL OF THIS NECESSARY
+│     Art. I, § 4 — "The Times, Places and Manner of holding Elections for Senators and
+│     Representatives, shall be prescribed in each State by the Legislature thereof; but
+│     the Congress may at any time by Law make or alter such Regulations."
+│       ├─ ✕ There is NO national election authority. No federal body administers, counts,
+│       │    canvasses, or certifies a congressional election anywhere in the United States.
+│       ├─ The federal statutes below are MANDATES ON STATES, not a federal layer above them.
+│       │    They tell a state to designate someone. They do not create that someone.
+│       └─ CRS (R45549, 2019) frames the whole division in three words:
+│            STATES make policy · LOCALITIES implement · LOCALITIES mostly pay.
+│
+├─◆ 1. THE FEDERAL FLOOR — four statutes and one agency that currently cannot vote
+│     │
+│     ├─ NVRA (1993) ....... requires a state to designate a CHIEF STATE ELECTION OFFICIAL
+│     │                      to coordinate its duties.  52 U.S.C. § 20509
+│     ├─ UOCAVA (1986) ..... requires a state to designate a SINGLE OFFICE for military and
+│     │                      overseas voters.  52 U.S.C. § 20302(b)
+│     ├─ HAVA (2002) ....... requires a STATEWIDE computerized voter registration list held
+│     │                      at the state level (§ 21083) · provisional ballots · the EAC
+│     ├─ VRA (1965) ........ § 2 is live and litigated. § 5 preclearance survives on paper
+│     │                      but has no coverage formula [struck 2013, never replaced]
+│     └─ ★ ELECTION ASSISTANCE COMMISSION — the only federal agency devoted solely to
+│            election administration.  Four seats, no more than two per party, three votes
+│            required for ANY official action.
+│              ✕ ZERO COMMISSIONERS.  [Palmer resigned Apr 29, 2026 → Heritage Foundation;
+│                Hicks and Hovland fired by email Jul 9, 2026; McCormick allowed to resign
+│                the same day. White House cited Trump v. Slaughter.]
+│              ├─ STILL RUNS on career-staff delegated authority [Executive Director; then
+│              │    General Counsel → COO → CFO]:  disburse appropriated HAVA grants ·
+│              │    certify voting systems against EXISTING standards · maintain the national
+│              │    mail voter registration form · clearinghouse · hold non-voting meetings
+│              └─ ✕ CANNOT: adopt or amend the Voluntary Voting System Guidelines · change
+│                   the national registration form · add conditions to HAVA grants · hear a
+│                   decertification appeal · hire an Executive Director or General Counsel
+│              ⚑ Staff authority is frozen at the outer edge of the last valid Commission
+│                vote. Nothing can be expanded and nothing can be rolled back.
+│
+├─◆ 2. THE CHIEF STATE ELECTION OFFICIAL — one job, four different designs
+│     │   [counts = CRS R45549 Table 5, sourced to EAC/NASS/NCSL. Published March 4, 2019
+│     │    and never updated; the DESIGNS are stable, the roster has drifted. See Notes.]
+│     │
+│     ├─ A. ELECTED SECRETARY OF STATE ......................................... 31 states
+│     │      AL AR AZ CA CO CT GA IA ID IN KS KY LA MA MI MN MO MS MT NC* ND NE NV
+│     │      NM OH OR RI SD VT WA WV WY   [*NC's elected SoS is NOT the election official]
+│     │      └─ Answerable to voters directly · own political base · can diverge from the
+│     │         governor · and in AZ, OR and WY sits in the line of succession to governor
+│     ├─ B. ELECTED LIEUTENANT GOVERNOR .......................................... 2 states
+│     │      Alaska · Utah   [neither state has a secretary of state at all]
+│     ├─ C. APPOINTED SECRETARY OF STATE .......................................... 7 states
+│     │      Governor appoints:  FL · NJ · PA · TX
+│     │      LEGISLATURE elects:  ME · NH · TN   [a genuinely separate fourth design that
+│     │                                            most tallies bury inside "appointed"]
+│     └─ D. STAFF DIRECTOR OF A BOARD OR COMMISSION ............................. 10 states
+│            DE State Election Commissioner · HI Chief Election Officer · IL Exec. Dir.,
+│            State Board of Elections · MD Administrator of Elections · NY Co-Director,
+│            State Board · NC Exec. Dir., State Board · OK Secretary of the State Election
+│            Board · SC Exec. Dir., State Election Commission · VA Commissioner of the
+│            Department of Elections · WI Administrator, Elections Commission
+│              └─ ⚑ The design question that decides everything downstream is not "elected
+│                   or appointed" but WHO APPOINTS THE BOARD — and that is a live 2026 fight.
+│
+│     ⚑ THE DESIGNATION IS NOT SINGULAR.  HAVA defines the chief state election official as
+│       the one designated under NVRA — but a state may name different officials under
+│       different statutes.  [CRS's own example: Indiana assigns NVRA coordination to the
+│       co-directors of the state Election Division and HAVA duties to the secretary of
+│       state.]  A "list of chief state election officials" is therefore a list of answers
+│       to a question, not a list of offices.
+│
+├─◆ 3. WHAT THE STATE OFFICE ACTUALLY DOES — rules and records, not counting
+│     ├─ holds the HAVA statewide voter registration database [all states but ND, which has
+│     │    no voter registration at all]
+│     ├─ certifies and DECERTIFIES voting systems for use in the state
+│     ├─ writes binding rules OR non-binding guidance — this varies more than any other item
+│     ├─ trains local officials · publishes manuals · runs the UOCAVA single office
+│     ├─ receives and allocates federal HAVA money [see layer 6 — it does not spend it]
+│     └─ ✕ does NOT count ballots · does NOT canvass · does NOT run a polling place
+│
+├─◆ 4. THE LOCAL LAYER — where elections are actually conducted
+│     │   ⚑ THE COUNT DEPENDS ON WHAT YOU COUNT.  Two defensible national figures:
+│     │      6,461 — jurisdictions in the EAC's 2024 EAVS public-release file
+│     │    >10,000 — the figure used by election-administration practitioners and repeated
+│     │              in July 2026 by the Institute for Responsive Government
+│     │    The gap is New England towns and split-duty offices. Both are given; neither is
+│     │    "the" number, and no federal body is required to produce one.
+│     │
+│     ├─ COUNTY-PRIMARY .... the default. A clerk, auditor, registrar, probate judge, or
+│     │                      county board of elections runs the whole operation.
+│     ├─ TOWN/MUNICIPAL .... the New England pattern — CT ME MA NH RI VT, plus WI, where
+│     │                      municipalities hold primary responsibility.
+│     ├─ SPLIT-DUTY ........ ~18 states divide the job between two or more local offices
+│     │                      [Hale/Montjoy/Brown 2015, via CRS]. AL splits it four ways:
+│     │                      Probate Judge · Circuit Clerk · Sheriff · Board of Registrars.
+│     │                      MI splits county clerk · county election commission · township
+│     │                      clerk · township election commission.
+│     ├─ STATE-RUN ......... Delaware conducts ALL elections at the state level.
+│     │                      Alaska conducts elections above the borough level.
+│     └─ SIZE ............. some jurisdictions reported under 100 registered voters in 2016;
+│                            Los Angeles County reported 6.8 million — more than the
+│                            registrants of each of 40 other states.  Same statute, same
+│                            deadlines, same federal forms.
+│
+├─◆ 5. THE PRECINCT LAYER — the temporary workforce the whole structure rests on
+│     ├─ poll workers · election judges · inspectors · moderators — recruited and trained
+│     │    by the LOCAL office, paid by the LOCAL budget, deputized for one day
+│     ├─ chief judge / precinct captain — opens, closes, and reconciles the precinct
+│     └─ partisan poll watchers and challengers — present by statute, with no authority
+│
+├─◆ 6. FUNCTION CROSSWALK — where each job actually sits
+│     │                                              STATE      LOCAL      FEDERAL
+│     ├─ write the rules (statute, rule, guidance) ..  ██         ░         ░
+│     ├─ hold the voter registration database ........  ██         ░         ✕
+│     ├─ list maintenance / roll removals ............  ██         ██        ✕
+│     ├─ certify voting equipment ....................  ██         ░      ██ (EAC, voluntary)
+│     ├─ BUY the voting equipment ....................  ▒          ██        ✕
+│     ├─ register individual voters ..................  ░          ██        ✕
+│     ├─ design and print ballots ....................  ░          ██        ✕
+│     ├─ recruit and train poll workers ..............  ▒          ██        ✕
+│     ├─ select and staff polling places .............  ░          ██        ✕
+│     ├─ count · canvass · report results ............  ░          ██        ✕
+│     ├─ certify the county result ...................  ░          ██        ✕
+│     ├─ certify the STATE result ....................  ██         ░         ✕
+│     └─ pay for all of the above ....................  ▒          ██        ▒
+│          ██ = primary responsibility   ▒ = partial/varies by state   ░ = little or none
+│
+├─◆ 7. THE CROSS-STATE PLUMBING — voluntary, and therefore removable
+│     ├─ ERIC (Electronic Registration Information Center) — nonprofit, member-funded,
+│     │    founded 2012 by seven states. Cross-state data matching for movers, deaths and
+│     │    duplicate registrations; the ONLY interstate list-maintenance tool of its kind.
+│     │      27 member states + the District of Columbia [ericstates.org, May 2026]
+│     │      ⚑ Membership is a political act now. Nine states left in 2022–23 after a
+│     │        pressure campaign. Virginia — a 2012 founder that quit in May 2023 — rejoined
+│     │        April 30, 2026 by executive order plus statute, as the 27th member state.
+│     ├─ NASS · NASED — the two practitioner associations. Standards by consensus only;
+│     │    neither can bind a state, and neither is part of any legal chain.
+│     └─ EI-ISAC — the election-sector threat-sharing centre, run by the Center for Internet
+│          Security under a CISA cooperative agreement. Served ~3,700 jurisdictions in 2024
+│          on roughly $10M/year.
+│            ✕ CISA funding to the cooperative agreement terminated; election security
+│              program wound down 2025–26. As of early September 2026 more than $39.6M that
+│              Congress directed to the EI-ISAC in April 2026 had not been released.
+│
+├─◆ 8. ⚑ THE LEVER PROBLEM — what a state can actually DO to a locality that won't comply
+│     │   The state is liable to the federal government. The locality does the work. The
+│     │   question is what connects them, and it is almost never a chain of command.
+│     ├─ STRONG: appoint and remove the local official .......... a few states only
+│     ├─ MEDIUM: certify/decertify equipment · withhold funding · litigate against the
+│     │          locality · mandamus ....................................... most states
+│     └─ ✕ NONE over an INDEPENDENTLY ELECTED local official, who is accountable to that
+│          locality's voters and not to the state.
+│            [Alabama told DOJ in 2012, defending a UOCAVA complaint, that the Secretary of
+│             State "has no authority to compel the action of a local official" and "cannot
+│             fire an elected Probate Judge."  That answer is still structurally true in
+│             most states, and it is the reason federal election mandates are enforced by
+│             lawsuit rather than by instruction.]
+│
+├─◆ 9. THE MONEY — the layer that decides what the other layers can do
+│     ├─ HAVA authorized $3.65 BILLION total, appropriated mostly FY2003–FY2010, plus
+│     │    $380M in March 2018 and $425M through the CARES Act in 2020.
+│     │      FY2026 election security appropriation: $45 MILLION for the whole country.
+│     ├─ 5% state match required (52 U.S.C. § 21003(b)(5)(A)); every state has met it.
+│     ├─ ⚑ THE MISMATCH: HAVA money goes to STATES and the chief state election official
+│     │    decides its use — but LOCALITIES conduct and pay for the activities it funds.
+│     │    The office that receives the money is routinely not the office that spends it.
+│     └─ Equipment cost-sharing [GAO 2018, 46 of 51 responding]:
+│            acquisition — 11 states pay all · 8 share · 24 pay nothing
+│            maintenance — 12 pay all · 8 share · 25 pay nothing
+│            operation ... — 8 pay all · 11 share · 26 pay nothing
+│
+└─◆ 10. STATE OF THE STRUCTURE — September 13, 2026, verified at build time
+      ├─ EAC ................ ✕ zero commissioners since July 9, 2026; career staff only
+      ├─ EAC leadership ..... career Executive Director [name unconfirmed as of Sept 2026]
+      ├─ CISA election role . ✕ program wound down; EI-ISAC agreement defunded
+      ├─ ERIC ............... 27 states + DC; Virginia readmitted April 30, 2026
+      ├─ North Carolina ..... State Board appointing authority moved from the GOVERNOR to
+      │                       the STATE AUDITOR by S.B. 382; new board seated May 7, 2025;
+      │                       Sam Hayes executive director since May 15, 2025
+      ├─ Mail-ballot EO ..... federal list of eligible voters + USPS delivery restrictions;
+      │                       one of two injunctions lifted by the Supreme Court 6–3 on
+      │                       August 24, 2026; further applications pending in September
+      └─ SoS elections ...... 26 states elect a secretary of state on November 3, 2026
