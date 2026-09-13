@@ -1,0 +1,107 @@
+HOW CAMPAIGN MONEY MOVES — four pipes from a donor to a federal candidate
+time-slice: September 12, 2026 · post-NRSC v. FEC · limits = 2025–2026 cycle
+★ = struck down or unenforced   ⚑ = the door money actually uses   ║ = a legal wall
+
+■ STAGE 0 — THE TWO QUESTIONS THAT SORT EVERY DOLLAR
+│
+├─◇ Q1  May it be spent WITH the candidate?  ── This sets the ceiling.
+│       └─▶ yes (coordinated) ─▶ historically capped ─▶ ★ for parties, capped no longer
+│       └─▶ no  (independent) ─▶ never capped since Buckley (1976) / SpeechNow (2010)
+│
+└─◇ Q2  Must the original SOURCE be named?   ── This sets the visibility.
+        └─▶ yes ─▶ FEC reports, filed and public
+        └─▶ no  ─▶ IRS-side entity, no donor schedule ─▶ the money still arrives
+
+═════════════════════════════════════════════════════════════════════════════════════════════
+
+◆ PIPE A — THE CANDIDATE'S OWN COMMITTEE            [hard money · fully coordinated]
+│  ├─ individual ........ $3,500 per election   ($7,000 per cycle)
+│  ├─ federal PAC ....... $5,000 per election   [stat. — unchanged since 1976]
+│  ├─ party committee ... $5,000 per election    (plus a separate indexed Senate limit)
+│  ├─ the candidate ..... unlimited from personal funds
+│  ├─ corporation / union ... PROHIBITED as a direct contribution (Tillman Act, 1907)
+│  ├─ foreign national ...... PROHIBITED, every pipe, no exception
+│  └─ disclosure ........ every dollar, itemized above $200, quarterly / pre-election
+│
+│     ⚑ the joint fundraising committee: one $100k+ check, split at the back end into
+│       lawful slices for the candidate, the party, and the party's special accounts
+│
+◆ PIPE B — THE PARTY COMMITTEE                      [hard money · ★ NOW UNCAPPED]
+│  ├─ individual → main account ......... $44,300 per year
+│  ├─ individual → convention account ... $132,900 per year  (RNC / DNC only)
+│  ├─ individual → building account ..... $132,900 per year
+│  ├─ individual → legal / recount ...... $132,900 per year
+│  ├─ individual → state party (federal) . $10,000 per year  [stat.]
+│  │     ↳ one donor, one year, one national committee: $354,000 lawful
+│  ├─ party → candidate, direct ......... $5,000 per election  (unchanged)
+│  └─ ★ party → COORDINATED EXPENDITURE for that candidate ...... UNLIMITED
+│        was: a population-and-office formula, low five figures to low seven
+│        now: struck down, NRSC v. FEC, June 30, 2026, overruling Colorado II (2001)
+│        effect: ads written with the campaign, on the campaign's message, no ceiling
+│
+◆ PIPE C — THE TRADITIONAL PAC                      [hard money · may coordinate]
+│  ├─ individual → PAC ........ $5,000 per year   [stat. — unchanged since 1976]
+│  ├─ PAC → candidate ......... $5,000 per election [stat.]
+│  ├─ corporate treasury ...... PROHIBITED in; solicits its own class instead
+│  └─ disclosure .............. full, both ends
+│
+◆ PIPE D — THE SUPER PAC                            [independent-expenditure-only]
+│  ├─ any amount, any source (person, corporation, union, LLC, nonprofit)
+│  ├─ spends UNLIMITED sums for or against a named candidate
+│  ├─ ║ WALL: may not coordinate with that candidate  ── the only wall of consequence left
+│  │     permitted anyway: a former campaign manager running it · public
+│  │     "redboxing" instructions on a campaign website · shared vendors ·
+│  │     jointly attended fundraisers · the candidate soliciting up to $5,000
+│  └─ discloses its donors — which may be an LLC formed eight weeks ago
+│
+◆ PIPE E — THE 501(c)(4) LAYER                      [feeds C and D · source hidden]
+│  ├─ unlimited in, no donor schedule ever filed with the FEC
+│  ├─ political activity must not be its "primary purpose" — an IRS test, not an FEC one
+│  ├─ ⚑ transfers to a super PAC ─▶ the super PAC discloses the (c)(4), not the donor
+│  └─ this is the whole mechanism behind the phrase "dark money"
+
+═════════════════════════════════════════════════════════════════════════════════════════════
+
+■ THE WALLS STILL STANDING — and who is enforcing them
+│
+├─ 1  no coordination between a super PAC and a candidate ....... FEC  ★ unenforced
+├─ 2  earmarking / conduit rule (a pass-through counts as direct)  FEC  ★ unenforced
+├─ 3  disclosure of contributions and expenditures ............... FEC  (filings continue)
+├─ 4  no foreign national money, direct or indirect .............. FEC + DOJ
+└─ 5  no straw-donor or reimbursed contributions ................. DOJ  (criminal)
+        note: walls 1 and 2 are the two the Supreme Court named in McCutcheon (2014)
+        and again in NRSC (2026) as the adequate substitutes that made the struck
+        limits unnecessary. They are administered by the body immediately below.
+
+■ THE ENFORCER — FEDERAL ELECTION COMMISSION           6 seats · 4 votes to act
+│
+├─ Chair ............... Shana Broussard
+├─ Commissioner ........ Dara Lindenbaum
+├─ Commissioner ........ ✕ VACANT
+├─ Commissioner ........ ✕ VACANT
+├─ Commissioner ........ ✕ VACANT
+├─ Commissioner ........ ✕ VACANT
+│     nominated Feb 11, 2026: Ashley Stow · Andrew Woodson — not confirmed
+├─ ★ NO QUORUM SINCE APRIL 2025 — most recent Notice of Lack of Quorum: Aug 25, 2026
+└─ with no quorum it cannot: open or close an enforcement matter · authorize an
+     investigation · approve a conciliation agreement · issue a binding advisory
+     opinion · write a rule · or defend itself in court. Filings still come in.
+     Nothing happens to them.
+
+═════════════════════════════════════════════════════════════════════════════════════════════
+
+┌─ WHAT THE SHAPE SHOWS ───────────────────────────────────────────────────────────────────┐
+│ 1  The wall that fell was the one being enforced; the wall left standing is the one     │
+│    nobody is enforcing. Coordinated party limits were administered by filing.           │
+│    The super-PAC coordination ban requires an investigation and four votes.             │
+│ 2  The Court's own reasoning depends on the agency. McCutcheon and NRSC both hold        │
+│    the struck limits unnecessary BECAUSE earmarking and disclosure rules suffice.       │
+│    Both are enforced by a commission that has had no quorum for seventeen months.       │
+│ 3  Money is flowing back toward the party, not around it. From 2010 to 2026 the party   │
+│    was the weak pipe and the super PAC the strong one. Pipe B is now the highest-       │
+│    capacity coordinated channel in the system — and it names its donors.                │
+│ 4  A ceiling that is not indexed is a repeal on a delay. $5,000 in 1976 dollars is      │
+│    roughly $28,000 today; Pipes A and C still say $5,000.                               │
+│ 5  Nothing on this map required a vote of Congress. Four Supreme Court decisions,       │
+│    one appellate ruling, one 2014 omnibus rider, and four unfilled seats.               │
+└──────────────────────────────────────────────────────────────────────────────────────────┘
