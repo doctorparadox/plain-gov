@@ -1,0 +1,153 @@
+HOW AN EMERGENCY STAY APPLICATION MOVES THROUGH THE COURTS      (as of 14 September 2026)
+│   Legend:  ──▶ main path  └─▶ branch/bypass  ◇ decision  ✕ relief stops  ★ relief granted
+│            ⚑ load-bearing stage   [ ] dated note or caveat
+│   Scale:   30 emergency-docket decisions on second-term administration actions since
+│            20 Jan 2025 — 23 at least partly FOR the administration, 7 against, and 7
+│            with no written explanation at all; oral argument ordered in 5.
+│            [ Brennan Center for Justice tracker, updated 8 September 2026. The Court
+│              publishes no official tally, so every count in circulation is somebody's. ]
+│
+■ 0. THERE HAS TO BE AN ORDER TO STAY   (a stay suspends; it does not decide)
+│     A district judge enters something that stops the government: a temporary restraining
+│     order, a preliminary injunction, an APA vacatur of a rule, or a final judgment.
+│     ◇ is it appealable?
+│     ├─ TRO ──▶ generally NOT appealable, so the government's first argument is usually
+│     │    that the TRO is "really" a preliminary injunction in disguise
+│     └─ PRELIMINARY INJUNCTION ──▶ appealable of right — 28 U.S.C. § 1292(a)(1)
+│     [ Since Trump v. CASA (27 June 2025) the order below is narrower by default.
+│       Universal injunctions are out; relief now runs through named plaintiffs,
+│       certified classes, or APA vacatur — and the stay fight moved with it. ]
+│
+├─◆ 1. FIRST STOP: THE COURT THAT ISSUED THE ORDER   (FRAP 8(a)(1))
+│     The movant must ordinarily ask the district court to stay its own injunction before
+│     asking anyone else. In practice this is satisfied in a paragraph and denied in a day.
+│     └─▶ its real function is not review but TIMESTAMPING: it starts the clock and
+│          creates the record the circuit will say it is reviewing.
+│
+├─◆ 2. THE COURT OF APPEALS — THE MOTIONS PANEL   ⚑ where the case is usually decided
+│     A three-judge motions panel, assigned by rotation, on paper briefing, no argument.
+│     Three different things can come out of it, and only one has a written standard:
+│     │
+│     ├─ 2a. ⚑⚑ THE ADMINISTRATIVE STAY — the door before the door
+│     │     A short order freezing the district court's order "pending consideration" of
+│     │     the stay motion. It is NOT a ruling on the stay factors and says so.
+│     │     ✕ NO STATUTORY BASIS · ✕ NO NAMED FACTORS · ✕ NO WRITTEN TIME LIMIT
+│     │     ✕ NO REQUIRED EXPLANATION · ✕ NOT ITSELF APPEALABLE IN MOST CIRCUITS
+│     │     └─▶ Because it needs no findings, it is the fastest instrument in the system,
+│     │          and because it has no built-in expiry it can outlast the dispute.
+│     │     [ Justice Barrett, concurring in United States v. Texas on 19 March 2024,
+│     │       wrote that an administrative stay "should last no longer than necessary to
+│     │       make an intelligent decision on the motion for a stay pending appeal." That
+│     │       is a norm, not a rule, and nothing enforces it. Two recent examples of the
+│     │       instrument at the top of the system: Justice Alito, 21 Nov 2025 (Texas map
+│     │       litigation), later extended by the full Court; Chief Justice Roberts,
+│     │       21 Aug 2026 (White House ballroom construction), stay granted 5–4 ten days
+│     │       later. In both, the temporary order set the facts on the ground. ]
+│     │
+│     ├─ 2b. THE STAY PENDING APPEAL — the four Nken v. Holder factors (556 U.S. 418, 2009)
+│     │     1. a STRONG SHOWING that the applicant is likely to succeed on the merits
+│     │     2. IRREPARABLE INJURY to the applicant absent a stay
+│     │     3. SUBSTANTIAL INJURY to the other parties if the stay issues
+│     │     4. where the PUBLIC INTEREST lies
+│     │     ★ factors 3 and 4 MERGE when the government is the opposing party — which
+│     │       means that in every case on this map the four-factor test is a three-factor
+│     │       test, and the government's institutional interest absorbs the public's.
+│     │     ◇ granted? ──▶ the injunction is frozen for the life of the appeal (stage 7)
+│     │     ◇ denied?  ──▶ up to stage 3 or straight to stage 4
+│     │
+│     └─ 2c. INJUNCTION PENDING APPEAL — All Writs Act, 28 U.S.C. § 1651(a)
+│           When there is no order to suspend — the movant LOST below and wants the
+│           status quo frozen anyway — the request is affirmative relief, not a stay.
+│           Higher bar in theory; the same motions panel, the same week, in practice.
+│
+├─◆ 3. EN BANC — the panel is not the last word in the circuit
+│     The full court of appeals can vacate a motions-panel stay without any Supreme Court
+│     involvement. Rarely used, slow, and it cuts both ways: an en banc court can restore
+│     an injunction a panel froze, or freeze one a panel left standing.
+│     └─▶ a party that loses en banc has lost the circuit entirely ──▶ stage 4
+│
+├─◆ 4. THE CIRCUIT JUSTICE   (Supreme Court Rules 22 and 23; 28 U.S.C. § 2101(f))
+│     An application goes to the justice allotted to that circuit under 28 U.S.C. § 42.
+│     Rule 23.3: relief must have been sought below first — the one hard gate on the route.
+│     ├─ ACT ALONE ──▶ possible, and how in-chambers opinions are written; now uncommon
+│     └─ REFER TO THE FULL COURT ──▶ the norm in any case with public stakes ──▶ stage 5
+│     ◇ denied by one justice? ──▶ may be renewed to another, but a renewed application
+│        is referred to the entire Court — so justice-shopping buys days, not outcomes.
+│
+│     ┌── CIRCUIT ALLOTMENT ── effective 28 Sep 2022, unchanged as of 14 Sep 2026 ──────┐
+│     │  D.C. Circuit ...... Chief Justice John G. Roberts, Jr.                         │
+│     │  1st Circuit ....... Ketanji Brown Jackson      2nd Circuit ... Sonia Sotomayor │
+│     │  3rd Circuit ....... Samuel A. Alito, Jr.       4th Circuit ... Roberts, C.J.   │
+│     │  5th Circuit ....... Samuel A. Alito, Jr.       6th Circuit ... Brett Kavanaugh │
+│     │  7th Circuit ....... Amy Coney Barrett          8th Circuit ... Brett Kavanaugh │
+│     │  9th Circuit ....... Elena Kagan               10th Circuit ... Neil Gorsuch    │
+│     │ 11th Circuit ....... Clarence Thomas          Federal Circuit . Roberts, C.J.   │
+│     │  Three justices cover two circuits each; the Chief covers three. Which justice  │
+│     │  first sees an application is therefore a function of geography — and of where  │
+│     │  the case was filed, which the filing party chose.                              │
+│     └─────────────────────────────────────────────────────────────────────────────────┘
+│
+├─◆ 5. THE FULL COURT   ⚑ five votes, not four
+│     ★ THE ASYMMETRY THAT DEFINES THE TRACK: certiorari takes FOUR votes; interim relief
+│       takes FIVE. The merits docket can be opened by a minority. The emergency docket
+│       can only be moved by a majority — so it is structurally the majority's instrument.
+│     Briefing is compressed to days or weeks. There is normally no argument and no
+│     conference deliberation. Six things can come out:
+│     ├─ ✕ APPLICATION DENIED ──▶ the order below stands; usually no reasons given
+│     ├─ ★ STAY GRANTED ──▶ the injunction is frozen pending appeal and any cert petition
+│     ├─ ⚑ ADMINISTRATIVE STAY ──▶ the same short-order instrument as 2a, now at the top
+│     ├─ PARTIAL STAY ──▶ the order below is narrowed rather than suspended (the CASA form)
+│     ├─ CERT BEFORE JUDGMENT ──▶ the application is converted into a merits case and the
+│     │    court of appeals is skipped entirely
+│     └─ ◆ SET FOR ARGUMENT ──▶ rare and getting less rare: argument has been ordered in
+│          5 emergency matters since Jan 2025, including Trump v. Cook, argued January
+│          2026 and decided 29 June 2026 in a signed 5–4 opinion with five separate
+│          writings — an emergency application resolved exactly like a merits case.
+│
+├─◆ 6. WHAT THE RESULTING ORDER IS — AND IS NOT
+│     NOT a merits judgment. NOT a final ruling. Frequently NOT signed and NOT explained
+│     (7 of the 30 tracked decisions carry no reasoning whatsoever).
+│     AND YET, from the Court's own words in 2025:
+│     ├─ interim orders are "not conclusive as to the merits," but they "inform how a
+│     │    court should exercise its equitable discretion in like cases"
+│     │    — Trump v. Boyle, 23 July 2025
+│     └─ "when this Court issues a decision, it constitutes a precedent that commands
+│          respect in lower courts" — Justice Gorsuch, NIH v. APHA, 21 August 2025
+│     ⚑ So the least-explained order in the system is also binding downward. A district
+│       judge must now follow reasoning that was never written.
+│
+├─◆ 7. THE CLOCK — why the interim order is usually the final one
+│     A stay runs until the court of appeals decides the appeal AND any certiorari
+│     petition is resolved. That is months to years. During it the policy operates.
+│     ├─▶ people are removed, employees are separated, money is spent or not spent,
+│     │    an election is held under the challenged rule
+│     └─▶ by the time the merits arrive, the remedy that would have mattered is gone,
+│          and the case is often moot. THE STAY IS THE DECISION.
+│
+└─◆ 8. STATE OF THE DOCKET  [ figures as published 8 September 2026 ]
+      ├─ 30 decisions on second-term administration actions since 20 January 2025
+      ├─ 23 at least partly for the administration · 7 against
+      ├─ 7 issued with no written explanation of any kind
+      ├─ 5 set for oral argument — CASA · Cook · Slaughter · the consolidated TPS cases
+      ├─ 2 applications pending as of 8 September 2026, both about the November election:
+      │    a mail-ballot rule and a citizenship-verification system
+      └─ for comparison: the second administration filed roughly as many applications in
+           its first twenty weeks as the preceding administration filed in four years.
+           [ Vladeck count, as cited by the Brennan Center — a scholar's tally, not an
+             official one, and the Court keeps no official one. ]
+
+      ⚑⚑ WHAT THE SHAPE SHOWS
+      1. THE ONLY STAGE WITH A WRITTEN STANDARD IS THE ONE MOST EASILY SKIPPED. Stage 2b
+         has four named factors. Stage 2a has none — and 2a is what stops the order.
+      2. EXPLANATION FALLS AS AUTHORITY RISES. District judge: findings required. Panel:
+         four factors. Administrative stay: nothing. Supreme Court: often nothing, and it
+         binds everyone. The obligation to justify runs opposite to the power to decide.
+      3. FOUR VOTES OPEN THE SLOW DOOR; FIVE OPEN THE FAST ONE. A docket the majority
+         alone can move will be used more as the majority and the applicant converge.
+      4. THE MERGER CLAUSE DOES REAL WORK. Because Nken factors 3 and 4 merge when the
+         government is a party, the harm to the people the injunction protected is
+         weighed inside the government's own interest rather than against it.
+      5. THE PIPELINE REWARDS WHOEVER CAN LOSE FAST. A litigant who can be in the circuit
+         within a day of an injunction, and at the Supreme Court within a week, converts
+         every district-court defeat into a stay application. That is a capacity, not a
+         doctrine — and only one repeat player in American law has it in every circuit.
