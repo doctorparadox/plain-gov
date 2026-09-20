@@ -1,0 +1,161 @@
+FEDERAL STATISTICAL SYSTEM TREE — the 13 principal agencies and the thread holding them together
+│   Legend: ★ Senate-confirmed  ⏳ fixed statutory term  ○ appointed inside the agency
+│   ◐ presidential appointment, NO Senate consent  § statute  ⚑ structural point
+│   No officeholders inside the fence by design — dated seat block sits below the chart
+│
+■ THERE IS NO NATIONAL STATISTICAL OFFICE
+│   16 Recognized Statistical Agencies and Units · 13 of them "principal" · 3 further units
+│   spread across 9 cabinet departments and 2 independent agencies. Alongside them sit
+│   24 Statistical Officials (one per major agency) and roughly 100 other federal programs
+│   that do statistical work without being statistical agencies.
+│   ⚑ NO COMMON BUDGET LINE, NO COMMON PERSONNEL SYSTEM, NO SINGLE HEAD. Every other
+│     wealthy democracy runs a single national statistical office. The United States
+│     runs thirteen, and the thing that makes them one system is a memorandum.
+│   ⚑ ONLY 4 OF 13 HEADS ARE SENATE-CONFIRMED (★). Nine are appointed by the department
+│     that houses them. One — Transportation — is appointed by statute INTO THE
+│     COMPETITIVE SERVICE, which makes the head of a statistical agency a civil servant.
+│
+├─◆ THE COORDINATION LAYER — Office of Management and Budget
+│   │   § Paperwork Reduction Act of 1995, 44 U.S.C. ch. 35 · § Evidence Act of 2018
+│   │
+│   ├─ U.S. Chief Statistician .................... ○ not Senate-confirmed, no fixed term
+│   │     Sits in OMB's Office of Information and Regulatory Affairs. Issues and
+│   │     administers the Statistical Policy Directives. Approves every statistical
+│   │     information collection. Chairs the ICSP. Represents the U.S. at the UN
+│   │     Statistical Commission.
+│   │     ⚑ THE OFFICE THAT WRITES THE INDEPENDENCE RULE IS THE OFFICE THAT CAN
+│   │       REWRITE IT. The post turned over twice between June 2025 and January 2026.
+│   ├─ Interagency Council on Statistical Policy .. 30 members · chaired by Chief Statistician
+│   │     Started 1989 to connect the heads of the principal agencies; the Evidence Act
+│   │     widened it to include the 24 Statistical Officials, 11 of whom also head an
+│   │     agency. Advisory. Charters subcommittees (ACS, FSRDC, NSDS, SAP, S-SORR).
+│   └─ Federal Committee on Statistical Methodology · the cross-agency methods body
+│
+├─◆ DEPARTMENT OF COMMERCE ................................. 2 principal agencies
+│   ├─ Bureau of the Census ....................... ★ ⏳ 5-year term · § 13 U.S.C. 21
+│   │     Decennial census · American Community Survey · economic census · apportionment
+│   │     ⚑ THE ONLY ONE OF THE THIRTEEN WHOSE OUTPUT IS CONSTITUTIONALLY REQUIRED.
+│   │       Art. I, § 2 commands an enumeration; nothing commands the other twelve.
+│   │     ⚑ The 5-year term is staggered to start in the second year of a presidential
+│   │       term, deliberately, so it does not track the election cycle.
+│   └─ Bureau of Economic Analysis ................ ○ appointed inside Commerce
+│         GDP · national income and product accounts · balance of payments · trade
+│
+├─◆ DEPARTMENT OF LABOR .................................... 1 principal agency
+│   └─ Bureau of Labor Statistics ................. ★ ⏳ 4-year term · § 29 U.S.C. 2
+│         CPI · the monthly jobs report · PPI · JOLTS · productivity · injuries
+│         ⚑ The CPI is written into law in a way no other federal statistic is: it
+│           indexes Social Security, the tax brackets, TIPS and millions of contracts.
+│           An agency with no enforcement power moves more money than most that have it.
+│
+├─◆ DEPARTMENT OF AGRICULTURE .............................. 2 principal agencies
+│   ├─ National Agricultural Statistics Service ... ○ appointed inside USDA
+│   │     Census of Agriculture · crop production and acreage reports · prices
+│   └─ Economic Research Service .................. ○ appointed inside USDA
+│         Farm income and finance · food security · commodity outlook
+│         ⚑ Both are inside the 2026 USDA relocation. NASS staff had until 8 July 2026
+│           to accept a move to St. Louis or a regional office and were to report by
+│           21 September 2026; a judge granted a temporary pause in September 2026.
+│
+├─◆ DEPARTMENT OF EDUCATION ................................ 1 principal agency
+│   └─ National Center for Education Statistics ... ★ ⏳ 6-year term · § 20 U.S.C. 9541
+│         NAEP (the Nation's Report Card) · IPEDS · longitudinal studies · school finance
+│         ⚑ THE LONGEST STATUTORY TERM OF THE THIRTEEN, AND THE FIRST ONE BROKEN. The
+│           commissioner was removed mid-term on 24 February 2025 — the first forcible
+│           removal in the office's history. Staff went from roughly 100 to four, then
+│           back to about a dozen by mid-2026. Sits inside the Institute of Education
+│           Sciences inside a department the administration is winding down.
+│
+├─◆ DEPARTMENT OF HEALTH AND HUMAN SERVICES ................ 1 principal agency
+│   └─ National Center for Health Statistics ...... ○ appointed inside HHS
+│         Vital statistics (births and deaths) · NHANES · National Health Interview Survey
+│         ⚑ Sits INSIDE the CDC — a statistical agency nested two layers down inside an
+│           operating agency, which is a different exposure from sitting beside one.
+│
+├─◆ DEPARTMENT OF JUSTICE .................................. 1 principal agency
+│   └─ Bureau of Justice Statistics ............... ◐ President appoints, NO Senate consent
+│         National Crime Victimization Survey · prisoner and jail statistics · the federal
+│         law enforcement census · court and prosecution statistics
+│         ⚑ § 34 U.S.C. 10132(b) REQUIRED SENATE CONFIRMATION UNTIL 2012, when Pub. L.
+│           112-166 struck "by and with the advice and consent of the Senate" from the
+│           sentence. Congress removed a confirmation requirement from a statistical
+│           agency as a housekeeping measure, and nobody has put it back.
+│         ⚑ The statute still says the Director "shall be responsible for the integrity
+│           of data and statistics" — a duty with no term of office attached to it.
+│
+├─◆ DEPARTMENT OF ENERGY ................................... 1 principal agency
+│   └─ Energy Information Administration .......... ★ no fixed term · § 42 U.S.C. 7135
+│         Short-Term Energy Outlook · Annual Energy Outlook · petroleum and power data
+│         ⚑ Senate-confirmed but TERMLESS — the mirror image of the other three ★ seats.
+│           Confirmation without a term buys scrutiny going in and nothing after.
+│
+├─◆ DEPARTMENT OF TRANSPORTATION ........................... 1 principal agency
+│   └─ Bureau of Transportation Statistics ........ ○ competitive service · § 49 U.S.C. 6302
+│         Freight and commodity flow · airline data · transportation statistics annual report
+│         ⚑ THE STATUTE APPOINTS THIS HEAD INTO THE COMPETITIVE SERVICE. Of the thirteen,
+│           this is the only one Congress made a career civil servant on purpose — which
+│           is either the strongest protection in the tree or the weakest, depending
+│           entirely on what happens to the competitive service.
+│
+├─◆ DEPARTMENT OF THE TREASURY ............................. 1 principal agency
+│   └─ Statistics of Income (IRS) ................. ○ appointed inside Treasury
+│         Individual and corporate tax return statistics · migration flows · nonprofit data
+│         ⚑ The only one of the thirteen whose raw input is protected by a criminal
+│           confidentiality statute of its own (26 U.S.C. 6103) rather than by CIPSEA.
+│
+├─◆ NATIONAL SCIENCE FOUNDATION ............................ 1 principal agency
+│   └─ Nat'l Center for Science and Engineering Stats  ○ appointed inside NSF
+│         R&D expenditure · science and engineering indicators · doctorate surveys
+│         Runs the Standard Application Process office for the whole system.
+│
+└─◆ SOCIAL SECURITY ADMINISTRATION ......................... 1 principal agency
+    └─ Office of Research, Evaluation, and Statistics  ○ appointed inside SSA
+          Beneficiary and earnings statistics · the annual statistical supplement
+
+   ┌───────────────────────────────────────────────────────────────────────────────┐
+   │  THE THREE OTHER RECOGNIZED UNITS — same CIPSEA duties, not "principal"        │
+   │    · Microeconomic Surveys Unit — Board of Governors of the Federal Reserve    │
+   │    · Center for Behavioral Health Statistics and Quality — SAMHSA (HHS)        │
+   │    · National Animal Health Monitoring System — APHIS (USDA)                   │
+   │  ⚑ Recognition is OMB's to grant. The list is 16 because OMB says it is 16.    │
+   └───────────────────────────────────────────────────────────────────────────────┘
+
+WHAT ACTUALLY BINDS ALL SIXTEEN — and who can change it
+│
+├─ STATUTE (Congress changes it)
+│    § Paperwork Reduction Act of 1995 — 44 U.S.C. ch. 35 · OMB clearance of collections
+│    § Evidence Act of 2018, Title III = CIPSEA 2018 — confidentiality, the four
+│      fundamental responsibilities, the Statistical Official in every major agency
+│    § 5 C.F.R. Part 1321 — the responsibilities, in regulation
+│
+└─ DIRECTIVE (OMB changes it, without notice-and-comment in most cases)
+     SPD No. 1  · Fundamental Responsibilities — objectivity, independence, trust
+     SPD No. 2  · Standards and Guidelines for Statistical Surveys (+ addendum)
+     SPD No. 3  · Compilation and Release of Principal Federal Economic Indicators
+                  ⚑ This is the one that sets the pre-release lockup rules and bars
+                    political commentary on a number for one hour after it is issued.
+     SPD No. 4  · Release and Dissemination of Statistical Products
+     SPD No. 7  · Metropolitan Statistical Areas
+     SPD No. 8  · North American Industry Classification System (NAICS)
+     SPD No. 10 · Standard Occupational Classification (SOC)
+     SPD No. 15 · Standards for Federal Data on Race and Ethnicity
+     ⚑ EIGHT DIRECTIVES IN FORCE, NUMBERED TO 15. The gaps are rescinded or superseded
+       instruments — the numbering itself is a record of how easily these are withdrawn.
+
+WHERE THE PRESSURE LANDED, 2025–2026 (dated, sourced below)
+│
+├─ Removal of heads holding statutory terms
+│    NCES commissioner removed mid 6-year term ........... 24 Feb 2025 (first ever)
+│    BLS commissioner fired hours after a jobs report ..... 1 Aug 2025
+│    ⚑ NEITHER TERM WAS REPEALED. Both were simply outlasted by the removal. A fixed
+│      term with no removal-for-cause clause is a schedule, not a shield.
+│
+├─ Staffing
+│    All 13 lost staff · 6 lost ≥ one-third · 2 lost > two-thirds ... ASA, July 2026
+│    NCES ~100 → 4 → ~12 · NASS ≈ −40% since 2024 · ~1/3 of BLS leadership posts vacant
+│
+└─ Vacancy at the top
+     Census under acting leadership ~18 months as of July 2026, heading into 2030
+     BJS without a permanent director for roughly three years
+     ⚑ Of the four ★ seats, exactly ONE was filled by Senate confirmation in this
+       term on the ordinary schedule; the others were filled late, acted into, or left.
