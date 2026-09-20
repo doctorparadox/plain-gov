@@ -1,0 +1,190 @@
+HOW A CANDIDATE GETS ON THE BALLOT                              (as of 15 September 2026)
+│   Legend:  ──▶ main path  └─▶ branch/bypass  ◇ decision  ✕ candidacy ends  ★ on the ballot
+│            ⚑ load-bearing stage   [ ] dated note or caveat
+│   Scale:   In EIGHT states every statewide office on the November 2026 ballot carries only a
+│            Democratic and a Republican nominee — AL, CA, CT, GA, LA, NM, NY, VA. In Illinois
+│            every legislative race does. Nationally: Libertarian Party on in 32 states, Green
+│            in 18, Constitution in 12, Forward in 5.
+│            [ Ballot Access News, 27 Aug and 12-14 Sep 2026. New Mexico turns on a pending
+│              Tenth Circuit injunction; Utah and Washington have no statewide office up. ]
+│
+■ 0. ELIGIBILITY   (what the office requires before any paperwork exists)
+│     FEDERAL OFFICE — the Constitution fixes age, citizenship duration and inhabitancy, and
+│     that list is CLOSED. A state may not add to it: U.S. Term Limits v. Thornton (1995).
+│     └─▶ so every state restriction below is framed as a BALLOT-ACCESS regulation, never as
+│          a qualification — which is precisely what puts it under the test at stage 6.
+│     STATE OFFICE — the state sets the qualifications itself, and they can be steep.
+│     [ Colo. 2000, Campbell v. Davidson: a state may not require a candidate for Congress
+│       to be a registered voter. The line between "qualification" and "regulation" is the
+│       whole fight, and it is litigated one requirement at a time. ]
+│
+├─◆ 1. WHICH TRACK   ⚑  (four different processes; they are not comparable burdens)
+│     ◇ how is the candidate seeking the ballot?
+│     │
+│     ├─ 1a MAJOR-PARTY PRIMARY ──▶ file a declaration for the party's primary; the party's
+│     │     nomination is decided by voters. Lowest paperwork burden in almost every state.
+│     │     └─▶ open / closed / semi-closed primary determines WHO may vote in it, not who
+│     │          may file. That fight is live: the South Carolina Republican Party sued on
+│     │          5 July 2026 to close its own primary (S.C. Rep. Party v. Bolchoz, 3:26cv-2699);
+│     │          the Texas Republican Party filed the same claim in 2025.
+│     │
+│     ├─ 1b QUALIFIED MINOR PARTY ──▶ the PARTY is already on the ballot from a prior vote
+│     │     test or registration total; the nominee is chosen by convention or primary.
+│     │     └─▶ the qualification is perishable — fall below the vote or registration
+│     │          threshold and the party re-enters at track 1c next cycle.
+│     │
+│     ├─ 1c NEW PARTY ──▶ qualify the PARTY by petition or registration FIRST...
+│     │     └─▶ ...and then, in some states, EACH NOMINEE must file a separate petition of
+│     │          his or her own. The two-petition structure is the quiet killer.
+│     │          [ Live: New Mexico Forward Party v. Toulouse Oliver, 10th Cir. 26-2145,
+│     │            reply brief 13 Sep 2026. The party completed the party petition, then
+│     │            could not gather 14,246 MORE signatures for each statewide nominee. ]
+│     │     ✕ 11 STATES + D.C. HAVE NO NEW-PARTY PROCEDURE AT ALL — CT, DC, IL, IN, IA, KY,
+│     │       NJ, NY, PA, VA, WA, WV. In those, track 1c does not exist and track 1d is the
+│     │       only route: a fresh individual petition, every candidate, every cycle.
+│     │
+│     ├─ 1d INDEPENDENT ──▶ one candidate, one petition, no organization to carry forward.
+│     │     Usually the highest signature number on the page, and in several states higher
+│     │     than what a whole new party needs.
+│     │     └─▶ DISAFFILIATION REQUIREMENT: many states bar an independent run by anyone
+│     │          registered with a party within a set window before filing. Upheld in
+│     │          Storer v. Brown (1974) — the "sore loser" rule, now law in ~45 states.
+│     │
+│     └─ 1e WRITE-IN ──▶ the residual route, and not universally available. Some states
+│           require advance declaration; some do not count write-ins at all.
+│           [ Ind. 1990, Paul v. Election Bd.: a state must print write-in space and count
+│             what is written there. 2 Jun 2026: Butch Ware, kept off the California
+│             gubernatorial ballot, took 22,493 write-ins — a record for that primary, and
+│             more than 49 of the 61 candidates who WERE printed. ]
+│
+├─◆ 2. THE FILING WINDOW   (dates, and the officer who receives the paper)
+│     A declaration of candidacy, filed with a named officer, inside a window that opens and
+│     closes on statutory dates. Missing the close is unappealable in most states.
+│     ◇ is the deadline itself constitutional?
+│     ├─ EARLY DEADLINES ARE THE MOST-LITIGATED FEATURE IN BALLOT-ACCESS LAW and the one
+│     │    minor parties most often win. Anderson v. Celebrezze (1983) struck Ohio's March
+│     │    deadline for an independent presidential candidate. Since then: Feb too early
+│     │    (HI 2013), Jan too early (KY 2020, UT 2023, CA 2012), Mar too early (SD 2018,
+│     │    IA 2022, ID 2024), Apr too early (NM 2013), May too early (MA 1985, WY 1997),
+│     │    Jun too early (NV 1992), Aug too early (AK 1990).
+│     └─ THE FILING OFFICER is, in most states, a partisan elected official — and in 2026
+│          is a named party in several of the challenges at stage 5.  ──▶ see the separate
+│          State Election Administration Tree for who that officer actually is per state.
+│
+├─◆ 3. THE PRICE OF ENTRY   (a fee, a petition, or both)
+│     ◇ fee or signatures?
+│     ├─ FILING FEE ──▶ permitted, but NOT as the sole route.
+│     │    Bullock v. Carter (1972) struck a Texas scheme charging a flat fee plus a pro rata
+│     │    share of election costs — assessments reached $8,900 — with no alternative.
+│     │    Lubin v. Panish (1974) held a state may not demand a fee an indigent candidate
+│     │    cannot pay without providing another way onto the ballot.
+│     └─ SIGNATURES ──▶ the alternative the two cases require. Which is why almost every
+│          state that charges a fee also publishes a petition number — and why the petition
+│          number, not the fee, is where the burden was relocated.
+│
+├─◆ 4. THE SIGNATURE TEST   ⚑  (the stage that ends the most candidacies)
+│     GROSS vs. NET is the whole discipline: a drive targets 1.5x to 2x the statutory number
+│     because signatures are struck for address mismatch, non-registration, duplication,
+│     illegibility, and circulator defects.
+│     ├─ HOW HIGH MAY IT GO? Jenness v. Fortson (1971) upheld 5% of eligible voters. That
+│     │    figure became the working ceiling: below it, courts usually sustain; above it,
+│     │    courts usually strike. Williams v. Rhodes (1968) had already voided Ohio's
+│     │    effective 15% scheme, holding a state may not shield two parties from competition.
+│     ├─ DISTRIBUTION REQUIREMENTS — a minimum spread across counties or districts, so that
+│     │    concentrated urban support cannot qualify a candidate. Repeatedly struck:
+│     │    Mont. 2021, Pa. 2018, and voided for independents in several more.
+│     ├─ WHO MAY CIRCULATE — residency bans on out-of-state circulators struck in Conn. 2016,
+│     │    N.J. 2021, N.Y. 2022; criminal-record bans and per-signature pay bans still
+│     │    contested. [ Ark., 30 Jun 2026, League of Women Voters v. Jester: a federal court
+│     │      struck five circulator restrictions at once — forced photo-ID display, a scripted
+│     │      fraud warning, advance registration of every circulator, a lifetime criminal-
+│     │      conviction bar, and making sponsors pay the state's legal-notice costs. On appeal;
+│     │      the out-of-state-circulator and per-signature-pay bans go to trial later. ]
+│     ├─ WHERE YOU MAY STAND — the ground has narrowed independently of any signature number:
+│     │    USPS interior sidewalks closed (D.C. Cir. upheld, 2012), post office visits down
+│     │    >50% since 2000, library visits down 20-50% since the early 2010s, the Virginia DMV
+│     │    closed its sidewalks in early 2025 and Arkansas followed.
+│     └─ ⚑ THE THRESHOLD DID NOT MOVE; THE COST OF CLEARING IT DID.
+│          [ A professional petitioner's good week fell from ~750 gross signatures to ~500 —
+│            Bill Redpath, Ballot Access News, Aug 2026, from 36 years of running drives.
+│            Measured in money: the Lincoln Party paid $780,000 for the 36,944 signatures
+│            that put one Indiana secretary-of-state nominee on the 2026 ballot. ]
+│
+├─◆ 5. THE CHALLENGE   ⚑  (removal, and the only stage with a short clock)
+│     Filing does not put a name on the ballot; surviving the objection period does.
+│     ├─ WHO MAY FILE — in most states any registered voter. In practice, a party.
+│     ├─ THE FORUM — a state or county election board, or a single trial judge, deciding in
+│     │    days or weeks because the ballot must go to print.
+│     ├─ THE GROUNDS — signature validity, residency, party-registration duration, form
+│     │    defects, and the notarization and header rules on the petition itself.
+│     │    [ Ariz. 2026, Houlihan v. Lytle: unimportant petition errors cannot keep a
+│     │      candidate off the ballot. Alaska, 26 and 29 Jun 2026, Sullivan v. State Div. of
+│     │      Elections: the state may NOT remove a candidate for lacking "good faith" — there
+│     │      being two Republicans named Dan Sullivan on one primary ballot was not a ground,
+│     │      because no statute made it one. Trial court affirmed by the state Supreme Court. ]
+│     └─ ⚑ IN 2026 THE CHALLENGE CHANGED HANDS. For ninety years the Democratic Party filed
+│          most removal challenges against minor-party and independent candidates. This year
+│          the Republican Party filed more, for the first time on record:
+│              Republican (9) ..... AZ (party name change) · FL x2 (U.S. House; city council)
+│                                   IA x3 (two U.S. House; governor ticket) · KS (Sec. of
+│                                   State struck a party) · NH (Sec. of State v. an
+│                                   independent Senate candidate) · NJ (U.S. House)
+│              Democratic (2) ..... CA (Sec. of State struck the Green gubernatorial
+│                                   candidate) · IL (two independents, 4th district — the
+│                                   only ones of the eleven that clearly succeeded)
+│          [ Ballot Access News, 27 Aug 2026. Most remain pending. Before 1952 there is no
+│            known instance of a Republican challenge to a minor-party or independent
+│            PRESIDENTIAL candidate; in 2024 there were none. ]
+│
+├─◆ 6. JUDICIAL REVIEW   (the Anderson-Burdick balancing test)
+│     A candidate removed at stage 5, or barred at stage 4, sues. What the court applies is
+│     not tiered scrutiny but a sliding scale:
+│     ├─ Anderson v. Celebrezze (1983) ──▶ weigh the character and magnitude of the injury
+│     │    to First and Fourteenth Amendment rights against the precise interests the state
+│     │    asserts, and ask whether those interests make the burden necessary.
+│     ├─ Burdick v. Takushi (1992) ──▶ converts it to a scale. A SEVERE burden must be
+│     │    narrowly tailored to a compelling interest. A "reasonable, nondiscriminatory
+│     │    restriction" is sustained by the state's important regulatory interests alone.
+│     │    ◇ which branch? ── the case is usually decided the moment that word is chosen.
+│     ├─ Munro v. Socialist Workers Party (1986) ──▶ the state need not produce EVIDENCE that
+│     │    the harm it is regulating against would occur. Legislative judgment suffices.
+│     └─ Timmons v. Twin Cities Area New Party (1997) ──▶ a state may ban fusion, and its
+│          interest in "the stability of the political system" — read as the two-party
+│          system — is a legitimate one to weigh against the burden.
+│     ✕ NET EFFECT: a framework that is formally balancing and functionally deferential.
+│       [ In 9 states the most recent constitutional ballot-access WIN by a minor party or
+│         independent is 1992 or earlier: Miss. 1969 · La. 1979 · N.D. 1980 · Okla. 1984 ·
+│         Mass. 1985 · Alas. 1990 · Ind. 1990 · Fla. 1992 · Nev. 1992. Compiled by Richard
+│         Winger; the 2026 entries are Ariz. (Houlihan) and Wis. (Strange v. Elections Comm). ]
+│
+├─◆ 7. THE DISQUALIFICATION QUESTION   (14th Amendment, Section 3)
+│     The one exclusion ground that is federal, constitutional, and currently inoperative.
+│     ├─ Trump v. Anderson, 4 Mar 2024 ──▶ all nine Justices agreed that responsibility for
+│     │    enforcing Section 3 against federal officeholders and candidates rests with
+│     │    CONGRESS, not the states. A state may not strike a federal candidate under it.
+│     ├─ STATE OFFICES ──▶ states retain concurrent authority to enforce Section 3 there.
+│     └─ ◇ has Congress legislated the procedure Section 5 requires?  ── NO.
+│          ✕ so the clause is valid, the enforcer is identified, and the mechanism does not
+│            exist. The gate has an operator who has never been given a key.
+│
+├─◆ 8. THE PRINTED BALLOT   (what survives onto the page still varies)
+│     Ballot ORDER (rotation, incumbent-first, or party-in-power-first) · the PARTY LABEL and
+│     whether a candidate may claim one · INCUMBENCY and OCCUPATIONAL designations · whether
+│     write-in space is printed at all · and the ballot-printing date, which is the real
+│     deadline every clock above is measured against.
+│
+└─◆ 9. STATE OF THE 2026 BALLOT   [ dated block — 15 September 2026 ]
+      Statewide offices with ONLY D and R nominees ......... 8 states (AL CA CT GA LA NM NY VA)
+      Legislative races with ONLY D and R nominees ......... every one, in Illinois
+      New-party qualification procedure does not exist ..... 11 states + D.C.
+      Libertarian Party ballot status ..................... on in 32 states
+      Green Party ......................................... on in 18 states
+      Constitution Party .................................. on in 12 states
+      Forward Party ....................................... on in 5 states
+      Party challenges to minor/independent candidates .... 9 Republican, 2 Democratic
+      Pending at the Supreme Court ........................ RNC v. Eakin, No. 25-962 —
+        documentary proof of citizenship to register; set for argument in OT 2026-27. It is
+        a REGISTRATION case, not a ballot-access case, but it is the gate one step upstream
+        of every signature on every petition above.
+      [ Party ballot-status counts and the challenge tally: Ballot Access News, 27 Aug 2026.
+        Single-party-monopoly counts: Ballot Access News, 13-14 Sep 2026. ]
