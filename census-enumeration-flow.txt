@@ -1,0 +1,158 @@
+HOW THE CENSUS IS ACTUALLY COUNTED — ADDRESS LIST TO STATE TOTAL
+│   Legend:  ──▶ main path  └─▶ branch  ◇ decision  ★ unrepeatable  ✕ closed  ⚠ quality problem
+│   Time-slice: operations as of Sept 21, 2026 · dates shown are the published 2030 cycle
+│
+■ 0. THE FRAME — YOU CANNOT COUNT A PERSON YOU CANNOT ADDRESS
+│     The count is built on the MASTER ADDRESS FILE (MAF), paired with the TIGER geographic
+│     database. Every later operation is a transaction against that list: mail to it, knock on
+│     it, impute for it. Nothing in the pipeline discovers a household that the list omits.
+│       ├─ ★ THE ASYMMETRY — a bad address is invisible; a bad interview is measurable.
+│       │    The post-enumeration survey at step 9 can size the error. It cannot add the people.
+│       ├─ 13 U.S.C. § 141(a) — the Secretary of Commerce "shall" take the census "in such
+│       │    form and content as he may determine." The manner of counting is DELEGATED
+│       │    DISCRETION, not constitutional command. Almost nothing below is in the Constitution.
+│       └─ ◆ WHAT THIS MAP DOES NOT COVER — what goes ON the form (a separate track that runs
+│              through OMB and Congress) and what happens to the number AFTER tabulation.
+│
+├─◆ 1. THE MAF IS MAINTAINED CONTINUOUSLY — all decade, not in census year
+│     ├─ USPS Delivery Sequence File ....... twice-yearly refresh of every deliverable address
+│     ├─ tribal, state and local files ..... via the Geographic Support System
+│     ├─ new-construction and building-permit data
+│     └─ ⚠ THE STRUCTURAL GAP — the DSF is a list of places mail is DELIVERED. Housing that
+│            receives no mail is systematically weak on it: informal and converted units,
+│            basement and garage apartments, units behind a single mailbox, colonias,
+│            and much of Indian Country. The gap is not random, and it is geographic,
+│            which means it lands as a seat and a funding formula, not as noise.
+│
+├─◆ 2. ★ LUCA — THE ONE STAGE OUTSIDE GOVERNMENTS CAN TOUCH THE LIST
+│     │    Local Update of Census Addresses. Tribal, state and local governments review the
+│     │    Census Address List for their own jurisdiction and submit additions, deletions,
+│     │    corrections, and spatial fixes. This is the ONLY point at which anyone outside the
+│     │    Bureau can put a housing unit onto the list on purpose.
+│     ├─ 2030 schedule as published:
+│     │      ├─ LUCA Prep — learn, gather materials, register ........ May 2027 – Aug 2027
+│     │      ├─ ★ LUCA Review .................................. Oct 2027 – Mar 31, 2028
+│     │      │     review window lengthened from 4 months (2020) to 6 months (2030)
+│     │      └─ all web-based for 2030; no paper materials
+│     ├─ THE PRICE OF ENTRY — a government must sign a confidentiality agreement and handle
+│     │    the address list under Title 13 to participate at all.
+│     └─▶ ◇ THE PARTICIPATION TRAP — LUCA is VOLUNTARY and UNFUNDED. A jurisdiction with a
+│            GIS department and staff to spare fixes its list. A poor, rural, or small one does
+│            not participate, or participates thinly. So the stage designed to correct the
+│            address gap is available in proportion to the capacity a place already has —
+│            which runs in the SAME direction as the gap it is meant to fix. Non-participation
+│            is invisible in the final data: there is no flag on a county that skipped it.
+│
+├─◆ 3. ADDRESS CANVASSING — verify the list against the ground  [2029]
+│     ├─ IN-OFFICE (IOAC) ──▶ satellite and aerial imagery compared over time to detect
+│     │      housing change; the large majority of blocks are resolved without a visit
+│     ├─ IN-FIELD (IFAC) ──▶ listers walk only the areas in-office methods could not resolve
+│     │      └─ 2030 direction of travel: TARGETED canvassing, continuing the 2020 approach
+│     │           and downsizing the field operation further via automated change detection
+│     └─▶ ◇ THE TRADE — imagery sees roofs. It does not see the second family in the
+│            basement, the unit behind the unit, or a mobile home under tree cover. Every
+│            dollar saved by resolving a block in-office is a bet that the imagery was right.
+│
+├─◆ 4. ★ CENSUS DAY — ONE INSTANT, FOR EVERYONE  [Mon Apr 1, 2030]
+│     │    Every answer describes the household AS IT EXISTED on this date, whenever it is
+│     │    actually given. An enumerator knocking in August 2030 is asking about April.
+│     ├─ ★ USUAL RESIDENCE — where a person lives and sleeps most of the time. Not
+│     │    citizenship, not voter eligibility, not legal domicile, not where the mail goes.
+│     ├─ the residence rule allocates the hard cases: prisons at the prison · college
+│     │    dorms at the school · nursing homes, shelters and barracks at the facility ·
+│     │    children in joint custody where they sleep most · snowbirds at the usual home
+│     └─ ◆ WHY IT IS THE HIGHEST-LEVERAGE RULE IN THE SYSTEM — it is issued by the Bureau
+│            through notice-and-comment, not by statute. It moves whole populations between
+│            states and between districts, and it can be rewritten without Congress.
+│
+├─◆ 5. SELF-RESPONSE — cheap, fast, and the only stage the public controls  [Mar–Jul 2030]
+│     ├─ INTERNET-FIRST since 2020 ──▶ phone ──▶ paper questionnaire
+│     ├─ delivery mode is set by address type:
+│     │      ├─ MAILOUT/MAILBACK ..... city-style addresses; the large majority
+│     │      ├─ UPDATE LEAVE ......... enumerator verifies the address and leaves a package
+│     │      │      (rural route and PO-box-only areas the mail cannot reach)
+│     │      └─ UPDATE ENUMERATE ..... remote areas and much of Indian Country; the lister
+│     │             updates the address AND interviews on the same visit
+│     ├─ up to five mailings, escalating, before an address is handed to the field
+│     └─ ★ EVERY SELF-RESPONSE IS AN ADDRESS REMOVED FROM THE MOST EXPENSIVE AND LEAST
+│            ACCURATE OPERATION IN THE CENSUS. This is why the whole communications campaign
+│            exists, and why self-response rate — not final coverage — is the number the
+│            Bureau manages against in real time.
+│
+├─◆ 6. NONRESPONSE FOLLOWUP (NRFU) — the expensive half  [May–Aug 2030]
+│     │    Every address that did not self-respond goes to a temporary enumerator. Roughly a
+│     │    third of housing units nationally; far more in the places already hardest to count.
+│     ├─ the cascade, in order of quality:
+│     │      ├─ 1. household respondent — a resident answers .................... best
+│     │      ├─ 2. ⚠ PROXY — a neighbor, landlord, or building manager answers ABOUT the
+│     │      │      household. In 2020 only 87% of NRFU proxy enumerations were correct,
+│     │      │      and the item nonresponse was severe: 61% missing age or date of birth,
+│     │      │      41% missing race, 38% missing ethnicity.
+│     │      └─ 3. administrative records — see step 7
+│     ├─ contact attempts are capped; an address is not pursued indefinitely
+│     └─▶ ◇ THE COST LEVER THAT IS ALSO A QUALITY LEVER — cutting the number of visits, or
+│            shortening the NRFU window, converts household interviews into proxies and
+│            proxies into imputations. The count still finishes on time. The error moves
+│            downward into the small-area data and lands on the same populations every time.
+│
+├─◆ 7. THE PEOPLE THE ADDRESS MODEL DOES NOT FIT
+│     ├─ GROUP QUARTERS ENUMERATION — prisons, dorms, nursing homes, military barracks,
+│     │      group homes. Negotiated with the facility administrator, not the resident;
+│     │      often delivered as an administrative roster rather than individual interviews.
+│     ├─ SERVICE-BASED ENUMERATION — people with no usual address, counted at shelters,
+│     │      soup kitchens, mobile food vans, and outdoor locations over a set few days.
+│     ├─ TRANSITORY LOCATIONS — RV parks, marinas, campgrounds, motels.
+│     └─ ⚠ ALL OF THESE ARE ONE-SHOT OPERATIONS ON FIXED DATES. There is no second pass and
+│            no self-response fallback. If the facility roster is wrong or the outdoor count
+│            misses a site, the correction opportunity does not exist.
+│
+├─◆ 8. WHAT IS STILL BLANK WHEN THE FIELD CLOSES
+│     ├─ ADMINISTRATIVE RECORDS ──▶ IRS, Medicare, SSA, SNAP and other federal and
+│     │      commercial files used to resolve an address the field could not
+│     ├─ ★ COUNT IMPUTATION ──▶ for addresses where occupancy status or household SIZE is
+│     │      still unknown, the Bureau imputes from similar nearby units (hot-deck). In 2010,
+│     │      after an extensive field operation, this covered well under half a percent of
+│     │      addresses. The rate rises whenever the field operation is cut.
+│     ├─ ✓ IMPUTATION IS NOT SAMPLING. Utah v. Evans (2002) upheld hot-deck imputation for
+│     │      apportionment counts; sampling for apportionment remains barred by 13 U.S.C.
+│     │      § 195 and the 1999 decision. The line is narrow and it is load-bearing.
+│     └─ ◆ THE POINT — the census NEVER RETURNS A BLANK. Every address on the list produces
+│            a number. What varies is how that number was produced, and the further down this
+│            cascade it came from, the less anyone can see that from the published table.
+│
+├─◆ 9. PROCESSING → DELIVERY
+│     ├─ unduplication across the whole file (people counted twice, most often college
+│     │      students, children in two households, and second-home owners)
+│     ├─ DISCLOSURE AVOIDANCE — statistical noise injected into PUBLISHED tables under the
+│     │      Title 13 confidentiality obligation. State totals are published as enumerated.
+│     ├─ ──▶ tabulation of state totals ──▶ hands off to the apportionment pipeline
+│     └─ ★ POST-ENUMERATION SURVEY + DEMOGRAPHIC ANALYSIS — two independent measurements of
+│            how badly the count missed, run AFTER it is over.
+│              └─ ✕ NEITHER ONE EVER CHANGES A PUBLISHED NUMBER. They are a report card.
+│                   Everything this map describes is final before the grade arrives.
+│
+╞═════════ [live] THE 2026 CENSUS TEST — WHAT ACTUALLY GOT TESTED ═══════════════════════════
+│     First of two field tests before the 2028 dress rehearsal (test Census Day Apr 1, 2028).
+│     Ran May 1 – Aug 31, 2026; concluded three weeks before this build. Results not yet out.
+│
+│     PLANNED (announced Jul 2024)              AS RUN (revised plan, Feb–Mar 2026)
+│     ────────────────────────────────          ──────────────────────────────────────────
+│     6 sites, incl. tribal lands in AZ,   ──▶  ✕ 2 sites: Huntsville, AL · Spartanburg, SC
+│       western NC, western TX,                    (~155,000 housing unit addresses)
+│       Colorado Springs, CO
+│     nationally representative sample     ──▶  ✕ dropped
+│     2020 decennial questionnaire         ──▶  ✕ the ACS questionnaire instead — ~40 min,
+│                                                  incl. citizenship and education
+│     internet · phone · mail              ──▶  ✕ internet self-response only
+│     bilingual English/Spanish paper      ──▶  ✕ English only
+│     group quarters enumeration test      ──▶  ✕ dropped, out of scope
+│     temporary Census field enumerators   ──▶  ◆ USPS WORKERS used for in-field enumeration
+│
+│     ◆ THE ONE GENUINELY NEW THING — letter carriers doing NRFU. The Bureau considered this
+│       for the 2018 end-to-end test and did not proceed, citing conflicting administrative
+│       processes between the two agencies. It is now the headline feature of the test.
+│     ⚠ EVERY STAGE THAT WAS CUT WAS A STAGE AIMED AT A HARD-TO-COUNT POPULATION: the tribal
+│       and remote sites, the Spanish-language path, the non-internet response modes, and
+│       group quarters. The design that remains tests the parts of the count that were never
+│       the problem. Congressional oversight interest is recorded in CRS IN12676 (Apr 2026).
+└────────────────────────────────────────────────────────────────────────────────────────────
