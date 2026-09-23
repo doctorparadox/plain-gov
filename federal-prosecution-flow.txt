@@ -1,0 +1,183 @@
+HOW A FEDERAL PROSECUTION BEGINS AND ENDS                       (as of 16 September 2026)
+│   Legend:  ──▶ main path  └─▶ branch/exit  ◇ decision  ✕ case ends  ⚑ load-bearing stage
+│            ▣ supervision layer   [ ] dated note or caveat
+│   Scale:   66,662 individuals sentenced in federal court in FY2025. 98% of all cases
+│            resolved by GUILTY PLEA; more than 99% of immigration cases did. Roughly
+│            2-3% of federal convictions follow a trial.
+│            [ U.S. Sentencing Commission, 2025 Sourcebook / 2025 Individual Datafile,
+│              covering 1 Oct 2024 - 30 Sep 2025. ]
+│
+■ 0. PREDICATION   (before a case exists, someone decides to look)
+│     An agency opens a matter: FBI, DEA, ATF, HSI, IRS-CI, an Inspector General, or a
+│     referral from a regulator, a grand jury in another district, or a member of Congress.
+│     └─▶ no judicial officer is involved. Nothing here is public. Nothing here is reviewable.
+│     [ The opening threshold is set by agency guidelines (for the FBI, the AG Guidelines
+│       for Domestic FBI Operations and the DIOG), not by statute. Changing that threshold
+│       changes what is investigated without changing a single criminal law. ]
+│
+├─◆ 1. INVESTIGATION   (agents build it; the prosecutor supplies the compulsory process)
+│     │  AGENT TOOLS ─────────────── interviews · surveillance · informants · consensual
+│     │                              recordings · undercover work · administrative subpoenas
+│     │  COURT-AUTHORIZED TOOLS ──── search warrants (Rule 41, probable cause, a magistrate
+│     │                              judge signs) · Title III wiretaps (AG-level approval,
+│     │                              plus necessity) · pen registers · § 2703(d) orders
+│     │  GRAND JURY TOOLS ────────── subpoenas duces tecum and ad testificandum · immunity
+│     │                              under 18 U.S.C. § 6002-6003 · secrecy under Rule 6(e)
+│     │
+│     ◇ is the target notified?  ─── generally NO. A target letter is discretionary and in
+│     │                              most districts uncommon outside white-collar practice.
+│     └─▶ statute of limitations runs throughout: 5 years by default (18 U.S.C. § 3282),
+│          longer for specific offenses, none for capital offenses or most terrorism.
+│
+├─◆ 2. THE CHARGING DECISION   ⚑⚑  (the most consequential stage, and it has no docket)
+│     │
+│     │  ▣ THE SUPERVISION CHAIN
+│     │    Line AUSA ──▶ Section/Unit Chief ──▶ Criminal Chief ──▶ First Assistant ──▶
+│     │    U.S. ATTORNEY (93 of them, across 94 judicial districts)
+│     │      └─▶ for sensitive categories, further up: the litigating Division at Main
+│     │           Justice ──▶ DEPUTY ATTORNEY GENERAL ──▶ ATTORNEY GENERAL
+│     │
+│     │  ▣ JUSTICE MANUAL 9-27.000 - PRINCIPLES OF FEDERAL PROSECUTION
+│     │    9-27.220  substantial federal interest + admissible evidence sufficient to
+│     │              obtain and sustain a conviction
+│     │    9-27.230  adequacy of an alternative (state prosecution, civil, regulatory)
+│     │    9-27.260  IMPERMISSIBLE considerations: political association, activities or
+│     │              beliefs; race; religion; sex; national origin
+│     │    [ By its own terms the Manual confers NO enforceable rights. A defendant cannot
+│     │      move to dismiss because it was ignored. It binds only if supervisors enforce it. ]
+│     │
+│     │  ▣ PRIOR-APPROVAL CATEGORIES (a partial list; each routes above the district)
+│     │    public corruption and election offenses ...... Public Integrity Section
+│     │    RICO ......................................... Organized Crime and Gangs Section
+│     │    FCPA ......................................... Fraud Section
+│     │    national security and FARA ................... National Security Division
+│     │    subpoenas to members of the news media ....... Attorney General personally
+│     │    [ These are internal routing rules, revisable by memorandum, with no notice to
+│     │      Congress and no publication requirement when narrowed. ]
+│     │
+│     ◇ charge, or decline?
+│     ├─▶ CHARGE ───────────────────▶ continue to stage 3
+│     └─▶ DECLINE ✕ ── THE EXIT WITH NO RECORD. No filing, no docket number, no notice to
+│          the subject, no statistic published identifying the matter. Presumptively
+│          unreviewable under Heckler v. Chaney (1985). Selective- and vindictive-
+│          prosecution claims exist but United States v. Armstrong (1996) requires a
+│          threshold showing before discovery is even allowed, which is close to
+│          unobtainable when the comparator cases are the ones that were never filed.
+│
+├─◆ 3. THE GRAND JURY   ⚑  (the only citizen check, and the one that almost never fires)
+│     16-23 citizens · 12 votes to indict · no judge in the room · no rules of evidence ·
+│     no defense counsel inside · target has no right to appear · Rule 6(e) secrecy
+│     ├─▶ TRUE BILL ──────────────▶ indictment returned, continue to stage 4
+│     ├─▶ NO BILL ✕ ─── the matter ends unless re-presented, and the Justice Manual
+│     │                  requires the responsible U.S. Attorney's approval to go again.
+│     └─▶ BYPASS ROUTES that skip this stage entirely:
+│          · INFORMATION — the defendant waives indictment, almost always as part of a
+│            negotiated plea. This is how a large share of white-collar cases are charged.
+│          · COMPLAINT + Rule 5 — an arrest first on a magistrate-signed complaint, with
+│            the indictment following within 30 days under the Speedy Trial Act.
+│          · MISDEMEANOR — no indictment required at all.
+│     [ FY2013 baseline: 5 no bills in 196,969 matters (BJS). 2025-26 saw an unusual
+│       cluster of federal no bills in politically sensitive matters. Both figures are
+│       carried here as reported; no rate is asserted for 2026, because none is published. ]
+│
+├─◆ 4. ARREST OR SUMMONS ──▶ INITIAL APPEARANCE ──▶ ARRAIGNMENT
+│     Rule 5 initial appearance before a magistrate judge, usually within 24-48 hours ·
+│     appointment of counsel under the Criminal Justice Act · the detention decision
+│     ◇ detention or release?  (Bail Reform Act, 18 U.S.C. § 3142)
+│     ├─▶ released on conditions ── the majority of defendants, but not of drug or
+│     │                             immigration defendants
+│     └─▶ DETAINED PENDING TRIAL ── a rebuttable presumption of detention attaches to
+│          whole statutory categories. Detention is the single strongest predictor of
+│          pleading guilty, which is why this stage belongs on a map of charging outcomes
+│          and not merely on a map of custody.
+│     Arraignment: the indictment is read, a plea is entered (virtually always NOT GUILTY
+│     at this stage), and the Speedy Trial Act clocks start: 30 days arrest-to-indictment,
+│     70 days indictment-to-trial.
+│
+├─◆ 5. DISCOVERY AND MOTIONS   (asymmetric by design, and the clock stops here)
+│     GOVERNMENT MUST DISCLOSE ── Rule 16 materials · Brady exculpatory evidence · Giglio
+│                                 impeachment of its own witnesses · Jencks statements,
+│                                 which by statute need not come until after direct exam
+│     DEFENSE MUST DISCLOSE ────── far less: alibi, insanity, expert reciprocity
+│     NO DEPOSITIONS of witnesses, unlike every civil case in the same courthouse
+│     ◇ dispositive motions: to dismiss the indictment · to suppress · to sever · to
+│       compel · venue · vindictive or selective prosecution
+│     └─▶ every motion filed EXCLUDES time from the 70-day clock (18 U.S.C. § 3161(h)),
+│          as does any "ends of justice" continuance. A complex case can run years with
+│          the statutory clock never expiring.
+│
+├─◆ 6. THE PLEA   ⚑⚑  (where 98 of every 100 cases actually end)
+│     │  Rule 11(c)(1)(A) charge bargain — counts dismissed or not filed
+│     │  Rule 11(c)(1)(B) recommendation  — non-binding on the judge
+│     │  Rule 11(c)(1)(C) agreed sentence — binding if the judge accepts the agreement
+│     │  Plus: cooperation agreements, proffer ("queen for a day") letters, deferred and
+│     │  non-prosecution agreements (mostly corporate), and pretrial diversion.
+│     │
+│     │  THE PRICE OF REFUSING ── not a rule, but the sum of ordinary mechanisms:
+│     │    · acceptance of responsibility (-2, or -3) is available only on a plea
+│     │    · a mandatory minimum count can be dropped, or never filed
+│     │    · the § 851 prior-conviction enhancement can be withheld, or filed
+│     │    · a § 5K1.1 cooperation departure requires the prosecutor's motion
+│     │  [ NACDL's 2018 study found the average post-trial sentence exceeded the average
+│     │    post-plea sentence by more than 3x across most primary offense categories. ]
+│     ├─▶ PLEA ACCEPTED ✕ ────────▶ straight to stage 8, sentencing
+│     └─▶ PLEA REJECTED / REFUSED ▶ stage 7, trial
+│
+├─◆ 7. TRIAL   (rare enough to be a statistical outlier rather than the default)
+│     Jury of 12, unanimous · government bears proof beyond a reasonable doubt · Rule 29
+│     motion for judgment of acquittal at the close of the government's case and again
+│     after the verdict
+│     ├─▶ ACQUITTAL ✕ ── final. The Double Jeopardy Clause bars any government appeal,
+│     │                   which makes this the only truly unreviewable ending on the map.
+│     └─▶ CONVICTION ──▶ stage 8
+│     [ Acquitted conduct may still raise the sentence at stage 8 under a preponderance
+│       standard. The Sentencing Commission narrowed this by amendment in 2024; it did
+│       not eliminate it. ]
+│
+├─◆ 8. SENTENCING   (the judge decides; the Guidelines decide what the judge starts from)
+│     Presentence report by U.S. Probation ──▶ objections ──▶ Guidelines calculation:
+│       offense level (base + specific offense characteristics + adjustments) crossed with
+│       criminal history category, on the 43 x 6 table
+│     ──▶ departures and variances ──▶ the 18 U.S.C. § 3553(a) factors ──▶ sentence imposed
+│     Advisory since United States v. Booker (2005) — but the range must still be
+│     calculated correctly, treated as the starting point, and any variance explained well
+│     enough to survive reasonableness review.
+│     └─▶ MANDATORY MINIMUMS override the whole calculation where they apply. The only two
+│          exits are the § 3553(f) safety valve and a § 5K1.1 / Rule 35(b) cooperation
+│          motion, which only the prosecutor can file. The charging decision at stage 2
+│          therefore sets the sentencing floor here, six stages earlier.
+│
+├─◆ 9. APPEAL AND COLLATERAL REVIEW
+│     DIRECT APPEAL ─── to the circuit (14 days to notice). Preserved issues reviewed for
+│                       error; unpreserved ones for plain error. Most plea agreements
+│                       contain an APPEAL WAIVER, which is generally enforced.
+│     ──▶ petition for certiorari ── discretionary, and granted in a vanishingly small
+│          fraction of federal criminal cases
+│     COLLATERAL ────── 28 U.S.C. § 2255 motion (1-year limit, ineffective assistance and
+│                       jurisdictional claims) · a second one requires circuit authorization
+│     COMPASSIONATE RELEASE ── 18 U.S.C. § 3582(c)(1)(A), which the First Step Act let
+│                       defendants file directly rather than only through the BOP
+│     └─▶ EXECUTIVE EXIT — the pardon or commutation, which is outside this pipeline
+│          entirely and reviewable by nothing in it. Mapped separately.
+│
+└─◆ 10. THE SUPERVISION LAYER AS IT STANDS   [ dated block — 16 September 2026 ]
+      Attorney General ............................ Todd Blanche (sworn in 10 Aug 2026,
+        88th AG; previously Deputy AG from 2025, and Acting AG before confirmation)
+      Acting Deputy Attorney General .............. Trent McCotter (since 10 Aug 2026)
+      Assistant AG, Criminal Division ............. A. Tysen Duva (since Dec 2025)
+      Solicitor General ........................... D. John Sauer (49th SG, since Apr 2025)
+      U.S. Attorneys .............................. 93 offices, 94 judicial districts
+      Sentencing Commission ....................... 5 of 7 seats filled; quorum is 4; two
+        more terms expire at the end of 2026, putting the 2027 amendment cycle at risk.
+        [ The Commission last lost its quorum in Dec 2018 and went ~5 years without
+          adopting amendments. ]
+      Live appointments question .................. 28 U.S.C. § 546 permits the AG ONE
+        120-day interim U.S. Attorney appointment; after it lapses the power passes to
+        the district court and does not return. On that ground the EDVA indictments of
+        James Comey and Letitia James were dismissed in Nov 2025, and the Fourth Circuit
+        heard the government's appeal in Sep 2026. A December 2025 grand jury separately
+        refused a new mortgage-fraud indictment of Letitia James.
+      [ All six officeholder lines verified 16 Sep 2026 against justice.gov staff
+        profiles. Commission seat count: USSC commissioners page and the 2026-2027
+        priorities notice. EDVA litigation posture: contemporaneous reporting, 15 Sep
+        2026; the appeal was argued and NOT decided as of this writing. ]
