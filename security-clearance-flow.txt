@@ -1,0 +1,168 @@
+HOW A SECURITY CLEARANCE IS GRANTED AND REVOKED           (as of September 18, 2026)
+│   Legend:  ──▶ main path   └─▶ branch   ◇ decision   ✕ ends   ★ status attaches
+│            ⚙ rule-writing authority (not a step in any one person's case)
+│            [] = dated 2025-26 practice note, sourced figure, or caveat
+│
+■ 0. THE TWO THINGS EVERYONE CALLS "A CLEARANCE"
+│
+│     ┌─────────────────────────────┬──────────────────────────────────────────────┐
+│     │  ELIGIBILITY                │  ACCESS                                       │
+│     ├─────────────────────────────┼──────────────────────────────────────────────┤
+│     │  Confidential / Secret /    │  Read-in to a specific compartment or program │
+│     │  Top Secret                 │  SCI (by compartment) · SAP (by program)      │
+│     │  An ADJUDICATED STATUS      │  A PERMISSION, granted by the owning agency   │
+│     │  Investigated, decided,     │  Requires eligibility + need-to-know + an     │
+│     │  recorded, PORTABLE between │  NdA; the agency may also impose a polygraph  │
+│     │  agencies by reciprocity    │  NOT a higher clearance level                 │
+│     │  (SEAD 7)                   │                                               │
+│     │  ★ carries the § 5.2 due-   │  ✕ carries NO procedure. Withdrawn at will,   │
+│     │    process package below    │    no cause stated, no appeal, same day       │
+│     └─────────────────────────────┴──────────────────────────────────────────────┘
+│
+│     THIS SPLIT IS THE WHOLE MAP. Everything procedural in stages 3-5 protects the
+│     left column. The right column is where an agency acts when it wants a result.
+│
+■ 1. ⚙ THE POLICY STACK — WHO WRITES THE RULES
+│     ├─ EO 13526 (2009) ..... classifies the INFORMATION: three levels, original vs.
+│     │                        derivative authority, declassification tracks
+│     ├─ EO 12968 (1995) ..... governs ACCESS by persons; § 5.2 = the review
+│     │                        procedures on denial/revocation
+│     │     └─▶ § 5.2(e): agency head or principal deputy may personally certify that
+│     │          a procedure cannot be provided without damaging national security.
+│     │          "This certification shall be conclusive."          [the inside switch]
+│     ├─ EO 10865 (1960) ..... the INDUSTRY track — cleared contractor personnel
+│     ├─ EO 13467 (2008) ..... names the two executive agents:
+│     │     ├─ SECURITY EXECUTIVE AGENT ......... the DNI  (government-wide, not just IC)
+│     │     │     staffed by NCSC's Special Security Directorate
+│     │     │     Jay Clayton, sworn in Aug. 3, 2026 — 9th DNI   [ODNI PR 12-26]
+│     │     └─ SUITABILITY & CREDENTIALING EXEC AGENT ... the Director of OPM
+│     └─ SEAD SERIES ......... the SecEA's binding directives:
+│           SEAD 3 reporting requirements · SEAD 4 the 13 adjudicative guidelines
+│           SEAD 6 continuous evaluation · SEAD 7 reciprocity · SEAD 8 temporary
+│           eligibility
+│
+│     NOTE THE SHAPE: not one statute. 50 U.S.C. § 3341 touches the process at the
+│     edges; the substance is executive orders and directives the executive writes,
+│     interprets and may certify around.
+│
+├──▶ 2. THE GRANT TRACK
+│     │
+│     ├─ 2a. SPONSORSHIP — no one applies for a clearance. A federal agency or a
+│     │        cleared contractor with a classified contract must sponsor a named
+│     │        person against a specific position.       ◇ no sponsor ─▶ no process ✕
+│     ├─ 2b. SF-86 — the Questionnaire for National Security Positions, filed in
+│     │        e-QIP or NBIS. Omissions here become Guideline E problems later.
+│     ├─ 2c. INVESTIGATION — conducted for ~95% of the government by DCSA
+│     │        ├─ Tier 3 ... Secret / Confidential, non-critical-sensitive
+│     │        └─ Tier 5 ... Top Secret and SCI-eligible, critical-sensitive
+│     │        [DCSA industry data, FY2026 Q1, fastest 90% of cases, end to end:
+│     │         about 156 days Secret, about 227 days Top Secret]
+│     │        [NBIS, the system meant to replace the legacy stack, is years late:
+│     │         DoD projects full deployment FY2027, legacy retirement by FY2028]
+│     ├─ 2d. ADJUDICATION — a federal adjudicator, never the investigator, applies
+│     │        SEAD 4's THIRTEEN GUIDELINES under the whole-person concept:
+│     │          A allegiance ....... B foreign influence .... C foreign preference
+│     │          D sexual behavior .. E personal conduct ..... F financial
+│     │          G alcohol .......... H drugs ................ I psychological
+│     │          J criminal conduct . K handling protected info L outside activities
+│     │          M use of information technology
+│     │        Each guideline lists DISQUALIFYING conditions and MITIGATING ones.
+│     │        There is no automatic bar. There is also no burden on the government:
+│     │        doubt is resolved in favor of national security, not the applicant.
+│     │        ├─yes─▶ ★ ELIGIBILITY GRANTED, recorded in the system of record
+│     │        ├─?───▶ SEAD 8 TEMPORARY / INTERIM eligibility — granted on partial
+│     │        │        results, revocable with no process at all       [see Exit 2]
+│     │        └─no──▶ go to ROUTE OUT 1 (the SOR track), below
+│     └─ 2e. RECIPROCITY (SEAD 7) — a current, in-scope eligibility is supposed to
+│              transfer between agencies without re-investigation.  [in practice the
+│              receiving agency's ACCESS decision is separate and is not reciprocal —
+│              which is how a "portable" clearance stops at a door]
+│
+├──▶ 3. THE ACCESS LAYER — where the job actually happens
+│     ├─ need-to-know determined by the information owner, not by the clearance
+│     ├─ SCI read-in, compartment by compartment (ODNI-controlled caveats)
+│     ├─ SAP read-in, program by program; access rosters may themselves be classified
+│     ├─ Nondisclosure Agreement signed (SF-312 or program-specific)
+│     └─ agency-imposed conditions: CI-scope or full-scope polygraph, foreign-travel
+│           reporting, foreign-contact reporting (SEAD 3)
+│
+├──▶ 4. THE STANDING LOOP — CONTINUOUS VETTING (SEAD 6)
+│     │   Replaced the 5- and 10-year periodic reinvestigation under Trusted
+│     │   Workforce 2.0. The file is no longer reopened on a calendar; it is never
+│     │   closed.
+│     ├─ automated record checks run against the enrolled population: criminal,
+│     │    financial, terrorism, foreign travel, public records
+│     ├─ SEAD 3 self-reporting obligations run alongside — and FAILING TO REPORT is
+│     │    itself a Guideline E concern, which has revoked clearances the underlying
+│     │    event alone would not have
+│     ├─ [74% of the vetted federal workforce enrolled at FY2026 Q2; about 1.13 new
+│     │    actionable alerts per quarter per 100 enrollees at FY2026 Q1]
+│     ├─ [19 May 2026: DCSA replaced the NISP contractor periodic reinvestigation
+│     │    with a five-year questionnaire]
+│     └─▶ an alert routes to an adjudicator ──▶ resolved and closed
+│            └─▶ or ──▶ ROUTE OUT 1
+│
+■ 5. THE THREE DOORS OUT — each with less process than the last
+│
+├──▶ ROUTE OUT 1 — ADJUDICATIVE REVOCATION      the one with a procedure
+│     ├─ 1. suspension of access pending resolution — immediate, and not itself
+│     │       appealable; the person is out of the building on day one
+│     ├─ 2. STATEMENT OF REASONS (SOR) — written, guideline by guideline
+│     ├─ 3. WRITTEN REPLY [20 days in the DoD industrial track]
+│     ├─ 4. ◇ FORUM SPLIT — same statute, two different machines:
+│     │       ├─ CONTRACTOR (EO 10865 / DoD Dir. 5220.6) ─▶ DOHA administrative
+│     │       │     judge, an adversarial HEARING on the record, with a transcript
+│     │       │     └─▶ appeal to the three-judge DOHA APPEAL BOARD [15 days],
+│     │       │          which reviews for procedure and defers on credibility
+│     │       └─ FEDERAL EMPLOYEE / MILITARY (EO 12968 § 5.2) ─▶ a PERSONAL
+│     │             APPEARANCE before an adjudicative authority, NOT a hearing:
+│     │             no subpoena, no cross-examination, no neutral record
+│     │             └─▶ appeal to the agency's own high-level panel
+│     │                  (in DoD, the Personnel Security Appeal Board)
+│     ├─ 5. ◇ § 5.2(e) CERTIFICATION — at any point, the agency head or principal
+│     │       deputy may certify a procedure away. Conclusive by its own terms. ✕
+│     └─ 6. FINAL AGENCY DECISION ──▶ into the ceiling at stage 6
+│
+├──▶ ROUTE OUT 2 — ACCESS WITHDRAWAL              no cause, no procedure, same day
+│     ├─ read-off from the SCI compartment or the SAP; eligibility untouched
+│     ├─ need-to-know simply declared absent
+│     ├─ interim/temporary eligibility withdrawn (SEAD 8 carries no review right)
+│     └─ RESULT: the person cannot do the job, holds a clearance on paper, and has
+│           nothing to appeal — there is no adverse eligibility action to contest.
+│           [This is the door that does the work. It generates no SOR and therefore
+│            no record, which is one reason the population of people removed this
+│            way cannot be counted from outside.]
+│
+└──▶ ROUTE OUT 3 — PRESIDENTIAL DIRECTIVE                bypasses 1 and 2 entirely
+      ├─ EO or presidential memorandum names individuals and directs agency heads
+      │     to revoke and rescind access
+      ├─ the § 5.2 package does not attach: EO 12968 binds AGENCY HEADS, and the
+      │     President's authority over access is constitutional, not conferred by
+      │     the order that describes it — so he is not bound by its procedures
+      ├─ [20 Jan 2025 — EO revoking the clearances of the 51 signatories of the
+      │     October 2020 "laptop letter"]
+      ├─ [Mar. 2025 — presidential memorandum naming 15 individuals incl. attorney
+      │     Mark Zaid]
+      ├─ [Aug. 2025 — announced revocation for 37 current and former national
+      │     security officials]
+      └─▶ the only live test: CHALLENGE THE MOTIVE, NOT THE MERITS
+            ├─ Zaid v. Executive Office of the President (D.D.C.) — 23 Dec. 2025,
+            │     motion to dismiss DENIED, preliminary injunction GRANTED on First
+            │     Amendment, due process and right-to-counsel grounds
+            │     └─▶ D.C. Circuit No. 26-5009, argued 14 May 2026
+            │          [no decision as of this build — 18 Sept. 2026]
+            └─ other district courts have gone the other way, holding a revocation
+                  unreviewable even when pleaded as a pretextual ideological purge
+
+■ 6. THE CEILING — DEPARTMENT OF THE NAVY v. EGAN, 484 U.S. 518 (1988)
+      ├─ HOLDING: the grant of a clearance is a sensitive, discretionary judgment
+      │     committed by law to the executive; absent a specific grant by Congress,
+      │     no outside non-expert body may review the MERITS
+      ├─ WHAT IT DOES NOT SAY: that the procedures are unreviewable, that the
+      │     First Amendment stops at the door, or that Congress could not legislate
+      ├─ CONSEQUENCE: revocation is an instrument that needs no cause a court will
+      │     examine. The only questions left justiciable are procedural and
+      │     motivational — and § 5.2(e) is aimed squarely at the procedural half.
+      └─ [50 U.S.C. § 3341 is the closest Congress has come to the "specific grant"
+            Egan left open. It sets timeliness goals and reporting duties. It does
+            not create a right of review.]
