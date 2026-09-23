@@ -1,0 +1,174 @@
+HOW A U.S. ATTORNEY IS APPOINTED AND REMOVED        (as of September 17, 2026)
+│   Legend:  ──▶ main path   └─▶ branch   ◇ decision   ✕ ends/rejected   ★ takes office
+│            §  = 28 U.S.C. unless another title is named
+│            [] = dated 2025-26 practice note or caveat
+│
+■ 0. THE OFFICE — 93 OFFICERS FOR 94 JUDICIAL DISTRICTS
+│     ├─ § 541(a) .. one U.S. attorney for each judicial district, appointed by the
+│     │              President by and with the advice and consent of the Senate
+│     │              [Guam and the N. Mariana Islands share one officer -> 93 for 94]
+│     ├─ § 541(b) .. FOUR-YEAR TERM — it expires, but the officer HOLDS OVER until a
+│     │              successor is appointed and qualifies. A term, not a tenure.
+│     ├─ § 541(c) .. "is subject to removal by the President" — at will, no cause
+│     └─ § 547 .... the duties: prosecute all offenses against the United States in
+│                   the district, defend the U.S. in civil actions, collect its debts
+│
+│   ONE OFFICE, FOUR WAYS IN. Only Route A carries a term. The other three are
+│   temporary fills, and the entire 2025-26 fight is over how long they may last.
+│
+├──▶ ROUTE A — PRESIDENT + SENATE (§ 541)          the only permanent route
+│     │
+│     ├─ 1. Home-state senators recommend · White House Counsel vets · FBI background
+│     │       └─▶ [custom, not law — it collapses whenever the home-state delegation
+│     │            belongs to the other party, which is when Routes B-D get used]
+│     ├─ 2. PRESIDENT NOMINATES ──▶ referred to the Senate Judiciary Committee
+│     ├─ 3. ◇ BLUE SLIP — both home-state senators must return one
+│     │       ├─yes─▶ hearing · questionnaire · committee vote
+│     │       └─no──▶ the nominee is never scheduled ✕
+│     │                [a COMMITTEE CUSTOM, revocable by the chair at any time. Still
+│     │                 honored for U.S. attorneys and district judges; abandoned for
+│     │                 circuit judges in 2017-18]
+│     ├─ 4. Committee reports ──▶ Senate floor
+│     │       └─▶ confirmed EN BLOC, in packages, by voice vote or one roll call
+│     │            [Senate-confirmed U.S. attorneys in the 119th Congress have
+│     │             arrived in batches: 16 in Oct 2025, 14 in Dec 2025, 13 in
+│     │             May 2026, 4 in Aug 2026]
+│     ├─ 5. ★ APPOINTED, COMMISSIONED, SWORN — the four-year term begins
+│     └─ 6. Serves at the pleasure of the President ──────────▶ see 5. REMOVAL
+│
+├──▶ ROUTE B — INTERIM APPOINTMENT BY THE ATTORNEY GENERAL (§ 546(a)-(c))
+│     │     The fast fill. No Senate, no court, no hearing — a signature.
+│     │
+│     ├─ § 546(a) .. the AG "may appoint a United States attorney" for a district in
+│     │              which the office is vacant
+│     ├─ § 546(b) .. THE BAR: the AG shall NOT appoint a person to whose appointment
+│     │              by the President the Senate REFUSED to give advice and consent
+│     ├─ § 546(c) .. the appointment runs until the EARLIER of
+│     │                (1) a § 541 presidential appointee qualifying, or
+│     │                (2) 120 DAYS after the AG's appointment
+│     │              [added by Pub. L. 110-34 in June 2007, restoring a cap Congress
+│     │               had deleted in the 2006 PATRIOT Act reauthorization]
+│     └─ ◇ DAY 120 ARRIVES WITH NO CONFIRMED SUCCESSOR
+│           └─▶ the appointment EXPIRES BY OPERATION OF LAW ────────▶ ROUTE C
+│                [courts have read § 546 to authorize ONE 120-day appointment per
+│                 vacancy — the power does not reset and does not return to the AG]
+│
+├──▶ ROUTE C — THE DISTRICT COURT APPOINTS (§ 546(d))          THE BACKSTOP
+│     │     The unusual provision, and the hinge of the whole design: the
+│     │     appointment power moves to the JUDICIARY.
+│     │
+│     ├─ Who acts ..... the district court for that district — in practice the board
+│     │                 or council of active district judges, acting by order
+│     ├─ What it does . appoints a U.S. attorney "to serve until the vacancy is
+│     │                 filled"; the order is filed with the clerk of the court
+│     ├─ How long ..... NO 120-day cap. A court appointee can outlast an entire
+│     │                 nomination fight, and serves on the court's authority
+│     └─ ◇ WHAT THE COURT ACTUALLY DOES WITH THE POWER
+│           ├─ appoints the sitting interim ──▶ continuity, but the officer now
+│           │                                   holds by judicial order, not the AG's
+│           ├─ appoints someone else ────────▶ commonly a career official or the
+│           │                                   standing first assistant
+│           └─ DECLINES TO ACT ─────────────▶ the office runs on an acting or
+│                                              delegated official ──────▶ ROUTE D
+│                [N.D.N.Y.'s board of judges expressly declined to exercise § 546(d),
+│                 July 2025 — a public refusal, stated in one sentence, no reasons]
+│
+├──▶ ROUTE D — THE WORKAROUNDS (2025-26: defeating the § 546(d) reversion)
+│     │     Three instruments, none of them § 546, all aimed at one result — keeping
+│     │     an unconfirmed appointee in the chair past day 120.
+│     │
+│     ├─◆ D1. FIRST-ASSISTANT ELEVATION — Federal Vacancies Reform Act
+│     │      ├─ 5 U.S.C. § 3345(a)(1) . the FIRST ASSISTANT to a vacant Senate-
+│     │      │                          confirmed office performs its functions and
+│     │      │                          duties temporarily, in an ACTING capacity
+│     │      ├─ 5 U.S.C. § 3346 ....... 210 days from the date the vacancy OCCURRED,
+│     │      │                          with tolling while a nomination is pending
+│     │      ├─ THE MOVE ............. name the expiring interim "first assistant,"
+│     │      │                          then let the FVRA elevate her to "acting"
+│     │      └─ ✕ REJECTED. The FVRA elevates a first assistant who ALREADY HELD
+│     │           THAT JOB WHEN THE VACANCY OPENED — not one installed months later
+│     │           [3d Cir. Dec 1, 2025 · 9th Cir. Aug 18, 2026 · 2d Cir. Aug 21, 2026]
+│     │
+│     ├─◆ D2. "SPECIAL ATTORNEY" DESIGNATION — 28 U.S.C. § 515
+│     │      ├─ lets the AG specially retain an attorney to conduct any kind of legal
+│     │      │  proceeding, "including grand jury proceedings"
+│     │      └─ but it confers LITIGATING AUTHORITY, NOT THE OFFICE. A person can do
+│     │         every piece of the work and still not BE the U.S. attorney
+│     │         [used in tandem with D1 in the 2025-26 designations]
+│     │
+│     └─◆ D3. WHOLESALE DELEGATION — 28 U.S.C. §§ 509, 510
+│            ├─ the AG may delegate "any function" to any other DOJ officer or
+│            │  employee, and may authorize successive redelegation
+│            └─ ✕ REJECTED as a route to the office: the AG cannot create a DE FACTO
+│               acting U.S. attorney by delegating ALL of the office's functions and
+│               duties to one person [9th Cir., Aug 2026]
+│
+├──▶ 5. REMOVAL — WHAT ENDS EACH ROUTE, AND WHO DECIDES
+│     ├─ § 541 appointee ......... the PRESIDENT, at will, no cause, no notice, no
+│     │                            finding — § 541(c) is unqualified
+│     │                            [in practice the demand is conveyed through the
+│     │                             Deputy AG's office; refusal to resign is simply
+│     │                             followed by removal]
+│     ├─ § 546 interim ........... the AG, by rescinding — or the 120-day clock,
+│     │                            which requires nobody's signature at all
+│     ├─ § 546(d) court appointee  the President's § 541(c) removal power reaches
+│     │                            this officer too. But the COURT cannot be ordered
+│     │                            to appoint a replacement, and may decline
+│     ├─ FVRA acting official .... the 210-day clock, or withdrawal of the
+│     │                            designation that created the acting status
+│     └─ EVERY ROUTE .............. resignation, or a § 541 successor qualifying
+│
+└──▶ 6. THE CHALLENGE TRACK — WHERE AN APPOINTMENT ACTUALLY GETS TESTED
+      │     Not in the Senate. By a DEFENDANT or a SUBPOENA RECIPIENT, after the
+      │     fact, in a courtroom, as a collateral attack on the officer's authority.
+      │
+      ├─ WHO RAISES IT ... a charged defendant, by motion to dismiss the indictment,
+      │                    or a grand-jury target, by motion to quash the subpoena
+      ├─ ON WHAT GROUND .. § 546 read as a one-appointment statute · the FVRA's
+      │                    first-assistant limit · the Appointments Clause
+      ├─ ◇ WHAT THE COURT CAN DO ABOUT IT
+      │    ├─ DISQUALIFY the official from this matter ──▶ office continues, the
+      │    │                                               case is reassigned
+      │    ├─ QUASH the grand jury subpoenas issued on the bad authority
+      │    ├─ DISMISS THE INDICTMENT WITHOUT PREJUDICE ──▶ the government may
+      │    │    re-indict IF the limitations period has not run   ◀── THE HINGE.
+      │    │    "Without prejudice" is only a reprieve while the clock still has
+      │    │    time on it; on a stale charge it is a dismissal with prejudice
+      │    │    wearing a milder name.
+      │    └─ ACCEPT RATIFICATION ──▶ an officer who IS validly serving adopts the
+      │         earlier acts as her own. Courts have allowed this to cure a late or
+      │         defective FILING — not to retroactively validate an invalid officer.
+      └─ ──▶ appeal ──▶ court of appeals ──▶ petition for certiorari ──▶ SCOTUS
+              [United States v. Jackson, No. 26-304, filed Sep 8, 2026: the
+               Solicitor General asks the Court to read the FVRA more broadly,
+               warning of disruption across U.S. attorney's offices]
+
+════════════════════════════════════════════════════════════════════════════════
+ THE 2025-26 RECORD — EVERY APPELLATE RULING ON ROUTE D HAS GONE AGAINST IT
+════════════════════════════════════════════════════════════════════════════════
+
+  DISTRICT     OFFICIAL    INSTRUMENT USED        COURT & DATE          RESULT
+  ─────────    ─────────   ──────────────────     ─────────────────     ────────────
+  D.N.J.       Habba       FVRA first-assistant   3d Cir.               unlawfully
+                           elevation              Dec 1, 2025           serving
+                                                  [resigned Dec 8, 2025]
+
+  E.D. Va.     Halligan    § 546 interim purport- E.D. Va.              2 indictments
+                           edly made after the    Nov 24, 2025          DISMISSED
+                           120-day reversion                            w/o prejudice
+                                                  [4th Cir. argued Sep 15, 2026;
+                                                   panel appeared skeptical of DOJ]
+
+  D. Nev.      Chattah     FVRA first-assistant   9th Cir. (unanimous)  not validly
+                           + wholesale § 509/510  Aug 18, 2026          serving
+                           delegation             [cert. petition No. 26-304]
+
+  N.D.N.Y.     Sarcone     § 515 special attorney 2d Cir. (2-1)         not lawfully
+                           + first assistant,     Aug 21, 2026          serving;
+                           after the board of                           subpoenas
+                           judges declined                              quashed
+                           § 546(d)               [Park, J., dissenting]
+
+  FOUR DISTRICTS · FOUR INSTRUMENTS · THREE CIRCUITS · ZERO WINS FOR THE THEORY.
+  The common thread is not the Appointments Clause. It is that each workaround
+  tried to get a SECOND temporary term out of statutes that issue only one.
