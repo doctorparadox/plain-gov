@@ -88,7 +88,7 @@ HOW THE CENSUS IS ACTUALLY COUNTED — ADDRESS LIST TO STATE TOTAL
 │     │      │      household. In 2020 only 87% of NRFU proxy enumerations were correct,
 │     │      │      and the item nonresponse was severe: 61% missing age or date of birth,
 │     │      │      41% missing race, 38% missing ethnicity.
-│     │      └─ 3. administrative records — see step 7
+│     │      └─ 3. administrative records — see step 8
 │     ├─ contact attempts are capped; an address is not pursued indefinitely
 │     └─▶ ◇ THE COST LEVER THAT IS ALSO A QUALITY LEVER — cutting the number of visits, or
 │            shortening the NRFU window, converts household interviews into proxies and
