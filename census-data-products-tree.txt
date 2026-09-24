@@ -1,0 +1,131 @@
+CENSUS DATA PRODUCTS TREE — WHAT COMES OUT, AND WHICH PARTS ARE OWED
+│   Legend:  ■ frame  ◆ tier  ★ statutory deadline  ⚠ no deadline in law  ✕ withheld/barred
+│            [ ] = 2020-cycle actual release · [live] = in motion as of the build date
+│   Time-slice: products and release status as of Sept 23, 2026
+│
+■ 0. THE FRAME — TWO PRODUCTS ARE OWED. EVERYTHING ELSE IS OFFERED.
+│     13 U.S.C. § 141 creates two delivery obligations and no others. Both of them
+│     allocate political power. Nothing that a school district, a hospital, a court or a
+│     business uses is owed to anyone on any date.
+│       ├─ ★ § 141(b) .... apportionment tabulation → the President ....... 9 months
+│       ├─ ★ § 141(c) .... P.L. 94-171 tabulations → the 50 States ........ 1 year
+│       └─ ⚠ every tier below ............................................. no deadline
+│
+│     ◇ AND THE DEADLINES HAVE NO REMEDY. § 141 sets dates and provides nothing that
+│       happens if they are missed — no penalty, no cause of action, no default rule.
+│       In the 2020 cycle both were missed by roughly four months. See Tier 1.
+│
+├─◆ 1. THE DEADLINED TIER — THE TWO PRODUCTS THAT ALLOCATE POWER
+│     │
+│     ├─ ★ APPORTIONMENT COUNTS — 13 U.S.C. § 141(b)
+│     │    Content: one number per state, plus the resident population of the U.S.
+│     │      Recipient: the President, who transmits to Congress. Not a public dataset;
+│     │      a statement of totals. Everything about it is fixed except the date it lands.
+│     │    Due: within 9 months of the decennial census date (Apr 1) → Dec 31 of census year
+│     │    2020 cycle: due Dec 31, 2020 ......................... [Apr 26, 2021 — 116 days late]
+│     │      └─ Consumer: the method of equal proportions, then 435 seats, then the
+│     │           Electoral College allocation that follows from them automatically.
+│     │
+│     └─ ★ P.L. 94-171 REDISTRICTING FILE — 13 U.S.C. § 141(c)
+│          Content: population and voting-age population by race and Hispanic origin,
+│            down to the census block, on the geography each state asked for in advance.
+│          Recipient: each state's designated officer or public body — the governor and
+│            the legislative leaders of both houses, by name, in every state.
+│          Due: "as expeditiously as possible," and in any event within 1 year of Census Day
+│          2020 cycle: due Apr 1, 2021 ................ [Aug 12, 2021 FTP · Sep 16, 2021 web]
+│            ├─ Consumer: every congressional and legislative map in the country, plus
+│            │    every Voting Rights Act analysis run against one.
+│            └─ ⚠ THE DOWNSTREAM EFFECT OF A LATE DELIVERY IS NOT SYMMETRIC — state
+│                 constitutional redistricting deadlines do not move when the federal
+│                 delivery slips. The time comes out of the public-comment end, not the
+│                 mapmaking end. A late file shortens scrutiny, not drafting.
+│
+├─◆ 2. THE UNDEADLINED DECENNIAL TIER — WHAT THE PUBLIC ACTUALLY READS
+│     │  Same enumeration, same statute, no date attached to any of it. The 2020-cycle
+│     │  actuals below are the record of how long "no deadline" turns out to mean.
+│     │
+│     ├─ DEMOGRAPHIC PROFILE ................................... [May 25, 2023]
+│     │    The single-page summary product most journalism and most local government uses.
+│     ├─ DEMOGRAPHIC AND HOUSING CHARACTERISTICS FILE (DHC) .... [May 25, 2023]
+│     │    The workhorse: age, sex, race, ethnicity, household relationship, tenure.
+│     │    ⚠ 3 years and 2 months after Census Day. Nothing in law was breached.
+│     ├─ CONGRESSIONAL DISTRICT SUMMARY FILES .................. [Aug 31, 2023]
+│     │    The same data re-cut onto the districts the redistricting file produced.
+│     ├─ DETAILED DHC-A — detailed race and ethnicity groups ... [Sep 21, 2023]
+│     ├─ DETAILED DHC-B — households by detailed group ......... [Aug 1, 2024]
+│     ├─ PRIVACY-PROTECTED MICRODATA FILE (PPMF) ............... [Aug 5, 2024]
+│     ├─ SUPPLEMENTAL DHC (S-DHC) ............................. [Sep 19, 2024]
+│     │    Last product of the cycle — 4 years and 5 months after Census Day.
+│     └─ ◇ THE STRUCTURAL POINT: the two deadlined products landed within 5 months of
+│            each other. The undeadlined tier took the next three and a half years, in an
+│            order the Bureau chose, at a level of detail the Bureau chose, and a tier
+│            published by choice can be reduced or dropped by choice. See Tier 5.
+│
+├─◆ 3. THE CONTINUOUS TIER — WHAT CARRIES THE DECADE
+│     │  The decennial answers a handful of questions once every ten years. Everything
+│     │  else people think of as "census data" is this tier. Authority: 13 U.S.C. §§ 141
+│     │  and 193; response mandatory under § 221. Deadline: none, anywhere.
+│     │
+│     ├─ AMERICAN COMMUNITY SURVEY — 1-YEAR ESTIMATES
+│     │    Areas of 65,000+ population. Income, poverty, insurance, education, commuting,
+│     │    language, disability, internet access, housing cost burden.
+│     │    Normal cadence: September of the following year.
+│     │    ✕ [live] 2025 ACS 1-YEAR: INDEFINITELY POSTPONED since early August 2026.
+│     │      Not cancelled, not scheduled. Cause is the control layer at Tier 6.
+│     ├─ ACS 1-YEAR SUPPLEMENTAL ESTIMATES — areas of 20,000+, selected tables
+│     ├─ ACS 5-YEAR ESTIMATES — every geography down to the block group
+│     │    The only source of small-area socioeconomic data in the United States.
+│     │    2020-2024 vintage released Jan 29, 2026.
+│     ├─ ACS PUBLIC USE MICRODATA SAMPLE (PUMS) — individual records, coarsened,
+│     │    released at the PUMA level (~100,000 people). 5-year PUMS: Mar 2026.
+│     └─ ◇ WHY THIS TIER IS THE EXPOSED ONE: it is annual, so an interruption is not a
+│            delayed product but a MISSING YEAR, and a missing year in a 5-year estimate
+│            degrades the small-area data for five subsequent releases.
+│
+├─◆ 4. THE CARRY-FORWARD TIER — THE NUMBERS BETWEEN THE COUNTS
+│     │  POPULATION ESTIMATES PROGRAM (PEP). Annual vintages, released on a flow basis:
+│     │  national and state, then counties, then cities, towns and housing units.
+│     │  Vintage 2025 city/town and housing-unit estimates released June 25, 2026.
+│     ├─ Method: the decennial count is the BASE. Each vintage carries it forward with
+│     │    births, deaths and migration. There is no re-count and no correction pass.
+│     ├─ Consumers: federal formula funding · ACS and CPS survey controls · the denominator
+│     │    under most published federal rates (crime, mortality, unemployment by area).
+│     └─ ★★ THE COMPOUNDING FACT — THIS IS WHY AN UNDERCOUNT COSTS A DECADE.
+│            A housing unit missing from the 2030 address list is missing from the 2030
+│            base, and every vintage through 2039 is computed FROM that base. The error
+│            is not corrected annually; it is carried, and it is carried into the formulas.
+│            A city with no House seat to lose still loses money every year until 2040.
+│
+├─◆ 5. THE CUSTOM AND RESTRICTED TIER — NOT PUBLISHED, REQUESTED
+│     ├─ SPECIAL TABULATIONS — a cut the Bureau does not publish, made on request,
+│     │    at cost, subject to disclosure review. Discretionary end to end.
+│     ├─ RESTRICTED MICRODATA via the Federal Statistical Research Data Centers —
+│     │    approved project, secure facility, sworn status, 13 U.S.C. § 214 exposure.
+│     ├─ THE 72-YEAR RULE — an individual's own census record goes to the National
+│     │    Archives and becomes fully public 72 years on. 1950 opened 2022; 1960 due 2032.
+│     └─ ◆ MAPPED SEPARATELY — the full access ladder, its costs and its penalties are a
+│            crosswalk of their own and are named here only so the tree is complete.
+│
+└─◆ 6. THE CONTROL LAYER — WHAT DECIDES WHETHER A TIER CAN BE PUBLISHED AT ALL
+      │  Every product above passes a disclosure-avoidance step before release. The method
+      │  is not set by statute. Title 13 § 9 states the CONFIDENTIALITY OBLIGATION and
+      │  leaves the TECHNIQUE entirely to the department. That gap is the control point.
+      │
+      ├─ ✕ DAO 216-26, "Disclosure Avoidance for Statistical Products" — Department of
+      │    Commerce administrative order, effective June 4, 2026. Applies to the Census
+      │    Bureau and the Bureau of Economic Analysis.
+      │      ├─ § 5.01(c): "Any use of noise infusion is inconsistent with the
+      │      │    Department's policies." That bars the entire family of methods the
+      │      │    2020 products were protected with, including the TopDown Algorithm.
+      │      └─ § 5.02: coarsening (rounding, ranges, aggregation) is the PREFERRED
+      │           category; suppression is permitted only as a LAST RESORT.
+      ├─ ◇ WHAT AN INSTRUMENT LIKE THIS IS: not a statute, not a rule, not a Federal
+      │    Register notice with a comment period. An internal departmental order, signed
+      │    and effective, reaching two statistical agencies and every product they publish.
+      └─ [live] EFFECTS ALREADY ON THE RECORD, per the Bureau's own August 2026 statement:
+             ├─ 2020 Census data already published ............. unaffected
+             ├─ 2030 Census .................. demonstration product planned mid-2027
+             ├─ ACS ............... gradual transition, full compliance by 2029
+             ├─ Quarterly Financial Report ......... switching to suppression
+             ├─ County Business Patterns ........... "exploring alternatives"
+             └─ LEHD ........ continues noise infusion until data-sharing agreements update
