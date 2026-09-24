@@ -71,7 +71,7 @@ HOW A SECURITY CLEARANCE IS GRANTED AND REVOKED           (as of September 18, 2
 │     │        doubt is resolved in favor of national security, not the applicant.
 │     │        ├─yes─▶ ★ ELIGIBILITY GRANTED, recorded in the system of record
 │     │        ├─?───▶ SEAD 8 TEMPORARY / INTERIM eligibility — granted on partial
-│     │        │        results, revocable with no process at all       [see Exit 2]
+│     │        │        results, revocable with no process at all  [see Route Out 2]
 │     │        └─no──▶ go to ROUTE OUT 1 (the SOR track), below
 │     └─ 2e. RECIPROCITY (SEAD 7) — a current, in-scope eligibility is supposed to
 │              transfer between agencies without re-investigation.  [in practice the
