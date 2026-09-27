@@ -1,0 +1,154 @@
+HOW A VOTING SYSTEM IS CERTIFIED AND DECERTIFIED                (as of 27 September 2026)
+│   Legend:  ──▶ main path   └─▶ branch   ◇ decision   ⚑ load-bearing   ✕ route ends
+│            ❄ FROZEN — requires 3 EAC commissioners; there have been ZERO since 9 Jul 2026
+│   Scale:   2 accredited test laboratories nationwide · 3 manufacturers supplying most of
+│            the country · 2 systems certified to the current standard · 0 commissioners.
+│            [ 52 U.S.C. § 20928: "any action which the Commission is authorized to carry
+│              out . . . may be carried out only with the approval of at least three of its
+│              members." EAC guidance, Aug 2026, applies that to the ❄ gates below. ]
+│
+■ 0. THE STANDARD ITSELF   ⚑❄  (what a system is measured against)
+│     NIST director chairs the Technical Guidelines Development Committee ──▶ TGDC drafts
+│     the Voluntary Voting System Guidelines ──▶ ❄ THE COMMISSION ADOPTS THEM BY VOTE.
+│     ├─ VVSG 1.0 (2005) · VVSG 1.1 (2015) · VVSG 2.0 (adopted 10 Feb 2021).
+│     ├─ Since 16 Nov 2023, VVSG 2.0 is the ONLY version accepting new submissions.
+│     │    Systems certified to 1.0 and 1.1 stay valid — most fielded equipment is 1.x.
+│     └─ ❄ VVSG 2.1 was circulated to TGDC members in draft in June 2025 and CANNOT BE
+│          ADOPTED. The drafting body is functioning; the adopting body does not exist.
+│          [ A TGDC vacancy was noticed in the Federal Register, 9 Mar 2026. ]
+│
+├─◆ 1. THE LABORATORY   ⚑❄  (who is allowed to do the testing)
+│     ◇ is the lab accredited?
+│     ├─ NIST NVLAP reviews technical competence ──▶ recommends to the EAC
+│     ├─ EAC reviews the NON-technical side: conflict-of-interest policy, organizational
+│     │    structure, recordkeeping ──▶ ❄ THE COMMISSION VOTES ON ACCREDITATION.
+│     └─ ✕ THE ENTIRE FEDERAL TESTING ESTATE IS TWO PRIVATE FIRMS:
+│          Pro V&V (Huntsville, AL) · SLI Compliance (Wheat Ridge, CO — a division of
+│          Gaming Laboratories International, which tests casino equipment).
+│          ❄ No third lab can be added and neither can be revoked. The set is fixed.
+│
+├─◆ 2. REGISTRATION   (the manufacturer enters the program)
+│     Organizational information · manufacturing facilities · quality-assurance policy ·
+│     change-management procedures ──▶ Program Director reviews for completeness.
+│
+├─◆ 3. APPLICATION   (the system is named and the standard is chosen)
+│     System specification · functional diagrams · components · accessibility capabilities
+│     ├─ THE MANUFACTURER PICKS ITS OWN LABORATORY — and pays it.
+│     │    [ A structural feature of the program, not an irregularity: the vendor selects
+│     │      and funds its own examiner, and the same two labs also test for the states
+│     │      that run certification programs on top of the federal one. ]
+│     └─ EAC accepts or rejects the application within 5 business days.
+│
+├─◆ 4. TEST READINESS REVIEW   (before the clock starts)
+│     Technical Data Package review · physical inspection · preliminary source-code review
+│     of at least 1% of total code.
+│
+├─◆ 5. TEST PLAN   (the scope is fixed here, and scope is everything)
+│     ◇ new system or modification?
+│     ├─ NEW ──▶ full testing of all hardware and software.
+│     └─ MODIFICATION ──▶ delta testing (the change) + regression testing (what the change
+│          touched) + system integration testing. NARROWER BY DESIGN.  ──▶ see stage 10.
+│     Program Director approves; testing may not begin until he does.
+│
+├─◆ 6. PENETRATION TESTING AND THE TRUSTED BUILD   ⚑
+│     Phase I vulnerability and threat analysis ──▶ Phase II actual penetration testing
+│     └─▶ TRUSTED BUILD: the source code is compiled in a controlled environment into
+│          cryptographically verified executables, and the build is deposited with the EAC.
+│          This is the artefact a state or county can later hash a machine against — the
+│          only point in the pipeline that produces an independently checkable object.
+│
+├─◆ 7. TESTING   (against the VVSG version chosen at stage 3)
+│     Failures and anomalies documented · manufacturer performs root-cause analysis
+│     └─▶ ✕ systems idle more than 90 days, or 18 months without a test report, are
+│          returned to the manufacturer.
+│
+├─◆ 8. TEST REPORT ──▶ EAC TECHNICAL REVIEW
+│     The laboratory RECOMMENDS. It does not certify.
+│     Program Director approves the report or sends it back.
+│
+├─◆ 9. THE CERTIFICATION DECISION   ⚑  ← NOT FROZEN, AND THAT IS THE POINT
+│     Software deposited in the EAC repository · hardware photographs and software
+│     verification tools supplied ──▶ THE DECISION AUTHORITY ISSUES THE CERTIFICATION.
+│     ├─ Under Testing and Certification Program Manual v3.0, this runs on DELEGATED
+│     │    authority through the Certification Division and the Executive Director —
+│     │    so it survives the absence of commissioners. Staff may still certify.
+│     ├─ Output: a unique certification number + a Certificate of Conformance.
+│     └─ [ 2 systems are certified to VVSG 2.0 as of Sep 2026; 4 more have entered the
+│         process. The first was Hart InterCivic's Verity Vanguard, 10 Jul 2025 — more
+│         than four years after the standard was adopted, and twenty months after it
+│         became the only standard on offer. ]
+│
+├─◆ 10. THE FIFTY-STATE GATE   ⚑  (the part no federal statute controls)
+│     ◇ what does the state actually require?  — HAVA makes this VOLUNTARY
+│     ├─ 10a REQUIRES FULL EAC CERTIFICATION ──▶ ~13 states, e.g. GA, MN, NC, SC, WI, DE,
+│     │     RI, UT, MD, MA, NV, AR, D.C. Federal certification is a precondition by state law.
+│     ├─ 10b REQUIRES TESTING BY A FEDERALLY ACCREDITED LAB ──▶ ~15 states, e.g. AZ, LA,
+│     │     MI, IL, IN, IA, KY, ID, AL. The lab must be federal; the certificate need not be.
+│     ├─ 10c REQUIRES TESTING TO FEDERAL STANDARDS ──▶ ~13 states, e.g. CO, CT, KS. Some
+│     │     still point at the 2002 standard by name, freezing an older floor in statute.
+│     └─ 10d BASELINE HAVA ONLY ──▶ ~20 states and territories, e.g. CA, FL, AK, HI, ME,
+│           GU, AS. California writes its own standards and certifies independently.
+│     ⚑ THIS IS WHY THE VOLUNTARY STANDARD IS LOAD-BEARING: it was made compulsory fifty
+│       times over by state legislatures, none of which needs Congress to undo it.
+│     ──▶ then the state's own examination, and in most states a separate state certificate.
+│
+├─◆ 11. LIFE AFTER CERTIFICATION   (how a certified system legally changes)
+│     ◇ how big is the change?
+│     ├─ MINOR / DE MINIMIS ──▶ submitted to a VSTL, which independently classifies it.
+│     │    Roughly: does not touch counting or tally logic, does not affect accuracy, under
+│     │    ~100 hours of lab review. EAC approves. NO NEW CERTIFICATION NUMBER.
+│     ├─ MODIFICATION ──▶ delta + regression + integration testing ──▶ NEW certification
+│     │    number and a new Certificate of Conformance.
+│     └─ ✕ FIELDING AN UNAPPROVED MODIFICATION IS ITSELF A GROUND FOR DECERTIFICATION.
+│
+├─◆ 12. QUALITY MONITORING   (the only ongoing federal look at fielded equipment)
+│     Manufacturing site audits · field system testing · manufacturer cooperation required
+│     └─▶ MALFUNCTION REPORTING: any failure not caused solely by operator error that
+│          impairs confidentiality, integrity or availability must be reported within
+│          15 BUSINESS DAYS. This is the tripwire that feeds the decertification track.
+│
+└─◆ 13. DECERTIFICATION   ⚑  (two tracks; only one of them fires in practice)
+      │
+      ├─ 13a THE FEDERAL TRACK
+      │    ◇ grounds — any of:
+      │    │   · manufacturer fails to comply with program requirements
+      │    │   · a FIELDED system is non-conformant with the VVSG
+      │    │   · changes implemented without EAC approval  (see stage 11)
+      │    │   · violation of registration-suspension terms
+      │    │   · the EAC concludes the ORIGINAL TESTING WAS INSUFFICIENT
+      │    ├─ THE PROGRAM DIRECTOR INITIATES ──▶ written notice naming grounds and system
+      │    ├─ manufacturer responds: no factual basis, or a proposed corrective measure
+      │    ├─ informal hearing ──▶ formal hearing
+      │    ├─ THE DECISION AUTHORITY DECIDES  ──▶ system struck from the certified list,
+      │    │    election officials and the public notified
+      │    └─ ❄ APPEAL TO THE COMMISSION — FROZEN. There is no body to hear it. A
+      │         manufacturer facing decertification today has a first instance and no
+      │         appeal; a manufacturer that wins at first instance faces no review either.
+      │    ✕ AND AT THE END OF IT: decertification removes a name from a federal list.
+      │      It does not reach into a county warehouse. What happens to the machines is
+      │      decided at 10a–10d, by state law, one state at a time.
+      │
+      └─ 13b THE STATE AND COUNTY TRACK — where 2020–26 actually happened
+           ├─ SECRETARY OF STATE DECERTIFICATION — the real instrument. Georgia's
+           │    secretary may revoke approval where a machine "can no longer be safely or
+           │    accurately used"; Idaho's may decertify after a public hearing.
+           │    [ The precedent everyone cites is CALIFORNIA 2007: the Top-to-Bottom
+           │      Review decertified most of the state's electronic systems, then
+           │      RE-CERTIFIED them subject to use conditions. Decertification-with-
+           │      conditions, not removal — the form the sanction usually takes. ]
+           ├─ THE LEGISLATURE ──▶ ban a technology and strand the equipment.
+           │    [ GEORGIA, the worked example. State law banned counting ballots by QR
+           │      code after 1 Jul 2026 with no replacement system certified and the
+           │      ~$66M to buy one never appropriated. On 28 Jun 2026 the governor signed
+           │      a delay to 2028, adding automatic hand recounts of the top two races
+           │      before certification and a committee steered by a July amendment toward
+           │      hand-marked paper ballots with ballot-on-demand printing. A legislature
+           │      decertified a technology in advance and then had to un-decertify it. ]
+           ├─ THE COUNTY ──▶ terminate the vendor contract. No certification power is
+           │    required and none is exercised; the machines simply leave.
+           │    [ Shasta County, CA voted to terminate its Dominion contract in 2023. ]
+           └─ THE STATE THAT NEVER CERTIFIES ──▶ a system can be federally certified and
+                still sit outside a state's approved list indefinitely, which is a
+                decertification in effect with no proceeding and nothing to appeal.
+                [ Louisiana ran the 2026 cycle still courting vendors for a replacement
+                  system ahead of 2028, under its own 2025 state certification standards. ]
