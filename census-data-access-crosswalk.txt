@@ -1,0 +1,146 @@
+CENSUS DATA ACCESS CROSSWALK — SIX ROUTES IN, AND THE PRICE OF EACH RUNG
+│   Legend:  ■ rung/frame   ◆ sub-route   $ cost   ⏱ wait   ✍ oath or signature   ⚖ penalty
+│            ✕ barred outright   [live] in motion at build date   [unconfirmed] not primary-sourced
+│   Time-slice: routes, fees and status as of Sept 24, 2026
+│
+■ 0. THE FRAME — THE PENALTY ASYMMETRY THAT SETS EVERY RUNG BELOW
+│
+├─  ⚖ THE RESPONDENT WHO REFUSES ......... 13 U.S.C. § 221
+│      fined not more than $100  ·  false answer: not more than $500
+│      [no prison term · effectively never charged · no census prosecution since 1970]
+│
+├─  ⚖ THE CUSTODIAN WHO DISCLOSES ....... 13 U.S.C. § 214
+│      imprisoned not more than 5 YEARS  ·  statute says $5,000
+│      [18 U.S.C. § 3571 raises the practical maximum to $250,000 — the figure the
+│       Bureau's own confidentiality training and its sworn-status briefings use]
+│      ✍ the § 23(c) oath is FOR LIFE. It does not end with employment.
+│
+└─  ✱ THE RATIO IS THE DESIGN. The system threatens its own staff roughly 2,500x
+      harder than it threatens a household that stonewalls it. Every rung below is
+      priced and gated to keep the custodian out of prison, not to keep the citizen out.
+│
+■ RUNG 1 — AGGREGATED TABLES ...................... data.census.gov + the Census API
+│      who may ask ....... anyone, no identification, no stated purpose
+│      what you get ..... published tables: nation → region → state → county → tract
+│                         → block group → block, for the deadlined products
+│      $ ................ FREE. API key free on request; no fee tier exists.
+│      ⏱ ............... instant
+│      ✍ ............... nothing
+│      ⚖ ............... none — the data is already disclosure-protected on release
+│      ✱ the protection is baked in BEFORE you see it: suppression and coarsening
+│        under DAO 216-26, noise infusion in the 2020 products it replaced
+│
+■ RUNG 2 — INDIVIDUAL RECORDS OF STRANGERS ................................... PUMS
+│      who may ask ....... anyone, no identification, no stated purpose
+│      what you get ..... the Public Use Microdata Sample: one row per person and
+│                         per housing unit — real individual records, deliberately
+│                         coarsened rather than aggregated
+│      the coarsening ... geography is truncated to the PUMA, which must contain
+│                         ≥ 100,000 people at delineation; top-coding on income and
+│                         age; rare categories collapsed; PUMAs redrawn each decade
+│                         by the STATE DATA CENTERS, not by the Bureau
+│      $ ................ FREE
+│      ⏱ ............... instant
+│      ✍ ............... nothing
+│      ✱ THE LADDER'S FIRST INVERSION. This rung gives a stranger individual-level
+│        records at no cost and no oath. Rung 3 — your own record — costs $155.
+│
+■ RUNG 3 — YOUR OWN RECORD, BEFORE IT IS PUBLIC ............. Age Search Service
+│      who may ask ....... the NAMED PERSON only, or an heir or legal representative
+│      what you get ..... a transcript of your own entry in a census still closed
+│                         under the 72-year rule — name, age, place of birth
+│      $ ................ $155 per search  [raised from $65, effective Aug 7, 2026]
+│                         + $50 expedited surcharge  [raised from $20, same notice]
+│      the reason for $ .. 13 U.S.C. § 8(a) requires the service to be SELF-SUPPORTING.
+│                         The fee is not a charge for privacy; it is the whole budget.
+│                         The statute does NOT authorize a waiver — unlike FOIA.
+│      ⏱ ............... weeks, or one day at the surcharge
+│      ✍ ............... proof of identity and of relationship where claimed
+│      ⚑ [unconfirmed] census.gov search results carry the page title "Age Search
+│        Service on Pause" across many unrelated URLs, consistent with a site-wide
+│        alert banner. No pause text appears in the fetched page bodies and no
+│        Federal Register notice announces one. NOT asserted here. See Notes.
+│
+■ RUNG 4 — A TABLE THAT DOES NOT EXIST YET .............. Custom Tabulation (ACS)
+│      who may ask ....... any organization or individual
+│      what you get ..... a cross-tabulation built to your specification from
+│                         microdata you will never touch
+│      $ ................ $4,000 MINIMUM; priced per request on complexity
+│      ⏱ ............... 8 WEEKS minimum — of which 4–6 weeks is DRB review alone
+│      ✍ ............... a specification, negotiated and then frozen
+│      ◆ the gate ....... the DISCLOSURE REVIEW BOARD. It can refuse, or return the
+│        table with cells suppressed, and the requester pays either way. The DRB is
+│        an internal Bureau body: no charter in statute, no published docket, no
+│        appeal to anyone outside the Bureau.
+│      ✱ this is the first rung where a HUMAN BEING decides what you may know.
+│
+■ RUNG 5 — RESTRICTED MICRODATA ........... SAP → Special Sworn Status → an FSRDC
+│      who may ask ....... a researcher with a STATISTICAL PURPOSE. Commercial,
+│                         regulatory and ENFORCEMENT purposes are barred outright.
+│      what you get ..... the confidential files themselves, inside a secure
+│                         facility, on an approved project, and nothing leaves the
+│                         room until the DRB clears the output
+│
+│   ◆ 5a. THE FRONT DOOR ......... Standard Application Process — sap.nsf.gov
+│         one form for 16 recognized statistical agencies; hosted by NSF, coordinated
+│         by the Interagency Council on Statistical Policy
+│         [live] replaced ResearchDataGov.org, which CLOSED PERMANENTLY June 16, 2026
+│         ✱ the portal does NOT decide. Each agency decides on its own criteria.
+│         ⏱ Census review: 12 WEEKS MAXIMUM from receipt to decision —
+│           ≥ 2 subject-matter reviews · Policy Coordination Office · disclosure
+│           avoidance review · data availability review
+│
+│   ◆ 5b. THE OATH ............... SPECIAL SWORN STATUS
+│         ✍ background investigation · fingerprinting · the § 23(c) lifetime oath
+│         ⏱ 3–4 MONTHS, and it runs AFTER the project is approved, not in parallel
+│         ⚑ U.S. residency 36 of the past 60 months, and continued residency
+│           throughout — a nationality-adjacent gate on who may study the data
+│         ⚖ once sworn, the researcher is inside § 214. Five years, same as staff.
+│
+│   ◆ 5c. THE ROOM ............... 38 open FSRDC locations  [as of Sept 4, 2026]
+│         $ Census Bureau data: NO direct charge to the researcher
+│         $ but the FACILITY charges. Consortium-affiliated: often free.
+│           NOT affiliated: $15,000 – $20,000 PER PROJECT PER YEAR.
+│         $ peer agencies stack on top — NCHS: $3,000 minimum project fee
+│           + $1,800 SSS application fee
+│         ✱ THE LADDER'S SECOND INVERSION. The statute charges nothing. The
+│           UNIVERSITY charges everything. Access is means-tested by institution,
+│           not by law — and no statute says so.
+│
+■ RUNG 6 — THE RECORD BECOMES FULLY PUBLIC .................... THE 72-YEAR RULE
+│      who may ask ....... anyone. No fee, no oath, no purpose, no Bureau at all.
+│      what you get ..... the actual enumeration sheet, names and all, at the
+│                         National Archives
+│      $ ................ FREE
+│      ⏱ ............... 72 YEARS
+│      1950 census ...... released April 1, 2022
+│      1960 census ...... due April 1, 2032
+│      ◆ where 72 came from: NOT a privacy judgment. In 1942 the 1870 schedules
+│        were transferred to the Archives — 72 years after the count, by accident of
+│        filing. The 1952 Peel–Grover agreement (Oct 10, 1952) fixed that interval
+│        as policy; Pub. L. 95-416 (Oct 5, 1978) ratified the 1952 agreement in
+│        statute. Congress codified an accident and no one has revisited the number.
+│
+■ THE WALL — WHAT NO RUNG ON THIS LADDER REACHES
+│
+├─  ✕ FOIA ............... §§ 8(b) and 9(a) are valid Exemption 3 withholding
+│      statutes. Raw census data cannot be FOIA'd, and no public-interest balancing
+│      applies — Baldrige v. Shapiro, 455 U.S. 345 (1982), UNANIMOUS.
+│
+├─  ✕ CIVIL DISCOVERY .... the same provisions create a statutory PRIVILEGE under
+│      Rule 26(b)(1). Relevance does not defeat it. Necessity does not defeat it.
+│
+├─  ✕ THE MASTER ADDRESS LIST — the sharpest edge of the holding. Baldrige held
+│      address lists ARE raw census data, and municipalities could not obtain their
+│      OWN lists even pledging statistical use only. The single most useful thing a
+│      city could have for fixing its own undercount is the thing most firmly locked.
+│
+├─  ✕ ANY OTHER AGENCY .... § 9 bars use for any non-statistical purpose. Law
+│      enforcement, immigration, taxation and regulation all sit outside the door.
+│
+└─  ✕ USE AGAINST THE RESPONDENT — the Bureau's own formulation: the information
+      "cannot be used against you by any government agency or court."
+      ✱ This wall is the STRONGEST confidentiality guarantee in the federal
+        government — stronger than tax return data, stronger than medical records
+        held by federal agencies. It is also the reason Rungs 3, 4 and 5 cost what
+        they cost. The price of the ladder IS the price of the wall.
