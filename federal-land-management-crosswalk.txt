@@ -1,0 +1,217 @@
+FEDERAL LAND MANAGEMENT CROSSWALK — FOUR COLUMNS, AND THE FIVE LEVERS
+│   Legend:  ■ column / lever   ◆ sub-route   § statute   ✎ signing instrument
+│            ⚑ Congress is notified    ✕ notified and cannot stop it    ⚖ judicial review
+│            ⇄ moves the OVERLAY only  ⇥ moves the LAND out  [live] in motion Sep 26 2026
+│   Time-slice: acreage as of Sep 30 2024 · law and pending actions as of Sep 26 2026
+│
+■ PART A — THE FOUR COLUMNS
+│
+├─◆ BUREAU OF LAND MANAGEMENT ............................. 244.4 M acres  (40.3%)
+│   │   parent ......... Department of the Interior
+│   │   § organic ...... Federal Land Policy and Management Act of 1976
+│   │                    43 U.S.C. § 1701 et seq.
+│   │   the mandate .... MULTIPLE USE AND SUSTAINED YIELD, § 1732(a). Grazing,
+│   │                    minerals, energy, timber, recreation and conservation are
+│   │                    co-equal candidate uses. Nothing wins by default.
+│   │   who decides .... the Resource Management Plan. There is no national rule
+│   │                    about what may happen on BLM land; there are ~160 plans.
+│   └─  ⇥ THE EXIT .... SALE, administratively, under § 203. Three criteria, any one
+│                       sufficient. Over 2,500 acres Congress is notified — see
+│                       LEVER 5 for what that notice is worth.
+│
+├─◆ UNITED STATES FOREST SERVICE ......................... 193.1 M acres  (31.8%)
+│   │   parent ......... Department of Agriculture — the only one of the four
+│   │                    outside Interior
+│   │   § organic ...... Organic Administration Act of 1897, 16 U.S.C. § 475
+│   │                  + Multiple-Use Sustained-Yield Act of 1960, 16 U.S.C. §§ 528-531
+│   │                  + National Forest Management Act of 1976, 16 U.S.C. § 1600 et seq.
+│   │   the mandate .... MULTIPLE USE, same words as BLM, three statutes instead of one
+│   │   who decides .... the Forest Plan, under NFMA. Same architecture as an RMP.
+│   └─  ⇥ THE EXIT .... NO GENERAL SALE AUTHORITY EXISTS. Land leaves by EXCHANGE
+│                       (General Exchange Act of 1922, 16 U.S.C. § 485), by the
+│                       Small Tracts Act (≤ 40 acres, value cap $150,000), by
+│                       administrative-site disposal, or by an act of Congress.
+│                       NFMA 1976 closed the old route back to the public domain.
+│
+├─◆ UNITED STATES FISH AND WILDLIFE SERVICE ............... 89.3 M acres  (14.7%)
+│   │   parent ......... Department of the Interior
+│   │   § organic ...... National Wildlife Refuge System Administration Act of 1966
+│   │                    as amended by the Improvement Act of 1997, 16 U.S.C. § 668dd
+│   │   the mandate .... DOMINANT USE — conservation wins. § 668dd(d)(3)(A)(i): the
+│   │                    Secretary may not initiate, permit, expand, renew or extend
+│   │                    ANY use without first finding it COMPATIBLE with the refuge
+│   │                    purpose. Six wildlife-dependent recreational uses are named
+│   │                    priorities; everything else starts from no.
+│   └─  ⇥ THE EXIT .... THE ONLY EXIT IN THE SYSTEM THAT REQUIRES A VOTE. Refuge land
+│                       leaves only on a finding that it is no longer needed, APPROVED
+│                       BY THE MIGRATORY BIRD CONSERVATION COMMISSION — a statutory
+│                       body of 7 voting members that includes TWO SENATORS AND TWO
+│                       REPRESENTATIVES (16 U.S.C. § 715a). Proceeds are locked: they
+│                       go to the Migratory Bird Conservation Fund to buy more land.
+│
+└─◆ NATIONAL PARK SERVICE ................................. 80.1 M acres  (13.2%)
+    │   parent ......... Department of the Interior
+    │   § organic ...... National Park Service Organic Act of 1916,
+    │                    now 54 U.S.C. § 100101(a)
+    │   the mandate .... NON-IMPAIRMENT — the strictest of the four. Conserve the
+    │                    scenery, natural and historic objects and wild life, and
+    │                    provide for enjoyment BY SUCH MEANS AS WILL LEAVE THEM
+    │                    UNIMPAIRED. Enjoyment is subordinate to preservation.
+    │   who decides .... Congress, unit by unit. Park boundaries are statutory.
+    └─  ⇥ THE EXIT .... AN ACT OF CONGRESS, FULL STOP. 54 U.S.C. § 100506 lets the
+                        Secretary make a "minor boundary change" — capped at 5% of a
+                        unit's federal acreage AND under 200 acres AND under $750,000
+                        appraised, with owner consent and committee notice — and then
+                        says in terms: a minor change "involving only deletions of
+                        acreage owned by the Federal Government ... may be made only
+                        by Act of Congress."
+│
+■ ✱ THE FIRST FINDING IS THE ORDERING. Exit difficulty runs OPPOSITE to acreage.
+│     244.4 M acres leave on a Secretary's signature.  193.1 M leave by trade.
+│     89.3 M require four legislators to vote.  80.1 M require a statute.
+│     The agency holding the most land has the weakest lock on it, and the agency
+│     holding the least has the strongest. Nobody designed this; it is the residue of
+│     1897, 1916, 1966 and 1976 never being reconciled.
+│
+■ PART B — THE FIVE LEVERS
+│
+■ LEVER 1 — MONUMENT DESIGNATION AND REDUCTION ......................... ⇄ overlay
+│      § ................ Antiquities Act of 1906, 54 U.S.C. § 320301
+│      ✎ ................ a PRESIDENTIAL PROCLAMATION. Nothing else.
+│      process .......... NONE. No notice, no comment period, no environmental
+│                         review, no consultation requirement, no finding to make.
+│      ⚑ Congress ....... NOT NOTIFIED AT ALL. There is no notice provision.
+│      ⚖ review ......... UNSETTLED AFTER 120 YEARS. No court has ever decided
+│                         whether a president may SHRINK a predecessor's monument.
+│      does it move land? NO. A monument is an overlay. Bears Ears is jointly managed
+│                         by BLM and the Forest Service before and after; the acreage
+│                         never left either column. What changed is the rulebook.
+│      the § 204(j) trap  FLPMA § 204(j) expressly bars THE SECRETARY from modifying
+│                         or revoking an Antiquities Act monument — and is SILENT as
+│                         to the President, who is the only one who ever does it.
+│      ✱ the 1938 → 2025 reversal: AG Homer Cummings held in 1938 that a president
+│        could not abolish a monument outright. A 2025 OLC opinion reversed that,
+│        concluding a president may find objects "never were or no longer are"
+│        deserving of protection.
+│      [live] Jul 13 2026 — Proclamations 11043 and 11044, both published 91 FR,
+│        Jul 17 2026:
+│          Bears Ears ................ 1.36 M acres → 121,096   (−91%)
+│          Grand Staircase-Escalante . 1.87 M acres → 181,541   (−90%)
+│        Both invoke the Act's "smallest area compatible" clause as the authority for
+│        subtraction. Sep 2 2026: plaintiffs moved to reactivate the 2017 D.D.C.
+│        litigation (Hopi Tribe v. Trump · Wilderness Society v. Trump), arguing the
+│        Act is a ONE-WAY delegation.
+│
+■ LEVER 2 — MINERAL WITHDRAWAL AND ITS REVOCATION ..................... ⇄ overlay
+│      § ................ FLPMA § 204, 43 U.S.C. § 1714
+│      ✎ ................ a PUBLIC LAND ORDER, published in the Federal Register
+│      process .......... segregation, notice, comment, an environmental assessment
+│      the ceiling ...... 5,000 acres or more: 20 years maximum, renewable.
+│                         Emergency withdrawals under § 204(e): 3 years maximum.
+│      ⚑ Congress ....... notified at 5,000+ acres, with a 90-day window to
+│      ✕                  disapprove by CONCURRENT RESOLUTION — held an
+│                         UNCONSTITUTIONAL LEGISLATIVE VETO in National Mining
+│                         Association v. Zinke (9th Cir. 2017) for want of
+│                         presentment, and severed. The notice survives. The veto
+│                         does not.
+│      ◆ REVOCATION ROUTE A — administrative. Another Public Land Order, same
+│        process in reverse. Revocation does not reopen the land by itself; a
+│        separate opening order sets the terms.
+│        [live] Jul 15 2026 — BLM proposed revoking Public Land Order No. 7923 IN
+│          FULL: 336,404 acres around Chaco Culture National Historical Park,
+│          withdrawn in 2023 for 20 years. Comment closed Jul 29 2026; no final
+│          decision published as of this build. ✱ On revocation, management reverts
+│          to the 2003 FARMINGTON RESOURCE MANAGEMENT PLAN — removing the overlay
+│          does not write new rules, it exposes a 23-year-old plan.
+│      ◆ REVOCATION ROUTE B — the Congressional Review Act. And this one works.
+│        [done] Public Land Order 7917 (Jan 2023, 225,504 acres in the Superior
+│          National Forest, Cook · Lake · St. Louis counties, MN) was treated as a
+│          "rule," disapproved by H.J. Res. 140 — House Jan 2026, Senate 50-49 on
+│          Apr 16 2026 — and SIGNED INTO LAW Apr 27 2026.
+│      ✱ THE SECOND FINDING SITS HERE. Congress wrote itself a veto over withdrawals
+│        and it is void. The instrument that actually reversed a withdrawal in 2026
+│        came from a different statute entirely — and the only difference that matters
+│        is that a CRA joint resolution goes to the President's desk and a FLPMA
+│        concurrent resolution does not. Congress's power over public land is real
+│        exactly where it used ordinary lawmaking and nowhere else.
+│
+■ LEVER 3 — THE REGULATORY OVERLAY ................................... ⇄ overlay
+│      § ................ each agency's organic act, via notice-and-comment rulemaking
+│      ✎ ................ a rule in the Code of Federal Regulations
+│      process .......... Administrative Procedure Act § 553: proposal, comment,
+│                         reasoned final rule. Months to years, and reversible by
+│                         exactly the same machinery.
+│      ⚑ Congress ....... only through the CRA, and only inside its lookback window
+│      ⚖ review ......... YES — arbitrary-and-capricious review under the APA. This
+│                         is the ONLY lever of the five with settled judicial review.
+│      [done] Jun 11 2026 — BLM's Conservation and Landscape Health Rule (the
+│        "Public Lands Rule," 2024) RESCINDED IN FULL. RIN 1004-AF03; 43 CFR Part
+│        6100 removed entirely. The rescinded rule had made conservation a discrete
+│        "use" under FLPMA multiple use and created restoration and mitigation
+│        leasing. BLM's stated ground: conservation is not a co-equal use and the
+│        leasing exceeded § 302 authority.
+│      [live] Aug 20 2026 — Forest Service PROPOSED rescinding 36 CFR Part 294
+│        Subpart B, the 2001 Roadless Area Conservation Rule, IN ITS ENTIRETY:
+│        58.5 MILLION ACRES of inventoried roadless areas. RIN 0596-AD66, Docket
+│        FS-2025-0001. Comment extended 15 days to Oct 6 2026 (91 FR, Sep 11 2026).
+│      ✱ 58.5 M acres is a quarter of the Forest Service's holding, and the instrument
+│        reaching it is a rule — not a statute, not a proclamation, not a land order.
+│
+■ LEVER 4 — THE PLAN ................................................. ⇄ overlay
+│      § ................ FLPMA § 202, 43 U.S.C. § 1712 (BLM) · NFMA (Forest Service)
+│      ✎ ................ a Resource Management Plan or Forest Plan, and its amendments
+│      process .......... scoping, a draft and final environmental impact statement,
+│                         comment, then a protest and a consistency review
+│      ⚑ Congress ....... NOT NOTIFIED. Congress has no role in a plan at all.
+│      ◆ the GOVERNOR'S CONSISTENCY REVIEW, 43 CFR 1610.3-2 — 60 days to identify
+│        inconsistencies with state plans; silence is DEEMED CONSENT. The State
+│        Director decides; the governor may appeal to the BLM Director within 30 days;
+│        the Director decides finally and publishes the reasoning.
+│      ◆ the PROTEST, 43 CFR 1610.5-2 — any person who participated and is adversely
+│        affected may protest to the Director within 30 days. "The decision of the
+│        Director shall be the final decision of the Department of the Interior."
+│        There is no appeal above him.
+│      ✱ THE QUIETEST LEVER AND THE ONE THAT DECIDES THE MOST. A plan is where every
+│        acre of BLM land learns what it is for. Both of its checks terminate inside
+│        the agency: a governor's objection is resolved by the governor's counterpart's
+│        boss, and a citizen's protest is resolved by the same official. Neither
+│        reaches Congress and neither reaches a judge except through the EIS.
+│
+■ LEVER 5 — DISPOSAL ................................................. ⇥ MOVES LAND
+│      the only lever on this chart that takes an acre out of federal ownership.
+│      ◆ BLM — SALE, FLPMA § 203, 43 U.S.C. § 1713. Any ONE criterion suffices:
+│        the tract is difficult and uneconomic to manage · the purpose it was acquired
+│        for has expired · disposal serves important public objectives outweighing
+│        recreation and scenic values. Fair market value required.
+│        ⚑ over 2,500 acres: notice to Congress, with a disapproval mechanism
+│        ✕ that is the SAME CONCURRENT-RESOLUTION LEGISLATIVE VETO struck down in the
+│          withdrawal context. Under 2,500 acres Congress is not told at all.
+│      ◆ BLM — EXCHANGE, § 206. Same state, public interest, values essentially
+│        equal (cash equalization capped at 25%). No acreage trigger.
+│      ◆ BLM — Recreation and Public Purposes Act: below-market or free conveyance to
+│        states, tribes, local governments and nonprofits, with reversionary clauses
+│        and per-state annual caps. Federal Land Transaction Facilitation Act:
+│        permanent sale authority whose proceeds buy other land.
+│      ◆ FOREST SERVICE — exchange, Small Tracts Act, administrative sites. No general
+│        sale authority. See Part A.
+│      ◆ FWS — the Migratory Bird Conservation Commission vote. See Part A.
+│      ◆ NPS — an act of Congress. See Part A.
+│      ✱ THE THIRD FINDING. Every single 2025-26 action on this chart used an OVERLAY
+│        lever. Nothing of consequence moved through Lever 5. That is not restraint —
+│        it is the rational response to the incentive structure. An overlay lever is
+│        faster, cheaper, needs no buyer, and is reversible; the disposal lever is the
+│        only one with a real congressional lock on it for three of the four agencies.
+│        So the land does not change hands. It changes rules, and the rules are what
+│        decide whether the land is a wilderness or a mine.
+│
+■ WHAT THIS CHART DOES NOT SETTLE
+│      ◆ whether a president may shrink a monument — unsettled for 120 years, now
+│        back before the D.D.C.
+│      ◆ whether the FLPMA § 203(g) sale veto is void. Zinke struck the § 204(c)
+│        withdrawal veto; nobody has litigated the sale twin, which has identical
+│        defects. [unconfirmed] as to sale.
+│      ◆ how much land has actually been sold. There is no consolidated public
+│        accounting of FLPMA § 203 sales by acreage and year. No figure is asserted
+│        here because none could be sourced.
+│      ◆ what happens to the Chaco revocation. Comment closed Jul 29 2026 and the
+│        decision has not published.
