@@ -1,0 +1,145 @@
+HOW A CENSUS QUESTION IS ADDED OR REMOVED — FOUR ROUTES ONTO THE FORM
+│   Legend: ──▶ main path · └─▶ branch or bypass · ◇ decision · ★ real control point
+│           ⚠ no deadline, standard or remedy · ✕ closed or defective · ⧉ live
+│   Time-slice: Sept 25, 2026 · 2030 census date = April 1, 2030
+│
+■ 0. THE FRAME — ONE OFFICER DECIDES. EVERYONE ELSE IS NOTIFIED.
+│     13 U.S.C. § 141(a): the Secretary shall take the census "in such form and content
+│     as he may determine." Title 13 requires no particular question. Not one.
+│       ├─ ★ WHAT FOLLOWS IS NOT A PERMISSION CHAIN. Congress receives reports. The
+│       │    public receives comment periods. Only OMB can refuse — and OMB is an
+│       │    executive office under the same President as the Secretary who proposed it.
+│       ├─ ★ THE ASYMMETRY — adding a question requires a justification; REMOVING one
+│       │    requires nothing repealed, because no statute put it there. Race has been
+│       │    asked since 1790 on the authority of that delegated discretion, not a command.
+│       └─ ◆ NOT ON THIS MAP — how the answers are collected, and what is published
+│              afterward. Those are the enumeration flow and the data-products tree.
+│
+├─◆ 1. ORIGIN — five places a proposed question comes from
+│     ├─ statutory or program need ..... another agency's mandate requires the data
+│     ├─ OMB government-wide standard .. race and ethnicity wording arrives from outside
+│     ├─ Bureau research ............... undercount or quality evidence from the last cycle
+│     ├─ ✕ STAKEHOLDER DEMAND — THIS CHANNEL IS GONE. The Census Scientific Advisory
+│     │    Committee, the National Advisory Committee and the 2030 Census Advisory
+│     │    Committee were terminated together by 90 FR 24383 (June 10, 2025). All three
+│     │    were discretionary FACA committees, so closing them took a determination
+│     │    and a notice — no statute, no comment period, no successor body.
+│     └─ ⧉ ADMINISTRATION POLICY — the 2018 and 2026 additions both entered here. It is
+│            the only origin with no evidentiary threshold to clear at the door.
+│
+├─◆ 2. RESEARCH AND FIELD TESTING — evidence, and what it is not allowed to decide
+│     ├─ content tests · ACS methods panel · the mid-decade census test
+│     ├─ ⧉ THE 2026 CENSUS TEST — Huntsville, Ala. and Spartanburg, S.C. only; about
+│     │    154,600 households; online response only; May 1 – Aug 31, 2026. The design
+│     │    was cut from six sites to two, and every dropped site served a hard-to-count
+│     │    population.
+│     ├─ ★ THE TEST INSTRUMENT WAS THE ACS QUESTIONNAIRE, NOT A DECENNIAL FORM. It runs
+│     │    about forty minutes and it asks CITIZENSHIP, which the ACS has asked since
+│     │    2005. So a citizenship question was fielded in a decennial test without any
+│     │    decision ever being taken to put one on the 2030 form — and the test result
+│     │    will nonetheless be available as evidence that one can be.
+│     └─ ⚠ TESTING IS NOT A GATE. Nothing requires a question to be tested before it is
+│            asked, and nothing requires a tested question to be adopted or dropped.
+│            The 2018 citizenship question was added with no field test at all.
+│
+├─◆ 3. ROUTE A — PAPERWORK REDUCTION ACT CLEARANCE ★ the ordinary route
+│     │    44 U.S.C. ch. 35. Any federal collection of information from ten or more
+│     │    persons needs an OMB control number. The census is such a collection.
+│     ├─ 60-day Federal Register notice ──▶ comment on the proposed collection
+│     ├─ 30-day Federal Register notice ──▶ package submitted to OMB
+│     ├─ ◇ OIRA decides ──approve──▶ control number issued, 3-year maximum term
+│     │                  └─refuse──▶ the collection may not be conducted
+│     ├─ ★ THIS IS THE ONLY VETO ANYWHERE ON THE MAP. It is also the softest one
+│     │    available: the reviewer is the President's own regulatory office, the
+│     │    governing standard is the collection's "practical utility," and the
+│     │    comment record is received rather than answered.
+│     └─ ⚠ COMMENT IS NOT CONSENT — a multistate comment letter led by California
+│            opposed the 2026 test instrument on March 5, 2026. The test fielded as
+│            proposed roughly eight weeks later.
+│
+├─◆ 4. ROUTE B — THE OMB STANDARDS OVERLAY, SPD 15 — wording the Bureau does not own
+│     │    Statistical Policy Directive No. 15 sets the race and ethnicity categories
+│     │    for EVERY federal collection. The Bureau implements; it does not choose.
+│     ├─ 2024 revision issued March 28, 2024, announced in the Federal Register the
+│     │    next day ──▶ a single COMBINED race-and-ethnicity question, and SEVEN
+│     │    minimum categories, adding "Middle Eastern or North African" for the
+│     │    first time in the standard's history.
+│     ├─ ⧉ IMPLEMENTATION IS SLIPPING — an OMB bulletin of March 27, 2026 pushed the
+│     │    agency Action Plan deadline out a further year, to March 28, 2027, while
+│     │    "otherwise making no additional changes to the deadlines for implementing
+│     │    the standards." Second extension; the plans are now three years behind.
+│     └─ ★ A DIRECTIVE IS NOT A STATUTE. SPD 15 is an OMB memorandum administered by a
+│            Chief Statistician who is not Senate-confirmed and holds no fixed term.
+│            What a directive standardises, a directive can unstandardise — and the
+│            rule at block 7 proposes to delete the question the directive governs.
+│
+├─◆ 5. THE § 141(f) REPORTS TO CONGRESS — notified twice, consulted never
+│     ├─ (f)(1) SUBJECTS ..... not later than 3 years before census day  │ 2030: Apr 1, 2027
+│     ├─ (f)(2) QUESTIONS .... not later than 2 years before census day  │ 2030: Apr 1, 2028
+│     ├─ ★ READ THE NOUN. Each is "a report containing the Secretary's determination."
+│     │    The determination is already made when the report arrives. There is no
+│     │    approval, no waiting period, no objection procedure and no remedy.
+│     └─ ⚠ SAME DRAFTING SHAPE AS § 141(b) AND (c): a fixed date with no enforcement
+│            clause. The 2020 cycle blew both of those delivery deadlines by months —
+│            apportionment 116 days late, redistricting data about 4.4 months late —
+│            and nothing whatever followed.
+│
+├─◆ 6. ROUTE C — § 141(f)(3), THE MODIFICATION PROVISION ⚠ the 2018 route
+│     │    "after submission of a report under paragraph (1) or (2) ... and before the
+│     │    appropriate census date, if the Secretary finds new circumstances exist
+│     │    which necessitate that the subjects, types of information, or questions
+│     │    contained in reports so submitted be modified..."
+│     ├─ ◇ who finds that new circumstances exist? ──▶ the Secretary
+│     ├─ ◇ against what standard? ──▶ none is stated
+│     ├─ ◇ how late may it be done? ──▶ any time before census day
+│     └─ ★ THE ESCAPE HATCH SWALLOWS THE SCHEDULE, AND IT IS IN THE SAME SUBSECTION
+│            AS THE SCHEDULE. The deadlines at blocks 5 bind only the FIRST answer;
+│            (f)(3) lets the Secretary give a different one at any point in the three
+│            years that follow, on a finding no one else gets to review in advance.
+│
+├─◆ 7. ROUTE D — RULEMAKING ⧉ NEW IN 2026. NO CENSUS CONTENT HAS EVER TRAVELLED IT.
+│     │    "Decennial Census of the Population of Americans; Proposed Residence
+│     │    Criteria and Proposed Regulations for Demographic Questions"
+│     │    91 FR 57524 · Sept 10, 2026 · RIN 0607-AA75 · Docket 260903-0005
+│     │    Authority: 13 U.S.C. §§ 4, 5 and 141. Comments close Oct 13, 2026.
+│     │    Would create 15 CFR Part 60 (residence) and 15 CFR Part 70 (questions).
+│     ├─ § 70.2(a) would BAR race, ethnicity and sexual-orientation questions from the
+│     │    short form; § 70.4 keeps race and ethnicity on the ACS; § 70.2(c) makes
+│     │    every demographic question except sex, date of birth and household
+│     │    relationship VOLUNTARY.
+│     ├─ ◇ does it add a citizenship question? ──▶ NO. It says the Bureau "could"
+│     │    include a legal-status question and invites comment on doing so. Much of
+│     │    the reporting ran ahead of the text on this point.
+│     ├─ ★ A RULE IS DIFFERENT IN BOTH DIRECTIONS AT ONCE. More exposed: notice and
+│     │    comment, an APA record, judicial review on that record. More durable: it
+│     │    binds the Bureau from OUTSIDE and survives until another rulemaking
+│     │    repeals it — a successor Secretary cannot simply decide otherwise.
+│     └─ ★ AND IT CURES THE 2018 DEFECT ON PURPOSE. Pretext is a failure of
+│            EXPLANATION. Notice-and-comment rulemaking is a machine for manufacturing
+│            explanations: a stated rationale in a preamble, a comment record, and a
+│            reasoned response to objections. The 2018 question did not lose because
+│            it was forbidden. It lost because the file did not match the story.
+│
+├─◆ 8. THE JUDICIAL BACKSTOP — narrower than it is remembered as being
+│     │    Department of Commerce v. New York, 588 U.S. 752, decided June 27, 2019
+│     ├─ ✓ the decision IS reviewable under the APA — not committed to agency discretion
+│     ├─ ✓ the Enumeration Clause and the Census Act DO permit asking about citizenship
+│     ├─ ✓ the decision was NOT arbitrary and capricious on the administrative record
+│     ├─ ✕ but the stated reason — Voting Rights Act enforcement — was found contrived,
+│     │    so the explanation could not be accepted and the matter went back to the agency
+│     └─ ★ NOTHING WAS HELD UNCONSTITUTIONAL. The question lost on the quality of its
+│            paperwork, and the route stayed open. Route D is an attempt to file
+│            better paperwork.
+│
+└─◆ 9. ⧉ THE 2030 CLOCK AS IT STANDS TODAY
+      ├─ Oct 13, 2026 ..... comments close on 91 FR 57524
+      ├─ 2026 – 2027 ...... final rule, if issued, and the litigation that follows it
+      ├─ Apr 1, 2027 ...... § 141(f)(1) subjects report due to Congress
+      ├─ Apr 1, 2028 ...... § 141(f)(2) questions report due to Congress
+      ├─ 2028 ............. the 2030 dress rehearsal
+      ├─ Apr 1, 2030 ...... census day — and the last day § 141(f)(3) may be used
+      └─ ⚠ THE SEAT THAT SIGNS ALL OF IT IS EMPTY. There has been no Senate-confirmed
+             Director of the Census Bureau since February 2025; the duties are performed
+             by a Commerce deputy under secretary from outside the Bureau, and the
+             current statutory five-year term expires on Dec 31, 2026.
+└──────────────────────────────────────────────────────────────────────────────────────────
