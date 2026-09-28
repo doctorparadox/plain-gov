@@ -1,0 +1,231 @@
+FEDERAL WHISTLEBLOWER PROTECTION CROSSWALK — SIX CHANNELS, AND WHAT EACH CAN DO
+│   Legend:  ■ channel / part      ◆ stage or sub-route      § statute doing the work
+│            ⚖ review on the administrative record   ⚖★ DE NOVO district court + JURY
+│            ⊘ a right stated in law with NO remedy attached
+│            ⟳ complaint routed THROUGH the official complained of
+│            ⚑ Congress is told    ✕ told and cannot stop it
+│            [live] in motion Sep 28 2026    [unconfirmed] no primary source
+│   Time-slice: statutes and officeholders as of Sep 28 2026
+│
+■ PART A — THE SIX CHANNELS
+│
+├─◆ 1. OFFICE OF SPECIAL COUNSEL ................... the office built for this job
+│   │   § ............ 5 U.S.C. §§ 1211-1219. Created by the Civil Service Reform
+│   │                  Act of 1978, rebuilt by the WPA 1989 and the WPEA 2012.
+│   │   who may use .. current and former employees and applicants in the competitive
+│   │                  and excepted service. NOT the IC. NOT the FBI. NOT contractors.
+│   │   ⚠ TWO DOORS — AND THEY ARE DIFFERENT MACHINES WITH DIFFERENT OUTCOMES.
+│   │
+│   ├─  ◆ DOOR A — THE DISCLOSURE, § 1213.  You report the wrongdoing.
+│   │      ├─ Special Counsel has 45 days to find a "substantial likelihood" that
+│   │      │  the information discloses a violation, gross mismanagement, gross
+│   │      │  waste, abuse of authority, or a danger to public health or safety.
+│   │      ├─ IF FOUND → referred to THE HEAD OF THE AGENCY YOU ARE REPORTING,
+│   │      │  who investigates it and reports back in writing within 60 days.
+│   │      ├─ OSC transmits that report, your comments and its own to the
+│   │      │  President and the oversight committees.                            ⚑
+│   │      └─ IF NOT FOUND → the file closes. OSC may pass the information to the
+│   │         agency only with your consent. There is no appeal from a
+│   │         no-substantial-likelihood finding.
+│   │      ⚠ THIS DOOR PROTECTS NOTHING ABOUT YOUR JOB. It is a referral engine.
+│   │      ⚠ FY2025: 2,535 disclosures received · 27 referred · 1.1%.  [see Notes]
+│   │
+│   └─  ◆ DOOR B — THE RETALIATION, §§ 1214 and 2302(b)(8).  They came after you.
+│          ├─ OSC has 240 days to determine reasonable grounds to believe a
+│          │  prohibited personnel practice occurred.
+│          ├─ OSC may seek corrective action from the agency, then petition MSPB.
+│          ├─ INDIVIDUAL RIGHT OF ACTION, § 1214(a)(3): at 120 days with no
+│          │  notice that OSC will act for you, you may go to MSPB YOURSELF.
+│          └─ MSPB administrative judge → the Board → court of appeals.          ⚖
+│             The All Circuit Review Act of 2018 struck the sunset: "any court
+│             of appeals of competent jurisdiction," permanently. You are no
+│             longer locked into the Federal Circuit.
+│          ⚠ NO DE NOVO FORUM. NO JURY. NOT AT ANY STAGE.
+│          ⚠ [live] The Board had NO QUORUM from Apr 2025 to Oct 2025. Restored.
+│
+├─◆ 2. THE AGENCY INSPECTOR GENERAL ............... the one everybody thinks of first
+│   │   § ............ 5 U.S.C. ch. 4 (the 1978 Inspector General Act, recodified
+│   │                  2022). The hotline and complaint duty sit at § 407.
+│   │   who receives .. the IG of your own agency. 74 statutory IGs across the
+│   │                  executive branch; see the oversight tree for the layer.
+│   │   ⚠ CONFIDENTIALITY IS THE PRODUCT HERE, AND IT IS QUALIFIED.  § 407 bars
+│   │     the IG from disclosing your identity WITHOUT YOUR CONSENT — unless the
+│   │     IG determines disclosure is UNAVOIDABLE during the investigation.
+│   │     You do not get to make that call and you cannot appeal it.
+│   ├─  what it investigates ... THE PROGRAM. Fraud, waste, abuse, mismanagement.
+│   └─  what it does for YOU ... ⊘ NOTHING DIRECTLY. An IG has no authority to
+│          order your reinstatement, your back pay, or any discipline of the
+│          official who moved against you. The IG writes a report. A retaliation
+│          claim is a SEPARATE filing, and it goes to channel 1, 5 or 6.
+│       ⚠ The IG is himself removable by the President on 30 days' written notice
+│         to both Houses with "substantive rationale, including detailed and
+│         case-specific reasons" (5 U.S.C. § 403(b)).  NOTIFIED — AND CANNOT
+│         BE STOPPED.                                                            ✕
+│
+├─◆ 3. CONGRESS ........................... the oldest right, and the emptiest one
+│   │   § ............ 5 U.S.C. § 7211, entire: "The right of employees,
+│   │                  individually or collectively, to petition Congress or a
+│   │                  Member of Congress, or to furnish information to either
+│   │                  House of Congress, or to a committee or Member thereof,
+│   │                  may not be interfered with or denied."
+│   │                  That is the whole section. There is no subsection (b).
+│   ├─  who receives .. any Member, any committee, either House. No gatekeeper,
+│   │                  no screening, no substantial-likelihood test, no clock.
+│   ├─  antigag rider ... appropriations acts since 1988 have carried a provision
+│   │                  voiding any nondisclosure policy that fails to preserve
+│   │                  § 7211 and the WPA. It rides on the annual bill.
+│   └─  what happens if they interfere ... ⊘ THE SECTION SUPPLIES NO REMEDY, NO
+│          FORUM, NO PENALTY AND NO CAUSE OF ACTION. Interference is reachable,
+│          if at all, only by re-characterising it as a prohibited personnel
+│          practice and filing it in channel 1. The right is real; the
+│          enforcement is borrowed.
+│
+├─◆ 4. THE INTELLIGENCE COMMUNITY ................. the one that runs through the
+│   │                                               office being complained about
+│   │   § ............ ICWPA, 50 U.S.C. § 3033(k)(5). "Urgent concern" only.
+│   │   who may use .. employees and contractors of IC elements — a population
+│   │                  expressly carved OUT of channels 1 and 6.
+│   │
+│   ├─  ◆ the route, and the clocks are short and real:
+│   │      ├─ employee submits an urgent concern in writing to the IC IG
+│   │      ├─ IC IG has 14 CALENDAR DAYS to decide whether it "appears credible"
+│   │      ├─ if credible → transmitted to the DIRECTOR OF NATIONAL INTELLIGENCE
+│   │      └─ DNI has 7 CALENDAR DAYS to forward it to the two intelligence
+│   │         committees with any comments he thinks appropriate.                ⚑
+│   │      ⟳ IF THE COMPLAINT IS ABOUT THE DNI OR HIS OFFICE, THE DNI IS STILL
+│   │        THE TRANSMITTING OFFICER. The statute provides no substitute.
+│   │
+│   ├─  ◆ the bypass, and its price: if the IG does not find the complaint
+│   │      credible or does not transmit it accurately, the employee MAY contact
+│   │      the committees directly — but must FIRST give the Director a statement
+│   │      of the complaint through the IG plus notice of intent to go to
+│   │      Congress, and must then obtain and follow the Director's security
+│   │      guidance on how to do it.                                             ⟳
+│   │
+│   └─  ◆ retaliation: PPD-19, codified at 50 U.S.C. § 3234, bars reprisal
+│          including adverse security-clearance action. Review is by the agency,
+│          then an external review panel of IGs. ⚖ NO JUDICIAL REVIEW OF THE
+│          MERITS. A clearance decision is Egan territory. See the clearance map.
+│
+├─◆ 5. THE FBI ..................... its own statute, its own regulation, its own
+│   │                                closed list of people you are allowed to tell
+│   │   § ............ 5 U.S.C. § 2303 · 28 C.F.R. part 27
+│   │   ⚠ THE DISCLOSURE IS PROTECTED ONLY IF MADE TO A DESIGNATED RECIPIENT.
+│   │     § 27.1(a): a supervisor in the direct chain of command up to the
+│   │     Attorney General · DOJ OIG · DOJ Office of Professional Responsibility ·
+│   │     FBI OPR · FBI Inspection Division · Congress (via § 7211) · OSC · and
+│   │     designated employees of those offices. Tell anyone else and the
+│   │     protection does not attach.
+│   ├─  who investigates the reprisal ... DOJ OPR or DOJ OIG, which confer on
+│   │      which is better suited; the Attorney General keeps final designation.
+│   │      240 calendar days to a determination.
+│   ├─  who decides ... the Director of the Office of Adjudication, Recruitment,
+│   │      and Management. Preponderant evidence that the disclosure was a
+│   │      contributing factor.
+│   ├─  first appeal .. the DEPUTY ATTORNEY GENERAL, within 30 calendar days.
+│   └─  then .......... MSPB, under § 2303(d), added by the FY2023 NDAA. Before
+│          that amendment this channel ended inside the Department that employs
+│          the FBI.                                                              ⚖
+│
+└─◆ 6. CONTRACTORS, SUBCONTRACTORS AND GRANTEES ......... the largest workforce,
+    │                                                      and the strongest forum
+    │   § ............ 41 U.S.C. § 4712 (civilian) · 10 U.S.C. § 4701 (defense)
+    │   who may use .. employees of contractors, subcontractors, grantees,
+    │                  subgrantees and personal-services contractors. A population
+    │                  larger than the civil service, with no tenure at all.
+    ├─  who receives .. the IG of the executive agency involved.
+    ├─  the clock ..... IG investigates unless frivolous or already addressed;
+    │                  180 days to a report, extendable 180 more WITH YOUR CONSENT.
+    ├─  agency head ... 30 days from the report to decide, and may order
+    │                  reinstatement, back pay, compensatory damages and costs.
+    └─  ⚖★ AND THEN THE DOOR NOBODY ELSE HAS: at 210 days from the complaint
+           with no agency order, administrative remedies are DEEMED EXHAUSTED and
+           the complainant may sue in UNITED STATES DISTRICT COURT — de novo, on
+           the facts, with a JURY, for compensatory damages.
+        ⚠ EXCLUDED: elements of the intelligence community, and any disclosure
+          relating to intelligence activities. Those people are in channel 4.
+
+■ PART B — THE FOUR QUESTIONS, RUN DOWN ALL SIX COLUMNS
+│
+├─◆ Q1. WHO ACTUALLY RECEIVES IT?
+│      1 OSC ......... an independent agency, headed by a single Senate-confirmed
+│                      officer, removable by the President only for inefficiency,
+│                      neglect of duty or malfeasance — the for-cause formula now
+│                      sitting under Trump v. Slaughter.
+│      2 IG .......... an officer of the agency you are reporting.
+│      3 Congress .... anyone you choose. The only channel with no gatekeeper.
+│      4 IC ......... the IC IG, then the DNI.                                   ⟳
+│      5 FBI ........ a closed statutory list, or the protection does not attach.
+│      6 Contractor .. the agency IG, same office as channel 2 — different statute,
+│                      different duties, different ending.
+│
+├─◆ Q2. WHAT RETALIATION IS BARRED?
+│      1 OSC ......... § 2302(b)(8), the full prohibited-personnel-practice list,
+│                      against a "personnel action" defined broadly by statute.
+│      2 IG .......... nothing. The IG protects your IDENTITY, not your position,
+│                      and only until disclosure becomes "unavoidable."          ⊘
+│      3 Congress .... interference with the right is barred; nothing says what
+│                      follows from barring it.                                  ⊘
+│      4 IC .......... § 3234, INCLUDING adverse clearance action — the only
+│                      channel that names the clearance as retaliation.
+│      5 FBI ........ reprisal for a disclosure to a designated recipient.
+│      6 Contractor .. discharge, demotion or "other discrimination" for a
+│                      disclosure about a federal contract or grant.
+│
+├─◆ Q3. WHERE DOES THE APPEAL GO?
+│      1 OSC ......... MSPB → any court of appeals.  Record review.              ⚖
+│      2 IG .......... nowhere. There is no appeal from an IG's decision not
+│                      to investigate.                                           ⊘
+│      3 Congress .... nowhere.                                                   ⊘
+│      4 IC .......... agency review, then an external IG panel. Merits of a
+│                      clearance action are unreviewable in court.               ⚖
+│      5 FBI ........ OARM → Deputy Attorney General → MSPB.                     ⚖
+│      6 Contractor .. UNITED STATES DISTRICT COURT, DE NOVO, WITH A JURY.       ⚖★
+│
+└─◆ Q4. WHAT IF THE AGENCY JUST IGNORES IT?
+       1 OSC ......... OSC may petition MSPB for corrective action and may seek
+                       discipline of the responsible official. The IRA clock runs
+                       whether or not OSC does anything: 120 days and it is yours.
+       2 IG .......... the report is published or it is not. There is no
+                       compliance mechanism and no penalty for disregarding it.  ⊘
+       3 Congress .... the committee may hold a hearing, write a letter, or
+                       legislate. See the subpoena-enforcement problem.          ⊘
+       4 IC .......... the DNI's 7-day duty is mandatory in form. Nothing in the
+                       section says what happens if it is not performed.         ⊘
+       5 FBI ........ the Deputy Attorney General is the backstop inside the
+                       Department; MSPB is the backstop outside it.
+       6 Contractor .. 210 days of silence IS the remedy. Inaction by the agency
+                       is what opens the courthouse door.                        ⚖★
+
+■ WHAT THE SHAPE SHOWS
+│
+├─◆ THE STRONGEST FORUM BELONGS TO THE PEOPLE WITH THE WEAKEST JOB. A contractor
+│      employee who can be let go tomorrow for no reason gets a de novo trial with
+│      a jury. A tenured civil servant — the population the merit system exists
+│      to protect — never sees a district court, never sees a jury, and reaches an
+│      Article III judge only on a closed administrative record, years later.
+│      The protection runs INVERSE to the tenure.
+│
+├─◆ THE DISCLOSURE DOOR AND THE PROTECTION DOOR ARE NOT THE SAME DOOR. Channel 1
+│      Door A refers your report to the official you are reporting and protects
+│      nothing. The protection is Door B, a separate filing under a separate
+│      section, which most people make only after the retaliation has landed.
+│
+└─◆ TWO OF THE SIX CHANNELS ARE RIGHTS WITHOUT REMEDIES.                         ⊘
+       The IG channel and the congressional channel are the two a whistleblower
+       is most likely to reach for, the two most often named in training, and the
+       only two that supply no forum, no order and no consequence of any kind.
+
+■ LEFT OPEN — deliberately, because no source ran them down
+│
+├─◆ whether the § 1213 referral rate reflects screening or capacity. OSC's own
+│     reports give the counts and not the reasons. No breakdown of the 2,508
+│     FY2025 disclosures that were NOT referred has been published.
+├─◆ what the FY2026 numbers are. The FY2025 figure below is the newest that
+│     exists; the FY2026 report is not due until after the fiscal year closes.
+├─◆ how many IRA appeals were filed during the Apr–Oct 2025 MSPB quorum gap and
+│     what became of them. Administrative judges kept issuing initial decisions;
+│     the Board could not act on petitions for review. No consolidated count.
+└─◆ whether § 7211 has ever supported relief on its own. No case was found in
+      which a court granted a remedy under § 7211 standing alone.
+      [unconfirmed] — absence of a found case is not absence of a case.
