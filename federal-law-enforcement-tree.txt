@@ -1,0 +1,148 @@
+FEDERAL LAW ENFORCEMENT AGENCIES TREE — the armed, arrest-authorized civilian layer
+│   Legend: ● officers (BJS census, FY2023)  § authorizing statute  ⚑ structural point
+│   ✕ outside the census by design · counts published May 2026 · no officeholders by design
+│
+■ THERE IS NO FEDERAL POLICE FORCE
+│   ● 133,798 officers · 89 reporting agencies · no common chain of command, no common standard
+│   ⚑ NO GENERAL FEDERAL ARREST STATUTE EXISTS. Each agency's power comes from its own
+│     section of the code, enacted separately, on its own terms. 18 U.S.C. ch. 203 collects
+│     a handful of them; most of this tree is authorized somewhere else entirely.
+│   ⚑ 42 of the 89 agencies are Offices of Inspector General — 47% of the agency count,
+│     2.6% of the officers. The agency number in circulation is mostly an oversight number.
+│
+├─◆ DEPARTMENT OF HOMELAND SECURITY .................... ● 64,889     49.8% of non-OIG total
+│   │   Created 2003. Now the largest federal law enforcement employer by a wide margin.
+│   │
+│   ├─ U.S. Customs and Border Protection ............. ● 46,047   8 USC 1357 · 19 USC 1589a
+│   │     ⚑ ONE AGENCY HOLDS 35% OF ALL NON-OIG FEDERAL OFFICERS. Border Patrol, Office
+│   │       of Field Operations, Air and Marine Operations. Did not exist before 2003.
+│   ├─ U.S. Immigration and Customs Enforcement ....... ● 12,318   8 USC 1357
+│   │     └─ Homeland Security Investigations · Enforcement and Removal Operations
+│   ├─ U.S. Secret Service ............................ ●  5,588   18 USC 3056
+│   ├─ Federal Protective Service ..................... ●    846   40 USC 1315
+│   ├─ Transportation Security Admin. (investigations)  ●     55
+│   ├─ Office of the Chief Security Officer ........... ●     20
+│   └─ Federal Law Enforcement Training Centers ....... ●     15   [trains most of this tree]
+│
+├─◆ DEPARTMENT OF JUSTICE .............................. ● 40,566     31.1% of non-OIG total
+│   │   The department everyone pictures when they hear "federal law enforcement."
+│   │   It employs fewer officers than CBP and ICE do between them.
+│   │
+│   ├─ Federal Bureau of Prisons ...................... ● 15,522   18 USC 3050
+│   │     ⚑ DOJ's LARGEST LAW ENFORCEMENT COMPONENT IS A PRISON SYSTEM, and its arrest
+│   │       power is the narrowest on this page — escape, assault on staff, and offenses
+│   │       on BOP grounds. Down 9.3% since FY2020, the steepest DOJ decline.
+│   ├─ Federal Bureau of Investigation ................ ● 14,146   18 USC 3052
+│   ├─ Drug Enforcement Administration ................ ●  4,234   21 USC 878
+│   ├─ U.S. Marshals Service .......................... ●  4,014   28 USC 566
+│   │     └─ ⚑ ALSO THE DEPUTATION DESK: § 566 special deputation extends federal arrest
+│   │          power to state, local and other federal officers on task forces.
+│   └─ Bureau of Alcohol, Tobacco, Firearms and Expl. . ●  2,650   18 USC 3051
+│         └─ [FY2026 budget proposed folding ATF into DEA; House and Senate appropriators
+│            both rejected it, July 2025. ATF defended its own FY2027 request, May 2026.]
+│
+├─◆ JUDICIAL BRANCH .................................... ●  5,734     4.3% of ALL officers
+│   ├─ Admin. Office of U.S. Courts — Probation/Pretrial ● 5,557
+│   │     ⚑ Down 29% since FY2020 — the largest percentage drop of any non-OIG agency.
+│   └─ Supreme Court of the United States Police ...... ●    177
+│
+├─◆ LEGISLATIVE BRANCH ................................. ●  2,112     1.6% of ALL officers
+│   ├─ U.S. Capitol Police ............................ ●  2,055   2 USC 1966
+│   └─ Government Publishing Office, Uniformed Police . ●     50
+│
+├─◆ OTHER EXECUTIVE DEPARTMENTS ........................ ● 15,830 incl. their inspectors gen.
+│   │   The layer nobody counts: land agencies, tax police, building guards, park rangers.
+│   │
+│   ├─ VETERANS AFFAIRS — Security and Law Enforcement  ●  4,924   [up 25.5% since FY2020]
+│   ├─ INTERIOR ...................................... ●  2,947
+│   │     ├─ National Park Service, Ranger Division ... ●  1,310   54 USC 102701
+│   │     ├─ U.S. Park Police ......................... ●    528
+│   │     ├─ U.S. Fish and Wildlife Service ........... ●    441
+│   │     ├─ Bureau of Indian Affairs ................. ●    355
+│   │     └─ Bureau of Land Management ............... ●    313   43 USC 1733
+│   ├─ TREASURY ...................................... ●  2,640
+│   │     ├─ IRS Criminal Investigation ............... ●  2,143   26 USC 7608
+│   │     ├─ U.S. Mint Police ......................... ●    281
+│   │     └─ Bureau of Engraving and Printing Police .. ●    216
+│   ├─ STATE — Bureau of Diplomatic Security ......... ●  1,283   22 USC 2709
+│   ├─ WAR (DoD) — Pentagon Force Protection Agency .. ●    743
+│   ├─ AGRICULTURE — Forest Service LE&I ............. ●    502   16 USC 559
+│   ├─ ENERGY ........................................ ●    308
+│   │     ├─ NNSA, Office of Secure Transportation ... ●    281
+│   │     └─ Office of Special Operations ............ ●     27
+│   ├─ COMMERCE ...................................... ●    293
+│   │     ├─ NOAA, Office of Law Enforcement ......... ●    138
+│   │     ├─ BIS, Office of Export Enforcement ....... ●    132
+│   │     └─ Office of Security ...................... ●     23
+│   ├─ HEALTH AND HUMAN SERVICES ..................... ●    286
+│   │     ├─ FDA, Office of Criminal Investigations .. ●    218
+│   │     └─ National Institutes of Health Police .... ●     68
+│   ├─ LABOR — Division of Protective Operations ..... ●     18
+│   └─ TRANSPORTATION — Odometer Fraud Investigation . ●      6
+│
+├─◆ INDEPENDENT AND QUASI-GOVERNMENTAL ................. ●  4,311     3.2% of ALL officers
+│   ├─ U.S. Postal Inspection Service ................. ●  1,682   18 USC 3061
+│   ├─ Smithsonian Institution, Protection Services ... ●    519
+│   ├─ Amtrak Police Department ....................... ●    409
+│   ├─ EPA, Criminal Investigation Division ........... ●    170   18 USC 3063
+│   ├─ Federal Reserve Police ......................... ●    122   [first reported in 2023]
+│   ├─ Tennessee Valley Authority Police .............. ●     71
+│   └─ NASA, Office of Protective Services ............ ●     62
+│
+├─◆ THE OVERSIGHT LAYER — 42 OFFICES OF INSPECTOR GENERAL  ●  3,519   2.6% of ALL officers
+│   │   Half the agency count. One fortieth of the force. And the only branch of this tree
+│   │   whose arrest power belongs to somebody outside it.
+│   │
+│   ├─ Largest: U.S. Postal Service OIG ● 461 · HHS OIG ● 458 · War (DoD) OIG ● 382
+│   │           TIGTA ● 253 · Social Security Admin. OIG ● 245 · DHS OIG ● 217
+│   ├─ Smallest: Library of Congress OIG ● 3 · Pension Benefit Guaranty Corp. OIG ● 2
+│   │
+│   ├─ § THE AUTHORITY IS THE ATTORNEY GENERAL'S — 5 U.S.C. § 406(f)
+│   │     (f)(1) An IG, an Assistant IG for Investigations, and supervised special agents
+│   │            "may be authorized BY THE ATTORNEY GENERAL" to carry firearms, arrest
+│   │            without warrant, and seek and execute warrants.
+│   │     (f)(2) He may do so only on a three-part determination: the office is
+│   │            "significantly hampered" without the powers · other agencies' help is
+│   │            insufficient · adequate internal safeguards exist.
+│   │     (f)(3) TWENTY-FIVE named offices are exempt from that initial determination.
+│   │            Every other OIG — including the largest, the Postal Service's — is not.
+│   │     (f)(5) He may RESCIND OR SUSPEND the powers: for a whole office, or for one
+│   │            named individual agent.
+│   │     (f)(6) ⚑ "A determination by the Attorney General under paragraph (2) or (5)
+│   │            SHALL NOT BE REVIEWABLE IN OR BY ANY COURT."
+│   │     (f)(8) None of it limits Marshals Service special deputation, which runs parallel.
+│   │
+│   └─ ⚑ So the investigators assigned to find wrongdoing inside the executive branch
+│        carry guns and make arrests at the discretion of the executive branch's chief
+│        prosecutor, under a decision no judge may look at. Down 6% since FY2020.
+│
+├─◆ ✕ OUTSIDE THE CENSUS BY DESIGN — not a gap in the data, a boundary in the definition
+│   ├─ ✕ The U.S. Armed Forces — Army, Navy, Air Force, Marines, Space Force
+│   ├─ ✕ THE U.S. COAST GUARD — an armed service, therefore excluded, despite holding
+│   │     the broadest maritime search, seizure and arrest power in the code (14 USC 522)
+│   ├─ ✕ The Central Intelligence Agency, and other confidentiality-restricted agencies
+│   ├─ ✕ The Federal Air Marshal Service — excluded for security reasons
+│   ├─ ✕ FEMA's Mount Weather Police Department — officer count not collected
+│   ├─ ✕ Every federal officer stationed outside the United States
+│   └─ ✕ Five eligible agencies simply did not respond, and BJS found no public data
+│        to substitute. Response rate 89 of 94 eligible agencies, 95%.
+│
+└─◆ ⚑ THE LINES MOVE WITHOUT CONGRESS — three doors between the branches above
+    │
+    ├─ 1. CROSS-DESIGNATION AS IMMIGRATION OFFICERS — 8 U.S.C. § 1103(a)(4), (6)
+    │      The Secretary of Homeland Security may designate other federal officers as
+    │      immigration officers. Used in April 2025 to designate Marshals Service, DEA,
+    │      BOP and ATF personnel, and any other DOJ employee the Attorney General approves
+    │      — stated as giving them the authority the FBI already had. One memo; no statute.
+    │
+    ├─ 2. MARSHALS SERVICE SPECIAL DEPUTATION — 28 U.S.C. § 566
+    │      Federal arrest power extended to state, local, tribal and other federal officers
+    │      for task-force work. The mechanism by which a city detective acts federally.
+    │
+    └─ 3. THE § 287(g) AGREEMENT — 8 U.S.C. § 1357(g)
+           The reverse direction: state and local officers performing immigration
+           enforcement functions under a written agreement with DHS.
+
+    ⚑ Read together with the OIG branch: the arrest authority in this tree is far less
+      fixed than a department-by-department chart suggests. Who may arrest whom, for what,
+      is adjusted by memorandum at both ends — and at the oversight end, unreviewably.
