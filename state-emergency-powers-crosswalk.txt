@@ -1,0 +1,202 @@
+STATE EMERGENCY POWERS CROSSWALK — what a governor's declaration unlocks, and who
+can switch it off                                            (as of September 2026)
+│  Legend:  ▸ lane / check   ⚡ trigger   → what it unlocks   ⏱ clock
+│           ⚖ what a court will review   ⊘ limit with no remedy attached
+│           ◈ STATE-ONLY — no federal analogue   ⚑ contested in 2025–26
+│
+│  THE ONE-LINE VERSION: the federal system has the grants without the checks.
+│  The states have the checks. Whether any of them bind is Part B.
+│
+■ PART A — THE SEVEN LANES A DECLARATION OPENS
+│
+├─▸ 1. SUSPENSION OF STATUTES AND REGULATIONS ......... the broadest lane, and the
+│      ⚡ the governor's own finding that a disaster or emergency exists   [oldest]
+│      → suspend "regulatory statutes prescribing procedures for conducting state
+│        business" and the rules of any state agency, where compliance would
+│        "prevent, hinder, or delay necessary action"
+│      ✱ THAT PHRASE IS NOT FIFTY DRAFTING CHOICES. It is one sentence, written
+│        into the 1950s civil-defense model act and copied forward, which is why
+│        state emergency codes read like each other and unlike their own statutes.
+│      ⊘ almost every version limits the suspension to PROCEDURAL statutes and
+│        names no forum to decide which ones those are
+│      ⚖ courts review WHETHER THE SUSPENDED STATUTE WAS PROCEDURAL — not whether
+│        the emergency was real. That is where the litigation actually lands.
+│
+├─▸ 2. PROCUREMENT AND CONTRACTING WAIVER ............. the lane with the money
+│      ⚡ the same declaration; no separate finding required in most states
+│      → buy without competitive bidding · sole-source award · waive the bid
+│        protest track · in some states seize or condemn goods outright
+│      → North Carolina's version reaches "purchase, condemnation, seizure, or by
+│        other means" without regard to existing law    [G.S. 166A-19.30]
+│      ⊘ the audit that would catch abuse runs AFTER the emergency ends, in a
+│        report to a legislature that has no power to unwind a signed contract
+│
+├─▸ 3. NATIONAL GUARD — STATE ACTIVE DUTY ............. the force lane, and the one
+│      ⚡ the declaration, or in most states the governor's word alone   most
+│      → Guard members serve under STATE law, paid by the STATE, commanded by the
+│        governor through the adjutant general                          misread
+│      ✱ STATE ACTIVE DUTY IS THE ONLY STATUS IN WHICH THE POSSE COMITATUS ACT
+│        DOES NOT APPLY, because the Guard is not then a federal force. Troops
+│        doing law enforcement in an American street are usually in this status.
+│      ⚑ → the governor's control is NOT exclusive. 10 U.S.C. § 12406 lets the
+│        President federalize the same units, and the state declaration does not
+│        block it — see the federal companion map for the four doors in.
+│
+├─▸ 4. MOVEMENT, ASSEMBLY, AND QUARANTINE ............. the lane with the least
+│      ⚡ the declaration, and in about half the states a SEPARATE public-health
+│        emergency declared by a health officer on a different clock
+│      → evacuation orders · curfews · closure of roads and public places
+│      → limits on the congregation of persons · isolation and quarantine
+│      ✱ TWO SWITCHES, NOT ONE. The public-health track descends from the 2001
+│        Model State Emergency Health Powers Act, drafted after the anthrax
+│        letters and adopted in pieces by most states. It has its OWN trigger,
+│        its OWN clock and its OWN termination rule — which is why a legislature
+│        that ends the governor's emergency has often not ended anything.
+│      ⚖ this is the most litigated lane in the country and the courts almost
+│        never reach the declaration. They reach the DELEGATION (Michigan, 2020)
+│        or the FORM OF THE ORDER (Wisconsin, 2020).
+│
+├─▸ 5. PRICE-GOUGING ENFORCEMENT ...................... the only lane that creates
+│      ⚡ the declaration — in most states the statute is DORMANT until one exists
+│      → a majority of states plus DC, Guam and the Northern Mariana Islands make
+│        excessive pricing unlawful once an emergency is declared  [CRS R47072,
+│        updated 5 May 2026]
+│      → the enforcer is the ATTORNEY GENERAL, who in 43 states is elected
+│        separately and is not the governor's subordinate
+│      ✱ THE DECLARATION IS A PRIVATE-LAW EVENT. Signing it changes what a
+│        merchant may charge a customer. Letting it lapse changes it back.
+│      ⊘ Maine and Michigan are the exceptions worth knowing: their prohibitions
+│        do not need an emergency to switch on   [CRS R47072]
+│
+├─▸ 6. INTERSTATE MUTUAL AID — EMAC ................... the lane nobody counts
+│      ⚡ A GOVERNOR-DECLARED EMERGENCY. There is no other key.
+│      → the Emergency Management Assistance Compact, ratified by Congress as
+│        Pub. L. 104-321 (1996); 50 states, DC, Puerto Rico, Guam, the U.S.
+│        Virgin Islands and the Northern Mariana Islands are members
+│      → out-of-state responders arrive as AGENTS OF THE REQUESTING STATE
+│      → their licenses, credentials and certifications are honored across the
+│        state line · tort liability and workers' compensation transfer with them
+│      ✱ THE DECLARATION IS AN INTERSTATE INSTRUMENT, not a domestic one. A
+│        governor who lets it lapse to satisfy the legislature also switches off
+│        every other state's ability to send help on recognized credentials.
+│      ✱ This is the single strongest argument against a hard clock, and it is
+│        almost never the argument that gets made.
+│
+└─▸ 7. THE KEY TO THE FEDERAL DOOR .................... the lane that is not a
+       ⚡ the state declaration, plus a finding that the disaster exceeds state   power
+         and local capability                                                  at all
+       → the governor REQUESTS a federal major disaster or emergency declaration
+         under the Stafford Act; the President grants or denies it
+       ⊘ the governor cannot compel the answer, appeal a denial to any court, or
+         obtain the money any other way
+       ✱ A STATE DECLARATION IS A PRECONDITION, NOT A CLAIM. This is the cleanest
+         federalism hinge in the whole map: the state's act is complete, lawful
+         and entirely insufficient on its own.
+│
+■ PART B — THE THREE VARIABLES THAT DECIDE WHETHER IT EVER ENDS
+│
+├─▸ VARIABLE 1 — CAN THE LEGISLATURE TERMINATE IT?
+│      ~42 states say yes on paper, by concurrent or joint resolution     [NCSL]
+│      ✱ THE PAPER ANSWER IS NOT THE ANSWER. One sub-question decides everything:
+│
+│      ├─ IS THE RESOLUTION PRESENTED TO THE GOVERNOR?
+│      │    NO  → a simple majority of both chambers ends the emergency and the
+│      │          governor cannot stop it. This is a LEGISLATIVE VETO, and it is
+│      │  ◈       lawful in states because INS v. Chadha construed the federal
+│      │          Presentment Clause and binds nobody else.
+│      │    YES → the legislature needs the same two-thirds it would need to
+│      │          override a veto. The check is decorative, exactly as federally.
+│      │
+│      └─ WHICH ONE A STATE HAS IS OFTEN NOT IN THE EMERGENCY STATUTE AT ALL.
+│           It is in the state constitution's presentment clause, and it is
+│           usually decided by the state supreme court in the middle of the
+│           emergency it is about to resolve.
+│           ✱ Pennsylvania, July 2020: resolution must be presented. Check dead.
+│           ✱ Pennsylvania, 18 May 2021: voters amend the constitution, ~52%.
+│         ◈   Check alive, un-vetoable, and a 21-day cap added on top.
+│           ✱ ELEVEN MONTHS FROM COURT DEFEAT TO CONSTITUTIONAL REPAIR.
+│             Congress has had since 1983.
+│
+├─▸ VARIABLE 2 — DOES A CLOCK RUN ON ITS OWN?
+│      ~30 states put an automatic expiry on the declaration              [NCSL]
+│      typical terms: 15 days (KS, SC) · 21 (PA) · 28 (MI) · 30 (AK, ME, RI, UT,
+│      and the most common single figure) · 45 (TN, cut from 60) · 60 (FL, WI) ·
+│      90 (OH)                                                           [NCSL]
+│      ⏱ compare the federal default: ANNUAL, and self-renewing by signature
+│      ✱ SO THE STATES HAVE THE CLOCK THE FEDERAL SYSTEM NEVER BUILT. And then:
+│
+│      └─ ⊘ IS RE-DECLARING ON THE SAME FACTS BARRED?
+│           Mostly no. A cap with no re-declaration bar is not a limit on the
+│           emergency — it is a RENEWAL SCHEDULE, and the governor keeps the pen.
+│           ✱ This is the provision that separates a reform that binds from a
+│             reform that photographs well. It is also the provision most often
+│             dropped between the model bill and the enacted text.
+│           ✱ ~7 states also capped the NUMBER of renewals             [NCSL]
+│
+└─▸ VARIABLE 3 — WILL A COURT REVIEW THE DECLARATION ITSELF?
+       Almost never — and this is the one place the state answer matches the
+       federal one exactly. Courts treat the existence of the emergency as
+       committed to the executive. What they will review is one layer down:
+       ⚖ THE DELEGATION.  Michigan, October 2020: the state supreme court struck
+         the 1945 Emergency Powers of the Governor Act on state NONDELEGATION
+         grounds — the statute, not the declaration, not the virus.
+       ⚖ THE FORM OF THE ACT.  Wisconsin, May 2020: the health secretary's
+         stay-home order fell because it was a RULE issued without rulemaking.
+         The court did not reach whether the emergency was real.
+       ✱ The winning arguments are structural and procedural, not factual. A
+         challenge that argues the emergency is exaggerated loses. A challenge
+         that argues the legislature never delegated this, or that the order is
+         a rule in disguise, wins — and the state nondelegation doctrine is in
+         much better health than the federal one.
+│
+■ ◈ THE FOURTH VARIABLE, WHICH HAS NO FEDERAL ANALOGUE AT ALL
+│
+├─ THE PLURAL EXECUTIVE.  The governor is not the executive branch. In 43 states
+│    the attorney general is separately elected; most states also elect a
+│    secretary of state and a treasurer. North Carolina goes furthest: the
+│    largest emergency powers — compelled evacuation, economic controls over
+│    food, fuel, rents and wages, control of assembly, procurement by seizure —
+│    require the CONCURRENCE OF THE COUNCIL OF STATE, ten separately elected
+│    statewide officials.        [G.S. 166A-19.30]
+│  ◈ A CHECK INSIDE THE EXECUTIVE BRANCH, EXERCISED BY PEOPLE THE GOVERNOR
+│    CANNOT FIRE. Nothing in the federal system resembles this. The President's
+│    Cabinet serves at pleasure; there is no one in the executive branch with
+│    an independent mandate and a vote.
+│
+└─ THE BALLOT.  In 26 states the people can reach the statute books directly,
+     and every state can amend its own constitution far more easily than the
+     federal one can be amended. This is the repair mechanism. It is why the
+     state version of the Chadha problem got fixed and the federal one did not.
+   ◈ THE FEDERAL SYSTEM HAS NO EQUIVALENT REPAIR PATH. Not a slower one — none.
+│
+■ PART C — WHAT NO STATE DECLARATION DOES
+│
+├─ SUSPEND THE STATE CONSTITUTION  The suspension power reaches statutes and
+│    regulations. State constitutional rights — speech, assembly, due process,
+│    the right to bear arms in the many states that name it — are outside it,
+│    and several states wrote explicit carve-outs after 2020 barring emergency
+│    orders that close churches or firearms dealers.
+│
+├─ MOVE OR ALTER A FEDERAL ELECTION  ⚑  Federal election day is fixed by federal
+│    statute. A governor's emergency power over STATE election administration is
+│    real and varies enormously — polling-place relocation, deadline extension,
+│    absentee rules — but it is a power to administer the federal date, never to
+│    change it. With the midterms roughly five weeks out, this is the distinction
+│    most likely to be blurred in both directions.
+│
+├─ BLOCK FEDERALIZATION OF THE STATE'S OWN GUARD  The declaration puts the Guard
+│    in state active duty. It does not keep it there. 10 U.S.C. § 12406 runs
+│    over the governor's objection, and the 2025–26 litigation turned on the
+│    statute's text, not on the state's consent.
+│
+├─ CREATE POWER THE LEGISLATURE NEVER DELEGATED  Everything in Part A is
+│    statutory. A governor who reaches past the grant is not exercising
+│    emergency power; he is exercising none, which is what Michigan held.
+│
+└─ SURVIVE ITS OWN LAPSE  This is the asymmetry the reform debate keeps missing.
+     When the declaration ends, the price-gouging prohibition switches off, the
+     EMAC credential and liability transfer switches off, the procurement
+     waivers switch off, and the Stafford request loses its predicate. THE
+     CLOCK DOES NOT DISTINGUISH BETWEEN AN EMERGENCY THAT IS OVER AND AN
+     EMERGENCY A LEGISLATURE HAS DECIDED TO END. That is the honest cost of
+     the strongest check on this map, and it is a real one.
