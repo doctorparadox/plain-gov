@@ -1,0 +1,205 @@
+HOW A BALLOT IS COUNTED                                            (as of 1 October 2026)
+│   Legend:  ──▶ main path   └─▶ branch/consequence   ◇ decision   ✕ not counted
+│            ★ counted   ⚑ load-bearing   ◈ undiagrammed stage
+│            ⊘ obligation the statute states with no remedy attached
+│            ⊡ a federal command that a standard EXIST, content left to the state
+│   Authority: Help America Vote Act of 2002, Title III — 52 U.S.C. § 21081 (systems),
+│            § 21082 (provisional ballots); 52 U.S.C. § 20701 (22-month retention).
+│            Everything else below is state statute, state regulation, or a county manual.
+│   Scale:   51 counting regimes and roughly 8,000 local election jurisdictions, running
+│            at once, on one night. Federal commands bearing on HOW a mark becomes a
+│            vote: four. Number of them that supply a substantive standard: zero.
+│
+■ 0. BEFORE ANY BALLOT IS READ   ⚑ two artifacts that must already exist
+│     (a) THE STATE'S DEFINITION OF A VOTE
+│         § 21081(a)(6): "Each State shall adopt uniform and nondiscriminatory standards
+│         that define what constitutes a vote and what will be counted as a vote for
+│         each category of voting system."
+│         ⊡ That sentence is the whole of federal law on the subject. The command is that
+│           a standard exist. Its content — how dark a mark must be, how far outside the
+│           oval still counts, whether a circled name or a check instead of a fill is a
+│           vote — is a state choice, and in most states it lives in a bureau directive
+│           or a manual rather than a statute.
+│         └─▶ Written after Bush v. Gore (2000), which stopped Florida's recount for
+│              having NO uniform standard. HAVA cured the absence of a standard and said
+│              nothing whatever about the standard.
+│     (b) LOGIC AND ACCURACY TESTING   (every state; no federal rule governs it)
+│         A test deck of ballots with a known result is run through each tabulator and
+│         the output compared against what it should be; the machine is then sealed.
+│         This is the only occasion before election day on which anyone verifies that
+│         the count will come out right.
+│
+├─◆ 1. THE MARK — how a voter's intent becomes a physical artifact
+│     │
+│     ├─ HAND-MARKED PAPER BALLOT ──▶ the mark the voter made IS the record. Nothing
+│     │    stands between the hand and the paper, and nothing interprets it yet.
+│     │
+│     ├─ BALLOT MARKING DEVICE (BMD) ──▶ the voter uses a screen and the machine prints
+│     │    a card carrying BOTH human-readable text AND a barcode or QR code
+│     │    ◇ which of the two does the tabulator actually read?
+│     │    └─▶ In most BMD deployments: THE CODE. The text is for the voter, the code is
+│     │         for the machine, and nothing on the card lets the voter confirm that the
+│     │         two agree. Verification and tabulation read different objects.
+│     │    [ Georgia, 2026: a 2024 state law required QR-code tabulation gone by 1 July
+│     │      2026 and appropriated no money to do it. In June 2026 the General Assembly
+│     │      moved the deadline to before the 2028 presidential election, so the midterms
+│     │      run on the codes. ~$66M to remove, against the $107M the machines cost.
+│     │      See Note 3 — the federal push the other way is enjoined. ]
+│     │
+│     └─ DIRECT RECORDING ELECTRONIC (DRE) ──▶ the vote is recorded into memory directly
+│          ◇ is there a voter-verified paper audit trail?
+│          ├─ YES ──▶ a paper record exists that a human could recount
+│          └─ NO  ──▶ ✕ there is nothing to recount. The memory is the only record, and
+│               a recount re-reads the same memory with the same software.
+│          ⊘ § 21081(a)(2)(A) requires "a permanent paper record with a manual audit
+│            capacity" and § 21081(a)(2)(B) makes it "the official record for any
+│            recount" — but the section took effect 1 January 2006 with no deadline for
+│            retiring equipment bought before it and no federal enforcement mechanism.
+│
+├─◆ 2. THE TABULATOR — four architectures, and the one question that decides it   ⚑
+│     The question that matters is not the vendor. It is WHERE THE SCANNER SITS.
+│     │
+│     ├─ HAND COUNT ................. no tabulator; people, usually working in pairs
+│     ├─ PRECINCT-COUNT OPTICAL SCAN  scanner in the polling place, voter still standing
+│     │                               there
+│     ├─ CENTRAL-COUNT OPTICAL SCAN . scanner at the county office, voter long gone
+│     └─ DRE or BMD + CENTRAL SCAN .. counted from memory, or from the printed code
+│     │
+│     ◇ § 21081(a)(1)(A)(iii) — THE SECOND-CHANCE RULE   ⚑
+│     ├─ SCANNER IN THE PRECINCT ──▶ ★ the system MUST notify the voter that more than
+│     │    one candidate was selected for a single office, and MUST give the voter the
+│     │    opportunity to correct the ballot "before the ballot is cast and counted."
+│     │    A real, enforceable, federally guaranteed do-over.
+│     └─ SCANNER ANYWHERE ELSE ──▶ ⊘ § 21081(a)(1)(B): a paper-ballot, central-count or
+│          mail jurisdiction "may meet the requirements" of that paragraph by (i)
+│          establishing A VOTER EDUCATION PROGRAM and (ii) providing the voter with
+│          PRINTED INSTRUCTIONS on how to correct the ballot.
+│          └─▶ A pamphlet discharges the same federal duty as a machine that stops and
+│               tells you. And for a mail voter there is no second chance at all, in any
+│               state, because there is no moment at which anyone is next to the scanner.
+│               The strongest voter protection in HAVA is available only to the shrinking
+│               share of voters who hand their ballot to a machine in person.
+│
+├─◆ 3. THE BALLOT THE MACHINE CANNOT READ ──▶ ADJUDICATION   ⚑⚑
+│     Every tabulator sorts what it cannot resolve into an exception pile — the
+│     "outstack." The triggers are mechanical, not political:
+│     ├─ OVERVOTE ....... more marks than offices to fill ──▶ THAT CONTEST voids; the
+│     │                   rest of the ballot still counts
+│     ├─ UNDERVOTE ...... fewer marks than offices ──▶ ★ counted as cast. An undervote
+│     │                   is a legal choice, not an error, and is not adjudicated
+│     ├─ AMBIGUOUS MARK . a check, an X, a circled name, a faint or partial fill, a
+│     │                   hesitation mark, an oval crossed out with a correction elsewhere
+│     ├─ WRITE-IN ....... a human has to read handwriting
+│     └─ UNREADABLE ..... torn, stained, folded wrong, wrong stock, wrong size — the
+│                         feeder rejects it before any mark is considered
+│     │
+│     ◇ how is the exception resolved?
+│     ├─ ON-SCREEN ADJUDICATION ──▶ a board, usually two people from opposing parties,
+│     │    views the scanned ballot IMAGE, applies the state standard, and assigns or
+│     │    voids the mark. The paper is not altered. An adjudication log is written.
+│     └─ DUPLICATION ──▶ a board transcribes the voter's marks onto a fresh machine-
+│          readable ballot, serial-numbered and paired to the original, and scans the
+│          duplicate. Both papers are retained and the pairing is the audit trail.
+│     │
+│     ⊡ The standard applied here is the § 21081(a)(6) state definition from stage 0.
+│       Nothing federal governs WHO adjudicates, whether both parties must be present,
+│       whether the log is public, whether observers may watch, or whether the voter is
+│       ever told that a human decided what their mark meant.
+│     └─▶ ◈ This is where the human judgment in the count actually lives, and it appears
+│          on no official diagram of "how votes are counted." The tabulator's real job is
+│          not to decide the election. It is to decide WHICH BALLOTS A PERSON WILL LOOK
+│          AT — and the rate at which it kicks ballots out is itself a design choice.
+│
+├─◆ 4. THREE PILES, THREE CLOCKS, FIFTY-ONE SETS OF RULES   ⚑ the pacing of the count
+│     The piles are counted by different people, under different law, on different days.
+│     │
+│     ├─ IN-PERSON, ELECTION DAY ──▶ fastest. Precinct closeout at poll close; in a
+│     │    precinct-count state the totals already exist the moment the doors lock.
+│     │
+│     ├─ EARLY IN-PERSON + MAIL / ABSENTEE ──▶ governed by the PRE-PROCESSING WINDOW,
+│     │    the most consequential timing choice in American election law:
+│     │    ├─ ENVELOPE PROCESSING — signature check, open, flatten, separate the ballot
+│     │    │   from the identifying envelope. At least 45 states and DC allow some of it
+│     │    │   before election day and 27 begin on receipt. FIVE prohibit it until
+│     │    │   election morning: Alabama (7am) · Kentucky (8am) · Mississippi (polls
+│     │    │   open) · Pennsylvania (7am) · Wisconsin (after polls open).
+│     │    └─ SCANNING — 33+ states allow it before election day; 14 more at some point
+│     │        on election day before polls close; three not until after polls close
+│     │        (Alabama, Alaska, Mississippi).
+│     │    [ Election Innovation & Research, Pre-Processing Timelines, Fall 2026 update;
+│     │      state confirmations completed through 24 August 2026. ]
+│     │
+│     └─ PROVISIONAL ──▶ slowest, and counted LAST by construction. Under § 21082 the
+│          ballot goes into an affidavit envelope and is set aside unopened; eligibility
+│          is determined AFTER election day by the county board; only then is the
+│          envelope opened and the ballot — or the eligible contests on it — counted.
+│
+├─◆ 5. THE UNOFFICIAL TOTAL   ──▶ the number a human first learns
+│     Precinct and batch results are consolidated in the county election management
+│     system and posted or fed outward. This number has no legal status of any kind.
+│     ⊘ § 20701: every record "relating to any application, registration, payment of poll
+│       tax, or other act requisite to voting" must be retained TWENTY-TWO MONTHS, and a
+│       custodian who willfully fails to comply faces a fine of not more than $1,000 or
+│       a year in prison. It is a preservation duty with no inspection regime, no
+│       auditor, no private right of action, and nobody entitled to ask to see the paper.
+│     └─▶ Everything downstream is a different map: transmission and reporting, the
+│          official canvass, the post-election audit, certification, the recount. This
+│          map ends here, on purpose.
+│
+└─◆ 6. ◇ AND IF THE COUNT IS WRONG?   four exits, in descending order of usefulness
+      ├─ ADJUDICATION LOG ..... reviewable, where it is reviewable at all, by the same
+      │                         board that wrote it
+      ├─ POST-ELECTION AUDIT .. only where state law provides one, on only some
+      │                         contests, and in many states only AFTER the certificate
+      │                         that would make the finding moot
+      ├─ RECOUNT .............. margin-triggered, or petition-and-pay. In most states it
+      │                         re-runs the SAME machines against the SAME state standard
+      │                         and reproduces the same answer, which is the point
+      └─ ELECTION CONTEST ..... a lawsuit after certification, under a burden that in
+                                most states requires showing the outcome would change
+
+════════════════════════════════════════════════════════════════════════════════════════
+THE ORDER IS THE STORY — why the margin appears to move overnight
+════════════════════════════════════════════════════════════════════════════════════════
+│   Nothing in stage 4 is a conspiracy and nothing in it is an accident. A state's
+│   pre-processing law fixes the ORDER in which its piles can be reported; the piles lean
+│   differently; so the law fixes which way the visible margin drifts after poll close.
+│
+│   PROCESS-ON-RECEIPT STATE   (Arizona, Florida, Nevada, Oregon, Utah, Virginia)
+│     mail is already processed and in many cases scanned when polls close
+│     ──▶ the FIRST number published is the mail-heavy one
+│     ──▶ later batches move the margin toward the election-day lean.
+│
+│   NO-PRE-PROCESSING STATE   (Pennsylvania, Wisconsin, Alabama, Kentucky, Mississippi)
+│     no envelope may be opened before election morning
+│     ──▶ the FIRST number published is the election-day pile
+│     ──▶ the mail count arrives over the following hours and days and moves the margin
+│          the other way. This is what gets called a "red mirage" or a "blue shift."
+│
+│   The drift is a reporting artifact of a legislative decision about when envelopes may
+│   be opened, interacting with a partisan split in how people choose to vote. It is
+│   produced by the calendar rather than by the count — and in the five no-pre-processing
+│   states the mechanism has been explained to the legislature repeatedly and the law has
+│   not changed.
+════════════════════════════════════════════════════════════════════════════════════════
+THE FEDERAL ACCURACY STANDARD — frozen in 2002, pointing at 1990
+════════════════════════════════════════════════════════════════════════════════════════
+│   § 21081(a)(5): the error rate of the voting system in counting ballots "shall comply
+│   with the error rate standards established under section 3.2.1 of the voting systems
+│   standards issued by the Federal Election Commission which are in effect on
+│   October 29, 2002."
+│
+│   Section 3.2.1 of that document sets a TARGET error rate of no more than one in
+│   10,000,000 ballot positions and a MAXIMUM ACCEPTABLE rate of one in 500,000, applied
+│   separately to each processing function — scanning, vote recording, consolidation.
+│
+│   ⊡ The only legally binding federal accuracy standard for counting an American vote is
+│     a frozen cross-reference to an FEC engineering document: reachable by statute,
+│     amendable by nobody, and describing a generation of equipment that is largely gone.
+│     Everything written since is VOLUNTARY — VVSG 1.0, 1.1 and 2.0 alike. In 2026
+│     exactly two systems were certified to 2.0 (Hart Verity Vanguard 1.0, July 2025;
+│     Smartmatic VSR1 2.1, November 2025) against 81 systems certified under the older
+│     guidelines since 2009, and industry does not expect nationwide 2.0 deployment
+│     before roughly 2029. The body that would revise the guidelines has had no
+│     commissioners since July 2026.
+════════════════════════════════════════════════════════════════════════════════════════
