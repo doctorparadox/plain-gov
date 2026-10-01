@@ -1,0 +1,160 @@
+HOW A FEDERAL RULE OF PROCEDURE IS MADE                        (as of 30 September 2026)
+│   Legend:  ──▶ main path  └─▶ branch/consequence  ◇ decision  ✕ stops  ★ advances
+│            ⚑ load-bearing   ⊘ obligation with no remedy   ◈ unwritten stage
+│   Authority: 28 U.S.C. §§ 2071–2077 (the Rules Enabling Act, P.L. 73-415, 19 Jun 1934)
+│   Scale:   two to three years from suggestion to rule — the judiciary's own estimate,
+│            uscourts.gov "About the Rulemaking Process". Congress has successfully
+│            stopped a completed package ONCE, in 1973. Elected votes required to
+│            produce a rule: ZERO.
+│
+■ 0. A SUGGESTION ARRIVES   (anyone may file one; almost nothing comes of most)
+│     A judge, a bar group, a professor, a litigant, the Justice Department, or a member
+│     of the public writes to the Secretary of the Standing Committee. The suggestion is
+│     docketed with a number in the form YY-XX-N — year, committee, sequence — and put on
+│     the relevant advisory committee's agenda book, which is public.
+│     └─▶ There is no threshold, no fee, no standing requirement and no filter. The
+│          docket number is not a decision; most suggestions are removed from the agenda
+│          with a paragraph and no vote.
+│     [ Live example, and the reason this map was built: suggestion 26-AP-4, filed by
+│       E. Garrett West on 11 May 2026, proposing a new FRAP 8(d). See Note 2 — what it
+│       proposes is the opposite of what the emergency-stay map needed. ]
+│
+├─◆ 1. THE ADVISORY COMMITTEE   ⚑ where the text is actually written
+│     Five standing advisory committees — Appellate, Bankruptcy, Civil, Criminal,
+│     Evidence — each with a judge as chair and an academic REPORTER who drafts. Members
+│     are appointed by the Chief Justice. Meetings are open; agenda books run to
+│     hundreds of pages and are published.
+│     ◇ does the committee want to pursue it?
+│     ├─ NO  ──▶ ✕ removed from the agenda. No appeal, no reconsideration mechanism.
+│     ├─ STUDY ──▶ held as an information item, sometimes for years, while a subcommittee
+│     │    and the reporter work the text. This is where most live proposals sit.
+│     └─ YES ──▶ ★ the committee asks the Standing Committee for permission to publish
+│     ⊘ 28 U.S.C. § 2073(c)(1)–(2): meetings SHALL be open to the public, minutes SHALL
+│       be maintained and made public, and sufficient notice SHALL be given. § 2073(d):
+│       a recommendation SHALL be accompanied by the rule, an explanatory note, and a
+│       written report including minority views.
+│     ⊘ AND THEN § 2073(e): "Failure to comply with this section does not invalidate a
+│       rule prescribed under section 2072 of this title." Every transparency duty in
+│       the statute is stated and none of them is enforceable by anyone.
+│
+├─◆ 2. PERMISSION TO PUBLISH — THE STANDING COMMITTEE'S FIRST LOOK
+│     The Committee on Rules of Practice and Procedure — the "Standing Committee" —
+│     votes on whether to release the draft for public comment. This is a gate, not a
+│     formality: a draft can die here without the public ever seeing it, and nothing
+│     requires the refusal to be explained.
+│     └─▶ ✕ permission refused ──▶ back to stage 1 or off the agenda entirely
+│     ★ permission granted ──▶ the draft is published as part of the annual
+│        "Preliminary Draft of Proposed Amendments"
+│
+├─◆ 3. PUBLIC COMMENT   (the stage that looks most like an agency and binds least)
+│     The preliminary draft is published, comments are taken in writing, and public
+│     hearings are held. Comments are docketed and public.
+│     ⊘ NOTHING IN THE STATUTE REQUIRES A RESPONSE TO ANY COMMENT. Compare the APA,
+│       where an agency's failure to respond to a significant comment is a ground for
+│       vacatur in court. Here there is no court to take it to.
+│     └─▶ The comment file's real function is evidentiary: it is what the advisory
+│          committee's report will cite as the basis for the change, and what the
+│          Standing Committee will read the report against at stage 5.
+│
+├─◆ 4. THE ADVISORY COMMITTEE, AGAIN — DISCARD, REVISE, OR TRANSMIT
+│     ◇ what did the comments do to it?
+│     ├─ DISCARD ──▶ ✕ withdrawn
+│     ├─ REPUBLISH ──▶ back to stage 3 if the revision is substantial enough that the
+│     │    public commented on a different rule than the one now proposed
+│     └─ TRANSMIT ──▶ ★ to the Standing Committee with the final text, the committee
+│          note, and the report
+│
+├─◆ 5. THE STANDING COMMITTEE — THE SUBSTANTIVE REVIEW   ⚑
+│     Meets twice a year (January and June in the 2026 cycle). Reviews each advisory
+│     committee's work independently, for consistency of language across all five rule
+│     sets, for conflicts with statute, and for whether the change is procedural at all.
+│     ◇ 28 U.S.C. § 2072(b) test: does the rule "abridge, enlarge or modify any
+│       substantive right"?
+│     ├─ YES ──▶ ✕ beyond the power delegated. Needs Congress, not this track.
+│     └─ NO  ──▶ ★ recommended to the Judicial Conference
+│     └─▶ The two things the Standing Committee produces are the rule text and the
+│          COMMITTEE NOTE. The note is not law and courts are not bound by it — and it
+│          is nonetheless what practitioners read first and what stage 6a killed a rule
+│          over in August 2026.
+│
+├─◆ 6. THE JUDICIAL CONFERENCE OF THE UNITED STATES
+│     26 judges chaired by the Chief Justice, meeting in March and September. The rules
+│     package arrives as a report on the CONSENT CALENDAR — approved as a block, without
+│     separate debate, unless something pulls an item off it.
+│     ★ approved ──▶ transmitted to the Supreme Court
+│     │
+│     ├─ 6a. ◈⚑⚑ THE EXECUTIVE COMMITTEE — THE STAGE NOBODY MAPS
+│     │     A small committee of the Conference that prepares the discussion and consent
+│     │     calendars before each session. In doing so it reads the reports. It is not
+│     │     mentioned in §§ 2071–2077, appears on no official flowchart of this process,
+│     │     and it is the only stage that has stopped a completed rules recommendation
+│     │     in the current cycle.
+│     │     ✕ IT NEEDS NO VOTE OF THE CONFERENCE · ✕ NO PUBLISHED STANDARD
+│     │     ✕ NO PARTY, NO BRIEFING, NO COMMENT FILE · ✕ NOTHING TO APPEAL TO
+│     │     └─▶ Its instrument is not rejection. It "calls the Standing Committee's
+│     │          attention to concerns," and the Standing Committee withdraws its own
+│     │          recommendation — so the record shows a voluntary withdrawal and no
+│     │          adverse decision by anyone.
+│     │     [ Worked example, August 2026: Evidence Rule 609. See Note 1. ]
+│     │
+│     └─ 6b. ✕ not approved ──▶ back to the Standing Committee. There is no route from
+│          here to the Supreme Court around the Conference.
+│
+├─◆ 7. THE SUPREME COURT — PROMULGATION BY ORDER   (28 U.S.C. § 2072(a))
+│     The Court considers the package and, if it concurs, promulgates the amended rules
+│     by order. No argument, no briefing, no opinion, no stated standard of review.
+│     Justices occasionally file a statement dissenting from promulgation; it changes
+│     nothing.
+│     ◇ § 2074(a) deadline: the Court must TRANSMIT to Congress not later than May 1 of
+│       the year the rule is to take effect.
+│     └─▶ The Court has never rejected a Judicial Conference rules recommendation
+│          outright. Its practical role on this track is transmission, and the power it
+│          exercises here is nominally the whole delegation — § 2072(a) gives the
+│          rulemaking power to the Supreme Court and to nobody else.
+│     [ In the current cycle the Court promulgated the December 2026 package and issued
+│       a further amendment on 10 March 2026, before the May 1 transmission. ]
+│
+├─◆ 8. CONGRESS — THE SEVEN-MONTH WINDOW   ⚑ the check on paper
+│     28 U.S.C. § 2074(a): the rule "shall take effect no earlier than December 1 of the
+│     year in which such rule is so transmitted unless otherwise provided by law."
+│     ◇ does Congress act?
+│     ├─ NOTHING HAPPENS ──▶ ★ the rule takes effect 1 December. THIS IS THE OUTCOME
+│     │    IN EVERY CYCLE BUT ONE. No vote is required, no committee must report, no
+│     │    floor time is consumed, and no member has to be on record.
+│     ├─ REJECT, MODIFY OR DEFER BY STATUTE ──▶ ✕ requires a bill through both chambers
+│     │    and a signature — i.e. the ordinary legislative process, against a default
+│     │    that is already set. Done successfully once: the Federal Rules of Evidence,
+│     │    postponed by Act of Congress in March 1973 and then enacted by Congress
+│     │    itself, with substantial changes, signed 2 January 1975, effective 1 July 1975.
+│     └─ LEGISLATE DIRECTLY AND BYPASS THE TRACK ENTIRELY ──▶ Congress can write a rule
+│          of evidence or procedure into a statute without touching this process, and
+│          has. FRE 413–415 were added by Congress in 1994–95 over the rules committees'
+│          objection. The Enabling Act track is a delegation, not an exclusive channel.
+│     └─▶ ◈ THE REAL CONGRESSIONAL ROLE IS UPSTREAM AND INFORMAL: a hearing, a letter, or
+│          a credible threat at stage 1–5, which moves a committee before any package
+│          exists. It leaves no docket entry on this map.
+│
+└─◆ 9. EFFECTIVE — 1 DECEMBER   ★
+      The amended rule binds every federal court within its scope on the same day.
+      § 2072(b), second sentence: all laws in conflict with it are of no further force
+      or effect. There is no phase-in, no grandfather clause by default, and no judicial
+      review of the rule as such — a litigant may argue a rule is beyond the Enabling
+      Act as applied, but there is no proceeding in which the rule itself is the
+      respondent.
+      [ Effective 1 December 2026: Appellate Form 4 · Bankruptcy Rules 1007, 3018, 5009,
+        9006, 9014, 9017 and new Rule 7043 · Evidence Rule 801. ]
+
+════════════════════════════════════════════════════════════════════════════════════════
+THE ONE CARVE-OUT — WHERE THE DEFAULT FLIPS   (28 U.S.C. § 2074(b))
+════════════════════════════════════════════════════════════════════════════════════════
+│   "Any such rule creating, abolishing, or modifying an evidentiary privilege shall
+│    have no force or effect unless approved by Act of Congress."
+│
+│   Everywhere else on this map, silence from Congress means YES. For privilege rules
+│   alone, silence means NO. Congress reversed the default for exactly one subject —
+│   the subject it had fought the judiciary over in 1973 — and left it untouched for
+│   every other question of procedure and evidence.
+│   └─▶ This is why the Federal Rules of Evidence contain no codified privileges: FRE
+│        501 hands the question back to the common law rather than run it through a gate
+│        that requires an affirmative Act of Congress.
+════════════════════════════════════════════════════════════════════════════════════════
