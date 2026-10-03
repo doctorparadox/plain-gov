@@ -1,0 +1,242 @@
+ELECTION BALLOT CHAIN OF CUSTODY FLOW                             (as of 3 October 2026)
+│   Legend:  ──▶ main path   └─▶ branch/consequence   ◇ decision   ⚑ load-bearing
+│            ⊞ control living only in a procedure manual, not in statute
+│            ✂ a LAWFUL break: outside legal authority takes custody and the
+│              custody rules provide no answer
+│            ⊘ obligation stated with no remedy attached   ◈ undiagrammed stage
+│   Authority: one federal rule, and it is not an election statute. 52 U.S.C.
+│            § 20701 (Civil Rights Act of 1960 § 301) commands 22-month retention
+│            of federal election records on penalty of $1,000 and one year.
+│            Everything else on this map is state statute, state administrative
+│            rule, or a county procedure manual.
+│   The four artifacts, repeated at every single transfer below:
+│            SEAL (numbered) · SEAL LOG · TRANSFER FORM (two signatures)
+│            · ACCESS LOG
+│
+■ 1. MANUFACTURE AND PRE-ELECTION STORAGE   ⚑ the chain starts before any voter
+│     Ballots are printed on controlled stock and stored before anyone votes.
+│     ├─ Security paper: watermark or barcode stock required by statute in some
+│     │   states (e.g. Ga. Code § 21-2-372).
+│     ├─ Video surveillance of the print facility (e.g. Ohio Admin. Code
+│     │   111:3-10-10) · continuous on-site monitoring by a designated official
+│     │   (e.g. Va. Code § 24.2-617).
+│     ├─ ⊞ WAREHOUSE ACCESS LOG — every entry and exit, every time unfinished or
+│     │   finished ballot stock is on the premises (e.g. Cal. Code Regs. tit. 2
+│     │   § 20253). This is administrative rule, not statute, almost everywhere.
+│     └─ INVENTORY LOG: how many were printed. Stage 7 cannot reconcile against
+│         anything if this number was never written down.
+│
+├─▶ 2. LOGIC AND ACCURACY TESTING, AND THE SEAL THAT FOLLOWS IT   ⚑
+│     Before the equipment can be used, a test deck with a known result is run
+│     through each tabulator and the output compared to what it should be.
+│     ├─ Hardware diagnostic, input/output devices, communications ports, and
+│     │   display of the firmware or software hash (MD5 or SHA-1) in the more
+│     │   prescriptive states (e.g. Colo. Code Regs. § 1505-1-11.3.1).
+│     ├─ ──▶ THE MACHINE IS THEN SEALED, the seal number recorded, and the
+│     │      documentation retained. The seal is the whole point of the test: it
+│     │      converts "this machine counted correctly on Tuesday" into "and
+│     │      nothing has been opened since."
+│     └─ ⊞ No federal statute requires the test, specifies the test deck, or says
+│         who may watch. State codes generally provide for at least one public
+│         test; the deck design and the observer rules are manual-level.
+│
+├─▶ 3. DISTRIBUTION TO THE POLLING PLACE   ⚑ first signed hand-off
+│     Sealed packages go out, marked on the outside with the precinct and the
+│     count, and the receiving judges SIGN A RECEIPT that comes back.
+│     ├─ e.g. Ariz. Rev. Stat. § 16-509 (sealed packages, receipts returned);
+│     │   25 Pa. Cons. Stat. § 3044 (county board keeps a record of the time and
+│     │   manner of each delivery).
+│     └─ ◈ The round trip is the control, not the delivery: the number sent must
+│         equal the number returned plus the number voted plus the number spoiled.
+│         Almost nobody draws this as a loop, and it is one.
+│
+├─▶ 4. THE VOTING PERIOD   ⚑ three populations of ballot in three custody regimes
+│     │   The single most misunderstood stage. "The ballots" are never one pile.
+│     │
+│     ├─ (a) IN-PERSON, at the precinct.
+│     │       ──▶ equipment secured with access limited to authorized personnel
+│     │            (e.g. Kan. Admin. Regs. § 7-21-1); a board member periodically
+│     │            examines the device face for damage or tampering (e.g. Fla.
+│     │            Stat. § 101.5613).
+│     │
+│     ├─ (b) THE DROP BOX — custody with no election officer present at the
+│     │       moment of deposit, which is why the retrieval rule carries it.
+│     │       ──▶ emptied by two people of different party affiliation, at a
+│     │            stated minimum frequency, with a record of the date, the time
+│     │            and the NAMES of the persons removing them (e.g. Ky. Rev.
+│     │            Stat. § 117.086(f)).
+│     │       ──▶ hardware where the statute reaches it: bolted to a foundation,
+│     │            24-hour video surveillance, constructed so ballots cannot be
+│     │            removed without tampering being evident (e.g. Vt. Stat. tit.
+│     │            17 § 2543A).
+│     │
+│     └─ (c) MAIL AND CENTRAL COUNT — the envelope is in the postal system, which
+│             is a custody regime belonging to a federal agency and appearing on
+│             no election-office seal log at all.
+│             └─▶ ◈ Custody of a mail ballot begins, for charting purposes, at
+│                  receipt. What happened before receipt is not in the chain and
+│                  cannot be put there.
+│
+├─▶ 5. PRECINCT CLOSE AND THE SEAL   ⚑ the last moment paper and number coexist
+│     Polls close, the tabulator prints the results tape, the voted ballots go
+│     into a container, and the container is SEALED with a numbered seal written
+│     onto a chain-of-custody form and signed.
+│     ├─ e.g. Tex. Elec. Code § 127.066: the presiding judge, an election clerk
+│     │   and up to two watchers SIGN THE SEAL, and the box is then delivered to
+│     │   the central counting station BY TWO ELECTION OFFICERS.
+│     └─▶ From here two artifacts travel on different rules: the PAPER, which is
+│          evidence and is retained 22 months under § 20701, and the ELECTRONIC
+│          TOTALS, which are a report. They are not required to travel together,
+│          and usually do not — see How Election Results Are Transmitted and
+│          Reported, which follows the second one.
+│
+├─▶ 6. ◇ TRANSPORT TO THE COUNTY   ⚑ the stage with the sharpest state variation
+│     │
+│     ├─ (a) TWO-PERSON BIPARTISAN TRANSPORT — the common rule: two officials of
+│     │       different major parties, BY THE MOST DIRECT ROUTE (e.g. Wis. Stat.
+│     │       § 5.85; S.D. Codified Laws § 12-17B-9).
+│     │
+│     ├─ (b) LAW-ENFORCEMENT ESCORT — a minority rule, and a notable one given
+│     │       stage 11: at least one member of the county sheriff's department
+│     │       accompanies the ballot cards, which are at all times under at least
+│     │       two persons, one from each of two parties (Ind. Code
+│     │       § 3-12-3-2.5(d)).
+│     │
+│     └─ (c) SPLIT-KEY CONTROL — neither custodian can open the receptacle alone:
+│             the clerk retains one key and gives the other to a board member not
+│             of the clerk's party (e.g. Ind. Code § 3-11.5-6-25).
+│
+├─▶ 7. RECEIPT AND RECONCILIATION   ⚑ the only arithmetic check in the chain
+│     The seal number on the container is checked against the form that travelled
+│     with it, custody transfers by signature, and the counts are reconciled.
+│     ├─ Unused ballots + spoiled before delivery + spoiled and returned by voters
+│     │   + affidavit ballots cast, added to ballots cast, recorded on a BALLOT
+│     │   RECONCILIATION FORM (e.g. N.Y. Elec. Law § 9-106).
+│     ├─ Delivered-to-precinct against returned-from-precinct, and a discrepancy
+│     │   that cannot be reconciled MUST BE NOTED (e.g. Minn. Stat. § 204C.28).
+│     └─ ⊘ "Must be noted" is the entire remedy. The note goes in the file. No
+│         statute surveyed here gives any person outside the office a procedure
+│         to compel an explanation of a noted discrepancy. The canvass may catch
+│         it; nothing makes anyone look.
+│
+├─▶ 8. THE TABULATION ROOM   ⚑ the access list is the control
+│     ├─ Proceedings open to the public, but NO PERSON except those employed and
+│     │   authorized may TOUCH a ballot (e.g. Wis. Stat. § 5.87). Observation and
+│     │   custody are deliberately separated: you may watch, never handle.
+│     ├─ ⊞ Physical and electronic access to the election management system
+│     │   limited to persons the chief elections authority authorizes, on
+│     │   individual password-protected accounts — and in the strictest states a
+│     │   hard cap: no more than FOUR administrative user accounts per election
+│     │   (Colo. Code Regs. § 1505-1-20.5.2(c)(7)).
+│     └─ REAL-TIME AUDIT LOG on the central accumulator: logins and logouts,
+│         precincts zeroed, ballots read per precinct, reports generated, every
+│         error and warning, each date- and time-stamped (1 Tex. Admin. Code
+│         § 81.62). The machine keeps its own access log; see Election Management
+│         System.
+│
+├─▶ 9. ◇ A SEAL NUMBER DOES NOT MATCH   ⚑ what the chain is for
+│     │   Every control above exists to make this branch reachable. A chain of
+│     │   custody does not prevent tampering. It makes tampering VISIBLE.
+│     │
+│     ├─ ──▶ INCIDENT REPORT, describing the incident and the rule that may have
+│     │       been violated, filed on a clock: Colorado, not later than two
+│     │       business days after discovery (Colo. Code Regs. 1505-1-20.12.2).
+│     ├─ ──▶ NOTIFICATION UP: the chief elections official immediately, the
+│     │       Secretary of State within 24 hours (Cal. Code Regs. tit. 2
+│     │       § 20690).
+│     ├─ ──▶ EQUIPMENT OUT OF SERVICE, replaced if possible, and the votes cast
+│     │       on it before removal subjected to a manual tally or a risk-limiting
+│     │       audit as part of the official canvass (same provision).
+│     └─▶ ◇ AND IF IT REACHES A COURT, three remedies have been applied: count
+│          the votes despite the break · void the election and order a new one ·
+│          invalidate only the subset of ballots the breach touched. Which one
+│          depends on the state and on the judge.
+│
+├─▶ 10. POST-ELECTION STORAGE   ⚑ the only federal rule on the whole map
+│     Voted ballots stay in a sealed container under a named legal custodian.
+│     ├─ 52 U.S.C. § 20701: every officer of election shall RETAIN AND PRESERVE,
+│     │   for twenty-two months, all records and papers coming into his
+│     │   possession relating to any "act requisite to voting" in a federal
+│     │   election. Willful failure: fined not more than $1,000 or imprisoned not
+│     │   more than one year, or both.
+│     ├─ § 20702: willfully stealing, destroying, concealing, mutilating or
+│     │   altering those records carries the same penalty, and reaches ANY
+│     │   PERSON, not only an officer.
+│     ├─ DOJ's reading: the duty follows the paper. If custody is handed to
+│     │   another individual or organization, "the duty to retain and preserve
+│     │   any record or paper so deposited shall devolve upon such custodian" —
+│     │   and the office must keep ultimate management authority over retention
+│     │   and security, INCLUDING THE RIGHT TO PHYSICALLY ACCESS the records.
+│     │   Handing the ballots away can itself be the violation.
+│     └─ ⊘ AND THE ASYMMETRY. § 20703: the demand to inspect may be made by the
+│         Attorney General or his representative, and must state its basis and
+│         purpose. § 20704: what is obtained may be disclosed only to Congress,
+│         committees, government agencies, and in court or grand jury
+│         proceedings. § 20705: a federal district court may compel production.
+│         Nowhere in Chapter 207 is there a counterpart for anyone else. See
+│         closing block A.
+│
+├─▶ 11. ✂ SEIZURE — THE LAWFUL BREAK   ⚑ and the live question of 2026
+│     An outside legal authority — a sheriff, a prosecutor, a legislative
+│     committee — presents a warrant or a subpoena for the ballots themselves.
+│     ├─ Every control from stage 1 to stage 10 is built against an unauthorized
+│     │   hand. None of them is built against an authorized one.
+│     ├─ ──▶ The paper leaves the custodian's control while the retention duty
+│     │       under § 20701 stays on the custodian, who no longer has the right of
+│     │       physical access DOJ says the duty requires.
+│     ├─ [Mar 2026: more than 650,000 voted ballots taken from a county registrar
+│     │   under a judge's warrant. 24 Sep 2026: the state supreme court held the
+│     │   seizure unlawful because the plain text mandates that voted ballots
+│     │   remain in the custody of elections officials, and ordered them
+│     │   returned. See Note 5.]
+│     └─▶ ⊘ The gap the case exposes is at the front end, not the back. A judge
+│          deciding the warrant application has the election calendar, the
+│          custody rules and a fraud allegation in front of them and no standard
+│          for weighing them. [9 Sep 2026: a judicial guide proposes six — see
+│          Note 6.] None of it is law.
+│
+└─▶ 12. DESTRUCTION   ◈ the end of the chain, and the least documented stage
+      After the federal 22 months and whatever longer period state law sets, the
+      ballots are destroyed under the custodian's supervision, catalogued and
+      returned in proper order as they are handled (e.g. N.M. Stat. § 1-14-9).
+      └─ ◈ This is the one stage with no public-facing artifact anywhere in the
+          chain. The seal log ends. Nothing replaces it.
+
+══════════════════════════════════════════════════════════════════════════════════
+A. THE INSPECTION ASYMMETRY — THE SHAPE OF THE WHOLE MAP IN FOUR SECTIONS
+══════════════════════════════════════════════════════════════════════════════════
+  § 20701  the paper must be kept 22 months ............ duty on the custodian
+  § 20702  nobody may steal or alter it ............... prohibition on everyone
+  § 20703  the demand to see it may be made by ........ THE ATTORNEY GENERAL
+  § 20705  and a district court may compel it ......... for THAT demand
+  ─────────────────────────────────────────────────────────────────────────────
+  A voter, candidate, journalist, county supervisor or state legislator .. ∅
+  ─────────────────────────────────────────────────────────────────────────────
+  The only national rule in American ballot custody is a preservation duty with
+  exactly one key, and it is not held by the public. Every route by which a
+  non-federal actor actually gets to look at a ballot — a recount, a contest, an
+  audit, a public-records request — comes from STATE law and exists at the
+  state's pleasure. This is why the vault's custody questions keep resolving to
+  "the office that kept the log."
+
+══════════════════════════════════════════════════════════════════════════════════
+B. WHERE THE CONTROLS ACTUALLY LIVE
+══════════════════════════════════════════════════════════════════════════════════
+  TYPICALLY IN STATUTE                 TYPICALLY IN A PROCEDURE MANUAL  ⊞
+  ───────────────────────              ──────────────────────────────────
+  bipartisan oversight                 which seal to buy, and from whom
+  that seals be numbered               the steps of the L&A test
+  that reconciliation happen           the format of the custody log
+  retention minimums                   storage environment conditions
+  criminal penalties for access        the incident-report form itself
+  that pre-election testing occur      who may observe, and from where
+  ─────────────────────────────────────────────────────────────────────────────
+  The left column says a control must exist. The right column is the control.
+  This is the same hollow-command shape the 10-01 build found in HAVA — a
+  federal or state requirement that a standard EXIST, with the content left
+  entirely downstream — and it now appears in five consecutive builds.
+  Load-bearing caveat, in the blueprint's own words: "Legislative silence on a
+  specific procedure is not a prohibition; adopting sound custody practices is
+  an exercise of administrative discretion," and "variation is normal. It is not
+  evidence that any jurisdiction is falling short."
+══════════════════════════════════════════════════════════════════════════════════
