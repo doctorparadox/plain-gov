@@ -1,0 +1,239 @@
+POST-ELECTION AUDIT CROSSWALK — the four designs, and the two columns that decide
+whether any of it binds                                      (as of 4 October 2026)
+│  Legend:  ▸ design / column   ⚡ trigger   → what it checks   ⏱ timing vs. the
+│           certificate   ⚖ does the finding bind   ⊘ duty with no remedy
+│           ⚑ changed for November 2026   ◈ count is a definitional artifact
+│
+│  THE ONE-LINE VERSION: all 51 jurisdictions audit, and in most of them the audit
+│  cannot change anything. TIMING AND TEETH ARE INDEPENDENT — see Part C.
+│
+■ PART A — THE FOUR DESIGNS  (what is actually counted)
+│
+├─▸ 1. TRADITIONAL FIXED-PERCENTAGE ............ 36 states + DC   [the modal design]
+│     ⚡ the statute, automatically — no margin condition, no official's discretion
+│     → hand-count a FIXED share of precincts, machines or ballots drawn at random,
+│       and compare that hand tally against the machine tally for the same units
+│     → the share is written in advance and does NOT move with the margin:
+│       1% (Arizona, New York) · 3% (West Virginia) · 5% (Alaska) · 10% (Hawaii,
+│       Connecticut)
+│     ✱ THE DEFECT IS ARITHMETIC, NOT POLITICAL. A fixed percentage is wasted work
+│       in a landslide and far too little in a close race — the only case where the
+│       answer could change an outcome. A 1% sample does not resolve a 0.2% margin
+│       at any confidence, and no amount of good faith fixes that.
+│     ⚖ mostly advisory; the escalation thresholds that give some of them teeth are
+│       in Part D
+│
+├─▸ 2. RISK-LIMITING AUDIT (RLA) ............... ◈ 7 require · 6–9 permit or pilot
+│     ⚡ the statute, and then the MARGIN sets the workload rather than a fixed share
+│     → draw paper ballots at random and keep drawing until the evidence reaches a
+│       stated confidence that the reported winner really won — the RISK LIMIT, the
+│       maximum chance a wrong outcome survives the audit uncorrected
+│     → if that confidence is never reached, the audit ESCALATES TO A FULL HAND COUNT
+│       by its own logic, with no official deciding to escalate it
+│     → three methods:  BALLOT-POLLING (tally a sample, test the lead)
+│                       BALLOT-COMPARISON (match each sampled paper ballot to the
+│                         system's record of that ballot — needs a cast vote record)
+│                       BATCH-COMPARISON (hand-count whole batches against subtotals)
+│     ⚑ risk limits are not uniform and are moving: Georgia set SIX PERCENT for 2026,
+│       dropping to five percent or less thereafter  [SB 3EX, 2026 special session]
+│     ✱ THIS IS THE ONLY DESIGN ON THE MAP WHOSE WORKLOAD SCALES WITH THE STAKES,
+│       and the only one that can reach a full hand count without anybody's consent.
+│     ◈ the require/permit counts are contested — see Notes 2 and 3
+│
+├─▸ 3. PROCEDURAL AUDIT ........................ 7 states
+│       Indiana · Michigan · Mississippi · Nebraska · New Hampshire · Oklahoma ·
+│       South Carolina
+│     ⚡ the statute, on a fixed cycle
+│     → checks whether the PROCESS was followed: forms completed, seals logged,
+│       reconciliation performed, chain-of-custody paperwork present
+│     → DOES NOT RECOUNT VOTES and is not designed to detect a wrong tally
+│     ✱ A PROCEDURAL AUDIT IS AN AUDIT OF THE PAPERWORK ABOUT THE BALLOTS, NOT OF
+│       THE BALLOTS. It is a real control — it is how a broken seal or a missed
+│       reconciliation surfaces — but a state with only this design has no
+│       statutory procedure that compares paper to machine at all.
+│     ⚖ advisory by construction; there is no tally for a finding to correct
+│
+└─▸ 4. FULL HAND COUNT ......................... not a sampling design at all
+      ⚡ in most states, a RECOUNT trigger or a candidate's request — not an audit
+      ⚑ → GEORGIA MADE IT AN AUTOMATIC STATEWIDE DUTY FOR NOVEMBER 2026. For eight
+        statewide offices (Governor · Lieutenant Governor · Secretary of State ·
+        Attorney General · State School Superintendent · Insurance Commissioner ·
+        Agriculture Commissioner · Labor Commissioner), where the office appears
+        FIRST OR SECOND on the ballot and the margin is 0.5% OR LESS, the Secretary
+        of State MUST order a full hand recount of every ballot cast statewide,
+        replacing the machine recount counties have used. Counties finishing within
+        17 days are reimbursed by the state, and THE HAND-COUNTED RESULT BECOMES
+        THE OFFICIAL ONE.  [SB 3EX, signed June 2026]
+      ✱ THE DESIGN THE AUDIT MOVEMENT'S OPPONENTS PREFER, AND THE ONE STATISTICIANS
+        TRUST LEAST. A full hand count is slower and less accurate per ballot than a
+        well-run sample, and it returns the count to rooms full of partisan
+        observers. Georgia's 2026 version is narrow and margin-gated, which is why
+        it reads as a recount rule rather than as the hand-count-everything demand
+        the denial movement has pressed since 2020.
+│
+■ PART B — COLUMN ONE: TIMING AGAINST THE CERTIFICATE
+│
+│  The question the certification map raises and does not answer. An audit that
+│  reports after the certificate is issued is reporting about a result that is
+│  already, in most states, the operative one.
+│
+├─▸ BEFORE CERTIFICATION .................... 31 states + DC
+│     Alaska · Arizona · California · Colorado · Connecticut · Georgia · Hawaii ·
+│     Idaho · Illinois · Indiana · Kansas · Kentucky · Maryland · Massachusetts ·
+│     Minnesota · Missouri · Montana · Nevada · New Jersey · New York ·
+│     North Dakota · Oregon · Pennsylvania · Rhode Island · South Carolina ·
+│     Tennessee · Utah · Virginia · Washington · West Virginia · Wyoming
+│     ⏱ the audit is a PRECONDITION of the certificate, and in the strongest
+│       versions the canvass can be held open until the audit finishes
+│
+├─▸ AFTER CERTIFICATION ..................... 9 states
+│     Arkansas · Delaware · Florida · Iowa · New Hampshire · New Mexico · Ohio ·
+│     Vermont · Wisconsin
+│     ⏱ the certificate issues first; the audit reports into a settled result
+│     ⚠ [Wisconsin is listed here by NCSL and BEFORE by Verified Voting — its
+│        timing is set by COMMISSION POLICY rather than statute. See Note 4.]
+│
+└─▸ NO SPECIFIED DEADLINE ................... 10 states
+      Alabama · Louisiana · Maine · Michigan · Mississippi · Nebraska ·
+      North Carolina · Oklahoma · South Dakota · Texas
+      ⊘ the state commands an audit and names no date by which it must be done,
+        which means nothing in the statute prevents it from landing after the
+        certificate — or, in principle, long after
+      ⚑ [Texas's 2026 risk-limiting audit is scheduled for 19–20 NOVEMBER 2026, and
+         the hand-count audit that follows it must begin no later than the first
+         business day after the Secretary of State certifies the RLA complete and
+         finish by the 30th day after the election. The sequence is pinned to the
+         ELECTION DATE, not to the certificate.]
+      ◈ [NCSL's own prose labels these buckets 10-after and 9-no-deadline while its
+         lists name 9 and 10. The lists are used here. See Note 1.]
+│
+■ PART C — COLUMN TWO: TEETH, AND THE FOUR QUADRANTS
+│
+│  ✱ THE FINDING. Timing does not predict teeth. These are two independent columns,
+│    and all four combinations exist in the United States right now. The worked
+│    example in each quadrant is given with its citation; the quadrant populations
+│    are not published anywhere and are NOT asserted here.
+│
+├─▸ QUADRANT 1 — BEFORE + BINDING .............. the audit as an actual check
+│     ▪ COLORADO .............. Colo. Rev. Stat. § 1-7-515; 8 CCR 1505-1:25
+│         → statewide BALLOT-COMPARISON RLA; the audit unit is the INDIVIDUAL BALLOT
+│         → target contests selected by the Secretary of State by the Friday after
+│           election day; the RANDOM SEED is drawn at a PUBLIC MEETING on day 13
+│         ⏱ county audit boards must report by the day before the canvass deadline,
+│           and the Secretary of State MAY DIRECT COUNTIES TO DELAY THE CANVASS
+│           until the audit is done
+│         ⚖ the audit runs until the risk limit is met OR A FULL HAND COUNT RESULTS;
+│           where it produces a recount, THE RECOUNT RESULT IS BINDING
+│         ✱ the only design on this map where the certificate waits on the evidence
+│     ▪ MARYLAND ............. Md. Code, Elec. Law § 11-309  [HB 426 / SB 313, 2025]
+│         → RLA of at least one statewide contest after every statewide election
+│         ⏱ must be COMPLETED BEFORE certification by the Board of State Canvassers
+│         ⚖ BINDING: on a discrepancy the state administrator must direct the
+│           relevant board of canvassers to investigate immediately "to determine an
+│           accurate election result"
+│         ⚑ newest mandate on the map — enacted 2025, so November 2026 is the first
+│           federal general election it governs
+│
+├─▸ QUADRANT 2 — BEFORE + ADVISORY ............. good clock, no remedy
+│     ▪ WISCONSIN ............ Wis. Stat. § 7.08(6)
+│         → ~10% of REPORTING UNITS drawn at random, at least one audit in each of
+│           the 72 counties, at least five units per type of voting equipment;
+│           three contests drawn at random plus the top-of-ballot contest
+│         → the audit measures VOTING-SYSTEM ERROR RATE, which is what it was
+│           written to measure
+│         ⚖ "not binding upon election results and cannot be expanded to a full
+│           recount." On a discrepancy the commission may ask the EQUIPMENT
+│           MANUFACTURER to investigate.
+│         ⊘ the finding has no addressee who can act on the result
+│         ✱ A STATE CAN DO THE AUDIT AT THE RIGHT TIME AND STILL BUILD NO REMEDY.
+│
+├─▸ QUADRANT 3 — AFTER + BINDING ............... remedy with no clock
+│     ▪ OHIO ................. Ohio Rev. Code § 3505.331; Election Official Manual
+│                             ch. 11 § 11.03
+│         → choice of design: RLA, a 5%-of-ballots percentage audit, or an
+│           alternative approved by the Secretary of State; at least three contests
+│         ⏱ begins NO SOONER than 6 business days and NO LATER than 21 days AFTER
+│           the official certification of results
+│         ⚖ escalate if county accuracy is under 99.5% at margins of 1% or more, or
+│           under 99.8% at margins below 1%
+│         ⚖ AND THE CERTIFICATE IS NOT FINAL AGAINST IT: where the audit differs
+│           from the certified result, "the official certified results are to be
+│           amended to reflect the results of the audit"
+│         ✱ THIS IS THE BLOCK THAT BREAKS THE PREMISE OF THIS MAP. Ohio audits after
+│           the certificate and can move it anyway, because the statute wrote an
+│           AMENDMENT MECHANISM. Timing was never the load-bearing column — the
+│           existence of a mechanism to change the number is.
+│
+└─▸ QUADRANT 4 — NO DEADLINE + ADVISORY ........ the modal American audit
+      → a fixed-percentage or procedural audit, on no stated deadline, whose finding
+        is reported and filed
+      ⊘ no clock, no amendment mechanism, no escalation threshold, no addressee
+      ✱ THE HONEST SUMMARY OF THE SYSTEM: the universal post-election audit law is
+        real, and in the typical state it produces a document rather than a remedy.
+│
+■ PART D — THE REMAINING COLUMNS  (where the variance actually lives)
+│
+├─▸ WHO PICKS THE CONTEST, AND WHETHER THE METHOD IS PUBLIC
+│     → the Secretary of State alone — the most common design
+│     → county or local boards, drawing their own random selection (Ohio)
+│     → a PUBLIC RANDOM SEED drawn in a noticed meeting (Colorado, day 13), the
+│       strongest transparency design on the map because the sample can be
+│       recomputed by anyone afterward
+│     ⚑ → GEORGIA 2026: one additional audited contest is chosen by MAJORITY VOTE OF
+│       FIVE OFFICIALS — the Governor, Lieutenant Governor, Speaker of the House,
+│       Senate Minority Leader and House Minority Leader — on the Thursday after
+│       election day, and if they do not agree in time the chair of the State
+│       Election Board decides alone.  [SB 3EX, 2026]
+│     ✱ A BIPARTISAN FIVE-MEMBER PANEL WITH A SINGLE-OFFICIAL FALLBACK IS A
+│       DEADLOCK-TO-DISCRETION DESIGN. Failing to agree is how the choice moves to
+│       one person, and nothing requires anyone to agree.
+│
+├─▸ WHAT GETS AUDITED
+│     → the TOP-OF-BALLOT contest, always, in nearly every design
+│     ⚑ → Georgia 2026 expanded the audited set from the top contest plus one to the
+│       top contest PLUS President, U.S. Senate and U.S. House where applicable
+│       PLUS Governor, Lieutenant Governor, Secretary of State and Attorney General
+│       PLUS one more chosen as above  [SB 3EX, 2026]
+│     → three contests minimum (Ohio, Wisconsin — Wisconsin's three drawn at random)
+│     → at least one statewide contest (Maryland)
+│     ⊘ DOWN-BALLOT AND LOCAL CONTESTS ARE THE UNAUDITED MAJORITY of races on an
+│       American ballot, in every state, under every design on this map
+│
+├─▸ WHAT THE AUDIT UNIT IS — and it decides how much work the audit is
+│     → the INDIVIDUAL BALLOT ...... ballot-comparison; needs a cast vote record
+│     → the BATCH ................. batch-comparison; coarser, no CVR needed
+│     → the PRECINCT or REPORTING UNIT ... the fixed-percentage designs
+│     → the MACHINE ............... the device-level audits
+│
+└─▸ THE ESCALATION THRESHOLDS  (where a fixed-percentage audit grows teeth)
+      → WEST VIRGINIA ... a discrepancy over 1% triggers a FULL HAND RECOUNT
+      → MINNESOTA ....... a difference over 0.5% EXPANDS the audit's scope
+      → OHIO ............ accuracy under 99.5% (or 99.8% in a close race) requires a
+                          SECOND audit sample
+      ✱ THESE ARE THE THREE SHAPES A THRESHOLD CAN TAKE — jump straight to a full
+        count, widen the sample, or draw again — and a state with none of them has
+        written an audit that reports a discrepancy and stops.
+│
+■ PART E — WHAT NO AUDIT ON THIS MAP REACHES
+│
+├─  ELIGIBILITY. Every design audits the TALLY OF BALLOTS THAT WERE COUNTED. None
+│   audits whether the right ballots were counted — the acceptance decisions on
+│   mail and provisional ballots sit upstream and are reviewed, if at all, by a
+│   different procedure in a different statute.
+│
+├─  THE CHAIN OF CUSTODY. An audit presumes the paper in the box is the paper that
+│   came out of the machine. That presumption is the subject of a different map, and
+│   where it fails, a clean audit is a clean audit of the wrong objects.
+│
+├─  BALLOTS NEVER CAST. Nothing in an audit speaks to the voter turned away, the
+│   mail ballot that did not arrive, or the registration cancelled in August.
+│
+├─  THE DOWN-BALLOT MAJORITY. See Part D; it is not a gap in one state's design, it
+│   is the design everywhere.
+│
+└─  FEDERAL LAW. ⊘ THERE IS NO FEDERAL POST-ELECTION AUDIT REQUIREMENT. The Help
+    America Vote Act regulates the voting SYSTEM — Title III standards, the paper
+    record, the error-rate ceiling — and commands no audit of any result. The
+    Election Assistance Commission publishes audit guidance and runs a voluntary
+    standards program. The entire audit layer of American elections is state law,
+    which is why this is a crosswalk and not an org chart.
