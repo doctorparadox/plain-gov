@@ -1,0 +1,341 @@
+BALLOT MARKING VALIDITY CROSSWALK — what counts as a vote, who decides, and why
+"a majority of the oval" and "20% of the oval" are both the law  (as of 6 October 2026)
+│  Legend:  ▸ tier / column   ◉ instrument   % express numeric threshold
+│           ✓ counted   ✗ not counted   ◇ who decides   ⊘ does not exist
+│           ⚑ changed for or after Nov 2026   ◈ definitional artifact
+│           † primary instrument over tracker
+│
+│  THE ONE-LINE VERSION: THE STANDARD IS WRITTEN FOR A HUMAN AND THE FIRST READER
+│  IS A MACHINE. One state regulates the machine's threshold; the rest leave it to
+│  the vendor. Read Part A, then Part B before trusting any "what counts as a vote"
+│  summary — including the forty-eight-state count in Part E.
+│
+■ PART A — THE FEDERAL COMMAND, IN FULL
+│
+├─▸ 52 U.S.C. § 21081(a)(6) — ONE SENTENCE, QUOTED ENTIRE:
+│     "Each State shall adopt uniform and nondiscriminatory standards that define
+│      what constitutes a vote and what will be counted as a vote for each category
+│      of voting system used in the State."
+│     ✱ IT COMMANDS THE EXISTENCE OF A RULE AND NOT ITS CONTENT. Compare § 21081(a)(5),
+│       which freezes the permitted ERROR RATE by cross-reference to FEC standards
+│       "in effect on October 29, 2002" — Congress was willing to fix a number for
+│       the machine's accuracy and unwilling to fix one for what the machine is
+│       reading. The accuracy standard is quantitative and twenty-four years stale;
+│       the validity standard is qualitative and perpetually current.
+│     ✱ "FOR EACH CATEGORY OF VOTING SYSTEM" is the sleeper clause. A state running
+│       ballot-marking devices in person and hand-marked paper by mail owes TWO
+│       standards, and the mark rules are inert as to the first category, because a
+│       device-printed ballot cannot be ambiguous. See Part F.
+│
+├─▸ ⊘ WHAT § 21081(a)(6) DOES NOT REQUIRE: a fill threshold · a list of acceptable
+│     marks · uniformity ACROSS states · uniformity between a state's own categories
+│     of system · any particular instrument · publication · any review of the
+│     standard's adequacy by any federal body. The Election Assistance Commission
+│     certifies equipment and does not approve or collect these standards.
+│
+└─▸ ◇ WHO ENFORCES IT: the Attorney General, by civil action for declaratory or
+      injunctive relief  [52 U.S.C. § 21111]. There is no express private right of
+      action in Title III. No reported enforcement action against a state's (a)(6)
+      standard was located in this build — recorded as [unconfirmed] rather than as
+      a finding of absence. See Note 10.
+│
+■ PART B — THE THRESHOLD, AND THE READER IT IS ADDRESSED TO
+│
+├─▸ THE MACHINE THRESHOLD, WRITTEN INTO LAW ... ONE STATE
+│     GEORGIA ........ % scanners "shall be configured" so that:
+│                        ≥20% fill of the target .......... IS a vote
+│                        <10% fill of the target .......... is NOT a vote
+│                        ≥10% and <20% fill ............... FLAGGED for adjudication
+│                      and a flagged ballot counts if, "in the opinion of the vote
+│                      review panel, the voter has clearly and without question
+│                      indicated the candidate"
+│                      [Ga. Comp. R. & Regs. r. 183-1-15-.02, eff. 13 Nov 2003,
+│                       last amended 14 Oct 2020; auth. O.C.G.A. §§ 21-2-2, 21-2-31,
+│                       21-2-133, 21-2-439, 21-2-483 — promulgated by the
+│                       Georgia State Election Board, not the legislature]
+│                      ✱ THE ONLY PLACE IN AMERICAN ELECTION LAW FOUND HERE WHERE THE
+│                        STATE TELLS THE SCANNER WHAT A VOTE IS. Everywhere else the
+│                        state tells a human what a vote is and the scanner decides
+│                        which humans ever get asked.
+│
+├─▸ THE HUMAN THRESHOLD, EXPRESS ... TWO STATES
+│     KENTUCKY ....... % "the majority of an oval, box, or space designating a
+│                      candidate or question choice is filled in"
+│                      [31 KAR 6:030; auth. KRS 117.015(1)(a) AND 52 U.S.C.
+│                       § 21081(a)(6) — the rule cites the federal command as its
+│                       own authority, which is how most of these were written]
+│     FLORIDA ........ % "fills in more than half of the vote target" satisfies the
+│                      General Rule; a target filled entirely or more than half is a
+│                      valid vote NOTWITHSTANDING stray marks elsewhere
+│                      [DS-DE 420, r. 1S-2.027, Fla. Admin. Code]
+│
+└─▸ ⊘ NO EXPRESS THRESHOLD OF ANY KIND ... THE REST, INCLUDING EVERY LARGE STATE
+      BUT FLORIDA AND GEORGIA
+      → WASHINGTON ..... marks in the target "shall be counted as valid votes, with
+                         the exceptions below"; a mark partly outside counts "if most
+                         of the mark is in the target area and intent can clearly be
+                         determined"  [WAC 434-261-086]
+      → NEW YORK ....... "properly filled in voting position targets" — the word
+                         "properly" doing all the work, with no number behind it
+                         [9 NYCRR 6210.13]
+      → CALIFORNIA ..... "consistently filling in less than the entire voting
+                         position target" is valid — an express rule that a partial
+                         fill counts and an express refusal to say how partial
+                         [2 CCR §§ 20280.1–20284]
+      → MINNESOTA ...... "a ballot shall not be rejected for a technical error that
+                         does not make it impossible to determine the voter's intent"
+                         [Minn. Stat. § 204C.22 subd. 1]
+      ✱ SO THE FOUR NUMBERS IN AMERICAN LAW ON THIS SUBJECT ARE 10%, 20%, "MORE THAN
+        HALF" AND "A MAJORITY" — a factor of five between the smallest and the
+        largest — AND THE TWO SMALL ONES GOVERN A MACHINE WHILE THE TWO LARGE ONES
+        GOVERN A PERSON. A 30%-filled oval is a counted vote in Georgia on the
+        machine's own reading and is below the stated threshold in Kentucky, where it
+        has to qualify instead under one of the alternative-mark clauses in Part C.
+│
+■ PART C — THE MARK TYPES, AND WHERE THE STATES SPLIT AT THE CENTER
+│
+├─▸ THE CASE THAT DIVIDES THEM: ONE SMALL MARK INSIDE ONE TARGET, NOTHING ELSE ON
+│   THE BALLOT TO COMPARE IT TO
+│     WASHINGTON ..... ✓ a mark in the target area is a valid vote, excepting
+│                        "obvious stray marks, hesitation marks, parts of written
+│                        notes"  [WAC 434-261-086]
+│     NEW YORK ....... ✗ "a hesitation mark such as a dot in the voting position
+│                        target area shall not be considered a valid mark unless it
+│                        is demonstrated that the voter consistently marked his or
+│                        her ballot in such a manner"  [9 NYCRR 6210.13]
+│     MICHIGAN ....... ✗ a stray mark within the target area is invalid; the official
+│                        "must compare disputed marks with other marks on the ballot"
+│                        [Bureau of Elections instruction, citing MCL 168.799a(3),
+│                         168.803(2)]
+│     ✱ ALL THREE RULES RESOLVE THE CASE BY CONSISTENCY, AND THE CASE IS DEFINED BY
+│       HAVING NOTHING TO BE CONSISTENT WITH. A single-contest ballot, a ballot where
+│       the voter voted once and skipped the rest, and a recount of one contest are
+│       all this case. Washington's default is count; New York's and Michigan's
+│       default is do not count. That is the whole disagreement, in the modal
+│       contested ballot, between three states that all recite voter intent.
+│
+├─▸ ✓ COUNTED ALMOST EVERYWHERE, WITH ONE RECURRING CONDITION — CONSISTENCY
+│     X · CHECK MARK · CROSS · PLUS SIGN · ASTERISK · STAR, inside a single target
+│       FLORIDA ...... ✓ if "the voter consistently uses" that mark form
+│       KENTUCKY ..... ✓ "an 'X', a check mark, a plus sign, an asterisk, a star, or
+│                        any other mark indicating the intent"  — no consistency
+│                        condition stated
+│       CALIFORNIA ... ✓ "a distinctive mark, such as (X) or (√) or (←), inside the
+│                        associated voting position target", consistently placed
+│       NEW YORK ..... ✓ "cross mark 'X', a checkmark, circles, completed open arrow,
+│                        or any other clear indication of the voter's choice"
+│       MICHIGAN ..... ✓ "a cross or checkmark appearing in the predefined target
+│                        area is not considered a stray mark and is a valid vote EVEN
+│                        IF the voter does not consistently mark the entire ballot"
+│                      ✱ MICHIGAN IS THE INVERSION AND IT IS DELIBERATE: a check mark
+│                        in the oval needs no consistency, a faint dot in the same
+│                        oval is a stray mark and needs the whole ballot. The state
+│                        is sorting by the mark's FORM, not by its darkness, which is
+│                        the opposite of what the scanner in front of it is doing.
+│
+├─▸ ✓ THE CIRCLED OR UNDERLINED NAME — the mark a scanner cannot see at all
+│       FLORIDA ...... ✓ circling or underlining the target, the candidate's NAME, or
+│                        the party abbreviation, applied consistently
+│       KENTUCKY ..... ✓ the oval circled or underlined, OR "the candidate's name or
+│                        the question choice is circled or underlined"
+│       NEW YORK ..... ✓ "circles" among the valid marks
+│       MICHIGAN ..... ⊘ not addressed in the bureau instruction located here
+│       GEORGIA ...... ⊘ not addressed as a category in r. 183-1-15-.02
+│       ✱ A CIRCLED NAME PUTS ZERO DARK PIXELS IN THE TARGET. In the three states
+│         above it is unambiguously a vote and in every state it is unreadable by the
+│         tabulator, so it is a vote that EXISTS ONLY IF A HUMAN LOOKS — and in a
+│         precinct-count jurisdiction the humans who look are looking at the pile the
+│         scanner rejected, which this ballot joins as an undervote rather than as an
+│         error. See Part D.
+│
+├─▸ ✓ LINES THROUGH THE TARGET ... FLORIDA and KENTUCKY, in nearly identical words:
+│     a diagonal, horizontal or vertical line intersecting two points on the target,
+│     without crossing into another target. Two states, one drafting ancestor.
+│
+├─▸ ✗ THE MARK THAT ENTERS TWO TARGETS
+│     FLORIDA ...... ✗ "when a mark enters more than one vote target, it is an
+│                      overvote and it cannot be determined whether the voter has
+│                      made a definite choice"
+│     ✱ THE ONE RULE ON THIS MAP THAT CONVERTS A GENEROUS STANDARD INTO A STRICT ONE.
+│       A long check mark or a sweeping circle — exactly the marks Part C counts — is
+│       an overvote if it strays a millimetre. The more expressive the permitted
+│       mark, the larger the geometric target for failing this test.
+│
+└─▸ THE CROSSED-OUT OVAL WITH A CORRECTION ELSEWHERE — four rules, four results
+      CALIFORNIA ... ✓ "correction tape, strikeover, white-out or generic written
+                       note of instruction" is honoured where another choice in the
+                       same contest is marked; "a mark crossed out by the voter" is
+                       not valid and signals a declined option
+      MINNESOTA .... ✓ where two candidates are marked and one mark is partially
+                       erased, "a vote shall be counted for the remaining marked
+                       candidate"  [§ 204C.22 subd. 11]
+      FLORIDA ...... ✗ a strikethrough ALONE is not intent: "a voter's failure to
+                       positively indicate voter intent through some type of mark is
+                       not a clear indication that the voter has made a definite
+                       choice"
+      MICHIGAN ..... ⚠ corrections that cause a false tabulator reading are not valid
+                       votes and the ballot must be DUPLICATED — the only rule here
+                       whose remedy is a new piece of paper rather than a reading
+      ✱ CALIFORNIA AND MINNESOTA READ THE SUBTRACTION AS PART OF THE EXPRESSION;
+        FLORIDA READS ONLY ADDITIONS. A voter who fills one oval, crosses it out, and
+        fills another has cast a vote in California and Minnesota. In Florida the
+        crossed-out oval may still be "more than half" filled and therefore a valid
+        vote under Part B, which with the second oval makes an overvote — the strict
+        and the generous rules interacting to void a contest the voter plainly meant
+        to decide.
+│
+■ PART D — THE WRITE-IN, WHERE THE RULES ARE AT THEIR MOST GENEROUS
+│
+├─▸ NAME ON THE LINE, TARGET UNMARKED
+│     WASHINGTON ..... ✓ "if a name is written on a write-in line, it shall be counted
+│                        as a valid write-in vote REGARDLESS of whether the
+│                        corresponding target area is marked"
+│     NORTH CAROLINA . ✓ write-ins without a filled oval count IN A HAND COUNT if
+│                        intent is determinable  [Numbered Memo 2019-07]
+│                      ✱ NORTH CAROLINA'S RULE IS CONDITIONED ON THE COUNTING METHOD,
+│                        WHICH IS THE PART-A PROBLEM STATED OUTRIGHT BY A STATE: the
+│                        same ballot is a vote or not a vote depending on whether a
+│                        machine or a person read it.
+│
+├─▸ A PRINTED CANDIDATE'S NAME WRITTEN INTO THE WRITE-IN LINE
+│     WASHINGTON ..... ✓ "shall not be tallied as an overvote and shall be counted as
+│                        a valid vote for the printed candidate"
+│     NORTH CAROLINA . ✓ duplicate votes for the same candidate count once
+│
+├─▸ MISSPELLINGS AND PARTIAL NAMES
+│     FLORIDA ........ ✓ "even if a voter abbreviates, misspells, uses only the first
+│                        or last name, or varies the form of the name"
+│     WASHINGTON ..... ✓ "no attempt to vote for a candidate shall be rejected due to
+│                        the misspelling of a candidate's name, unless it is
+│                        impossible to clearly determine the voter's intent"
+│     TEXAS .......... ✓ "if the voter misspells the write-in candidate's name but the
+│                        judge can determine the intent, the vote is counted"
+│                        [Tex. Elec. Code § 65.007 and SOS Election Advisory 2014-19]
+│
+└─▸ ✱ THE WRITE-IN RULES ARE THE MOST PERMISSIVE PROVISIONS IN THIS WHOLE AREA OF
+      LAW, AND THEY GOVERN THE SMALLEST NUMBER OF BALLOTS. The provisions governing
+      the largest number of ballots — the partial fill, the faint mark, the stray dot
+      — are the ones with no numbers in them. The legal effort has gone where the
+      votes are not.
+│
+■ PART E — WHERE THE RULE LIVES, WHICH IS THE COLUMN NOBODY PUBLISHES
+│
+├─▸ ◉ STATUTE — passed by a legislature, changeable only by one
+│     MINNESOTA ...... Minn. Stat. § 204C.22, thirteen subdivisions, the most detailed
+│                      statutory treatment located: intent "ascertained only from the
+│                      face of the ballot" (subd. 2) · uniform non-standard marks
+│                      count (subd. 10) · partial erasure (subd. 11) · "slightly
+│                      soiled or defaced" no bar (subd. 12) · an IDENTIFYING mark
+│                      voids the ENTIRE ballot (subd. 13)
+│     TEXAS .......... Tex. Elec. Code § 65.007 — failure to mark "in strict conformity
+│                      with the voting instructions does not void the ballot";
+│                      overvote exceptions at § 65.007(c)–(d); an individual mark
+│                      overrides a straight-party mark
+│     NORTH CAROLINA . N.C.G.S. § 163-182.1(a)–(b) — "no official ballot shall be
+│                      rejected because of technical errors in marking it, unless it
+│                      is impossible to clearly determine the voter's choice"
+│
+├─▸ ◉ ADMINISTRATIVE RULE — adopted by an agency or board under rulemaking, revisable
+│   without a legislature
+│     GEORGIA ........ Ga. Comp. R. & Regs. r. 183-1-15-.02  [State Election Board]
+│     FLORIDA ........ r. 1S-2.027 / form DS-DE 420  [Department of State]
+│     CALIFORNIA ..... 2 CCR §§ 20280.1–20284  [Secretary of State]
+│     NEW YORK ....... 9 NYCRR 6210.13  [State Board of Elections]
+│     WASHINGTON ..... WAC 434-261-086  [Secretary of State]  ⚑ see below
+│     KENTUCKY ....... 31 KAR 6:030  [State Board of Elections]
+│
+├─▸ ◉ DIRECTIVE, GUIDANCE OR MANUAL — not rulemaking at all
+│     MICHIGAN ....... Bureau of Elections instruction, "Determining the Validity of
+│                      Ballot Markings" — a PDF on the department's website, citing
+│                      MCL 168.799a(3) and 168.803(2) for authority
+│     NORTH CAROLINA . Numbered Memo 2019-07, which supplies the operative sub-rules
+│                      the statute above does not
+│     TEXAS .......... SOS Election Advisory 2014-19, same relationship to § 65.007
+│     PENNSYLVANIA ... "Standards for What Constitutes a Vote," adopted 1 July 2003 by
+│                      the Voting Standards Development Board constituted under Act
+│                      2002-150 § 204, approved by the Secretary of the Commonwealth
+│                      and filed 1 August 2003, published in the Pennsylvania
+│                      Bulletin  [33 Pa.B., Doc. No. 03-1538]
+│                      ✱ A ONE-TIME BOARD, CONVENED TO DISCHARGE § 21081(a)(6), WHOSE
+│                        PRODUCT IS A NOTICE IN A BULLETIN FROM 2003. Pennsylvania's
+│                        standard for optical scan is "blackening the oval or filling
+│                        in the blank space in an arrow or line," and the board
+│                        recorded that standards may vary BETWEEN categories of system
+│                        while remaining uniform WITHIN each — the Part A clause, read
+│                        correctly, twenty-three years ago, in a county-administered
+│                        state. Mail voting arrived in 2019 and this map does not
+│                        establish what, if anything, replaced the 2003 text for it.
+│                        [unconfirmed — see Note 11]
+│
+├─▸ ◉ NOTHING ... LOUISIANA, the only state with neither statute nor rule  † NCSL
+│     ✱ AND THE ABSENCE IS EXPLICABLE RATHER THAN A GAP: Louisiana ran the November
+│       2026 election on machines described in its own 2026 legislative record as
+│       thirty-five years old and lacking a paper trail. A state whose equipment
+│       produces no voter-marked paper has nothing to interpret, and § 21081(a)(6)
+│       asks for a standard "for each category of voting system used in the State" —
+│       of which it has one, and that one cannot produce an ambiguous mark.
+│     ⚑ THE EXEMPTION EXPIRES. Vendor certification reopened in June 2026, selection
+│       was targeted for the end of 2026, and deployment begins in some parishes in
+│       2027 over a two-to-three-year transition, with auditable paper the one fixed
+│       requirement. Louisiana will need this rule before it needs anything else the
+│       new system brings, and it has no draft of one on this map.
+│
+└─▸ ⚑ THE INSTRUMENT TIER IS WHY A STANDARD CAN MOVE IN AN ELECTION YEAR — AND ONE
+      DID. Washington filed WSR 26-12-029 on 27 May 2026 amending WAC 434-261-086,
+      the statewide standard on what is a vote, expressly for § 21081(a)(6)
+      compliance: "races and issues" becomes "offices and measures," "can" becomes
+      "may," "easily be discerned" becomes "CLEARLY BE DETERMINED," the write-in and
+      overvote exceptions are clarified, and a reference to "the manual" is replaced
+      by "this rule." Effective date: 1 JANUARY 2027.
+      ✱ SO THE 3 NOVEMBER 2026 ELECTION IN WASHINGTON RUNS ON THE 2018 TEXT
+        [WSR 18-10-003, eff. 20 May 2018], AND THE CLARIFIED STANDARD ARRIVES TWO
+        MONTHS AFTER THE ELECTION IT CLARIFIES. The substantive edit is the evidentiary
+        one — "easily discerned" to "clearly determined" is a different question put to
+        a canvassing board — and any 2026 Washington recount or contest is argued under
+        the old words while the state's own considered view of the right words is on
+        the books and not yet in force.
+│
+■ PART F — WHAT NO MARK STANDARD ON THIS MAP REACHES
+│
+├─  THE REFERRAL DECISION, WHICH IS THE WHOLE BALLGAME. Outside Georgia, no standard
+│   here states the pixel-density value at which a tabulator treats a target as
+│   marked. The NIST study of marginal marks reports those values are proprietary,
+│   that scanners "count the number of dark pixels in a voting target," that "no two
+│   sensors are identical and the behavior can further be affected by environmental
+│   conditions," and that marginal marks "are neither clearly countable as votes or
+│   as non-votes by optical mark scanners." Its five marginal categories — check
+│   marks, crosses, partially filled, lightly filled, overfilled — are exactly the
+│   categories Part C legislates for the human and nobody legislates for the machine.
+│
+├─  THE BALLOT-MARKING DEVICE, BY ITS OWN NATURE. A device-printed ballot cannot be
+│   ambiguously marked, so every rule above is inert as to it, and the questions that
+│   replace them are different in kind: whether the tabulator reads the printed names
+│   or the barcode, and whether the voter checked the printout. North Carolina's memo
+│   answers the first — "the printed names must always be used in counting the votes,
+│   rather than coordinates or barcodes" — because that is what the voter verified.
+│   See Ballot Marking Device and Hand-Marked Paper Ballot.
+│
+├─  UNIFORMITY ACROSS STATES, WHICH NOTHING REQUIRES AND BUSH v. GORE DID NOT
+│   REACH. The holding was that a recount run under a bare intent standard with no
+│   sub-rules offends equal protection WITHIN a state. Part C is that problem one
+│   level up and outside its reach: a faint dot in an oval is a vote in Washington and
+│   not a vote in New York, and no federal instrument has anything to say about it.
+│
+├─  ⊘ FEDERAL REVIEW OF ADEQUACY. Nobody grades these standards. The EAC certifies
+│   equipment; it does not collect, publish or approve the fifty definitions, and the
+│   § 21111 civil action is the only lever. A state satisfies (a)(6) by having
+│   adopted something.
+│
+├─  THE ACCEPTANCE DECISION, AGAIN. Every rule here governs a ballot already in the
+│   count. Whether the envelope was opened at all — signature, deadline, cure — is
+│   upstream and untouched, exactly as Recount Trigger Crosswalk found for the
+│   recount. A mark standard cannot reach a ballot nobody read.
+│
+└─  THE ONE PLACE THE HUMAN STANDARD GOVERNS EVERYTHING: THE FULL HAND COUNT. In a
+    hand recount or a hand-count audit there is no scanner and no referral, so Part C
+    applies to every ballot rather than to the rejected pile — which is why Georgia's
+    SB 3EX full statewide hand recount for eight offices at 0.5% is the one 2026
+    procedure in which a state's mark rules decide a whole election rather than a
+    remainder. Georgia's hand-count teams apply r. 183-1-15-.02's "clearly and
+    without question" standard, and its 20% machine threshold becomes irrelevant at
+    the moment it matters most.
