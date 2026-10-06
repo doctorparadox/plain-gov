@@ -1,0 +1,279 @@
+RECOUNT TRIGGER CROSSWALK — the three tiers, and why "0.5%" is five different
+numbers                                                       (as of 5 October 2026)
+│  Legend:  ▸ tier / column   ⚡ trigger   ◇ who must act   $ who pays
+│           ↩ what earns a refund   ⚖ does it replace the certified result
+│           ⊘ does not exist   ⚑ changed for November 2026
+│           ◈ count is a definitional artifact   † statute over tracker
+│
+│  THE ONE-LINE VERSION: THERE ARE THREE TIERS, NOT TWO. The middle one — the loser
+│  must ask, the state must grant, the public pays — is where every published
+│  disagreement about this subject lives. See Part A, then Part B before trusting
+│  ANY threshold on this or any other fifty-state recount table.
+│
+■ PART A — THE THREE TIERS  (who has to act, and who pays for it)
+│
+├─▸ TIER 1. AUTOMATIC / MANDATORY ............... 26 states + DC   ◈ see Note 1
+│     ⚡ the certified margin falls inside a statutory threshold
+│     ◇ NOBODY. No candidate files, no official exercises discretion, no court
+│       orders it. The canvassing authority's duty attaches on the arithmetic.
+│     $ the state or the county, always
+│     ✱ THIS IS THE ONLY TIER THAT PROTECTS A LOSER WHO HAS RUN OUT OF MONEY,
+│       RUN OUT OF LAWYERS, OR CONCEDED. It is also the only tier that cannot be
+│       waived — which is why the 2024 Pennsylvania Senate recount had to be
+│       affirmatively stopped after the trailing candidate conceded, rather than
+│       simply never starting.
+│     ⚑ GEORGIA ADDED A SECOND TIER-1 TRIGGER FOR THIS ELECTION. SB 3EX (2026
+│       special session) requires a FULL STATEWIDE HAND RECOUNT at a 0.5% margin
+│       for eight statewide offices — Governor, Lt. Governor, Secretary of State,
+│       Attorney General, School Superintendent, and the Commissioners of
+│       Insurance, Agriculture and Labor — but ONLY where one of them appears
+│       FIRST OR SECOND on the ballot. The hand count becomes the official result;
+│       counties finishing within 17 days of the order are reimbursed.
+│       ✱ A BALLOT-POSITION CONDITION ON A RECOUNT TRIGGER EXISTS NOWHERE ELSE
+│         IN AMERICAN ELECTION LAW. It is a workload cap written as a rule about
+│         typography, and it means two races at identical margins get different
+│         procedures depending on where they were printed.
+│
+├─▸ TIER 2. MANDATORY ON REQUEST, PUBLICLY FUNDED ... the missing category
+│     ⚡ the margin falls inside a threshold AND the trailing candidate files
+│     ◇ THE LOSER — but the authority has NO DISCRETION TO REFUSE
+│     $ the state or the county. No bond, no deposit, nothing at risk.
+│     → the worked statutes:
+│       MINNESOTA ...... ≤0.25% federal and statewide · ≤0.5% legislative · or a
+│                        10-vote margin where 400 or fewer votes were cast; the
+│                        request is due within TWO BUSINESS DAYS of the canvass
+│                        [Minn. Stat. § 204C.35 subd. 1 — "shall" on request]
+│       MONTANA ........ ≤0.25% state-funded on request; >0.25% but ≤0.5% on the
+│                        candidate's own money — ONE STATUTE, TWO TIERS, and the
+│                        ONLY variable between them is the margin
+│       WISCONSIN ...... free to the requester at ≤0.25%
+│       CALIFORNIA ..... state pays below 1,000 votes or 0.5%
+│       IOWA ........... state pays below 0.5%
+│     ✱ THIS TIER IS WHY THE PUBLISHED COUNTS DISAGREE BY EIGHT STATES. A tracker
+│       that asks "does a close margin get you a recount you do not pay for?"
+│       counts Minnesota as automatic. A tracker that asks "does the recount
+│       happen if nobody files?" does not. BOTH ANSWERS ARE CORRECT TO THEIR OWN
+│       QUESTION, and neither tracker states which question it asked.
+│     ✱ THE PRACTICAL DIFFERENCE FROM TIER 1 IS ONE THING ONLY: a two-day filing
+│       deadline. A tier-2 right is extinguished by a trailing candidate who
+│       concedes early, travels, or simply does not know the rule. Tier 1 is not.
+│
+└─▸ TIER 3. DISCRETIONARY, AT THE REQUESTER'S EXPENSE ... the default everywhere
+      ⚡ nothing. The margin is outside every threshold.
+      ◇ THE LOSER, and the gate is money rather than arithmetic
+      $ the requester, up front, by deposit or bond
+      → TEXAS ......... $60 per precinct on paper ballots, $100 per precinct on
+                        electronic systems  [Tex. Elec. Code § 212.112]
+      → PENNSYLVANIA .. $50 cash or a $100 bond PER ELECTION DISTRICT, and the
+                        petition must come from three qualified electors of that
+                        district — a CANDIDATE HAS NO STANDING TO ASK AT ALL
+                        [25 P.S. §§ 3261(b), 3263(a)(1)]
+      → MINNESOTA ..... a bond for the full expense  [§ 204C.35 subd. 2]
+      → MICHIGAN ...... a per-precinct deposit scaled to the margin itself, so the
+                        further behind the petitioner is, the more it costs
+                        [Mich. Comp. Laws §§ 168.867, 168.881]
+      ✱ THE QUEUE ITEM'S PREDICTION IS CORRECT ABOUT THIS TIER AND ONLY THIS TIER:
+        a tier-3 recount is a resource check, and the better-funded campaign wins
+        it by default. Trump's 2020 Wisconsin county recounts cost $3 million and
+        moved 87 votes the other way. What the prediction missed is that tier 3 is
+        not the other half of a two-part system — it is the residue left after two
+        other tiers have already handled every margin close enough to matter.
+│
+├─▸ AND A FOURTH GATE THAT IS NEITHER MARGIN NOR MONEY: THE MERITS
+│     MICHIGAN requires a petitioning candidate to state "a good-faith belief
+│     that, but for error in the canvass or returns of the votes, the candidate
+│     would have had a reasonable chance of winning"  [MCL § 168.862]
+│     PENNSYLVANIA requires an allegation of specific fraud or error WITH
+│     SUPPORTING EVIDENCE only for a limited recount; a full-district recount
+│     needs none  [25 P.S. § 3263(a)(1)]
+│     ✱ A MERITS GATE IS A DIFFERENT ANIMAL FROM A MARGIN GATE. A margin is
+│       arithmetic anyone can check. "A reasonable chance of winning" is a
+│       judgment, made by the body whose own count is being questioned.
+│
+├─▸ TIER 0. NO ADMINISTRATIVE RECOUNT AT ALL ...... ILLINOIS · MISSISSIPPI ·
+│     TENNESSEE                                      ◈ contested — see Note 4
+│     ⊘ there is no recount to trigger, request or pay for
+│     → the only route to a second count is an ELECTION CONTEST — a lawsuit, on a
+│       court's calendar, under a standard of proof set by state law
+│     ✱ THESE THREE STATES ARE THE AUDIT FINDING'S MIRROR IMAGE. The audit map
+│       found states where a check runs and cannot change the number. Here no
+│       check runs at all, and the number can only be changed by litigation.
+│
+■ PART B — THE DENOMINATOR PROBLEM  (why no column on any such table is comparable)
+│
+│  Every fifty-state recount table prints a percentage column. The percentages are
+│  not percentages of the same thing. FIVE DIFFERENT DENOMINATORS ARE IN USE:
+│
+├─▸ 1. ALL VOTES CAST IN THE CONTEST .............. the modal form
+│     ALABAMA "no more than .5% of the votes cast" · HAWAII "of the total number
+│     of votes cast for the contest" · MICHIGAN "of the total number of votes cast
+│     in a statewide election" · PENNSYLVANIA "of votes cast"
+│
+├─▸ 2. THE TOP TWO CANDIDATES' COMBINED TOTAL
+│     ARIZONA "the difference in total votes cast for the top two candidates" ·
+│     OREGON "no more than .2% of total votes for both candidates"
+│     ✱ in a three-way race this is a SMALLER denominator than form 1, so the same
+│       stated percentage is a TIGHTER threshold — fewer races qualify.
+│
+├─▸ 3. THE WINNING CANDIDATE'S OWN TOTAL
+│     COLORADO "less than or equal to one-half of one percent OF THE HIGHEST VOTE
+│     CAST in that election contest"  [C.R.S. 1-10.5-101(1)(b)]
+│     ✱ in a two-way race this is roughly HALF the denominator of form 1, so
+│       Colorado's "0.5%" is approximately a 0.25% threshold in form-1 terms.
+│       It is printed in the same column as Alabama's.
+│
+├─▸ 4. THE LOSING CANDIDATE'S OWN TOTAL
+│     TEXAS "less than 10 percent of THAT CANDIDATE'S number of votes" — the
+│     petitioner's own total  [Tex. Elec. Code § 212.022]
+│     ✱ THIS IS NOT A MARGIN THRESHOLD AT ALL. It is a ratio between two
+│       candidates, and it is enormously wider than it looks: a candidate who
+│       loses 55–45 is inside it. Texas's eligibility rule is the loosest in the
+│       country and its automatic trigger is the narrowest possible — a tie.
+│
+└─▸ 5. NO PERCENTAGE. A RAW NUMBER OF VOTES.
+      MICHIGAN ...... state senate ≤75 votes · state representative ≤25 votes
+      CONNECTICUT ... fewer than 20 votes  ·  NEW YORK ... 20 votes or fewer
+      DELAWARE ...... fewer than 1,000 votes or 0.5%, WHICHEVER IS LESS
+      HAWAII ........ 100 votes or 0.25%, WHICHEVER IS GREATER †
+      WASHINGTON .... fewer than 2,000 votes AND less than 0.5% — a CONJUNCTION,
+                      so a large close race can fail the vote test and not recount
+      NEW YORK ...... or fewer than 5,000 votes where 1,000,000+ ballots were cast
+      ✱ "WHICHEVER IS LESS", "WHICHEVER IS GREATER" AND "AND" ARE THREE DIFFERENT
+        LOGICAL OPERATORS JOINING THE SAME TWO TESTS, and they point in opposite
+        directions. Delaware's pair narrows the trigger as the electorate grows;
+        Hawaii's widens it; Washington's requires both and is therefore the
+        narrowest of the three. No table in circulation marks the operator.
+│
+■ PART C — WHO MAY ASK  (standing, which is not the same question as the margin)
+│
+├─▸ A DEFEATED CANDIDATE ........................ the near-universal rule
+│
+├─▸ NO CANDIDATE MAY ASK — AUTOMATIC TRIGGER ONLY ... 7 states
+│     ARIZONA · CONNECTICUT · FLORIDA · HAWAII · NEW YORK · PENNSYLVANIA ·
+│     SOUTH CAROLINA
+│     ✱ IN THESE SEVEN STATES A LOSER OUTSIDE THE THRESHOLD HAS NO RECOUNT AT ANY
+│       PRICE. The margin is not a cost gate, it is the whole of the law, and the
+│       only remaining route is a contest in court.
+│     ◈ one tracker prints this list as NINE by folding in Illinois, Mississippi
+│       and Tennessee — which have no recount at all, a different category — and
+│       DROPPING Pennsylvania, where candidates genuinely cannot ask. See Note 3.
+│
+├─▸ VOTERS OR ELECTORS, BY PETITION
+│     PENNSYLVANIA ... three qualified electors per election district — the ONLY
+│                      route in the state, and it is organised by district rather
+│                      than by race, so a statewide recount is assembled district
+│                      by district  [25 P.S. § 3261]
+│     MASSACHUSETTS .. 1,000 or more voters
+│     TEXAS .......... 25 or more voters jointly, ballot measures only
+│     also: ALABAMA · ALASKA · CALIFORNIA · NEVADA · NEW JERSEY · SOUTH DAKOTA
+│     ✱ A PETITION THRESHOLD IS AN ORGANISING TEST, NOT A LEGAL ONE. Three
+│       electors is a phone call; 1,000 voters is a campaign. The same nominal
+│       right is available to an individual in one state and only to an
+│       organisation in another.
+│
+├─▸ A POLITICAL PARTY ... COLORADO · INDIANA · MICHIGAN · OREGON · SOUTH DAKOTA ·
+│                         WASHINGTON
+│
+└─▸ AN ELECTION OFFICIAL ... CALIFORNIA · GEORGIA · OREGON · WYOMING
+      ✱ worth naming because it is the one route that does not require a loser at
+        all — the administrator can order a recount of a race nobody contested.
+│
+■ PART D — WHO PAYS, AND WHAT EARNS THE MONEY BACK
+│
+│  The deposit is the famous part. The REFUND CONDITION is the part that decides
+│  whether the deposit is a fee or a wager, and it varies in KIND, not just degree:
+│
+├─▸ REFUNDED IF THE OUTCOME CHANGES ............... the standard rule
+│     TEXAS [§§ 215.003–004] · MICHIGAN [§§ 168.867(9), 168.881(17)] · and most
+│     tier-3 states
+│     ✱ A WAGER ON A ONE-IN-TWO-THOUSAND EVENT. Of 6,929 statewide general
+│       elections from 2000 to 2023, 36 went to a recount and THREE reversed.
+│
+├─▸ REFUNDED IF THE OUTCOME CHANGES *OR* IF AN AUTOMATIC RECOUNT WOULD HAVE BEEN
+│     WARRANTED ANYWAY ... COLORADO [C.R.S. 1-10.5-106]
+│     ✱ the only design on the map that refunds for being RIGHT ABOUT THE MARGIN
+│       rather than right about the winner.
+│
+├─▸ REFUNDED IF FRAUD OR SUBSTANTIAL ERROR IS DISCOVERED ... PENNSYLVANIA
+│     [25 P.S. § 3261(d)]
+│     ✱ A DIFFERENT BET ENTIRELY. Petitioners can be completely vindicated on the
+│       facts — real error found, result unchanged — and still get their money
+│       back, which no outcome-based rule allows.
+│
+├─▸ REFUNDED IF THE DISCREPANCY EXCEEDS A STATED SIZE ... MINNESOTA, where the
+│     jurisdiction pays if the recount changes the winner OR shows a discrepancy
+│     "greater than two votes and greater than one-quarter of one percent"
+│     [§ 204C.35 subd. 2]
+│     ✱ the only refund rule keyed to the ACCURACY OF THE ORIGINAL COUNT rather
+│       than to the identity of the winner. It is an audit test wearing a recount's
+│       clothes — and it is the one provision on this map that pays a candidate for
+│       finding an error that did not help them.
+│
+└─▸ ⊘ NO REFUND AVAILABLE AT ALL ... reported for KENTUCKY · NORTH DAKOTA ·
+      RHODE ISLAND · SOUTH DAKOTA  ◈ this list is tracker-sourced and the trackers
+      disagree with each other; it is NOT verified against the statutes here and
+      should be checked before citation. See Note 5.
+│
+■ PART E — METHOD, AND WHETHER THE SECOND NUMBER IS THE OFFICIAL ONE
+│
+├─▸ WHO CHOOSES HAND OR MACHINE
+│     TEXAS .......... THE PETITIONER CHOOSES; absent a request, ballots are
+│                      recounted electronically "using the same program as the
+│                      original count"  [Tex. Elec. Code § 214.042(c)]
+│                      ✱ A MACHINE RECOUNT ON THE SAME PROGRAM CANNOT DETECT A
+│                        PROGRAMMING ERROR. It re-runs the arithmetic, not the
+│                        reading of the ballot. It is a check on tabulation and
+│                        nothing else — the default in most states.
+│     FLORIDA ........ machine first; if the margin is then under 0.25%, a SECOND
+│                      recount BY HAND of overvotes and undervotes only
+│     DELAWARE ....... machine first; hand recount if still under 0.25%
+│     WASHINGTON ..... separate thresholds for a machine recount and a MANUAL one
+│     GEORGIA ........ ⚑ full hand recount, no machine stage, for the eight
+│                      offices in Part A  [SB 3EX, 2026]
+│
+└─▸ ⚖ DOES THE RECOUNT REPLACE THE CERTIFIED RESULT? YES — AND THIS IS THE WHOLE
+      DIFFERENCE FROM AN AUDIT. A recount produces the official tally; Georgia's
+      2026 statute says so in terms, that the hand-counted results "become the new
+      official results." The post-election audit crosswalk found that in most
+      states an audit has NO mechanism to amend a certificate. The recount needs
+      no such mechanism because it IS the count, not a check on one.
+      ✱ THE TWO INSTRUMENTS ARE THEREFORE NOT REDUNDANT AND NOT SUBSTITUTES. An
+        audit samples to detect error and mostly cannot fix it; a recount re-tallies
+        to replace the number and mostly is not triggered. A state can have both
+        and still have no working remedy, because the audit that could detect the
+        problem does not bind and the recount that would bind does not fire.
+│
+■ PART F — WHAT NO RECOUNT ON THIS MAP REACHES
+│
+├─  ELIGIBILITY, AGAIN. A recount re-counts the ballots that were accepted. It
+│   does not revisit acceptance. The sharpest case of the cycle is INDIANA SENATE
+│   DISTRICT 23, 2026: the state Recount Commission discarded ballots lacking a
+│   clerk's signature and flipped a three-vote race; the Indiana Supreme Court
+│   restored them on 10 September 2026 and flipped it back, 6,335–6,332. The
+│   recount turned entirely on WHICH BALLOTS COUNT, which is not a counting
+│   question, and a court had to answer it.
+│
+├─  ⊘ FEDERAL LAW. THERE IS NO FEDERAL RECOUNT REQUIREMENT, exactly as there is
+│   no federal audit requirement. The Help America Vote Act regulates the voting
+│   SYSTEM and commands no second count of any result. The one federal clock that
+│   constrains recounts — the deadline for a state to resolve a presidential
+│   contest before the electors meet — DOES NOT APPLY TO A MIDTERM. On
+│   3 November 2026 the binding deadlines are state deadlines and the seating
+│   dates of the chambers, and nothing federal shortens them.
+│
+├─  THE MARGIN THAT NEVER GETS COUNTED. Every tier on this map is keyed to a
+│   margin, which means the entire system is designed around the possibility that
+│   a CLOSE count is wrong and is silent on the possibility that a LOPSIDED one
+│   is. No state recounts a race because the result was surprising.
+│
+├─  THE DOWN-BALLOT MAJORITY. The percentage triggers are written for statewide
+│   contests; Michigan's are the rare office-specific ones. A county commission
+│   race decided by four votes is inside almost no state's automatic trigger as a
+│   percentage of a small electorate, and its loser is the least likely of anyone
+│   on the ballot to be able to fund a tier-3 recount.
+│
+└─  THE CERTIFIED RESULT THAT IS WRONG FOR A REASON A COUNT CANNOT FIND. Where the
+    objection is eligibility, procedure, or fraud rather than arithmetic, the
+    recount is the wrong instrument and the election contest is the only one left.
+    That is the next map in this lane, and the three court-only states in Part A
+    are where it is the FIRST instrument as well as the last.
