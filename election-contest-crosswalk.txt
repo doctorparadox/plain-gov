@@ -1,0 +1,213 @@
+STATE ELECTION CONTEST CROSSWALK — the forum is a function of the office, not the
+state                                                         (as of 7 October 2026)
+│  Legend:  ▸ class / lane   ◇ who may file   ⚖ tribunal   ⏱ deadline
+│           ⊕ standard of proof   ↪ remedy   ⊘ does not exist
+│           ⚑ changed for November 2026   † from the statute   ? unconfirmed
+│
+│  THE ONE-LINE VERSION: THERE IS NO SUCH THING AS "A STATE'S CONTEST FORUM."
+│  Virginia has four tribunals, Texas five, Pennsylvania five statutory classes —
+│  and Texas and Pennsylvania sort them in OPPOSITE directions. Read Part A before
+│  trusting any fifty-state contest table that prints one forum per state.
+│
+■ PART A — THE FORUM SPLITS BY OFFICE  (three states, worked all the way down)
+│
+├─▸ TEXAS † Tex. Elec. Code § 221.002 — five tribunals, one statute
+│     ⚖ district court .................. EXCLUSIVE ORIGINAL JURISDICTION, default
+│     ⚖ Senate + House in JOINT SESSION .. governor · lieutenant governor ·
+│                                          comptroller · land commissioner · AG
+│     ⚖ the SENATE alone ................. state senator  (general or special)
+│     ⚖ the HOUSE alone .................. state representative
+│     ⚖ the GOVERNOR ..................... PRESIDENTIAL ELECTORS
+│     ✱ READ THAT LAST LINE AGAIN. The exclusive tribunal for a contest over the
+│       election of presidential electors is ONE EXECUTIVE OFFICER, elected on the
+│       same ballot being contested. No court has original jurisdiction over it.
+│     ⚖ court of appeals ................. appellate only, over district-court cases
+│
+├─▸ PENNSYLVANIA † 25 P.S. § 3291 — every office pre-sorted into five classes
+│     ▸ CLASS I ... governor · lieutenant governor
+│         ⚖ "a committee to be selected from both houses of the General Assembly"
+│           (25 P.S. § 3312) — a LEGISLATIVE tribunal
+│     ▸ CLASS II .. presidential electors · all statewide Commonwealth officers ·
+│                   nominations for U.S. Senator
+│     ▸ CLASS III . judges of the several courts
+│     ▸ CLASS IV .. state senators · state representatives ·
+│                   nominations for U.S. Representative
+│         ⚖ "shall be by the courts of law" (Pa. Const. art. VII § 13) — JUDICIAL
+│     ▸ CLASS V ... every county, city, borough, township, ward, school district
+│                   and other local office
+│     ✱ THE INVERSION: Pennsylvania sends its own legislators' seats to JUDGES and
+│       the governorship to LEGISLATORS. Texas does exactly the reverse. Both are
+│       current law. Neither is the "normal" design, because there isn't one.
+│
+└─▸ VIRGINIA † Va. Code § 24.2-803 to -806 — four tribunals, four deadlines
+      ⚖ House Committee on Privileges and Elections ...... General Assembly seats
+                                                           (§ 24.2-803)
+      ⚖ General Assembly, BOTH HOUSES in joint session ... governor · lieutenant
+                                                           governor · AG (§ -804)
+      ⚖ special 3-judge court, Circuit Court of the City of Richmond — the chief
+        judge plus two circuit judges from NON-CONTIGUOUS circuits appointed by
+        the Chief Justice ................................. presidential electors ·
+                                                           statewide primaries
+                                                           (§ 24.2-805)
+      ⚖ special 3-judge circuit court where the candidate listed residency
+        ................................................... U.S. House · state
+                                                           legislative · local
+                                                           (§ 24.2-806)
+      ✱ The non-contiguous-circuit rule is the only venue provision found on this
+        map that is explicitly designed to seat judges with no local stake.
+│
+■ PART B — WHO MAY FILE  (standing, and it is wider than "the loser")
+│
+├─▸ THE LOSING CANDIDATE ONLY ......... Virginia, every class † § 24.2-803 to -806
+│     ✱ The narrowest standing on the map. A Virginia contest dies with the
+│       candidate's decision not to bring it; no elector can revive it.
+├─▸ CANDIDATE OR A VOTER .............. Nevada (candidate or registered voter) ·
+│                                       Colorado ("qualified elector")
+├─▸ CANDIDATE, VOTER, OR TAXPAYER ..... FLORIDA † Fla. Stat. § 102.168(1)
+│     ✱ The widest standing found. A taxpayer who did not vote in the race, and
+│       could not have, may contest its result.
+├─▸ A GROUP OF VOTERS, BY COUNT ....... Pennsylvania — at least FIVE registered
+│                                       electors who voted in that election
+└─▸ VOTERS OR CANDIDATES, TO A BOARD .. North Carolina — the protest goes to the
+                                        county or State Board of Elections FIRST,
+                                        not to a court
+      ✱ North Carolina is the one state here where the first tribunal is the
+        election administrator itself, with Superior Court (Wake County) on appeal
+        within 10 days. Everywhere else the contest starts outside the agency.
+│
+■ PART C — THE CLOCK  (and the Virginia problem)
+│
+├─▸ MEASURED FROM CERTIFICATION
+│     ⏱ Virginia, electors / U.S. Senate .. 5:00 P.M. ON THE SECOND CALENDAR DAY
+│                                           † § 24.2-805 — the tightest on the map
+│     ⏱ Florida ........................... 10 days after midnight of the date of
+│                                           certification † § 102.168(2)
+│     ⏱ North Carolina .................... 5:00 p.m., 2nd business day after
+│                                           canvass (other irregularities)
+│     ⏱ Colorado .......................... 35 days for notice, then 35 more to
+│                                           file the complaint
+│     ⏱ Federal (U.S. House) .............. 30 days after the state authority has
+│                                           DECLARED the result  → see Part F
+├─▸ MEASURED FROM THE ELECTION (certification is irrelevant)
+│     ⏱ Pennsylvania ...................... 20 days after the election, whether or
+│                                           not a recount is running
+│     ⏱ Nevada ............................ 14 days after the election, or 5 days
+│                                           after a recount
+│     ⏱ Virginia, General Assembly seats .. 30 days after the election, or 3 days
+│                                           after a recount concludes, whichever
+│                                           is later † § 24.2-803
+│
+└─▸ ✱ THE STRUCTURAL FAULT: THE CONTEST CLOCK AND THE RECOUNT CLOCK ARE NOT THE
+    SAME CLOCK, AND IN VIRGINIA THEY RUN IN THE WRONG ORDER.
+      · recount petition .... within 10 days from certification † § 24.2-801
+      · contest notice ...... 5:00 p.m. on day 2 from certification † § 24.2-805
+      · and § 24.2-805 provides that the contest "SHALL NOT WAIT UPON THE RESULTS
+        OF ANY RECOUNT."
+      → The right to contest expires EIGHT DAYS BEFORE the right to petition for a
+        recount does. A Virginia candidate must decide whether to challenge the
+        count without the one procedure that would tell them whether to.
+      → Nevada and Virginia's § 24.2-803 are the counter-design: both run the
+        contest clock from the RECOUNT's conclusion, so the instruments nest.
+│
+│  ⚑ AND THE CLOCK MOVED FOR THIS ELECTION WITHOUT ANY CONTEST LAW CHANGING.
+│    Where the contest deadline runs from certification, moving certification moves
+│    the contest window. Two states moved certification for 3 November 2026:
+│      · IDAHO — H 873 moves the county canvass deadline from 10 days to NINE
+│      · NEBRASKA — LB 1075 requires county results at the state by the third
+│        Monday after Election Day, where PREVIOUSLY THERE WAS NO DEADLINE
+│    [Wisconsin also changed its canvass law, but effective for 2028, to conform to
+│     the Electoral Count Reform Act — not in force this November.]
+│
+■ PART D — THE STANDARD OF PROOF  (where the queue item said the variance would be,
+│                                   and it was right)
+│
+├─▸ STRICTEST — the result must necessarily flip
+│     ⊕ PENNSYLVANIA .... allegations that, if proven, would "DEFINITELY CHANGE
+│                         THE RESULTS"
+├─▸ MIDDLE — the result would have been different
+│     ⊕ NEVADA ......... illegalities "sufficient to change the result"
+│     ⊕ GENERAL RULE ... specific, credible evidence of fraud or irregularity "of
+│                        such extent that it would actually have changed" the
+│                        result; many jurisdictions require DIRECT EVIDENCE that
+│                        the illegal votes went to the winner
+├─▸ LOOSER — the result need only become unsafe
+│     ⊕ FLORIDA ........ misconduct, illegal votes counted, or legal votes rejected
+│                        "sufficient to change OR PLACE IN DOUBT the result"
+│                        † § 102.168(3)(a),(c)
+│     ✱ Florida is the only standard on this map a contestant can satisfy WITHOUT
+│       showing who would have won. Doubt is enough to state the claim.
+├─▸ LOOSEST ON ITS FACE — a threshold for pleading, not for winning
+│     ⊕ VIRGINIA ....... "specific allegations which, if proven true, would have a
+│                        PROBABLE IMPACT on the outcome" † § 24.2-807
+└─▸ DIFFERENT QUESTION ENTIRELY
+      ⊕ TEXAS .......... whether "the outcome ... is not the true outcome" because
+                         illegal votes were counted, or an election officer
+                         prevented voting, failed to count legal votes, or
+                         "engaged in other fraud or illegal conduct or made a
+                         mistake" † § 221.003
+      ✱ Texas does not ask the contestant to prove they won. It asks the tribunal
+        to find the true outcome — and § 221.011 lets it void the election
+        "WITHOUT ATTEMPTING TO DETERMINE HOW INDIVIDUAL VOTERS VOTED" once the
+        illegal votes equal or exceed the margin. That is the only standard here
+        that does not require tracing a single ballot to a single candidate.
+│
+■ PART E — THE REMEDY  (four of them, and they are not interchangeable)
+│
+├─▸ ↪ DECLARE THE TRUE OUTCOME, OR VOID THE ELECTION
+│     TEXAS † § 221.012 — "If the tribunal ... can ascertain the true outcome of
+│     the election, the tribunal shall declare the outcome. The tribunal SHALL
+│     DECLARE THE ELECTION VOID IF IT CANNOT ASCERTAIN THE TRUE OUTCOME."
+│     ✱ The cleanest remedy on the map: a binary with no third option and no
+│       discretion. Costs are then split equally between the parties (§ 221.013).
+├─▸ ↪ OUSTER, EXECUTED BY THE EXECUTIVE
+│     FLORIDA † § 102.1682 — "a judgment of ouster shall be entered"; on receiving
+│     a certified copy, "the Governor shall revoke such commission and commission
+│     the person found in the judgment to be entitled to the office."
+│     ✱ The court decides; the GOVERNOR performs the remedy. The judgment is not
+│       self-executing against the office.
+├─▸ ↪ A MENU, CHOSEN BY A LEGISLATIVE BODY
+│     VIRGINIA † § 24.2-803 — the House may declare the CONTESTANT elected, confirm
+│     the CONTESTEE, void the election and order a new writ, or, on a tie,
+│     DETERMINE THE WINNER BY LOT.
+├─▸ ↪ A NEW ELECTION
+│     NORTH CAROLINA — the board may authorize voters to re-cast, or order a NEW
+│     ELECTION, where ineligible or prevented voters exceed the margin or
+│     "irregularities taint the results."
+└─▸ ⊘ NOTHING
+      Where the term has substantially run before the proceeding ends, and where no
+      statute provides a remedy for the office in question, a proven contest
+      produces a declaration and no seat. [The map does not quantify this; see
+      Note 9 — it is the largest unmeasured cell on the page.]
+│
+■ PART F — THE HOLE AT THE TOP  (the two federal offices on every November ballot)
+│
+│  ✱ A STATE CONTEST CANNOT FINALLY RESOLVE A SEAT IN CONGRESS. U.S. Const. art. I
+│    § 5 cl. 1 makes each chamber "the Judge of the Elections, Returns and
+│    Qualifications of its own Members." The state proceeding produces evidence;
+│    the chamber produces the member.
+│
+├─▸ U.S. HOUSE — the Federal Contested Elections Act
+│     ◇ a candidate who lost by the state-certified result
+│     ⏱ notice of contest within 30 DAYS after the state election authority "has
+│       declared the results"  [note: DECLARED, not certified — see Note 7]
+│     ⏱ contestee's answer within 30 days; non-response "shall not be deemed an
+│       admission of the truth"
+│     ⚖ the Committee on House Administration takes jurisdiction and may create a
+│       task force, direct an audit, or direct a RECOUNT — through the GAO
+│     ⚖ the HOUSE ITSELF decides, by vote
+│     ⊕ "The burden is upon contestant to prove that the election results entitle
+│       him to contestee's seat"; the state certification is PRESUMPTIVE evidence
+│       of validity that the contestant must overcome
+│     ✱ FCEA contests rarely change results. The structural reason is in the
+│       standard: the contestant must beat a presumption created by the very
+│       count they say is wrong.
+│
+└─▸ U.S. SENATE — no FCEA analogue
+      ⚖ the Senate, under the same art. I § 5 power, by its own procedure
+      ? the Senate's modern practice is NOT mapped here — left [unconfirmed]
+        rather than asserted. See Note 11.
+│
+│  ✱ SO THE CROSSWALK HAS A HOLE EXACTLY WHERE THE STAKES ARE HIGHEST. Of the
+│    offices on a 3 November 2026 ballot, the ones a state contest cannot finish
+│    are the federal ones — and for presidential electors, Part A shows that two
+│    states hand even the state-side proceeding to a political officer.
