@@ -1,0 +1,382 @@
+HOW A VOTER IS REMOVED FROM THE ROLLS — four doors out, one of them guarded
+                                                              (as of 9 October 2026)
+│  Legend:  ▸ door / track / lane    ⚡ trigger    ◇ who decides
+│           ▶ main path   └▶ branch   ⛔ federally required stop
+│           ⊘ a protection that does not exist     ✱ the structural point
+│           ⚑ live in 2026    † source flags its own figure unverified
+│           ◈ count is a definitional artifact
+│
+│  THE ONE-LINE VERSION: THE ONE PROTECTION FEDERAL LAW GIVES — A FORWARDABLE
+│  NOTICE WITH A RETURN CARD — IS MAILED TO THE ADDRESS THE TRIGGERING DATABASE
+│  HAS ALREADY CONCLUDED IS WRONG, AND THE VOTER'S SILENCE IS THEN READ AS
+│  CONFIRMATION OF THE MOVE. See Part B ▸ 3, then Part D before trusting any
+│  description of list maintenance as a process with notice in it.
+│
+■ PART A — THE FOUR DOORS OUT  [§ 20507(a)(3): the list is exhaustive]
+│
+│  "shall not remove the name of a registrant ... except — (A) at the request of
+│   the registrant; (B) as provided by State law, by reason of criminal
+│   conviction or mental incapacity; or (C) as provided under subsection (a)(4)"
+│
+├─▸ DOOR 1. AT THE REGISTRANT'S OWN REQUEST .......... § 20507(a)(3)(A)
+│     ⚡ a signed request    ◇ the registrar, no discretion
+│     ⊘ no notice owed · ⊘ no waiting period · ⊘ EXEMPT from the 90-day rule
+│
+├─▸ DOOR 2. CRIMINAL CONVICTION ...................... § 20507(a)(3)(B)
+│     ⚡ a conviction record, matched by the state       ◇ STATE LAW decides
+│     ⊘ no federal notice owed · ⊘ no waiting period · ⊘ EXEMPT from 90 days
+│     ✱ FEDERAL LAW SETS NO STANDARD HERE AT ALL — it only permits what state
+│       law already provides, so the scope is 50 different answers and the
+│       federal floor is zero. See Part C.
+│
+├─▸ DOOR 3. ADJUDICATED MENTAL INCAPACITY ............ § 20507(a)(3)(B)
+│     ⚡ a court adjudication      ◇ STATE LAW decides; a court, not a registrar
+│     ⊘ no federal notice owed · ⊘ no waiting period · ⊘ EXEMPT from 90 days
+│
+└─▸ DOOR 4. THE "GENERAL PROGRAM" ................... § 20507(a)(3)(C)+(a)(4)
+      "a general program that makes a reasonable effort to remove the names of
+       ineligible voters ... by reason of — (A) the death of the registrant; or
+       (B) a change in the residence of the registrant"
+      ⚡ a database match      ◇ the registrar, under §§ (b), (c) and (d)
+      │
+      ├─▶ 4A. DEATH ......... ⊘ no notice owed · ⊘ EXEMPT from 90 days
+      │        ✱ THE ONLY DOOR THE VOTER CANNOT WALK BACK THROUGH ON ELECTION
+      │          DAY. Part F's affirmation remedy is a change-of-address remedy;
+      │          a living person removed as dead has no § 20507(e) route at all.
+      │
+      └─▶ 4B. CHANGE OF RESIDENCE ... ⛔ THE ONE GUARDED DOOR → Part B
+               the notice procedure, two federal general elections, the 90-day
+               quiet period, two years of public records, and a right to vote
+               anyway. Everything in this map that looks like due process is here.
+│
+│  ✱ STRUCTURAL POINT OF PART A, AND THE INVERSION THE WHOLE MAP TURNS ON:
+│    THE PROCEDURE RUNS INVERSELY TO THE FINALITY. The removal a voter can cure
+│    at the polls with a signature (4B) carries a notice, a card, a grace period
+│    of two federal general elections, a 90-day blackout and a public record.
+│    The removals that are categorical and uncurable — dead, convicted,
+│    adjudicated incompetent — carry NO federal notice, NO waiting period and an
+│    EXPRESS EXEMPTION from the blackout.  § 20507(c)(2)(B)
+│
+│  ✱ AND WHAT IS NOT ON THIS LIST: NON-CITIZENSHIP. It is not an enumerated
+│    federal ground. Every noncitizen-removal program of 2024–26 therefore has
+│    to be either a state-law program or an (a)(4) "general program" — which is
+│    the entire fight in RNC v. Mi Familia Vota.  ⚑ See Part G.
+│
+■ PART B — THE GUARDED DOOR: CHANGE OF RESIDENCE, STEP BY STEP
+│
+├─▸ 1. THE SENSOR FIRES ......................... § 20507(c)(1) and Part D
+│     the Postal Service NCOA file is the ONE sensor the statute names and
+│     blesses; every other sensor in Part D is a state-law invention
+│     │
+│     ├─▶ MOVED WITHIN the registrar's jurisdiction
+│     │     ▶ the registrar CORRECTS the record and mails a notice
+│     │     ▶ the voter stays registered — this is not a removal
+│     │
+│     └─▶ MOVED OUTSIDE the registrar's jurisdiction
+│           ▶ go to step 2. There is no shortcut.      § 20507(c)(1)(B)(ii)
+│
+├─▸ 2. THE WRITTEN-CONFIRMATION SHORTCUT ........ § 20507(d)(1)(A)
+│     ⚡ the registrant CONFIRMS IN WRITING a move outside the jurisdiction
+│     ▶ IMMEDIATE REMOVAL. No notice, no waiting, no two elections.
+│     ✱ This is the only fast path through the guarded door, and it requires
+│       the voter's own signature. Everything else goes through step 3.
+│
+├─▸ 3. ⛔ THE NOTICE — THE WHOLE PROTECTION ..... § 20507(d)(2)
+│     what the statute requires, exactly:
+│       • sent by FORWARDABLE MAIL
+│       • containing a POSTAGE-PREPAID, PRE-ADDRESSED RETURN CARD
+│       • stating that if the voter did NOT move, or moved within the
+│         jurisdiction, they should return the card by the next registration
+│         deadline
+│       • stating that if the card is NOT returned, the voter may be required to
+│         affirm or confirm their address before voting in a federal election,
+│         through the day after the SECOND federal general election following
+│       • stating that failing to vote in that period results in removal
+│     │
+│     ├─▶ CARD RETURNED, no move → nothing happens. The voter is protected.
+│     ├─▶ CARD RETURNED, moved out → removal under § 20507(d)(1)(A)
+│     └─▶ CARD NOT RETURNED → step 4
+│     │
+│     ✱ ✱ THE FINDING. THE NOTICE IS MAILED TO THE ADDRESS ON FILE — the address
+│       the sensor in step 1 has just asserted is no longer the voter's. The
+│       statute answers this with the word "forwardable," which works only if
+│       the Postal Service holds a forwarding order that has not expired. Where
+│       the sensor is not the NCOA file but a vendor's guess, the notice is
+│       mailed to the GUESS.  ⚑ Mississippi, 2025–26: Experian TrueTrace address
+│       data, all 82 counties from July 2025, at least 50,000 voters made
+│       inactive †, and per Mississippi Today affected voters "never received
+│       the required notice, which was often mailed to incorrect Experian
+│       addresses." Experian's own position on the product: "we don't verify
+│       residency."  [Miss. HB 1310 (2023) is the state authority]
+│     ✱ SO THE SILENCE THAT CONVICTS THE VOTER IS PRODUCED BY THE SAME ERROR THE
+│       NOTICE EXISTS TO CATCH. Non-delivery and non-response are indistinguish-
+│       able at the registrar's desk, and the statute assigns both to the voter.
+│
+├─▸ 4. INACTIVE STATUS — REGISTERED, BUT NOT COUNTED AS SUCH
+│     ⚡ the card was not returned by the next registration deadline
+│     ▶ the voter may be moved to INACTIVE. They are NOT removed. They may
+│       still vote — see Part F — but in most states they drop out of the
+│       "registered voters" denominator, out of absentee-mailing lists, and out
+│       of party and campaign contact files.
+│     ✱ THIS IS WHERE THE LARGE NUMBERS LIVE, AND WHY "PURGE" AND "REMOVAL"
+│       UNDERSTATE THE EXPOSURE. Inactive status is invisible to the voter until
+│       they try to vote, which is typically the first and only notice that
+│       works.  ⚑ Mississippi's 50,000 were INACTIVATIONS, not removals, and
+│       voters found out at the polls in the 10 March 2026 primary.
+│
+└─▸ 5. ⛔ REMOVAL, AFTER TWO FEDERAL GENERAL ELECTIONS .... § 20507(d)(1)(B)
+      ⚡ the voter neither responded to the notice NOR voted or appeared to vote
+         from the date of the notice through the day after the SECOND federal
+         general election following it
+      ▶ now the name may come off the list. Elapsed time: roughly four years.
+      ✱ FOUR YEARS IS THE LONGEST MANDATORY WAITING PERIOD IN AMERICAN ELECTION
+        LAW, AND IT PROTECTS ONLY THIS ONE DOOR. The other three remove on the
+        day the record matches.
+│
+■ PART C — THE PROHIBITED GROUND THAT OPERATES AS THE SENSOR
+│
+│  § 20507(b)(2), one paragraph, two halves that point opposite ways:
+│    HALF ONE ... any list-maintenance program "shall not result in the removal
+│                 of the name of any person ... by reason of the person's
+│                 failure to vote"
+│    HALF TWO ... "except that nothing in this paragraph may be construed to
+│                 prohibit a State from using the procedures described in
+│                 subsections (c) and (d) to remove an individual from the
+│                 official list ... if the individual — (A) has not either
+│                 notified the applicable registrar ... or responded during the
+│                 period described in subparagraph (B) to the notice ...; and
+│                 (B) has not voted or appeared to vote ... in any election
+│                 during the period beginning on the date of the notice and
+│                 ending on the day after the date of the second general
+│                 election for Federal office"
+│
+├─▸ HUSTED v. A. PHILIP RANDOLPH INSTITUTE ....... 584 U.S. ___ (2018)
+│     decided 11 June 2018 · 5–4 · ALITO, with Roberts, Kennedy, Thomas, Gorsuch
+│     ⚡ Ohio used FAILURE TO VOTE for two years as the trigger to SEND the card
+│     ◇ held: lawful. Ohio "does not strike any registrant solely by reason of
+│       the failure to vote"; it removes "only when they have failed to vote and
+│       have failed to respond to a change-of-residence notice."
+│     ✱ THE WORD CARRYING THE DECISION IS "SOLELY." Non-voting may not be the
+│       whole reason, so a state adds a letter and non-voting becomes the
+│       sensor instead of the ground. The prohibition survives intact and stops
+│       nothing: after Husted, inactivity is the cheapest, broadest trigger
+│       available, and it is aimed at precisely the registrants least likely to
+│       return a card.
+│
+■ PART D — THE SENSORS: WHAT TELLS A STATE YOU MOVED  (⚑ this is the live layer)
+│
+│  the statute names ONE and permits the rest by silence
+│
+├─▸ 1. USPS NATIONAL CHANGE OF ADDRESS (NCOA) ...... § 20507(c)(1) — NAMED
+│     the only sensor Congress wrote into the Act. A state that uses it
+│     satisfies the (a)(4) duty by its terms.
+│
+├─▸ 2. ERIC — THE MULTISTATE CROSS-MATCH ........... membership, not statute
+│     member-state obligations: request and ACT ON at least one list-maintenance
+│     report a year (in-state movers · movers to another member state · the
+│     deceased · duplicate registrations), AND mail notices to people found
+│     eligible but unregistered — the one list-maintenance instrument in the
+│     country that is required to ADD voters as well as subtract them.
+│     ✱ WHICH IS WHY LEAVING IT CUTS BOTH WAYS, AND WHY NINE STATES LEFT:
+│       LA (2022) · AL (Jan 2023) · FL · MO · WV · OH (Mar 2023) · IA (Jun 2023)
+│       · VA (announced Aug 2023) · TX (Jul 2023)
+│     ⚑ VIRGINIA REVERSED — executive order 25 March 2026 directing a return,
+│       plus VA2026 S 57 signed in April 2026. The only re-entry so far.
+│
+├─▸ 3. STATE DMV / MOTOR VEHICLE RECORDS ........... state law
+│     ⚑ the 2024 Virginia program ran on DAILY DMV feeds — see Part G.
+│
+├─▸ 4. DHS "SAVE" + SSA RECORDS .................... ⚑ REBUILT 2025–26
+│     Systematic Alien Verification for Entitlements, a DHS database in use
+│     since 1986 for benefits and licence eligibility. Under EO 14248
+│     (25 March 2025) it was rebuilt to: hold records of NATURAL-BORN CITIZENS ·
+│     reach SOCIAL SECURITY ADMINISTRATION records including SSNs · permit
+│     BULK SEARCH by the entities that use it.
+│     ⚑ FIVE STATES NOW MANDATE SAVE CHECKS OF ALL REGISTERED VOTERS:
+│       IA · KS · LA · MS · TN.  NORTH CAROLINA requires annual checks by
+│       ADMINISTRATIVE RULE of the State Board — not by statute.
+│     ✱ THE TOOL WAS BUILT FOR INDIVIDUAL BENEFIT ELIGIBILITY AND IS NOW A
+│       LIST-MAINTENANCE SENSOR, WHICH IS WHY THE "SYSTEMATIC" QUESTION IN
+│       PART E IS NOW THE WHOLE GAME.
+│
+├─▸ 5. DEATH RECORDS .............. 52 U.S.C. § 21083 (HAVA § 303) coordination
+│     the statewide database required by HAVA must coordinate with state death
+│     records and state felony-conviction records. Door 4A and Door 2 run here.
+│
+├─▸ 6. JURY SUMMONS RETURNS, UNDELIVERABLE MAIL, TAX NOTICES ...... state law
+│
+└─▸ 7. ⚑ CONSUMER CREDIT DATA ..................... THE OUTER EDGE
+      MISSISSIPPI: Experian TrueTrace address guesses, piloted in Lafayette
+      County 2024, statewide to all 82 counties July 2025; ~50,000 voters made
+      inactive on address conflicts †; $50,000 paid to Experian. The vendor
+      disclaims residency verification. Authority: HB 1310 (2023), which lets
+      the Secretary of State use "reliable information" to verify addresses.
+      ✱ THE STATUTE SAYS "RELIABLE" AND DELEGATES THE DETERMINATION OF
+        RELIABILITY TO THE OFFICE DOING THE REMOVING. Nothing in federal law
+        qualifies a sensor at all: § 20507 regulates the PROCEDURE after a match
+        and is silent on what may produce one.  ⊘ NO FEDERAL DATA STANDARD.
+│
+■ PART E — THE 90-DAY QUIET PERIOD, AND THE WORD IT TURNS ON
+│
+│  § 20507(c)(2)(A): a state "shall complete, not later than 90 days prior to
+│  the date of a primary or general election for Federal office, any program
+│  the purpose of which is to SYSTEMATICALLY remove the names of ineligible
+│  voters from the official lists of eligible voters"
+│
+├─▸ FOR 3 NOVEMBER 2026, THE BOUNDARY WAS ⚑ 5 AUGUST 2026.
+│     DOJ guidance treats the covered activities as including general mailings
+│     and door-to-door canvasses.
+│
+├─▸ WHAT § 20507(c)(2)(B) EXPRESSLY EXEMPTS FROM THE DEADLINE:
+│     • removal at the registrant's request ............ Door 1
+│     • removal by reason of death ..................... Door 4A
+│     • removal for criminal conviction or mental incapacity ... Doors 2 and 3
+│     • CORRECTIONS to a registrant's record ........... unbounded by its terms
+│     ✱ THREE OF THE FOUR DOORS ARE OPEN ALL YEAR. The blackout closes one.
+│
+└─▸ ✱ ✱ SO THE QUIET PERIOD PROTECTS A METHOD, NOT A VOTER. It is a limit on
+      the SHAPE of a removal process, not on the number of people removed, and
+      a state that can characterise its work as individualised rather than
+      systematic is outside it. In 2026 the characterisation got easier:
+      ⚑ DHS v. LEAGUE OF WOMEN VOTERS, No. 26A308, 25 SEPTEMBER 2026, 6–3,
+        unsigned, emergency docket. The Court STAYED Judge Sparkle Sooknanan's
+        (D.D.C.) injunction against the rebuilt SAVE system — she had found the
+        administration "knowingly trampled on the privacy rights of American
+        citizens" and that some states removed U.S. citizens from the rolls on
+        inaccurate information; the D.C. Circuit had denied a stay earlier in
+        September. SOTOMAYOR, KAGAN and JACKSON dissented; Jackson wrote that
+        the harm of disenfranchising even a few lawful voters outweighs the
+        government's — and noted that states "could still use the revamped
+        system for individualized voter-roll maintenance."
+      ✱ BULK SEARCH PLUS AN INDIVIDUALISED-INQUIRY CARVE-OUT IS A SYSTEMATIC
+        PROGRAM THAT DOES NOT MEET THE DEFINITION OF ONE.
+│
+■ PART F — ELECTION DAY: WHAT A REMOVED OR INACTIVE VOTER CAN STILL DO
+│
+├─▸ 1. THE § 20507(e) AFFIRMATION — the statute's own second chance
+│     a registrant who did not return the card may still vote:
+│     ├─▶ (e)(1) moved WITHIN the same polling area → vote there after
+│     │          affirming the new address, orally or in writing
+│     ├─▶ (e)(2) moved to another polling area in the same jurisdiction AND
+│     │          congressional district → vote at the FORMER polling place, at a
+│     │          CENTRAL LOCATION, or (where state law allows) at the new
+│     │          polling place; a state offering one need not offer the others
+│     └─▶ (e)(3) records show a move OUT of the polling area → the registrant
+│                may STILL VOTE THERE by affirming they live at the address on
+│                file
+│     ✱ THIS IS A REAL AND UNDERUSED REMEDY, AND IT IS WHY INACTIVE STATUS IS
+│       NOT DISENFRANCHISEMENT ON PAPER. It fails in practice for one reason:
+│       it requires a poll worker to know it exists and the voter to be told.
+│       ⊘ NOTHING IN THE STATUTE REQUIRES THE VOTER TO BE INFORMED OF IT.
+│
+├─▸ 2. THE PROVISIONAL BALLOT — where the affirmation is not offered
+│     ⚡ the voter is not on the roll, or is listed inactive, and no one invokes
+│       (e). HAVA § 302 guarantees the ballot; nearly every consequential rule
+│       about it is state law — the provisional ballot, covered on its own page.
+│     ⚑ MISSISSIPPI, 10 MARCH 2026 PRIMARY: inactive voters discovered their
+│       status at the polls; some were given affidavit ballots, some left
+│       without voting, and one 12-year voter received no ballot to mark at all.
+│
+└─▸ 3. ⊘ AND IF THE DOOR WAS 4A, 2 OR 3 — NOTHING HERE APPLIES.
+      § 20507(e) is a change-of-address remedy by its terms. A living voter
+      removed as deceased, or removed on a conviction match that is wrong or
+      belongs to someone else, has no statutory election-day cure. They are
+      a new registrant, against a registration deadline that has passed.
+│
+■ PART G — THE 2026 LIVE RECORD  ⚑
+│
+├─▸ THE LITIGATION THAT WILL DEFINE THE TERM
+│     RNC v. MI FAMILIA VOTA, No. 25-1017 (with Nos. 25-1019, 25-1022)
+│       cert granted .......... 29 JUNE 2026
+│       QP 2 ................. whether the NVRA prohibits a state from running a
+│                              program, within 90 days of a federal election, to
+│                              cancel the registrations of voters who are not
+│                              U.S. citizens
+│       QP 1 ................. whether the NVRA or a federal consent decree bars
+│                              Arizona from demanding documentary proof of
+│                              citizenship on the state registration form
+│       below ................ the Ninth Circuit held Arizona's citizenship-based
+│                              cancellations violate the quiet period
+│       ARGUMENT ............. 8 DECEMBER 2026
+│     ✱ THIRTY-FIVE DAYS AFTER THE ELECTION THE 2026 QUIET PERIOD WAS PROTECTING.
+│
+├─▸ THE PRECEDENT EVERYONE IS ARGUING FROM IS AN UNEXPLAINED ORDER
+│     BEALS v. VIRGINIA COALITION FOR IMMIGRANT RIGHTS, No. 24A407,
+│     30 October 2024 — the Court stayed Judge Patricia Tolliver Giles's order
+│     halting Virginia's noncitizen-cancellation program; brief, unsigned, NO
+│     REASONING; Sotomayor, Kagan and Jackson would have denied. More than
+│     1,600 registrations had been cancelled since early August, at least some
+│     belonging to U.S. citizens. Trigger: a 7 AUGUST 2024 executive order
+│     directing the DMV to supply election officials daily data; those flagged
+│     were cancelled unless they verified citizenship within 14 days.
+│     ✱ 7 AUGUST 2024 WAS EXACTLY 90 DAYS BEFORE 5 NOVEMBER 2024 — the program
+│       was launched on the first day of the quiet period it was accused of
+│       violating.  ✱ AND THE DISTRICT COURT'S ORDER EXPRESSLY LEFT INDIVIDUAL
+│       REMOVALS AVAILABLE, which is the systematic/individualised line of
+│       Part E drawn a year before SAVE made it load-bearing.
+│
+├─▸ THE FEDERAL DATA DEMAND
+│     at least 48 STATES AND DC received DOJ requests for complete statewide
+│     voter registration lists — including driver's licence numbers and partial
+│     Social Security numbers — plus ballots, equipment access and 2020 records.
+│     ≥16 states supplied full lists (AL AK AR FL IN IA LA MS NE OH OK SC SD TN
+│     TX WY); MS, SD and TN supplied theirs but refused to sign DOJ's
+│     confidential MOU; CO and MO refused equipment access. DOJ SUED 30 STATES
+│     AND DC; COURTS DISMISSED 26, the Sixth Circuit affirming the Michigan
+│     dismissal, and DOJ settled and dismissed as to Oklahoma.  [Brennan Center
+│     tracker]  Common Cause sued on 21 APRIL 2026 to block a national voter
+│     database and the running of voter data through SAVE.
+│     ✱ THE LOSING RECORD IS THE POINT: THE DEMAND DID NOT NEED TO WIN. Sixteen
+│       states handed the lists over voluntarily, so a national file assembled
+│       itself out of the compliant half while the litigation ran.
+│
+├─▸ THE 2026 STATE LEGISLATIVE LAYER
+│     SAVE checks of ALL registered voters MANDATED ... IA · KS · LA · MS · TN
+│     checks against unspecified state/federal databases ... FL · KY · UT
+│     DMV-based proof of citizenship ................... FL · MS · UT
+│     proof of citizenship for STATE ELECTIONS ONLY ..... SD · UT
+│       (federal elections keep a licence-or-SSN attestation under penalty of
+│        perjury — the SAVE Act's federal version remains stalled in Congress)
+│     NEW HAMPSHIRE ... S.B. 438 links voter and licence data; separately a
+│                       federal court STRUCK DOWN its proof-of-citizenship law,
+│                       restoring attestation
+│     ── AND THE TWO THAT RAN THE OTHER WAY ──
+│     VIRGINIA ....... H 972 LIMITS SAVE use to prevent erroneous removals;
+│                      S 57 rejoins ERIC
+│     WASHINGTON ..... H 1916 adds procedural protections against erroneous
+│                      cancellation
+│     ✱ SEVEN STATES WROTE A DATABASE INTO THEIR LIST-MAINTENANCE LAW IN ONE
+│       SESSION AND TWO WROTE PROTECTIONS AGAINST ONE. Both moves are about the
+│       same database.  [FL's proof-of-citizenship law will not take effect
+│       before the midterms; effective dates for the rest are not established
+│       here — see Note 11]
+│
+└─▸ THE SCALE, HONESTLY STATED
+      MIT Election Data and Science Lab: MORE THAN 21 MILLION REGISTRATIONS
+      REMOVED across the 2022 and 2024 general-election cycles combined — 9.1%
+      of registered voters — the three commonest reasons being failure to return
+      a confirmation notice, failure to vote in two consecutive federal general
+      elections, and moving out of the jurisdiction. ◈ No per-reason national
+      count exists in that source, and its own registered-voter base figure does
+      not reconcile with the percentage — see Note 12. 48 states disqualify on
+      certain convictions; 29 remove voters a court has found mentally
+      incompetent. ⊘ THERE IS NO NATIONAL COUNT OF WRONGFUL REMOVALS, because
+      no instrument produces one.
+│
+■ PART H — WHAT NO POST-ELECTION INSTRUMENT REACHES
+│
+│  the series, laid against this process:
+│    RECOUNT ......... re-counts ACCEPTED ballots .......... ⊘ cannot reach a removal
+│    AUDIT ........... re-reads a SAMPLE of accepted ballots ⊘ cannot reach a removal
+│    CANVASS ......... totals accepted ballots ............. ⊘ cannot reach a removal
+│    CONTEST ......... attacks the RESULT in a tribunal .... ⚠ in principle only
+│    TIE-BREAK ....... resolves equal totals ............... ⊘ cannot reach a removal
+│
+└─▸ ✱ THE CLOSING STRUCTURAL POINT. A REMOVAL IS DECIDED IN MARCH AND BECOMES
+      UNREVIEWABLE IN NOVEMBER. Every instrument the vault has mapped for
+      correcting an election operates on the ballots that were cast, and a
+      removal's effect is a ballot that was never cast — which leaves no
+      artifact to recount, no sample to audit, and no number to contest. The
+      only in-election trace is a provisional ballot, and whether the voter is
+      ever told it was rejected is a matter of state law. ⊘ IN NO STATE IS A
+      LIST-MAINTENANCE ERROR A GROUND FOR THE ELECTION TO BE RERUN.
