@@ -1,0 +1,290 @@
+HOW A TIE VOTE IS BROKEN — three families, not two, and the method is a
+function of the office                                        (as of 8 October 2026)
+│  Legend:  ▸ family / lane   ⚡ what happens first   ◇ who decides
+│           🎲 chance   🗳 another election   👤 a named officeholder chooses
+│           ⊘ does not exist   ⚑ live in 2026   ✱ the structural point
+│           ◈ count is a definitional artifact   † statute over tracker
+│
+│  THE ONE-LINE VERSION: EVERY FIFTY-STATE TABLE OF THIS SUBJECT PRINTS TWO
+│  COLUMNS — CHANCE AND A NEW ELECTION. THERE IS A THIRD, AND IN IT A SINGLE
+│  PARTISAN OFFICEHOLDER PICKS THE WINNER OF A TIED ELECTION. See Part A ▸ 3,
+│  then Part B before trusting ANY one-method-per-state table including this one.
+│
+■ PART A — THE THREE FAMILIES  (and the fourth state of having no rule at all)
+│
+├─▸ FAMILY 1. 🎲 CHANCE — "BY LOT" ................ ~28 states   ◈ see Note 1
+│     ⚡ the canvass shows equal totals; in 7 states a recount runs first
+│     ◇ an election officer or canvassing board, with NO discretion as to outcome
+│     → the worked statutes:
+│       VIRGINIA ....... electoral board for local office; STATE BOARD for General
+│                        Assembly, U.S. CONGRESS and PRESIDENTIAL ELECTORS
+│                        [Va. Code § 24.2-674]
+│       PENNSYLVANIA ... by lot at NOON ON THE THIRD FRIDAY after the election —
+│                        the only statutory clock-time found  [25 P.S. § 3168]
+│       IDAHO .......... "a toss of a coin" before the Secretary of State within
+│                        TWO DAYS of the canvass  [Idaho Code § 34-1216]
+│       IOWA ........... names DRAWN FROM PAPER before the canvassers
+│                        [Iowa Code § 50.44]
+│       HAWAII ......... by lot, chief election officer (state) or county clerk;
+│                        the 2019 Act 136 rewrite replaced an older formula
+│                        [Haw. Rev. Stat. § 11-157]  ⚑ USED TWICE IN 2026 — Part E
+│       WASHINGTON ..... "by public lot" by the official issuing the certificate
+│                        [Wash. Rev. Code § 29A.60.221]
+│       ALABAMA ........ Secretary of State draws lots PUBLICLY, IN FRONT OF THE
+│                        GOVERNOR  [Ala. Code § 17-12-23]
+│       also AZ · CA · CO · FL · IL · KS · KY · MI · MN · MS · NM · OH · OK · OR
+│            · UT · WI · WY, and AK · NE · ND · SD after a recount
+│     ✱ ONLY TWO OF THESE STATUTES NAME THE INSTRUMENT. Idaho says coin, Iowa
+│       says paper; the rest say "lot" and stop. The randomizer is therefore an
+│       administrative invention made on the day — see Part C, where the list of
+│       what has actually been used includes dice that failed twice.
+│     ✱ THIS IS THE ONLY FAMILY THAT CANNOT BE WON BY THE BETTER-RESOURCED
+│       CAMPAIGN. It is also the only one that produces a winner on a known date
+│       with no further voting, which is the entire argument for it.
+│
+├─▸ FAMILY 2. 🗳 ANOTHER ELECTION ................. ~12 states   ◈ see Note 1
+│     ⚡ the tie voids the result, or is treated as a vacancy
+│     ◇ THE VOTERS, a second time — the only family that returns the question
+│       to the electorate rather than taking it away
+│     → ARKANSAS ....... special runoff FOUR WEEKS after the election
+│                        [Ark. Code Ann. § 7-5-704]
+│     → GEORGIA ........ runoff 28 days later  [Ga. Code Ann. § 21-2-501]
+│     → LOUISIANA ...... runoff the FOURTH SATURDAY after the tie
+│                        [La. Rev. Stat. Ann. § 18:512]
+│     → MASSACHUSETTS .. runoff the FOURTH MONDAY OF NOVEMBER
+│                        [Mass. Gen. Laws ch. 50, § 2; Mass. Const. amend. art. XV]
+│     → RHODE ISLAND ... runoff the TENTH DAY after the tie is declared
+│                        [R.I. Gen. Laws § 17-3-3]
+│     → SOUTH CAROLINA . runoff TWO WEEKS after the election
+│                        [S.C. Code Ann. § 7-13-2210]
+│     → CONNECTICUT .... recount first; special election THREE WEEKS later
+│                        [Conn. Gen. Stat. §§ 9-311b, 9-332]
+│     → DELAWARE ....... the tie is TREATED AS A VACANCY; special election
+│                        [Del. Code tit. 15, §§ 5708, 7101]
+│     → VERMONT ........ recount; then a COURT-ORDERED runoff within three weeks
+│                        [Vt. Stat. Ann. tit. 17, § 2602k]
+│     → also IN · ME · MD
+│     ✱ THE COST OF THIS FAMILY IS A WHOLE ELECTION, AND THE BENEFIT IS THE ONLY
+│       DEMOCRATIC ANSWER AVAILABLE. Both are why the family is small: a state
+│       weighing finality against legitimacy has usually chosen finality.
+│
+├─▸ FAMILY 3. 👤 A NAMED OFFICEHOLDER CHOOSES ..... THE MISSING CATEGORY
+│     ⚡ nothing random, nothing re-voted
+│     ◇ A PERSON OR BODY WITH A PARTY, EXERCISING A CHOICE
+│     → MONTANA ........ "the governor shall appoint one of those candidates to
+│                        the office" — for a MEMBER OF THE LEGISLATURE, a DISTRICT
+│                        JUDGE, or a JUSTICE OF THE SUPREME COURT. The Secretary
+│                        of State merely certifies the totals to the Governor.
+│                        [Mont. Code Ann. § 13-16-503]
+│                        ✱ A TIED MONTANA SUPREME COURT ELECTION IS FILLED BY THE
+│                          GOVERNOR'S PICK. The judiciary's one check against
+│                          executive appointment — standing for election — fails
+│                          closed, into appointment, at an exact tie.
+│     → TENNESSEE ...... the STATE ELECTION COMMISSION "shall cast the deciding
+│                        vote," with four exceptions by office — see Part B
+│                        [Tenn. Code Ann. § 2-8-111]
+│     → NEVADA ......... general election, federal/statewide/district offices and
+│                        district judges: "the Legislature shall, by joint vote of
+│                        both houses, elect one of those persons to fill the
+│                        office"  [Nev. Rev. Stat. § 293.400(1)(a)]
+│     → NEW HAMPSHIRE .. state senate ties: joint vote of both houses
+│                        [N.H. Rev. Stat. Ann. § 660:24; N.H. Const. pt. 2, art. 34]
+│     → WEST VIRGINIA .. the county canvassers choose a winner; IF THEY FAIL
+│                        WITHIN 30 DAYS THE GOVERNOR DECIDES  [W. Va. Code § 3-6-12]
+│     → MISSOURI ....... hybrid: the GOVERNOR orders a special election, but the
+│                        candidates MAY AGREE to settle it by lot instead
+│                        [Mo. Rev. Stat. § 115.517]
+│     → TEXAS .......... hybrid: recount, then special election, OR lot by
+│                        agreement, OR one candidate simply withdraws
+│                        [Tex. Elec. Code Ann. § 2.002]
+│     ✱ THIS FAMILY IS WHY A ONE-METHOD-PER-STATE TABLE MISLEADS. A tracker
+│       sorting states into "chance" and "new election" has nowhere to put
+│       Montana, and the usual resolution is to file it under "other" or to
+│       print the method for whichever office the tracker happened to check.
+│     ✱ AND IT INVERTS THE QUEUE ITEM'S PREMISE FOR THESE STATES. The premise
+│       was that a tie is where the law concedes that process cannot produce an
+│       answer. Montana, Tennessee and Nevada concede nothing: they treat the
+│       tie as having TRANSFERRED the appointment power, from the electorate to
+│       a governor, a commission, or a legislature. The electorate did not fail
+│       to decide — it decided, exactly evenly, and the statute reads that as a
+│       vacancy to be filled.
+│
+└─▸ FAMILY 0. ⊘ NO TIE PROVISION AT ALL ........... NEW JERSEY · NEW YORK
+      ⊘ no statute names a method for a tied election
+      → NEW JERSEY ..... the remedies are the general recount and contest
+                         provisions  [N.J. Rev. Stat. §§ 19:28-1 et seq., 19:29-1
+                         et seq.]
+      → NEW YORK ....... no tie statute; what exists is a MANDATORY RECOUNT at a
+                         margin of 20 votes or fewer, or 0.5% or less
+                         [N.Y. Elec. Law § 9-208]
+      ✱ A MANDATORY RECOUNT IS NOT A TIE-BREAKER. New York's provision guarantees
+        that a tie will be re-counted and confirmed, and then says nothing. The
+        route out is a court — which is to say the one state with the largest
+        legislature in this family resolves a tied legislative election by
+        litigation on a judge's calendar — see the state election contest
+        crosswalk, linked below.
+
+■ PART B — THE FINDING: THE METHOD IS A FUNCTION OF THE OFFICE
+│
+│  Two statutes do the whole taxonomy in one section. Read either one and the
+│  idea of "a state's tie-break method" stops being a coherent unit.
+│
+├─▸ TENNESSEE, Tenn. Code Ann. § 2-8-111 — FIVE OFFICES, FIVE DECIDERS
+│     default ................ 👤 the STATE ELECTION COMMISSION casts the
+│                                 deciding vote
+│     county office .......... 👤 the county legislative body casts it —
+│                              🗳 OR calls a runoff BY RESOLUTION
+│     municipal office ....... 👤 the municipal legislative body casts it —
+│                              🗳 OR calls a runoff BY RESOLUTION
+│     U.S. HOUSE ............. 👤 THE GOVERNOR casts the deciding vote
+│     U.S. SENATE ............ 🗳 the election is VOID; the Governor orders a
+│                                 special election
+│     GOVERNOR ............... 👤 the GENERAL ASSEMBLY in joint convention
+│     ✱ TWO FEDERAL SEATS ON THE SAME BALLOT, TIED THE SAME NIGHT, GET OPPOSITE
+│       TREATMENT: the House seat is filled by one person's choice and the Senate
+│       seat is voided and re-run. Nothing in the statute explains the asymmetry,
+│       and the Senate rule is the more cautious of the two by a wide margin.
+│     ✱ NOTE ALSO THAT TWO OF THE FIVE ROUTES ARE ELECTIVE: a Tennessee county or
+│       municipal body may cast the deciding vote OR order a runoff, and the
+│       choice between a self-interested vote and an election is made by
+│       RESOLUTION, after the tie, by the body that stands to benefit.
+│
+├─▸ NEVADA, Nev. Rev. Stat. § 293.400 — BY OFFICE, AND ALSO BY STAGE
+│     GENERAL, U.S. Senator · U.S. Representative · statewide and district state
+│       officers · district judges · multi-county district officers
+│       ......................👤 THE LEGISLATURE, by joint vote of both houses
+│     PRIMARY, the same offices
+│       ......................🎲 the SECRETARY OF STATE determines it BY LOT
+│                                (the GOVERNOR, if the tie is for Secretary of
+│                                State — the one anti-self-dealing clause found
+│                                anywhere on this map, mirrored for county clerk)
+│     PRIMARY/GENERAL, partisan county · township · city · single-county district
+│       ......................🎲 the COUNTY CLERK determines it by lot
+│     NONPARTISAN PRIMARY, tie at the TOP
+│       ......................⊘ NO TIE-BREAK. ALL TIED CANDIDATES ARE DECLARED
+│                                NOMINEES and go on the general-election ballot.
+│     ✱ THE SAME TIE, THE SAME SEAT, THE SAME TWO CANDIDATES: CHANCE IN THE
+│       PRIMARY, A PARTISAN LEGISLATIVE VOTE IN THE GENERAL. The method is not a
+│       property of the state or even of the office — it is a property of the
+│       date.
+│     ✱ AND (d)(1) IS THE ONLY METHOD IN AMERICAN ELECTION LAW THAT RESOLVES A
+│       TIE BY NOT RESOLVING IT. The ballot grows instead. This is available only
+│       because a nonpartisan primary is a winnowing rather than a nomination —
+│       which is exactly why no general-election rule can copy it.
+│
+└─▸ VIRGINIA, Va. Code § 24.2-674 — BY LEVEL, AND THE CONGRESSIONAL REACH
+      county · city · town · district office ... 🎲 the ELECTORAL BOARD, by lot
+      GENERAL ASSEMBLY · U.S. CONGRESS ·
+        PRESIDENTIAL ELECTORS .................. 🎲 the STATE BOARD, by lot
+      ✱ A TIED SLATE OF VIRGINIA PRESIDENTIAL ELECTORS IS RESOLVED BY DRAWING
+        LOTS AT THE STATE BOARD OF ELECTIONS. See the Electoral College process
+        flow map, linked below, for what that collides with downstream.
+
+■ PART C — WHAT "BY LOT" ACTUALLY WAS  (the delegation, worked)
+│
+│  The statutes in Family 1 command randomness. Twenty-six of twenty-eight do not
+│  say how. What the canvassing authorities chose:
+│
+├─ film canisters in a bowl ....... VIRGINIA, House District 94, 4 Jan 2018
+├─ playing cards, ACE HIGH, suits
+│  ranked in advance ............. BRADENTON BEACH, FLA., mayor, Oct 2016
+├─ a "Vegas-style" card draw ..... CRIPPLE CREEK, COLO., council
+├─ coffee straws ................. MISSISSIPPI, state legislative contest, 2015
+├─ a coin toss ................... NEW MEXICO, state legislative race, 2014
+├─ a commemorative walrus-and-
+│  seal coin ..................... ALASKA, state House primary, 2006
+├─ a board-game piece from a bag . COOK COUNTY, MINN., commissioner
+└─ DICE, RE-ROLLED TWICE after
+   two failed attempts ........... WEBSTER, TEX., city council, 2012
+   ✱ THE DICE ARE THE IMPORTANT ENTRY. The randomizer failed, twice, and there
+     was no rule for its failure — so the authority re-rolled, which is a
+     decision about method made after the method had started. A statute that
+     delegates the instrument also delegates every question about what counts as
+     a valid draw, and none of them are written down anywhere.
+   ✱ NOTE THE PATTERN: THE SMALLER THE OFFICE, THE MORE INFORMAL THE DEVICE.
+     Nothing in any statute scales the solemnity of the procedure to the stakes,
+     so a city council seat and a chamber majority can be settled by the same
+     bowl. The 2018 Virginia drawing — Part E — was for control of a legislature.
+
+■ PART D — WHERE THE TIE SITS RELATIVE TO THE RECOUNT  (an ordering inversion)
+│
+├─▸ RECOUNT FIRST, THEN THE TIE-BREAK ..... ALASKA · NEBRASKA · NORTH DAKOTA ·
+│     SOUTH DAKOTA · TEXAS · VERMONT · CONNECTICUT
+│     the recount is a condition precedent: the tie-break procedure only runs
+│     if the recount CONFIRMS the tie
+│     [Alaska Stat. §§ 15.15.460, 15.20.530 · Neb. Rev. Stat. § 32-1122 ·
+│      N.D. Cent. Code §§ 16.1-15-30, 16.1-11-38 · S.D. Codified Laws § 12-21-43 ·
+│      Tex. Elec. Code § 2.002 · Vt. Stat. Ann. tit. 17 § 2602k ·
+│      Conn. Gen. Stat. §§ 9-311b, 9-332]
+│
+├─▸ TIE-BREAK FIRST, THEN THE RECOUNT ..... VIRGINIA
+│     § 24.2-674 applies where the tie exists "prior to a recount," and the
+│     candidate who LOSES THE DRAW "may petition for a recount pursuant to
+│     Article 1 (§ 24.2-800 et seq.)"
+│     ✱ SO IN VIRGINIA THE LOT IS DRAWN BEFORE ANYONE RE-COUNTS THE BALLOTS, AND
+│       THE RECOUNT IS A REMEDY AGAINST THE LOT. The two instruments run in
+│       exactly the opposite order from the seven states above, and the practical
+│       consequence is that a Virginia candidate must decide whether to seek a
+│       recount while already holding a certificate of loss issued by a bowl.
+│
+└─▸ THE RIGHT EXPRESSLY PRESERVED ......... NEVADA
+      § 293.400(3): "The right to a recount extends to all candidates in case of
+      a tie." ✱ Note the breadth — ALL candidates, including the one the lot or
+      the Legislature just declared the winner.
+      ⊘ NO STATE FOUND MAKES THE TIE-BREAK ITSELF REVIEWABLE. A recount attacks
+        the count that produced the tie; nothing attacks the draw. A bowl is not
+        a tribunal and there is nothing in it to appeal from.
+
+■ PART E — ⚑ LIVE IN 2026, AND THE ONE CASE THAT DECIDED A CHAMBER
+│
+├─⚑ HAWAII, 15 AUGUST 2026 — TWO PRIMARY TIES BROKEN BY LOT ON ONE DAY
+│    Chief Election Officer Scott Nago drew names from a box under
+│    Haw. Rev. Stat. § 11-157 to resolve two tied 2026 primaries:
+│      · Sen. Kurt Fevella v. Bob McDermott ....... McDermott drawn; advances
+│      · Kanani Souza v. Sheila Medeiros .......... Medeiros drawn; succeeded Souza
+│    Medeiros, having WON the draw, said the process "disenfranchises the
+│    electorate" and announced legislation for the session convening January 2027.
+│    ✱ THE OBJECTION CAME FROM THE WINNER, which is the strongest available
+│      evidence that the complaint about lot is about legitimacy and not outcome.
+│    ✱ AND NOTE WHAT A TIED PRIMARY COSTS: in Hawaii the draw replaces a
+│      nomination, so the general-election voters never see the losing candidate
+│      — whereas Nevada's nonpartisan rule at Part B would have advanced both.
+│      Two states, the same tie, and one of them has an answer that costs nothing.
+│
+└─ VIRGINIA HOUSE DISTRICT 94 — 11,607 TO 11,607, DRAWN 4 JANUARY 2018
+     The names went into film canisters, the canisters into a bowl, and the draw
+     seated the Republican incumbent. Republicans kept the chamber; the other
+     result was a 50-50 House of Delegates.
+     ✱ THE TIE WAS MANUFACTURED BY A MARK-VALIDITY RULING. The race was not tied
+       until a recount court re-examined one ballot, found the mark next to the
+       Democrat's name SLASHED THROUGH, and read it as a vote for the Republican.
+       One voter's ambiguous paper, read under the standards mapped on the
+       ballot marking validity crosswalk, created the tie; a bowl resolved it;
+       and control of a state legislature turned on both.
+     ✱ AND THE VIRGINIA ORDERING FROM PART D WAS LIVE HERE. The losing candidate
+       could have petitioned for a recount AFTER the draw, under § 24.2-674. What
+       stopped it was not the statute but the legislature's own calendar: the
+       session convened 10 January, six days later, and no recount panel could be
+       convened in time. ✱ A STATUTORY RIGHT DEFEATED BY A SITTING DATE.
+
+■ PART F — WHAT NO STATE TIE-BREAK CAN REACH
+│
+├─ U.S. Const. art. I § 5 cl. 1 makes EACH CHAMBER OF CONGRESS the judge of the
+│  elections and returns of its own members.
+│  ✱ SO TENNESSEE'S PROVISION GIVING A TIED U.S. HOUSE SEAT TO THE GOVERNOR, AND
+│    VIRGINIA'S AND NEVADA'S PROVISIONS RESOLVING TIED CONGRESSIONAL SEATS BY LOT
+│    OR BY LEGISLATIVE VOTE, PRODUCE A CERTIFICATE AND NOT A MEMBER. The House
+│    seats whom it chooses to seat, and may decline. The state procedure is
+│    evidence of a result, which art. I § 5 leaves the chamber free to weigh.
+│  → the federal track is the Federal Contested Elections Act; the state-side
+│    forum map is the state election contest crosswalk. Both linked below.
+│  ⊘ NO REPORTED CASE FOUND in which a chamber refused to seat the winner of a
+│    state tie-break. [unconfirmed whether one exists] — see Note 8.
+│
+└─ AND THE PRIOR QUESTION THIS MAP DOES NOT ANSWER: whether the totals were
+   right. A tie is a number, and every instrument that produces or checks that
+   number sits upstream — how a ballot is counted · ballot marking validity ·
+   post-election audits · recount triggers · certification. All linked below.
+   ✱ A TIE IS THE ONE RESULT WHERE EVERY UPSTREAM ERROR IS DECISIVE, because the
+     margin of error exceeds the margin by definition. Which is the real argument
+     against the bowl, and nobody's statute makes it.
