@@ -1,0 +1,220 @@
+STATE BALLOT POSITION CROSSWALK — who gets the top line, who decides, and the one
+state where position became procedure                        (as of 10 October 2026)
+│  Legend:  ▸ design / column   ⚡ what sets the order   ◇ who decides   $ cost to loser
+│           ⚖ legal status of a challenge   ⊘ does not exist   ✱ structural point
+│           ⚑ changed for November 2026   ◈ count is a definitional artifact
+│           † primary source over tracker   ⊙ inference from layout, not text
+│
+│  THE ONE-LINE VERSION: THE STATES THAT ASSIGN BALLOT ORDER ASSIGN IT IN THE ONE
+│  CONTEXT WHERE THE MEASURED EFFECT IS ~ZERO (major-party general elections), AND
+│  RANDOMIZE IT IN THE CONTEXTS WHERE THE EFFECT IS +2 TO +6 POINTS (primaries,
+│  nonpartisan races). Read Part D before drawing any conclusion from Part A.
+│
+■ PART A — THE SIX DESIGNS  (and why they do not add to fifty)
+│
+├─▸ 1. PARTY-BASED ORDER ........................ 8 states   ◈ see Note 1
+│     ⚡ the party's vote in a NAMED PRIOR STATEWIDE RACE, descending
+│     ◇ nobody, each cycle — the arithmetic of the last election decides
+│     ✱ NOT "the governing party." The top line belongs to the LAST WINNER of a
+│       specified race, so it lags the actual transfer of power by one cycle.
+│       FL · GA · NY · PA · TX ....... last GOVERNOR's race
+│       MI · IN ..................... last SECRETARY OF STATE's race
+│       WI ......................... last PRESIDENTIAL *or* GUBERNATORIAL race
+│       MO ......................... the party that WON the last governor's race
+│     [MD and DE order by majority/principal-minority party rather than by a vote
+│      count; Ballotpedia's 8-state count does not include them. See Note 1.]
+│
+├─▸ 2. RANDOM DRAW / LOT ........................ 13 states + DC   ◈
+│     ⚡ a drawing — bingo ball, coin, envelope, or a lot drawn by the state board
+│     ◇ the secretary of state, the state board, or a county board
+│     ✱ THE ONLY DESIGN THAT ASSIGNS NO ADVANTAGE ON PURPOSE. It does not remove
+│       the advantage — somebody still prints first — it removes the PATTERN,
+│       so the gain is noise across cycles rather than a standing asset.
+│       AR (county board) · KY · NH · SD · VA · WA · WV · DC
+│       RI · OK ................ parties by lot, then independents
+│
+├─▸ 3. ALPHABETICAL ............................. 8 states   ◈
+│     ⚡ the candidate's surname
+│     ◇ nobody — and that is the problem: the advantage is INHERITED
+│     ✱ A FIXED ALPHABET IS THE ONLY DESIGN IN WHICH THE ADVANTAGE IS HEREDITARY.
+│       AL · HI · LA · ME · MS · NV · VT ...... straight alphabetical
+│       TN ................................... primary ballots only
+│
+├─▸ 4. RANDOMIZED ALPHABET ...................... CA · NM · OR · UT
+│     ⚡ a letter drawn by lot, then the alphabet rotated from it
+│     ◇ the secretary of state
+│     ✱ THIS IS WHY WE KNOW ANY OF THIS. California's lottery is a randomized
+│       natural experiment, and every credible primacy estimate in Part D comes
+│       out of it. The state that neutralised the effect is the state that
+│       measured it.
+│
+├─▸ 5. ROTATION ................................. ~6 states   ◈
+│     ⚡ the order CHANGES between precincts, districts or ballot styles
+│     ◇ the statute, mechanically
+│     ✱ THE ONLY DESIGN THAT CANCELS THE EFFECT RATHER THAN ASSIGNING OR HIDING
+│       IT. Every candidate is first somewhere, so the primacy gain nets out
+│       inside the race instead of across cycles. It is also the most expensive
+│       to administer, which is why it is the rarest.
+│       OH (by precinct) · MI · NE · WY · KS (by geographic division) · MT
+│       ND (alternated) · ID (rotated; random alphabet under 100k registrants)
+│       AK (rotated, except state representative by random draw)
+│       MN (president by formula, other offices rotated)
+│
+└─▸ 6. THE SINGLETONS ........................... 2 states
+      MA ...... ⚡ INCUMBENTS FIRST, then parties, then everyone else
+                ✱ the only state that writes the incumbency advantage into the
+                  ballot itself, as a rule about the officeholder rather than
+                  about their party. Nobody litigates it.
+      IL ...... ⚡ ORDER OF FILING, with a lottery among simultaneous filers
+                ✱ converts ballot position into a queueing contest decided
+                  before any voter is involved, at the clerk's counter.
+│
+├─▸ RESIDUAL. "MULTIPLE METHODS" ................ 15 states   ◈ THIS IS THE DEFECT
+│     ✱ Ballotpedia's seven categories partition the 50 states EXACTLY ONCE, so
+│       15 states sit in a bucket that overlaps every substantive column above.
+│       GA · PA · TX · WI each order parties by a prior statewide vote AND
+│       appear here. Therefore "8 party-based states" UNDERCOUNTS the
+│       party-ordered states, and NO fifty-state ballot-order count in
+│       circulation is comparable to any other. Do not add these columns.
+│
+■ PART B — GEORGIA: WHERE POSITION BECAME PROCEDURE  ⚑ NEW FOR NOVEMBER 2026
+│
+├─ ⚑ SB 3EX — signed 25 June 2026 (special session). House 94–79 (R 93–3,
+│    D 1–76); Senate concurred 36–16 (R 32 yes; D 4 yes, 16 no).
+│
+├─▸ WHAT IT DOES
+│     ⚡ An AUTOMATIC FULL HAND RECOUNT of every ballot cast statewide, ordered
+│       by the secretary of state, REPLACING the machine recount counties
+│       otherwise run. The hand count becomes the official result.
+│     ⚡ TWO CONDITIONS, BOTH OF WHICH MUST HOLD:
+│         (1) the certified margin is within 0.5%, AND
+│         (2) the office "appears FIRST OR SECOND on the ballot"
+│     ◇ the secretary of state orders it; the state reimburses counties that
+│       finish within 17 days of the order
+│     ▸ EIGHT COVERED OFFICES: Governor · Lieutenant Governor · Secretary of
+│       State · Attorney General · State School Superintendent · Commissioner
+│       of Insurance · Commissioner of Agriculture · Commissioner of Labor
+│
+├─▸ ✱ THE STRUCTURAL POINT — CONDITION (2) IS A WORKLOAD CAP WRITTEN AS A RULE
+│    ABOUT TYPOGRAPHY, AND IT EXISTS NOWHERE ELSE IN AMERICAN ELECTION LAW.
+│     ⊙ In a Georgia gubernatorial cycle, Governor and Lieutenant Governor are
+│       the offices printed first and second — so of the eight offices NAMED,
+│       the position condition reaches TWO. The other six are covered in text
+│       and unreachable in that cycle's layout. [⊙ INFERENCE FROM BALLOT LAYOUT,
+│       NOT FROM BILL TEXT. The statute's own language is the position test; the
+│       count of offices it actually reaches in a given year follows from how
+│       that year's ballot is ordered. Verify against the certified 2026 ballot
+│       before relying on the number.]
+│     ✱ TWO RACES AT AN IDENTICAL MARGIN NOW GET DIFFERENT PROCEDURE DEPENDING
+│       ON WHERE THEY WERE PRINTED. The 0.5% margin is the same; the duty is not.
+│     ✱ AND IT COMPOUNDS, because Georgia is ALSO a party-order state (Part A.1):
+│       the party column is ordered by the LAST governor's race, and now the
+│       office order down the ballot gates a recount duty. Two separate
+│       typographic variables, each set by something other than this election.
+│
+└─ ⚑ The same bill delayed the 2024 ban on QR/bar-code ballot tabulation from
+     1 July 2026 to 2028 and ordered a committee to recommend equipment
+     standards. [Logged here because it rode the same vehicle; it is not a
+     ballot-position provision.]
+│
+■ PART C — WHAT ORDER IS ACTUALLY WORTH  (the primacy effect, measured)
+│
+├─▸ SOURCE: Ho & Imai on the CALIFORNIA ALPHABET LOTTERY — 80 statewide races
+│    (36 general, 44 primary), 473 candidates, 1978–2002. Randomized order, so
+│    these are causal estimates rather than correlations. †
+│
+├─▸ GENERAL ELECTIONS — percentage points of total vote, gain from first position
+│     Democrats ................. +0.05  (SE 0.46)   ⊘ NO DETECTABLE EFFECT
+│     Republicans ............... −0.06  (SE 0.53)   ⊘ NO DETECTABLE EFFECT
+│     Green ..................... +0.56
+│     Reform .................... +0.25
+│     Libertarian ............... +0.23
+│     American Independent ...... +0.16
+│     NONPARTISAN ............... +1.95  (SE 0.30)   ◀ largest general effect
+│
+├─▸ PRIMARY ELECTIONS — percentage points of PARTY vote
+│     Republicans ............... +2.16  (SE 0.46)
+│     Democrats ................. +1.89  (SE 0.32)
+│     NONPARTISAN ............... +3.44  (SE 0.78)
+│     Green ..................... +3.15
+│     Peace and Freedom ......... +6.31
+│     Libertarian ............... +6.59   ◀ ~50% of baseline vote share
+│     [Median primary effect in 1998 and 2000: roughly 1.6 points.]
+│
+├─▸ OUTCOME IMPACT
+│     ⚡ Ballot order "might have changed the winner in as many as 12 PERCENT of
+│       all primary races examined" — significant positive effects in 7 of 59.
+│     † THE 9.5-POINT FIGURE IS DEAD. Krosnick, Miller & Tichy's much-cited
+│       9.5 pp estimate for the 2000 presidential race shrinks to about 1 point
+│       and loses significance once district partisanship and multiple testing
+│       are accounted for. Any source still quoting 9.5 is quoting a reanalysed
+│       number.
+│
+└─▸ ✱ THE SHAPE OF IT: THE EFFECT GROWS AS INFORMATION FALLS. It is ~zero where
+     voters have a party label and an incumbency cue, and largest in primaries,
+     nonpartisan contests and low-salience down-ballot races. Which means the
+     party-order statutes of Part A.1 govern the LOW-EFFECT context, and the
+     lotteries and alphabets govern the HIGH-EFFECT one. The design is
+     misaligned with the harm in both directions at once.
+│
+■ PART D — WHY NOBODY HAS WON A BALLOT-ORDER CASE  (and what changed in 2026)
+│
+├─▸ THE WALL: Jacobson v. Florida Secretary of State, No. 19-14552
+│    (11th Cir., 3 Sept. 2020)
+│     ⚡ Florida gives first position to the party that won the last governor's
+│       race. The district court declared it unconstitutional and enjoined the
+│       secretary of state and all 67 county supervisors.
+│     ⚖ VACATED AND REMANDED WITH INSTRUCTIONS TO DISMISS FOR LACK OF
+│       JURISDICTION — on two independent grounds, NEITHER on the merits:
+│         ⊘ NO ARTICLE III STANDING. No plaintiff proved injury in fact; and any
+│           injury was neither traceable to the secretary of state nor
+│           redressable against her, because it is the COUNTY SUPERVISORS —
+│           not sued — who actually place candidates on the ballot.
+│         ⊘ NONJUSTICIABLE POLITICAL QUESTION, on Rucho v. Common Cause.
+│     ✱ THIS IS A REMEDY PROBLEM, NOT AN EVIDENCE PROBLEM. The harm in Part C
+│       is real, small and spread across millions of voters, which is exactly
+│       the profile that defeats particularised injury. The official who WRITES
+│       the rule is not the official who PRINTS the ballot, so even a plaintiff
+│       with an injury sues the wrong defendant.
+│
+├─▸ ⚑ THE DOOR: Bost v. Illinois State Board of Elections, No. 24-568
+│    (decided 14 January 2026, 7–2, Roberts; Jackson and Sotomayor dissenting)
+│     ⚡ Held: POLITICAL CANDIDATES HAVE ARTICLE III STANDING to challenge the
+│       election rules governing their own races, before voting or counting
+│       begins — a candidate has a "concrete and particularized interest" in
+│       the rules under which votes for them will be counted.
+│     ⚖ STANDING ONLY. The Court decided nothing about the underlying Illinois
+│       mail-ballot grace period, which it left for separate consideration.
+│     ✱ Jacobson's plaintiffs were VOTERS AND ORGANIZATIONS. Bost addresses the
+│       plaintiff class Jacobson's reasoning never reached. Whether a CANDIDATE
+│       disadvantaged by a ballot-order statute can now get to the merits in the
+│       Eleventh Circuit is UNTESTED — but the standing ground Jacobson rested
+│       on is narrower today than it was in 2020.
+│     ⊘ Nothing in Bost touches the political-question holding, which is the
+│       second and independent lock on the door.
+│
+└─▸ $ WHAT IT COSTS THE DISADVANTAGED PARTY TO DO NOTHING: in a party-order
+     state, the top line for a full cycle, worth ~0 points in a major-party
+     general election and up to ~2 points in that state's primaries — where
+     the party-order rule does not apply. The asset is worth least exactly
+     where it is assigned.
+│
+■ PART E — WHAT TO WATCH
+│
+├─ ⚑ NORTH CAROLINA ran its 2026 drawing on 19 DECEMBER 2025 under
+│    N.C.G.S. § 163-165.6(c): a bingo ball drew the letter "F" and a coin flip
+│    landed tails, giving REVERSE alphabetical order from F — F, E, D, C, B, A,
+│    Z, Y, X, W, V, U, T, S, R, Q, P, O, N, M, L, K, J, I, H, G — for every
+│    2026 primary and general contest except municipal races, which run strict
+│    alphabetical from A. The drawing was held the day candidate filing closed.
+│
+├─ ⊘ THERE IS NO FEDERAL BALLOT-ORDER RULE. HAVA sets requirements for voting
+│    systems, provisional ballots and registration; it says nothing about the
+│    order in which candidates are printed. Order is wholly a state question.
+│
+└─ ⊙ THE OPEN QUESTION THIS MAP DOES NOT ANSWER: whether any state has ever
+     measured the primacy effect inside its OWN design. California can, because
+     it randomizes. A fixed-alphabet or party-order state cannot — there is no
+     variation to measure against — so the states with the strongest claim to
+     be assigning an advantage are the states structurally incapable of
+     proving they are not.
