@@ -1,0 +1,273 @@
+HOW A CONCEDED ELECTION IS FINALIZED — the law has no concept of a concession,
+and the one lever it does have is a recount waiver        (as of 11 October 2026)
+│  Legend:  ▸ lane / machine   ⚡ what a concession actually touches
+│           ⊘ no legal effect, or a provision that does not exist
+│           ◇ who decides   ✱ the structural point   ⚑ live in 2026
+│           † statute read against the press account   ◈ measured, not statutory
+│
+│  THE ONE-LINE VERSION: THE ONLY FEDERAL ANSWER ON RECORD TO "WHAT IS THE LEGAL
+│  EFFECT OF A CONCESSION SPEECH?" IS THE WORD "NONE." Everything below is that
+│  word elaborated across six machines — and the ONE place where something does
+│  move, which is not a concession at all but a separate written instrument with
+│  its own deadline. Read Part C before trusting any account of a "waived"
+│  recount, including the 2024 Pennsylvania one.
+│
+■ PART A — WHAT A CONCESSION IS
+│
+├─▸ A PRESS EVENT. A candidate says, in public or by telephone, that he lost.
+│     That is the whole of it.
+│     ⊘ NOT a withdrawal of candidacy — the name stays on the certified return
+│     ⊘ NOT a waiver of any remedy — recount, contest and appeal all survive it
+│     ⊘ NOT a filing, a trigger, or a deadline of any kind
+│     ⊘ NOT required — no state or federal law obliges any candidate to concede
+│     ◇ decided by: the candidate alone, at a time of his own choosing
+│
+├─▸ THE ONLY FEDERAL STATEMENT ON RECORD
+│     NATIONAL ARCHIVES, Electoral College FAQ:
+│       Q. "What is the legal effect of a concession speech?"
+│       A. "None. A candidate's concession speech does not impact the States'
+│           duties and responsibilities related to the Electoral College
+│           process."
+│     ✱ THE QUESTION IS ASKED OFTEN ENOUGH THAT THE FEDERAL GOVERNMENT PUT IT IN
+│       AN FAQ, AND THE ANSWER IS ONE WORD.
+│
+└─▸ HOW OFTEN IT HAPPENS  ◈ measured, not statutory — see Note 1
+      Every defeated major-party House and Senate runner-up, 2020 and 2022 —
+      884 races, 31 non-major-party runners-up excluded:
+        CONCEDED .................... 65%    (Senate 77% · House 62%)
+        EXPLICITLY REFUSED .......... 8%
+        NO PUBLIC STATEMENT ......... 31%
+      by year:   conceded  63% (2020) → 68% (2022)
+                 refused   11% / 47 candidates (2020) → 4% / 18 (2022)
+      by party, both cycles:   14% of defeated Republicans refused
+                                1% of defeated Democrats refused
+      ✱ A THIRD OF DEFEATED CANDIDATES SAY NOTHING AT ALL. The non-concession
+        that gets written about is the 8%; the silent 31% is four times larger
+        and has exactly the same legal effect, which is none.
+│
+■ PART B — THE SIX MACHINES, AND WHAT A CONCESSION DOES TO EACH
+│
+├─▸ 1. THE CANVASS AND CERTIFICATION .................. ⊘ NOTHING
+│     The board counts what the returns say and certifies. Courts call the duty
+│     MINISTERIAL — an obligation "involving merely the execution of a set task"
+│     where the law "prescribes and defines the time, mode an[d] occasion for its
+│     performance with such certainty that nothing remains for judgment or
+│     discretion."  [Meyers v. Schultz]
+│     MICHIGAN wrote it into its constitution after the 2020 Wayne County
+│     refusals: it is "the ministerial, clerical, nondiscretionary duty of a
+│     board of canvassers, and of each individual member thereof, to certify
+│     election results based solely on" the certified statements of votes.
+│     [Mich. Const. art. II § 7(3) — adopted 8 Nov 2022, 59.99% to 40.01%]
+│     ✱ A BOARD MAY NOT CERTIFY EARLY, DIFFERENTLY, OR NOT AT ALL BECAUSE A
+│       CANDIDATE CONCEDED. The concession is not on the face of the returns,
+│       and the face of the returns is all the board may look at.
+│     → if it stalls: mandamus, or a statutory petition — New Mexico lets ANY
+│       VOTER petition for an order compelling certification
+│
+├─▸ 2. THE AUTOMATIC RECOUNT ..................... ⚡ THE ONE LIVE LANE
+│     Fires on a margin, by operation of law, in 26 STATES AND D.C.
+│     ⊘ a concession does not stop it, delay it, or narrow it
+│     ⚡ BUT a separate written instrument — a RECOUNT WAIVER — does, in the
+│       states that provide one. Part C is that provision. Part D is what
+│       happened in the one state whose window had already shut.
+│
+├─▸ 3. THE ELECTION CONTEST ........................... ⊘ NOTHING, DIRECTLY
+│     A lawsuit with its own clock, running from certification in Florida,
+│     Colorado, North Carolina and Virginia § 24.2-805.
+│     ⊘ no state's contest statute mentions concession
+│     ✱ BUT SEE PART E. In a state where only the losing CANDIDATE may file, a
+│       concession is functionally decisive — the one person with standing has
+│       publicly abandoned the claim and nobody may take it up.
+│
+├─▸ 4. THE PARTY'S OWN LITIGATION ..................... ⊘ NOTHING
+│     A party committee's suits over ballot rules, undated envelopes and
+│     provisional counts are its own. The candidate's concession neither moots
+│     them nor withdraws them; they end when the party dismisses them or the
+│     relief sought becomes unavailable.
+│
+├─▸ 5. SEATING IN CONGRESS ............................ ⊘ NOTHING
+│     U.S. Const. art. I § 5 cl. 1 makes each chamber the judge of its own
+│     members' elections. A conceded race still produces a certificate, and the
+│     chamber still seats — or declines to seat — on its own motion.
+│
+└─▸ 6. THE ELECTORAL COLLEGE  (presidential years) .... ⊘ NOTHING
+      The states appoint electors on the certified result and the electors meet
+      on the statutory date. Per the National Archives, a concession "does not
+      impact the States' duties and responsibilities."
+│
+■ PART C — THE RECOUNT WAIVER: THE ONLY LEGALLY OPERATIVE SHADOW
+│
+│  ✱ THE CENTRAL DISTINCTION OF THIS MAP. There is no legal act called
+│    "conceding." There IS a legal act called requesting in writing that the
+│    recount not be made, and it is the only thing a losing candidate can do
+│    that changes the machinery. It is not a concession, it does not require
+│    one, and a concession does not accomplish it.
+│
+├─▸ PENNSYLVANIA .... "A recount and recanvass shall not be ordered under
+│                     subsection (g)(1)(i) if the [defeated candidate] requests
+│                     in writing that a recount and recanvass not be made."
+│                     ⚠ DEADLINE: "by 12 o'clock noon on the second Wednesday
+│                     following the election."   [25 P.S. § 3154(h)]
+│                     ✱ THE ONLY HARD WAIVER DEADLINE FOUND. See Part D.
+│                     ⊘ no waiver for a BALLOT QUESTION under (g)(1)(ii) — the
+│                       provision reaches candidate races only
+│
+├─▸ FLORIDA ......... "A recount need not be ordered with respect to the returns
+│                     for any office, however, if the candidate or candidates
+│                     defeated or eliminated from contention for such office by
+│                     one-half of a percent or less of the votes cast for such
+│                     office request in writing that a recount not be made."
+│                     [Fla. Stat. § 102.141(7)]
+│                     ⊘ NO DEADLINE stated in the subsection
+│
+├─▸ NEBRASKA ........ "Any losing candidate may waive his or her right to a
+│                     recount by filing a written statement" with the Secretary
+│                     of State, election commissioner or county clerk with whom
+│                     the candidate filed.   [Neb. Rev. Stat. § 32-1119(2)]
+│                     ⊘ NO DEADLINE stated
+│
+├─▸ ARIZONA ......... ⊘ NO WAIVER PROVISION FOUND. § 16-661 says a recount "is
+│                     required" where the margin "is less than or equal to
+│                     one-half of one percent" and says nothing about declining
+│                     it; in practice the Secretary of State petitions a superior
+│                     court and a judge orders the recount.
+│                     [A.R.S. § 16-661; 2024 AZ-03 Democratic primary]
+│
+└─▸ ✱ THE SHAPE: WHERE THE WAIVER EXISTS IT IS A WRITING, NOT A SPEECH — AND ITS
+      DEADLINE IS THE VARIABLE NOBODY TRACKS. Of the four states worked above,
+      two set no deadline at all, one sets noon on a named day, and one offers no
+      waiver. ◈ NO FIFTY-STATE TABLE OF RECOUNT-WAIVER DEADLINES WAS LOCATED.
+      Every published recount survey counts triggers, thresholds and completion
+      dates; the waiver is one sentence inside the section and goes unsurveyed.
+      See Note 2.
+│
+■ PART D — ⚑ PENNSYLVANIA 2024: A MANDATORY RECOUNT ENDED AFTER ITS OWN WAIVER
+│           WINDOW HAD CLOSED
+│
+│  THE CLOCK, as the statute sets it:
+│    TUE  5 NOV 2024 ... election day
+│    WED 13 NOV, NOON .. ⚠ STATUTORY WAIVER DEADLINE — the last moment a defeated
+│                        candidate may request that the recount not be made
+│                        [25 P.S. § 3154(h)]
+│    WED 13 NOV ........ the Secretary of the Commonwealth ORDERS the statewide
+│                        recount; the margin is inside 0.5%
+│                        [outer limit: 5 p.m., the second Thursday — 14 Nov]
+│    …the recount runs in all 67 counties; several finish…
+│    THU 21 NOV ........ the defeated candidate CONCEDES, and his campaign asks
+│                        the Department of State to halt the recount
+│    FRI 22 NOV ........ the Department emails the counties that offices which
+│                        had not finished the Senate recount were "not required
+│                        to do so"
+│    MON 25 NOV ........ county certification deadline
+│
+├─▸ ✱ THE FINDING: THE CONCESSION CAME EIGHT DAYS AFTER THE ONLY DOOR THE
+│     STATUTE LEAVES OPEN HAD CLOSED. The § 3154(h) waiver expired at noon on
+│     13 November — the same day the recount was ordered. The request to stop
+│     arrived on 21–22 November. By then the recount was not waivable; it was a
+│     mandatory proceeding already under way.
+│
+├─▸ ⊘ NO STATUTE WAS CITED. The Department's public statement names no section
+│     of the Election Code. The stated reason was that continuing "would not be
+│     in the best interest of taxpayers." † The press coverage uniformly
+│     describes a candidate waiving or calling off the recount; the statutory
+│     waiver had lapsed, so whatever this was, it was not that.
+│
+└─▸ ✱ WHAT THE EPISODE ACTUALLY SHOWS. A concession has no legal effect — and it
+      ended a statutorily mandated statewide recount anyway, through an
+      administrative decision the Election Code does not provide for, which
+      nobody challenged, because the one person with the standing and the motive
+      to challenge it had just conceded. The distance between what a concession
+      does in law and what it does in fact is this entire map.
+│
+■ PART E — STANDING: WHO IS LEFT AFTER THE CANDIDATE CONCEDES
+│
+├─▸ VIRGINIA — THE CLOSED DOOR
+│     § 24.2-807 is titled "Contest only on complaint of unsuccessful party."
+│     "The contest shall be initiated only by a written complaint of one or more
+│     of the unsuccessful candidates."
+│     ✱ WHEN A VIRGINIA CANDIDATE CONCEDES, THE ONLY PEOPLE IN THE COMMONWEALTH
+│       WITH STANDING TO CONTEST HAVE PUBLICLY ABANDONED THE CLAIM, AND NO
+│       VOTER, PARTY OR TAXPAYER MAY REVIVE IT. The statute never mentions
+│       concession and does not need to.
+│
+├─▸ FLORIDA — THE OPEN DOOR
+│     § 102.168(1): the certification may be contested "by any unsuccessful
+│     candidate for such office or nomination thereto, or by any elector
+│     qualified to vote in the election related to such candidacy, or by any
+│     taxpayer, respectively."
+│     deadline — within 10 DAYS after midnight of the date the LAST board
+│                responsible for certifying the results does so  [§ 102.168(2)]
+│     grounds  — misconduct, fraud or corruption by an election official ·
+│                ineligibility of the winner · illegal votes received or legal
+│                votes rejected · bribery of an elector or official
+│                [§ 102.168(3)]
+│     ✱ A FLORIDA CANDIDATE'S CONCESSION EXTINGUISHES NOTHING. A qualified
+│       elector who has never met him may file the contest he declined to bring.
+│
+└─▸ ✱ THE SAME PRESS EVENT ENDS THE REMEDY IN ONE STATE AND NOT IN THE OTHER,
+      AND NEITHER STATUTE SAYS A WORD ABOUT CONCESSIONS. This is the mechanism
+      by which a legally weightless act becomes legally decisive: not through any
+      rule about concessions, but through a rule about who may sue.
+      ◈ The full forum-and-standing picture is the contest crosswalk, linked
+        below. This part is only the half of it that a concession touches.
+│
+■ PART F — THE TWO WITHDRAWN CONCESSIONS, AND WHY BOTH WERE FREE
+│
+├─▸ 2000 — THE PRESIDENTIAL RACE
+│     On election night, 7 November, the losing nominee telephones his opponent
+│     and concedes. Before any public speech he is told Florida is inside the
+│     automatic-recount margin — a lead of 1,784 votes, under 0.5% — and
+│     TELEPHONES AGAIN TO RETRACT. The machine recount begins the next day.
+│     The final concession comes 13 DECEMBER 2000, the day after the Supreme
+│     Court's ruling ended the recount.
+│     ✱ THE RETRACTION COST NOTHING, BECAUSE NOTHING HAD ATTACHED TO THE FIRST
+│       CALL. There was no instrument to rescind.
+│
+├─▸ 2018 — THE FLORIDA GOVERNORSHIP
+│     Conceded on election night, Tuesday 6 November. By Saturday 10 November
+│     the margin — about 0.41% — had ordered a statewide machine recount, and
+│     the concession was withdrawn in terms worth quoting: "I am replacing my
+│     words of concession with an uncompromised and unapologetic call that we
+│     count every single vote." Conceded again 17 November, after the recount.
+│     ✱ AGAIN FREE. The recount had been ordered by operation of law on the
+│       margin; the concession neither triggered it nor could have stopped it.
+│
+└─▸ ✱ THE PATTERN: A CONCESSION IS COSTLESS TO WITHDRAW PRECISELY BECAUSE IT IS
+      LEGALLY WEIGHTLESS, and both known withdrawals fall in the same window —
+      between election night and a margin-triggered recount, when the machinery
+      is running on its own and the candidate's words are not an input to it.
+      ⊘ NO REPORTED CASE WAS FOUND holding a candidate estopped by a concession,
+      in any state. [unconfirmed whether one exists — see Note 5]
+│
+■ PART G — ⚑ WHAT IS LIVE FOR 3 NOVEMBER 2026
+│
+├─▸ THE PLEDGE THAT EXISTS BECAUSE THE LAW DOES NOT. Reported 8 October 2026: a
+│     bipartisan House pledge to accept this November's results and to oppose
+│     efforts to block fellow members from being seated in the next Congress.
+│     ⊘ VOLUNTARY AND UNENFORCEABLE — no resolution, no rule, no sanction. It is
+│       the concession norm written down, which is the strongest form the norm
+│       has ever taken and is still not law.
+│     ◇ the risk it addresses: objections to seating members on 3 JANUARY 2027
+│       under art. I § 5, which is the one machine in Part B that a chamber
+│       controls outright. One prominent election-law scholar has called the
+│       scenario "very far-fetched."
+│
+├─▸ THE DATES THAT DO BIND, none of which move for a concession:
+│     3 NOV 2026 ..... election day
+│     + days ......... county canvass, then state certification, by statute
+│     on the margin .. automatic recount in 26 states and D.C., by operation of
+│                      law — and the WAIVER WINDOW inside it, which is the one
+│                      clock a conceding candidate must actually watch (Part C)
+│     11 NOV, NOON .. ⚠ in PENNSYLVANIA, the § 3154(h) waiver deadline for this
+│                      election — noon on the second Wednesday after 3 November.
+│                      A concession after that noon cannot stop the recount by
+│                      any route the Election Code provides — which is the
+│                      position the Commonwealth was already in on 21 Nov 2024.
+│     + 10 days ...... Florida contest deadline, from the last certification
+│     3 JAN 2027 ..... the next Congress convenes and seats its members
+│
+└─▸ ⊘ WHAT THIS MAP DOES NOT PREDICT. Whether the 8% refusal rate rises or falls
+      this November; whether any 2026 race lands inside a recount margin; and
+      whether any state will be asked, as Pennsylvania was in 2024, to stop a
+      mandatory recount after its waiver window has closed. The structure above
+      is what each of those would run into.
