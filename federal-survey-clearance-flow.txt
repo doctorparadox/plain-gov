@@ -1,0 +1,152 @@
+HOW A FEDERAL SURVEY IS APPROVED                           (as of 20 October 2026)
+│   The Paperwork Reduction Act clearance track   44 U.S.C. ch. 35 · 5 C.F.R. pt. 1320
+│   Legend:  ──▶ main path   └─▶ branch or shortcut   ◇ decision point   ⏱ clock
+│            ⚖ outside the sponsoring agency   ⬛ inside the agency only
+│            ✕ no review exists   ◈ default favours the agency
+│            ★ changed or acted on in 2025-26   [cite] controlling authority
+│
+■ 0. THE THRESHOLD — is this a "collection of information" at all?
+│     Facts or opinions put to TEN OR MORE persons by identical questions or
+│     identical reporting requirements. A VOLUNTARY survey counts.  [§ 3502(3)]
+│     │
+│     ├─◇ fewer than ten persons? ................... no clearance needed
+│     ├─◇ federal employees doing their own jobs? ... no clearance needed
+│     ├─◇ an open-ended request for comment? ........ no clearance needed
+│     ├─◇ a public hearing or meeting? .............. no clearance needed
+│     ├─◇ a criminal investigation or prosecution? .. excluded        [§ 3518]
+│     ├─◇ an intelligence activity? ................. excluded        [§ 3518]
+│     └─◇ GAO · FEC · D.C. · the territories? ....... not an "agency" [§ 3502(1)]
+│     │
+│     └─▶ OTHERWISE: NO COLLECTION WITHOUT AN OMB CONTROL NUMBER     [§ 3507(a)]
+│
+├─◆ A. INSIDE THE AGENCY  ⬛  no outside eye yet                 [§ 3506(c)(1)]
+│   │   Each agency must run its own review process first. Nothing here is
+│   │   published, and nothing here is appealable by anyone.
+│   │
+│   ├─ the instrument ......... the form, letter, screen or script itself
+│   ├─ the supporting statement the justification: authority, purpose, use
+│   ├─ the burden estimate .... respondents x responses x hours, plus any
+│   │                           fee or equipment the respondent must buy
+│   └─ the senior official .... the agency CIO or equivalent signs it off
+│                               ◈ OMB may DELEGATE approval to this same
+│                                 official outright  [§ 3506(a)(2), § 3507(i)]
+│
+├─◆ B. THE 60-DAY NOTICE  ⏱ at least 60 days            [§ 3506(c)(2)(A)]
+│   │   Published in the Federal Register BEFORE the package goes to OMB.
+│   │   It must invite comment on four things, and only these four:
+│   │
+│   ├─ is the collection NECESSARY for the agency's functions?
+│   ├─ is the BURDEN ESTIMATE accurate?
+│   ├─ how could the QUALITY, UTILITY and CLARITY be improved?
+│   └─ how could the BURDEN be MINIMISED?
+│       ◈ the agency must CONSIDER the comments. Nothing obliges it to
+│         adopt one, and no finding on any of the four is required.
+│
+├─◆ C. THE SUBMISSION AND THE 30-DAY NOTICE  ⏱ at least 30 days   [§ 1320.10]
+│   │   The package goes to OIRA through ROCIS, OMB's docketing system, and
+│   │   a SECOND Federal Register notice runs on or before the same day.
+│   │   This is the only notice that tells the public where to write: the
+│   │   named OIRA desk officer, not the agency.
+│   │
+│   └─▶ the docket is public at reginfo.gov for the life of the clearance
+│
+├─◆ D. THE OIRA DECISION  ⚖  ⏱ 60 days from receipt           [§ 3507(b), (c)]
+│   │   The standard the agency must satisfy:  LEAST BURDENSOME necessary ·
+│   │   NOT DUPLICATIVE of information already available · of PRACTICAL
+│   │   UTILITY.                                            [§ 1320.5(d)(1)]
+│   │
+│   ├─◇ APPROVE, with or without change ──▶ control number issued  (Part E)
+│   │
+│   ├─◇ INSTRUCT the agency to make substantive or material changes
+│   │     └─▶ must be made PUBLIC and EXPLAINED                 [§ 3507(e)(1)]
+│   │
+│   ├─◇ DISAPPROVE ──▶ the agency generally may not proceed
+│   │     ├─▶ must be made PUBLIC and EXPLAINED                 [§ 3507(e)(1)]
+│   │     └─▶ ONE OVERRIDE EXISTS: a multi-member INDEPENDENT REGULATORY
+│   │         AGENCY may void the disapproval by MAJORITY VOTE of its
+│   │         members. No other agency has this.      [§ 3507(f), § 1320.15]
+│   │
+│   └─◈ SILENCE ──▶ APPROVAL BY DEFAULT. If OMB has not acted in 60 days the
+│         agency may request a control number and OMB "shall" assign it
+│         "without delay." The number is then good for ONE year, not three.
+│                                                              [§ 1320.10(c)]
+│
+├─◆ E. THE CONTROL NUMBER — what approval actually is
+│   │
+│   ├─ a number displayed on the instrument, with an expiration date
+│   ├─ THREE YEARS MAXIMUM. OMB cannot approve a collection for longer,
+│   │   so every standing federal survey comes back through this whole
+│   │   track at least once a presidential term.                [§ 3507(g)]
+│   ├─ renewal must begin at least 60 days BEFORE expiry         [§ 1320.12]
+│   └─ ✕ no control number means no penalty for refusing to answer — but
+│       see the carve-out at Part H, which is where that promise ends
+│
+├─◆ F. THE SHORTCUTS — five ways around the two notices
+│   │   Each one is lawful. Together they are how most of the estate moves.
+│   │
+│   ├─◆ F1. INSIDE A RULEMAKING                        [§ 3507(d), § 1320.11]
+│   │     The collection travels with the proposed rule rather than alone.
+│   │     ├─ the NPRM names the OIRA desk officer; the rule's own comment
+│   │     │   period does the work of the 30-day notice
+│   │     ├─◈ IF OMB FILES NO COMMENT WITHIN 60 DAYS OF THE NPRM IT
+│   │     │   GENERALLY MAY NOT DISAPPROVE THE COLLECTION AT ALL.
+│   │     │   The reviewer's silence here forfeits the veto itself.
+│   │     └─ ✕ a decision to APPROVE, or not to act, is NOT JUDICIALLY
+│   │         REVIEWABLE by anyone                                [§ 3507(d)]
+│   │
+│   ├─◆ F2. EMERGENCY PROCESSING                       [§ 3507(j), § 1320.13]
+│   │     The agency head certifies urgency; OMB may waive BOTH comment
+│   │     periods. Approval capped at 180 days and not renewable as such.
+│   │
+│   ├─◆ F3. GENERIC CLEARANCE
+│   │     One umbrella approval for a family of low-burden voluntary
+│   │     collections. Individual collections under it go STRAIGHT to OIRA
+│   │     with NO further public notice at all.
+│   │     └─◈ for service-delivery collections, approval may be ASSUMED
+│   │         unless OIRA objects within FIVE days
+│   │
+│   ├─◆ F4. NON-SUBSTANTIVE CHANGE
+│   │     A revision the agency characterises as not substantive rides on
+│   │     the existing number. No notice, no new clock, same expiration.
+│   │
+│   └─◆ F5. DELEGATION TO THE AGENCY'S OWN CIO       [§ 3506(a)(2), § 3507(i)]
+│         OMB may hand the approval power to an official inside the
+│         sponsoring agency, provided that official is "sufficiently
+│         independent of program responsibility." The outside reviewer
+│         and the inside reviewer become the same person.
+│
+├─◆ G. THE STATISTICAL OVERLAY — one extra layer, for surveys only
+│   │   Statistical collections clear the same track, plus a standards
+│   │   regime administered from the Statistical Policy Branch of the same
+│   │   office that does the clearing.
+│   │
+│   ├─ the Chief Statistician of the United States ....... [§ 3504(e)(7)]
+│   │   the statute's whole design for the post: the OMB Director "shall
+│   │   appoint a chief statistician who is a trained and experienced
+│   │   professional statistician." Not Senate-confirmed. No fixed term.
+│   ├─ the governmentwide standards for survey design, pretesting and
+│   │   release, issued as OMB Statistical Policy Directives
+│   ├─ the Interagency Council on Statistical Policy, which the Chief
+│   │   Statistician chairs                                 [§ 3504(e)(8)]
+│   └─ ⬛ none of it is a statute, a rule, or reviewable by a court.
+│       It is guidance issued by one appointee to thirteen agencies.
+│
+└─◆ H. WHAT THE PUBLIC ACTUALLY GETS — and the carve-out
+    │
+    ├─ THE DOCKET.  Every notice, the supporting statement, the burden
+    │   estimate and every comment are public at reginfo.gov. This is
+    │   real, and it is the strongest thing on the page.
+    │
+    ├─ THE PUBLIC-PROTECTION CLAUSE.  No penalty for failing to answer a
+    │   collection that shows no valid control number, or whose sponsor
+    │   failed to say that a valid number is required.           [§ 3512]
+    │
+    └─ ✕ THE CARVE-OUT.  That protection "does not preclude the imposition
+        of a penalty on a person for failing to comply with a collection
+        of information that is imposed on the person by statute."
+        Cited examples: the tax return (26 U.S.C. 6011(a)) and the
+        hazardous-waste export notice (42 U.S.C. 6938(c)). The decennial
+        census is imposed by statute too, at 13 U.S.C. 221.
+        SO THE SHIELD COVERS THE VOLUNTARY SURVEY AND NOT THE MANDATORY
+        ONE — which is the reverse of where a penalty can land.
+                                                             [§ 1320.6(e)]
