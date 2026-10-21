@@ -1,0 +1,161 @@
+CENSUS FORMULA FUNDING FLOW                                   (as of 21 October 2026)
+│   From the decennial count to the grant cheque
+│   Legend:  ──▶ main path   └─▶ branch   ◇ decision point   ⏱ clock
+│            ◉ a census-derived number ENTERS the calculation here
+│            ⊘ no census number enters — foreclosed by the statute's own text
+│            ◈ a default that resolves AGAINST the place that was undercounted
+│            ★ changed or acted on in 2025-26        [cite] controlling authority
+│
+■ 0. THE COUNT — one measurement, once a decade
+│     The enumeration as of APRIL 1 of the year ending in zero. Everything
+│     below this line is that number plus arithmetic.          [13 U.S.C. § 141]
+│     │
+│     ├─ the apportionment counts ──▶ seats in the House. A different path, and
+│     │    the one everybody watches.
+│     │
+│     └─▶ THE SAME COUNTS BECOME THE ESTIMATES BASE — and that is the money path,
+│          which nobody watches, and which runs for the whole decade after.
+│
+├─◆ A. THE BASE BECOMES A SERIES  ⏱ annual, every year of the decade
+│   │   The Population Estimates Program carries the base forward by the
+│   │   COHORT-COMPONENT METHOD. Each July 1 estimate is:
+│   │
+│   │        base  +  births  −  deaths  ±  migration
+│   │
+│   ├─ THE METHOD ADDS CHANGE TO A LEVEL. IT NEVER RE-MEASURES THE LEVEL.
+│   │   There is no survey inside this step that could find a missed household
+│   │   and put it back. If the base is low, every estimate built on it is low.
+│   │
+│   ├─ each VINTAGE replaces the entire prior series back to the base, so two
+│   │   vintages are not comparable to each other — only within one vintage
+│   │
+│   └─★ the base itself was not finished until 2026. Post-2020 estimates ran on
+│        a BLENDED BASE — 2020 Census totals, 2020 Demographic Analysis, and the
+│        Vintage 2020 estimates — because census data were not available at the
+│        demographic detail the base needed. Vintage 2025, released 25 Jun 2026,
+│        was the FIRST to carry the 2020 Census's full age/sex/race detail into
+│        the 1 Apr 2020 base. Five years and three months into the decade.
+│
+├─◆ B. THE DERIVED LAYERS — two of them, and they are not alike
+│   │
+│   ├─◆ B1. THE POVERTY LAYER  ◉ census survey data
+│   │   │   Small Area Income and Poverty Estimates: a MODEL, not a count.
+│   │   │   Inputs: federal tax return records · SNAP participation · Bureau of
+│   │   │   Economic Analysis income · the American Community Survey · and the
+│   │   │   population estimates from Part A as the control total.
+│   │   │
+│   │   ├─ outputs: states · counties · SCHOOL DISTRICTS, single-year
+│   │   └─ the school-district model adds confidential IRS personal income data
+│   │        and the School District Review Program's boundaries
+│   │
+│   └─◆ B2. THE INCOME LAYER  ◉ census POPULATION only — no census income
+│       │   PER CAPITA PERSONAL INCOME is a Bureau of Economic Analysis figure.
+│       │   Its numerator is BEA's own income measure. Its DENOMINATOR is the
+│       │   Census Bureau's midyear resident population estimate from Part A.
+│       │
+│       └─▶ SO THE CENSUS ENTERS THE LARGEST FORMULA IN THE SYSTEM AS A DIVISOR,
+│            not as a measure of need. Hold that; Part E is what it does.
+│
+├─◆ C. THE THREE FORMULA ARCHETYPES
+│   │   Every formula grant that consumes census data is one of these, or a
+│   │   stack of them. The archetype decides what an undercount costs.
+│   │
+│   ├─◆ C1. PER-CAPITA / POPULATION-SHARE  ◉ head counts
+│   │   │   Money divided by relative population. The simplest design, and the
+│   │   │   only one where losing a person has an obvious, linear price.
+│   │   │
+│   │   └─ example: 55% of a state's Surface Transportation Block Grant, after
+│   │        the Transportation Alternatives set-aside, must be obligated in
+│   │        areas "in proportion to their relative shares of the State's
+│   │        population"; the other 45% may go anywhere in the state.
+│   │                                      [23 U.S.C. § 133(d)(1)(A), (d)(1)(B)]
+│   │
+│   ├─◆ C2. NEED-ADJUSTED / POVERTY-COUNT  ◉ modelled poverty, not population
+│   │   │   Money divided by a count of a qualifying subgroup, usually weighted
+│   │   │   so that concentration is worth more than mere incidence.
+│   │   │
+│   │   ├─ example: Title I-A of the Elementary and Secondary Education Act runs
+│   │   │    on FORMULA CHILDREN — overwhelmingly children aged 5-17 in poor
+│   │   │    families, from the Part B1 model, not from the decennial form
+│   │   │
+│   │   ├─ FOUR formulas run at once off the same count, with different
+│   │   │    eligibility gates and different weighting:
+│   │   │      Basic ........... 10 children and a 2% rate ....... unweighted
+│   │   │      Concentration ... 6,500 children OR a 15% rate .... unweighted
+│   │   │      Targeted ........ 10 children and a 5% rate ....... weighted
+│   │   │      Finance Incentive 10 children and a 5% rate ....... two-stage
+│   │   │
+│   │   └─◈ and then a HOLD HARMLESS floor of 85-95% of last year's grant, set
+│   │        by the district's own child rate. A district whose measured poverty
+│   │        falls is protected; a district whose real poverty was never
+│   │        measured in the first place has nothing to be held harmless at.
+│   │
+│   └─◆ C3. INCOME-INDEXED MATCHING RATE  ◉ census population as a divisor
+│       │   No pot is divided here at all. The census number sets the SHARE of
+│       │   each state dollar the federal government reimburses — so the money
+│       │   is open-ended and the census decides the exchange rate.
+│       │
+│       ├─ the Federal Medical Assistance Percentage, in the statute's words:
+│       │    100 per centum less the state percentage, where the state
+│       │    percentage bears the same ratio to 45 per centum as the SQUARE of
+│       │    state per capita income bears to the SQUARE of national per capita
+│       │    income                               [42 U.S.C. § 1396d(b), § 1905(b)]
+│       │
+│       ├─ floor 50% · ceiling 83% · promulgated between 1 Oct and 30 Nov, on
+│       │    the average per capita income of the THREE most recent calendar
+│       │    years for which satisfactory data are available from the Department
+│       │    of Commerce, and then conclusive for four quarters
+│       │                                       [42 U.S.C. § 1301(a)(8)(B)]
+│       │
+│       └─ ONE RATE, SEVEN PROGRAMS. The same percentages set federal matching
+│            for Medicaid, the TANF Contingency Fund, child support collections,
+│            child care mandatory and matching funds, Title IV-E foster care
+│            maintenance, adoption assistance and kinship guardianship
+│            assistance; the enhanced CHIP rate is derived from them.
+│
+├─◆ D. WHERE A CENSUS NUMBER DOES NOT DECIDE  ⊘
+│   │   Not every dollar on the "census-guided" list is guided by the census,
+│   │   and the biggest exception is one of the biggest line items.
+│   │
+│   └─⊘ FEDERAL-AID HIGHWAY APPORTIONMENT AMONG THE STATES HAS NO POPULATION
+│        TERM. Each state's share is its SHARE OF FY21 APPORTIONMENTS applied to
+│        the national total, then floored at 95% of its Highway Trust Fund
+│        contributions and at 1% above last year.    [23 U.S.C. § 104(c)(1)]
+│        │
+│        └─▶ the census decides which PARTS of a state get highway money,
+│             through C1 above. It does not decide which states do. A perfect
+│             count would not move one dollar across a state line here.
+│
+├─◆ E. THE TRANSMISSION OF AN ERROR — what a missed person actually costs
+│   │
+│   ├─ under C1, the loss is intuitive: fewer heads, a smaller share.
+│   │
+│   └─◈ UNDER C3 IT RUNS BACKWARDS, AND C3 IS THE BIG ONE.
+│        │
+│        ├─ a state's total income does not change when the census misses
+│        │    people. Only the denominator falls.
+│        ├─ same income, fewer people ──▶ MEASURED PER CAPITA INCOME GOES UP
+│        ├─ higher per capita income ──▶ squared ──▶ a bigger state percentage
+│        └─ bigger state percentage ──▶ A LOWER FMAP ──▶ LESS FEDERAL MONEY
+│             │
+│             └─▶ THE UNDERCOUNTED STATE IS PENALISED FOR LOOKING RICHER.
+│
+│        ◈ AND THE FLOOR SWITCHES THE PENALTY OFF AT THE TOP. A state already
+│          at the 50% minimum cannot fall further, so an undercount costs it
+│          nothing in FMAP. The loss lands only on the states above the floor.
+│
+└─◆ F. THE CORRECTION CLOCK  ⏱ once per decade, afterwards
+    │
+    ├─ the census is not adjusted for measured coverage error. The
+    │    Post-Enumeration Survey measures the error; the counts stay as counted.
+    │
+    ├─ the estimates are not revised to a corrected level during the decade.
+    │    Part A has no mechanism for it.
+    │
+    └─◈ INTERCENSAL ESTIMATES — the corrected series — are produced ONCE EVERY
+         TEN YEARS, AFTER the next census. The revised 2010-2020 series was
+         released 7 NOVEMBER 2024.
+         │
+         └─▶ So the arithmetic is settled, and the money is gone, before the
+              number it ran on is corrected. The correction is a historical
+              record, not a refund. ⊘ No formula reaches back.
