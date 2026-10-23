@@ -1,0 +1,299 @@
+HOW A PROVISIONAL BALLOT IS CAST AND COUNTED — the federal law ends at the envelope,
+and the fifty answers inside it are where the ballot lives or dies  (as of 22 October 2026)
+│  Legend:  ◆ stage   ▸ lane / column   ⏱ deadline   ◎ federal law stops, state law decides
+│           ⊘ foreclosed by statutory text   ✱ structural point   ⚑ changed for Nov 2026
+│           ◈ figure derived here, see Notes
+│
+■ PART A — THE FIVE DOORS INTO THE ENVELOPE
+│
+├─ A provisional ballot is not a kind of vote. It is a KIND OF DELAY: the ballot is marked
+│  now and the eligibility question is answered later, by someone else, somewhere else.
+│
+├─◆ TRIGGER 1 · NOT ON THE LIST
+│   └─ The name does not appear on the polling place's official list of eligible voters.
+│      This is the condition the statute was written for. ✱ It is also, years later, the
+│      single most common reason the same ballot is thrown away — see Part G.
+│
+├─◆ TRIGGER 2 · NO ACCEPTABLE IDENTIFICATION
+│   ├─ The voter is on the list but cannot produce what state law requires at the desk.
+│   └─ ⚑ This door widened for 2026 in several states that tightened ID at the same time:
+│        Ohio stopped accepting non-photo documents (utility bills, Social Security cards);
+│        Iowa ended vouching by another voter; Georgia requires the physical licence rather
+│        than a digital one; North Carolina requires photo ID with provisional as the
+│        fallback. ✱ Tightening ID at the desk does not reduce voting — it MOVES voting
+│        into Part C, where a different and much shorter clock applies.
+│
+├─◆ TRIGGER 3 · CHALLENGED
+│   └─ An election official or (in some states) a partisan challenger asserts the voter is
+│      ineligible. The voter votes provisionally and the assertion is adjudicated later.
+│
+├─◆ TRIGGER 4 · THE ROLL SAYS A MAIL BALLOT WAS ALREADY SENT OR RECEIVED
+│   └─ The voter shows up in person without the mail ballot, or believes the one they
+│      returned was never recorded. The provisional envelope is the reconciliation device.
+│
+├─◆ TRIGGER 5 · THE POLLS WERE HELD OPEN BY COURT ORDER
+│   └─ Anyone voting in the extended hours may vote ONLY provisionally, and those envelopes
+│      must be kept separate from all the others [52 U.S.C. § 21082(c)] — so that a
+│      reviewing court can discard exactly that set if the order is later undone.
+│
+└─◆ THE RIGHT TO BE HANDED ONE IS ENFORCEABLE IN COURT
+    ├─ HAVA creates no private cause of action of its own, but the Sixth Circuit held in
+    │  2004 that § 302(a)'s "shall be permitted to cast a provisional ballot" is
+    │  rights-creating and mandatory, and so is enforceable by an individual voter under
+    │  42 U.S.C. § 1983: "The right to cast a provisional ballot is neither vague nor
+    │  amorphous."  [Sandusky County Democratic Party v. Blackwell, 6th Cir., 26 Oct 2004]
+    └─ ⊘ THE RIGHT TO HAVE IT COUNTED DOES NOT EXIST. Same case, same opinion: "HAVA does
+         not require that any particular ballot, whether provisional or 'regular,' must be
+         counted as valid." ✱ THIS IS THE ORGANIZING FACT OF THE WHOLE MAP. Federal law is
+         a guarantee about a piece of paper, not about a vote.
+
+■ PART B — WHAT HAPPENS BEFORE THE VOTER LEAVES THE ROOM  (the federal floor)
+│
+├─◆ STEP 1 · THE WRITTEN AFFIRMATION
+│   ├─ The voter signs a sworn statement, under penalty of perjury, that they are
+│   │  "a registered voter in the jurisdiction in which the individual desires to vote"
+│   │  and "eligible to vote in that election"  [§ 21082(a)(2)].
+│   └─ ◎ THE WORD "JURISDICTION" IS THE FIRST HINGE, AND IT WAS DECIDED AGAINST THE VOTER.
+│        A district court read it as the COUNTY — the unit that actually holds the
+│        registration records. The Sixth Circuit reversed, reading it as the precinct, and
+│        said flatly that "being eligible under state law to vote means eligible to vote in
+│        this specific election in this specific polling place." Had the county reading
+│        survived, Part E would not exist.
+│
+├─◆ STEP 2 · THE DOUBLE ENVELOPE
+│   ├─ Ballot marked in secret → sealed in a secrecy envelope → sealed inside the outer
+│   │  provisional envelope, which carries the affidavit, the voter's current address and
+│   │  the signatures of the precinct officials, who also record WHY the ballot was issued.
+│   └─ ✱ The reason written on that envelope is the entire evidentiary record of the
+│        encounter. Everything decided in Parts D and E is decided from it.
+│
+├─◆ STEP 3 · SEGREGATION
+│   └─ The envelope never enters the tabulator with the day's other ballots. It goes into a
+│      separate container, and the count it will or will not join has already been reported.
+│      ✱ This is why provisional ballots are structurally a late-counted, and therefore
+│      publicly contested, category of vote — see the discussion of the late-count shift.
+│
+└─◆ STEP 4 · THE ONE THING THE VOTER IS OWED IN WRITING
+    ├─ At the time of casting, the voter must receive written information that they "will
+    │  be able to ascertain" whether the vote was counted and, if not, "the reason that the
+    │  vote was not counted"  [§ 21082(a)(5)(A)].
+    └─ ◎ Read it closely: the promise is that the answer will EXIST and be retrievable.
+         Nothing in the sentence promises anyone will deliver it. Part F is that gap.
+
+■ PART C — THE CURE WINDOW  (⏱ the shortest clock a voter ever faces)
+│
+├─ Where a state lets the voter fix the problem — produce the ID, prove the registration —
+│  the window is measured in HOURS OR DAYS, it starts on election night, and in most states
+│  nobody phones to start it. Selected deadlines, sorted by how little time they give:
+│
+├─◆ ▸ NEXT DAY
+│   ├─ Montana ............. 5:00 p.m. the day after the election
+│   ├─ Rhode Island ....... 4:00 p.m. the day after the election
+│   └─ Wyoming ............ close of business the day after the election
+│
+├─◆ ▸ TWO TO FOUR DAYS
+│   ├─ Georgia ............ 3 days after the election
+│   └─ Ohio ............... 4 days after the election
+│
+├─◆ ▸ THE WEEKEND, THEN A MONDAY OR FRIDAY DEADLINE
+│   ├─ Arkansas .......... noon on the Monday after the election
+│   ├─ Utah ............... close of office hours on the Monday after
+│   ├─ Alabama ........... 5:00 p.m. on the Friday after the election
+│   ├─ Virginia .......... noon on the Friday after the election
+│   └─ Wisconsin ......... 8:00 p.m. on election day to poll workers, OR 4:00 p.m. on the
+│                          Friday after the election to the municipal clerk
+│
+├─◆ ▸ FIVE DAYS TO TWO WEEKS
+│   ├─ Michigan .......... 6 calendar days      ├─ Texas ........ 6 calendar days, and the
+│   ├─ Arizona ........... 5 business days      │                 voter must appear at the
+│   ├─ Mississippi ....... 5 business days      │                 registrar's office
+│   ├─ Illinois .......... 7 days to provide ID; the authority then has 14 days to decide
+│   ├─ Indiana .......... counted by 3:00 p.m. on day 10
+│   └─ North Dakota ..... 13 days after the election
+│
+├─◆ ⚑ TWO STATES MOVED THIS CLOCK FOR 2026, IN OPPOSITE DIRECTIONS
+│   ├─ North Carolina — EASIER. H.B. 834 moved several cure deadlines from the third to the
+│   │  FIFTH business day after the election, covering missing registration information,
+│   │  producing ID, curing a provisional problem and fixing a mail-ballot error. ✱ And it
+│   │  did the thing almost no other state does: county boards MUST NOTIFY the voter of a
+│   │  fixable problem by the end of the next business day. That converts the cure window
+│   │  from something the voter must discover into something the state must announce.
+│   └─ Iowa — TIGHTER. A voter without acceptable ID votes provisionally and must bring the
+│      documents by NOON ON THE MONDAY after election day, or the ballot does not count.
+│
+└─ ✱ THE STRUCTURAL POINT OF PART C: the cure window is the only stage of this flow the
+     voter can act on, and it is the stage they are least likely to know about. A deadline
+     that runs from election night and is communicated by a leaflet handed over during the
+     most confusing five minutes of the voter's day is a deadline most people will miss.
+
+■ PART D — WHO DECIDES, AND WHEN
+│
+├─◆ THE DECIDER IS A COUNTY BODY, NOT A COURT AND NOT THE STATE
+│   ├─ A county board of elections or board of canvassers rules on each envelope: is the
+│   │  affidavit complete, is the person in fact registered, was any required cure made.
+│   └─ ✱ Same mismatch the canvass map found: a consequential adjudication of an individual
+│        legal right, performed by a small body of general-purpose local officials, under a
+│        deadline, on a record consisting of one envelope.
+│
+├─◆ THE CLOCK IS THE CANVASS CLOCK
+│   ├─ ⏱ Pennsylvania — the county board must review and decide EVERY election-day
+│   │  provisional ballot within SEVEN DAYS of the election; a ballot challenged during the
+│   │  canvass gets a hearing within seven days of the challenge.
+│   │  [Dept. of State provisional-voting guidance v2.4, issued 18 September 2026]
+│   ├─ ⏱ Colorado — counting finishes within 9 days of most elections.
+│   └─ ◎ There is no federal deadline for this determination at all. The provisional
+│        decision is squeezed inside whatever canvass deadline the state already set, which
+│        is why a state with a tight canvass has a tight provisional review by implication
+│        rather than by design.
+│
+└─◆ IF THE DETERMINATION IS THAT THE VOTER WAS ELIGIBLE
+    └─ The ballot "shall be counted as a vote in that election IN ACCORDANCE WITH STATE
+       LAW"  [§ 21082(a)(4)]. ✱ Six words that hand Part E the whole question: eligibility
+       and countability are separate findings, and a voter can win the first and lose the
+       second.
+
+■ PART E — THE WRONG-PRECINCT VARIABLE  ◎ THE HINGE THAT DECIDES THE MOST BALLOTS
+│
+├─ The voter was eligible. They were simply standing in the wrong room. What happens next
+│  is purely a state choice, because the 2004 holding removed the federal answer.
+│
+├─◆ ▸ COUNTED IN FULL ......................................... 1 state
+│   └─ Maine. [⚠ but see Part H — the federal survey lists Maine among the states that do
+│      not use provisional ballots as a separate category at all]
+│
+├─◆ ▸ COUNTED IN PART ........................................ 20 states
+│   ├─ The envelope is opened and only the contests the voter WOULD have been entitled to
+│   │  vote in at their correct precinct are counted. The rest of their marks are discarded.
+│   ├─ Pennsylvania — wrong district inside the CORRECT COUNTY is generally partially
+│   │  counted; a voter registered in another county cannot be counted at all, though the
+│   │  board is told to check whether a transfer application was wrongly denied.
+│   └─ ✱ A partial count is not a compromise, it is a SILENT one. Nothing on the page tells
+│        the voter which of their votes survived.
+│
+├─◆ ▸ NOT COUNTED AT ALL ..................................... 26 states
+│   └─ The entire envelope is rejected — including the votes for President, Senate and
+│      Governor, offices for which the precinct the voter stood in made no difference to
+│      their eligibility whatsoever.
+│
+└─ ✱ THE STRUCTURAL POINT OF PART E: this is the largest single variable in the system and
+     it turns on a boundary line the voter is least equipped to get right. Precinct lines
+     move between elections, several precincts often share one building, and the authority
+     that holds the registration record is the COUNTY — which is exactly the reading of
+     "jurisdiction" the 2004 court rejected. In a majority of states, a voter who is
+     registered, eligible, identified and in the right county still loses every vote on
+     the ballot for being in the wrong room.
+
+■ PART F — WHETHER THE VOTER IS EVER TOLD  ◎ THE SECOND GAP, AND THE DELIBERATE ONE
+│
+├─◆ WHAT THE STATUTE REQUIRES
+│   ├─ Every state must "establish a free access system (such as a toll-free telephone
+│   │  number or an Internet website)" through which the voter can learn whether the ballot
+│   │  counted and, if not, why  [§ 21082(a)(5)(B)].
+│   └─ Access to any individual provisional ballot's information "shall be restricted to
+│      the individual who cast the ballot"  [§ 21082(a)(5), final paragraph].
+│
+├─◆ ✱ IT IS A PULL SYSTEM, NOT A PUSH SYSTEM — AND THAT IS WHAT THE TEXT SAYS
+│   ├─ The federal duty is to BUILD A LOOKUP. There is no federal duty to contact the
+│   │  voter, at any point, ever. The reason the ballot was rejected is generated, stored,
+│   │  made retrievable, and then waits for a voter who has no particular reason to think
+│   │  anything went wrong to go looking for it.
+│   └─ ⊘ And the privacy clause forecloses the obvious workaround by statutory text: a
+│        campaign, a party or a voter-protection group CANNOT be given the list of rejected
+│        provisional voters in order to go and tell them. Only the voter may ask.
+│
+├─◆ ▸ THE HANDFUL OF STATES THAT AFFIRMATIVELY TELL THE VOTER SOMETHING
+│   ├─ Alaska ............ a letter stating whether the ballot was rejected or part-counted
+│   ├─ Florida .......... a written notice of rights at the time of casting, explaining how
+│   │                      to check and, if rejected, why
+│   ├─ Colorado ......... a receipt explaining how to check status
+│   ├─ Indiana .......... counties must offer a toll-free number or website showing accepted
+│   │                      or rejected  [the § 21082(a)(5)(B) floor, met explicitly]
+│   ├─ Hawaii ........... status and reason available by phone or online
+│   └─ ⚑ North Carolina — the strongest version in the country for 2026, and the only one
+│        on this list that is a DUTY TO REACH OUT rather than a duty to be reachable:
+│        notice of a fixable problem by the end of the next business day (Part C).
+│
+└─ ✱ THE STRUCTURAL POINT OF PART F: a voter in a non-notifying state whose ballot was
+     rejected for a curable reason, inside a cure window that has since closed, will
+     usually never learn any of it — not because anyone concealed it, but because the
+     statute asked for a filing cabinet instead of a phone call. ⚑ Pennsylvania's own 2026
+     guidance is the ordinary case: status is checkable at a state website, a county board
+     or a state hotline, and the guidance "does not require general notice of the outcome
+     to every voter."
+
+■ PART G — WHAT ACTUALLY HAPPENS TO THEM  (2024, the most recent federal cycle)
+│
+├─◆ ▸ THE VOLUMES
+│   ├─ Issued .......................... ~1,736,209   (0.87% of votes counted)
+│   ├─ Counted at least in part ....... ~1,281,399
+│   └─ Rejected ........................  ~436,258    (0.29% of ballots counted)
+│      ◈ That is a REJECTION RATE OF ABOUT 25% — roughly one provisional ballot in four —
+│        derived here by dividing those two published figures, which are reported as counts
+│        and not as a rate. [MIT Election Data and Science Lab, from federal survey data]
+│
+├─◆ ▸ WHY THEY WERE REJECTED, IN ORDER
+│   ├─ 1. The voter was not on the state's voter list ....... ~50% of rejections
+│   ├─ 2. The voter was registered in another jurisdiction in the same state
+│   ├─ 3. Insufficient or incorrect information on the envelope
+│   └─ 4. Less often: wrong precinct within the right jurisdiction · already voted ·
+│         signature did not match the registration record
+│
+└─ ✱ THE STRUCTURAL POINT OF PART G, AND THE SHARPEST THING ON THIS PAGE: READ REASON 1
+     AGAINST TRIGGER 1. The provisional ballot exists to serve the voter whose name is not
+     on the list. About half of all provisional rejections are because the voter's name was
+     not on the list. For that half, the process did not resolve the question — it DEFERRED
+     the question for a week and then answered it the same way the poll book did, having
+     moved the burden of proof onto the voter in the interval. ✱ The second-largest reason
+     is the Part E problem by another name: registered, eligible, wrong jurisdiction.
+
+■ PART H — THE STATES WITH NO PROVISIONAL BALLOT AT ALL, AND WHY THEY ARE NOT CHEATING
+│
+├─◆ WHO THEY ARE — AND THE SOURCES DO NOT AGREE
+│   ├─ ▸ One national compilation: Idaho · Minnesota · New Hampshire  [as of Nov 2025]
+│   ├─ ▸ The federal survey's own data note: Idaho · Maine · Minnesota · North Dakota
+│   │     did not report the provisional field "because they do not use provisional ballots"
+│   └─ ◎ ✱ THE DISAGREEMENT IS NOT A SLOPPY FOOTNOTE, IT IS THE SUBJECT. "Does your state
+│        use provisional ballots" has no federal definition, so a state with a differently
+│        named fail-safe — a challenged ballot, an affidavit ballot — can appear in one
+│        column in one table and another column in another. It is recorded here unresolved.
+│
+├─◆ WHY THEY CAN LAWFULLY HAVE NONE
+│   ├─ The usual explanation is Election Day registration: where a voter can register at
+│   │  the polling place and then vote a regular ballot, Trigger 1 is resolved on the spot
+│   │  and the provisional envelope has no occasion to issue. North Dakota has no voter
+│   │  registration at all, so the trigger condition cannot arise.
+│   └─ ⚠ NO EXPRESS EXEMPTION FOR THESE STATES APPEARS IN THE TEXT OF § 21082, AND NONE WAS
+│        FOUND ELSEWHERE IN THE SUBCHAPTER. What the subchapter does say is that "the
+│        specific choices on the methods of complying" are "left to the discretion of the
+│        State" [§ 21085] and that its requirements are minimums a state may exceed
+│        [§ 21084]. Secondary sources describe an exemption; the statutory hook for one is
+│        [unconfirmed] and is not asserted here.
+│
+└─◆ ⚑ NEW HAMPSHIRE IS THE LIVE TEST OF THAT DESIGN, THIS MONTH
+    ├─ A state with no provisional ballot has no cushion: the registration desk IS the
+    │  fail-safe, so a rule that hardens the desk has nowhere to spill into.
+    ├─ On 28 May 2026 a federal judge struck down the state's 2024 proof-of-citizenship
+    │  registration law as unconstitutional, finding that the state's election-integrity
+    │  interest did not justify the burden shown at trial, that noncitizen voting there is
+    │  vanishingly rare, and that the sworn affidavit the law removed had been the only
+    │  available proof for a substantial number of voters. The Qualified Voter Affidavit is
+    │  available again for CITIZENSHIP; it was not restored for proving RESIDENCY.
+    └─ The state appealed on 25 June 2026 and sought a stay. ⚠ The outcome of that appeal
+       as of 22 October 2026 is [unconfirmed] here.
+
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║  ✱ THE SHAPE OF THE WHOLE THING                                                      ║
+║                                                                                      ║
+║  Federal law does one thing well and stops: it guarantees that nobody eligible is    ║
+║  turned away empty-handed, and it makes that guarantee suable. Then it hands the      ║
+║  envelope to the states and asks only that the answer be FILED somewhere a            ║
+║  determined voter could find it.                                                     ║
+║                                                                                      ║
+║  So the three questions that decide whether the vote exists are all state questions:  ║
+║    ▸ How long do I have to fix it?        — hours in some states, two weeks in others ║
+║    ▸ Does the wrong room void everything? — yes in 26 states, partly in 20            ║
+║    ▸ Will anyone tell me it failed?       — a handful of states; mostly no            ║
+║                                                                                      ║
+║  And the quietest finding is in the numbers: the most common reason a provisional     ║
+║  ballot is rejected is the same condition that caused it to be issued.                ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
