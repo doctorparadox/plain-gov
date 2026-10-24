@@ -1,0 +1,201 @@
+STATISTICAL OFFICIALS CROSSWALK — 24 AGENCIES, ONE TITLE, TWO ENTIRELY DIFFERENT JOBS
+│   Legend: ★ Senate-confirmed   ⏳ fixed statutory term   ○ appointed inside the department
+│           § statute   ⊘ stated in law, no authority attached   ◎ statute stops, discretion starts
+│           ≠ OMB's own documents disagree   ◈ this page's arithmetic   ⚑ structural point
+│   Time-slice: roster read 23 Oct 2026 · statute as in force Oct 2026
+│
+■ PART A — WHAT THE STATUTE ACTUALLY SAYS
+│
+├─◆ § ................ 5 U.S.C. § 314, "Statistical expertise"
+│   │                  Added by Evidence Act § 101(a)(2), P.L. 115-435 (2019).
+│   │   who owes one .. "each agency" = the 24 agencies listed at 31 U.S.C. § 901(b),
+│   │                   by way of the definition at 5 U.S.C. § 311(1).
+│   │   ⚑ THE DUTY ATTACHES TO A HARD-CODED LIST OF AGENCIES, NOT TO AGENCIES
+│   │     THAT STILL EXIST. See USAID in Part C.
+│   │
+│   ├─  THE ONE MANDATORY VERB IN THE SECTION:
+│   │     "The head of each agency SHALL DESIGNATE ..."
+│   │     — and designation is the entire obligation. Nothing follows from it.
+│   │
+│   ├─  THE FORK, VERBATIM, WHICH IS WHY PARTS B AND C ARE DIFFERENT JOBS:   ◎
+│   │     "... the head of any statistical agency or unit within the agency,
+│   │      or in the case of an agency that does not have a statistical agency
+│   │      or unit, any senior agency official with appropriate expertise ..."
+│   │
+│   └─  WHAT THE OFFICIAL MAY THEN DO:
+│         "... as a statistical official to advise on statistical policy,
+│          techniques, and procedures. Agency officials engaged in statistical
+│          activities MAY CONSULT with any such statistical official
+│          AS NECESSARY."
+│       ⊘ ADVISE IS THE WHOLE POWER. The consulting duty is permissive, it is
+│         owed BY other officials rather than TO anyone, and "as necessary" is
+│         judged by the official deciding whether to consult.
+│       ⊘ NO TERM. NO FOR-CAUSE REMOVAL CLAUSE. NO REPORTING LINE. NO BUDGET
+│         LINE. NO APPEAL IF OVERRULED. NO CONSEQUENCE IF NEVER CONSULTED.
+│
+├─◆ WHERE THE JOB'S ACTUAL CONTENT LIVES — AND IT IS NOT IN THE STATUTE        ⚑
+│   │   OMB Memorandum M-19-23, 10 July 2019, App. C. It supplies everything
+│   │   § 314 omits:
+│   │   ├─ "Agency champion for data quality"
+│   │   ├─ "Agency champion for confidentiality protection and appropriate
+│   │   │   data access"
+│   │   ├─ a seat on the agency's Data Governance Body
+│   │   ├─ "the standing and authority to perform the functions" and
+│   │   │   "sufficient independence"
+│   │   └─ fn. 31: "it is OMB's expectation that THESE ARE FULL-TIME POSITIONS"
+│   │   ⚑ A MEMORANDUM CAN BE RESCINDED WITHOUT LEGISLATION. Strip M-19-23 and
+│   │     § 314 still stands, having lost nothing, because the memo is carrying
+│   │     the entire job description. Compare Statistical Policy Directive No. 1,
+│   │     which does the same load-bearing work for the agencies themselves.
+│   │   Designation deadline was 13 July 2019; names public by 2 Aug 2019.
+│
+└─◆ THE HEADLINE NUMBER IS ARITHMETICALLY TRUE AND SUBSTANTIVELY WRONG         ◈
+      OMB and the ICSP both say 24 Statistical Officials. The roster carries 24
+      labels. But:
+      ├─ USAID's seat reads "Vacant" ................. 1 agency with NONE
+      ├─ HUD carries TWO named officials ............. 1 agency with TWO
+      └─ 23 agencies filled + 1 empty = 24 agencies; 24 labels across
+         23 filled agencies. The duplicate cancels the vacancy and the
+         published total comes out right.                                      ◈
+│
+■ PART B — THE 11 WHERE THE OFFICIAL RUNS A STATISTICAL AGENCY
+│   The statute leaves the department NO choice of person here, only a choice
+│   among units. Each of these is a bureau head first and a Statistical
+│   Official second, and the first job is what carries the authority.
+│
+├─ Commerce ....... George Cook ......... Bureau of the Census                 ★⏳
+│                     13 U.S.C. § 21: 5-year term, 60-day removal notice to
+│                     both Houses. The strongest protection in the system —
+│                     and see the Census Bureau Org Chart map for how it has held.
+├─ Labor .......... Brett Matsumoto ..... Bureau of Labor Statistics            ★
+├─ Justice ........ Kevin Scott ......... Bureau of Justice Statistics          ○
+│                     Lost its Senate-confirmation requirement in 2012.
+├─ Education ...... Matthew Soldner ..... Nat'l Center for Education Statistics ○
+├─ HHS ............ Carolyn Greene ...... Nat'l Center for Health Statistics    ○
+├─ Agriculture .... Joe Parsons ......... Nat'l Agricultural Statistics Service ○
+├─ Transportation . Ed Strocko .......... Bureau of Transportation Statistics   ○
+│                     Appointed by statute INTO THE COMPETITIVE SERVICE.
+├─ Treasury ....... Mark Xu ............. Statistics of Income Division         ○
+├─ NSF ............ Emilda Rivers ....... Nat'l Center for Science and
+│                                         Engineering Statistics               ○
+├─ Energy ......... Tristan Abbey ....... Energy Information Administration    ★≠
+│                     Sworn in 25 Sep 2025 as EIA's 11th Administrator —
+│                     so he IS a unit head, but the ICSP roster labels him
+│                     a Statistical Official only, not both.                   ≠
+└─ SSA ............ Gayle Reznik ........ Office of Research, Evaluation and
+                                          Statistics                [unconfirmed]
+                      Also labelled Statistical Official only. Whether she
+                      heads ORES could not be confirmed from SSA's own page
+                      and is NOT asserted here.                                ≠
+   ⚑ ≠ THE ROSTER AND THE RULE DISAGREE BY TWO. OMB's own 2024 final rule
+     states that at 11 agencies the unit head serves as the Statistical
+     Official. The public roster's labels show only 9 marked as both. Abbey
+     and Reznik are the gap. Abbey's unit headship is verifiable from EIA;
+     Reznik's is not verifiable from SSA. So one half of OMB's arithmetic
+     can be reconstructed from primary sources and the other half cannot.
+│
+■ PART C — THE 13 WHERE THE OFFICIAL IS WHOEVER THE DEPARTMENT NAMED
+│   No recognized statistical agency in the house, so § 314's second branch
+│   applies and the department picks "any senior agency official with
+│   appropriate expertise." Nothing defines senior, appropriate, or expertise. ◎
+│
+├─ State .................. Margaret Callahan
+├─ Interior ............... Kawa Ng
+├─ Homeland Security ...... Thomas Woermer
+├─ Veterans Affairs ....... Eddie Thomas
+├─ EPA .................... Alex Marten
+├─ NASA ................... Chris Andall
+├─ GSA .................... Todd Coleman
+├─ OPM .................... Lance Harris
+├─ SBA .................... Travis Dorsey
+├─ NRC .................... Shaun Anderson
+├─ Defense ................ Cameron Stanley
+│                             Carried on the roster as "Department of War."
+│                             EO 14347 (10 Sep 2025) made that a SECONDARY
+│                             name; the renaming passed the House and cleared
+│                             Senate committee in 2026. Whether 31 U.S.C.
+│                             § 901(b)(1) — the list that decides who owes an
+│                             official at all — has been amended could not be
+│                             confirmed.                            [unconfirmed]
+├─ HUD .................... George R. Carter III  AND  Lydia B. Taghavi        ⚑
+│                             Two people, one statutory slot that reads "any
+│                             senior agency official" in the singular. Per
+│                             HUD's own PD&R organization chart of 9 Apr 2026,
+│                             Carter directs the Housing and Demographic
+│                             Analysis Division and Taghavi the Open Data
+│                             Division — DIVISION DIRECTORS, several layers
+│                             below the Secretary, not officers of the
+│                             department. Nothing in § 314 forbids this,
+│                             because § 314 forbids nothing.
+└─ USAID .................. "Vacant"                                          ⊘⚑
+                              USAID shut down 1 Jul 2025 and its surviving
+                              functions moved to State. The agency is still
+                              on the 31 U.S.C. § 901(b) list, so the duty to
+                              designate still formally attaches — to an agency
+                              with no staff to designate from. The seat cannot
+                              be filled and cannot be removed. A duty with no
+                              one to owe it and no one to enforce it.
+   ⚑ OMB EXPECTED THESE TO BE FULL-TIME JOBS (M-19-23 fn. 31). In this branch
+     the role is a second hat by construction: the department is told to find
+     someone senior who already works there, not to create a post. Where the
+     day jobs could be checked they were division-level, not department-level.
+     The other eleven were NOT independently verified and are not characterised.
+│
+■ PART D — THE 5 RECOGNIZED UNITS WHOSE HEADS ARE *NOT* STATISTICAL OFFICIALS
+│   16 recognized agencies and units; 11 of their heads are Statistical
+│   Officials; 5 are not. This is where Part A's fork does its real work —
+│   "the head of ANY statistical agency or unit" lets a department with
+│   several units choose one and leave the others out.                          ◎
+│
+├─ Bureau of Economic Analysis ........... Vipin Arora ....... Commerce
+│                                            Commerce chose Census.
+├─ Economic Research Service ............. Kelly Maguire ..... Agriculture
+├─ Nat'l Animal Health Monitoring System . Andrea Beam ....... Agriculture
+│                                            Agriculture chose NASS over both.
+├─ Center for Behavioral Health
+│  Statistics and Quality ................ Christopher Jones . HHS
+│                                            HHS chose NCHS.
+└─ Microeconomic Surveys Unit ............ Alice Volz ........ Federal Reserve
+                                             STRUCTURALLY INELIGIBLE: the Board
+                                             of Governors is not a 31 U.S.C.
+                                             § 901(b) agency, so it owes no
+                                             Statistical Official and its unit
+                                             head can never be one.            ⚑
+   ⚑ FOUR OF THE FIVE LOST A DEPARTMENTAL COIN-FLIP THEY HAD NO SAY IN, and
+     the fifth was never in the running. A unit head's standing in the data
+     governance of their own department therefore depends on a choice their
+     department made once, in 2019, under a statute that gave it no criteria.
+│
+■ PART E — THE FIVE QUESTIONS, RUN DOWN BOTH BRANCHES AT ONCE
+│
+│                              │ PART B — unit head    │ PART C — second hat
+│  ────────────────────────────┼───────────────────────┼─────────────────────────
+│  Authority as Statistical    │ advise                │ advise
+│  Official (§ 314)            │        ⊘              │        ⊘
+│  ────────────────────────────┼───────────────────────┼─────────────────────────
+│  Authority they actually     │ runs a bureau: staff, │ whatever their day job
+│  have                        │ budget, publication   │ carries. At HUD, a
+│                              │ release               │ division.
+│  ────────────────────────────┼───────────────────────┼─────────────────────────
+│  Fixed term                  │ 1 of 11 (Census)      │ none
+│                              │        ⏳              │
+│  ────────────────────────────┼───────────────────────┼─────────────────────────
+│  Senate confirmation         │ 3 of 11 ★             │ none ★
+│                              │ (Census, BLS, EIA)    │ — not as officials;
+│                              │                       │ any confirmation is
+│                              │                       │ to the day job.
+│  ────────────────────────────┼───────────────────────┼─────────────────────────
+│  What happens when it's      │ the bureau still has  │ nothing is left. The
+│  vacant                      │ a deputy, a statute   │ designation was the
+│                              │ and a product         │ only thing there.
+│                              │                       │ See USAID.         ⊘
+│
+└─◆ THE SHAPE                                                                  ⚑
+      In Part B the title is the smallest thing the person holds. In Part C it
+      is frequently the only thing. Both are "the Statistical Official" in the
+      same sentence of the same statute, counted in the same total of 24, and
+      seated on the same Interagency Council on Statistical Policy — whose
+      chair, the Chief Statistician of the United States, is himself not
+      Senate-confirmed. So the protection a federal statistic enjoys at a given
+      agency is not set by § 314 at all. It is set by whether that agency
+      happened to already have a bureau when the Evidence Act passed.
