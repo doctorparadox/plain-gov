@@ -1,0 +1,351 @@
+AGENCY HEAD REMOVAL PROTECTIONS CROSSWALK — SIX COLUMNS, AND WHICH ONE IS LEFT
+│   Legend: ★ Senate confirmation   ⏳ fixed statutory term
+│           ☐ advance notice of the removal to Congress   † voided 29 June 2026
+│           ⊘ written in law with no remedy attached
+│           ◎ the hinge, where the protection stops deciding anything
+│           ⚑ structural point   ◈ this page's own arithmetic
+│           [untested] no removal has yet run through this clause
+│   Time-slice: statutes as in force Oct 2026 · case law read 24 Oct 2026
+│   No officeholder is named inside this fence. Every row is a statute or a case.
+│
+■ PART A — THE SIX THINGS A STATUTE CAN GIVE AN AGENCY HEAD
+│   Four of the six columns are about ARRIVING. One is about STAYING. One is
+│   about whether anything on the page has ever been made to work.
+│
+├─◆ 1 ... SENATE CONFIRMATION                                                  ★
+│         A gate on the way in, and nothing else. Advice and consent is spent
+│         the day the officer is sworn. The Senate gets no role in the exit
+│         and has no vote to withhold once the seat is filled.
+│
+├─◆ 2 ... A FIXED STATUTORY TERM                                              ⏳
+│         A date, not a floor. A term says when the seat next comes open if
+│         nothing else happens. It does not say that nothing else may happen.
+│         One statute in Part E says so in terms, in the next subparagraph.
+│
+├─◆ 3 ... A QUALIFICATION REQUIREMENT
+│         "Without regard to political affiliation." "Solely on the basis of
+│         integrity and demonstrated ability." "Demonstrated ability to manage
+│         large organizations." Each of these binds the APPOINTMENT. None of
+│         them says one word about the removal. A qualification requirement
+│         is a guard against the wrong person arriving and no guard at all
+│         against the right person leaving.                                    ◎
+│
+├─◆ 4 ... FOR-CAUSE REMOVAL LANGUAGE                                           †
+│         The only one of the six that is actually tenure: a closed list of
+│         grounds, and with it the implication that absent a ground the
+│         officer stays. This is the column that was voided. See Part B.
+│
+├─◆ 5 ... ADVANCE NOTICE TO CONGRESS                                           ☐
+│         Not tenure. It does not require the President to HAVE a reason,
+│         only to SAY one — in writing, to named recipients, sometimes by a
+│         deadline. Publicity, not protection. It is also, after June 2026,
+│         the strongest thing most of these statutes still contain. Part D.
+│
+└─◆ 6 ... WHETHER ANY OF IT HAS BEEN TESTED
+          The column that decides what the other five are worth, and the only
+          one no statute contains. Supplied here from the record.
+│
+■ PART B — COLUMN 4: THE FOR-CAUSE TIER, VOIDED 29 JUNE 2026                   †
+│   Trump v. Slaughter, No. 25-332, decided 29 June 2026, 6-3, Roberts, C.J.
+│   (Thomas joining except Part III-B; Gorsuch concurring; Sotomayor, Kagan
+│   and Jackson dissenting). Held: the for-cause removal provision protecting
+│   Federal Trade Commission members, 15 U.S.C. § 41, is "contrary to the
+│   separation of powers enshrined in the Constitution." Humphrey's Executor
+│   (1935) is overruled. The "quasi-legislative" and "quasi-judicial" labels
+│   that case ran on were "always a legal fiction," because rulemaking,
+│   enforcement, in-house adjudication and federal litigation are all
+│   executive in character.
+│
+├─◆ THE CLAUSE THAT WAS STRUCK, VERBATIM
+│     15 U.S.C. § 41. Seven-year terms; a Commissioner may be removed by the
+│     President for "inefficiency, neglect of duty, or malfeasance in office."
+│     Those three grounds had been in the statute since 1914.
+│     ⚑ THE WORDS ARE STILL THERE. Nothing was repealed. The clause remains
+│       printed in the United States Code and no longer does anything, which
+│       is the condition the rest of this part describes.                      ⊘
+│
+├─◆ THE MULTIMEMBER BODIES IN THE SAME POSITION
+│   │   Sixteen bodies whose members hold a fixed term under a for-cause
+│   │   provision, as compiled by the Congressional Research Service. Term
+│   │   lengths and citations are theirs. The removal WORDING of the fifteen
+│   │   other than the FTC was not read for this page and is not quoted.
+│   ├─ Chemical Safety and Hazard Invest. Board  5 yr   42 U.S.C. §7412(r)(6)(B)
+│   ├─ Consumer Product Safety Commission        7 yr   15 U.S.C. §2053(a)
+│   ├─ Federal Energy Regulatory Commission      5 yr   42 U.S.C. §7171(b)(1)
+│   ├─ Federal Labor Relations Authority         5 yr    5 U.S.C. §7104(b)
+│   ├─ Federal Maritime Commission               5 yr   46 U.S.C. §46101(b)(5)
+│   ├─ Federal Mine Safety and Health Rev. Comm. 6 yr   30 U.S.C. §823(b)(1)
+│   ├─ Federal Reserve Board of Governors       14 yr   12 U.S.C. §242    (Part C)
+│   ├─ Federal Trade Commission                  7 yr   15 U.S.C. §41          †
+│   ├─ Merit Systems Protection Board            7 yr    5 U.S.C. §1202(d)     †
+│   ├─ National Labor Relations Board            5 yr   29 U.S.C. §153(a)      †
+│   ├─ National Mediation Board                  3 yr   45 U.S.C. §154
+│   ├─ National Transportation Safety Board      5 yr   49 U.S.C. §1111(c)
+│   ├─ Nuclear Regulatory Commission             5 yr   42 U.S.C. §5841(e)
+│   ├─ Occupational Safety and Health Rev. Comm. 6 yr   29 U.S.C. §661(b)
+│   ├─ Postal Regulatory Commission              6 yr   39 U.S.C. §502(a)
+│   └─ Surface Transportation Board              5 yr   49 U.S.C. §1301(b)(3)
+│
+├─◆ THE SINGLE-HEADED AGENCIES, WHICH LOST THE COLUMN EARLIER OR LATER
+│   ├─ Consumer Financial Protection Bureau ... struck in 2020, Seila Law v.
+│   │    CFPB. Five-year term survives; the for-cause clause did not.
+│   ├─ Federal Housing Finance Agency ........ struck in 2021, Collins v.
+│   │    Yellen, on Seila Law's reasoning.
+│   ├─ Office of Special Counsel ............. 5 U.S.C. § 1211(b) still reads
+│   │    that the Special Counsel "may be removed by the President only for
+│   │    inefficiency, neglect of duty, or malfeasance in office." Tested in
+│   │    February 2025 and ABANDONED: the officer dropped the suit in March
+│   │    2025 after losing a stay, so no court ruled on the clause.            ⊘
+│   └─ Social Security Administration ........ 42 U.S.C. § 902(a)(3) still
+│        reads that the Commissioner "may be removed from office only
+│        pursuant to a finding by the President of neglect of duty or
+│        malfeasance in office." Six-year term. [untested]                     ⊘
+│
+└─◆ WHAT THE TESTS ACTUALLY PRODUCED
+      ├─ 5 Dec 2025 — the D.C. Circuit held the for-cause protections of BOTH
+      │    the National Labor Relations Board and the Merit Systems Protection
+      │    Board unconstitutional, because those agencies "wield substantial
+      │    executive power," and reversed a district court that had reinstated
+      │    the removed members. One judge dissented. The panel did not rely on
+      │    Slaughter, which was still pending; it relied on Seila Law and on
+      │    Myers v. United States (1926).
+      ├─ 19 Oct 2026 — the Supreme Court DECLINED to review the NLRB case.    ⚑
+      │    The petition argued that the Board falls outside the removal power
+      │    because it operates like an independent court: it decides cases by
+      │    applying federal labour law to a record and has no investigative or
+      │    prosecutorial powers of its own. Denying review left that argument
+      │    unanswered by the Court, which matters because Slaughter's own
+      │    stated limit is officers who "exercise no part of the executive
+      │    power" — and the one petition squarely raising that limit for an
+      │    adjudicatory board was turned away rather than decided.             ◎
+      └─ ⚑ THE SURVIVING SHAPE OF COLUMN 4: a for-cause clause is now a
+           sentence in the Code with no effect at any agency that exercises
+           executive power, and the boundary of "executive power" has been
+           drawn only by the cases the Court agreed to hear.
+│
+■ PART C — THE ONE FOR-CAUSE CLAUSE STILL STANDING
+│   Trump v. Cook, No. 25A312, decided the same day, 29 June 2026, 5-4 —
+│   Roberts, C.J., joined by Sotomayor, Kagan, Kavanaugh and Jackson, with
+│   Kavanaugh and Jackson also writing; Thomas, Alito (joined by Gorsuch) and
+│   Barrett dissenting. A different five from Part B's six.
+│
+├─◆ THE CLAUSE
+│     12 U.S.C. § 242. Fourteen-year terms; a Governor serves the term
+│     "unless sooner removed for cause by the President." Cause is not
+│     defined anywhere in the section.
+│     ⚑ IT IS A WEAKER FORM OF WORDS THAN THE ONE THAT WAS STRUCK. The FTC
+│       clause named three grounds. This one names none. The clause that
+│       survived is the vaguer of the two, so the text did not decide the
+│       outcome — the identity of the institution did.                         ◎
+│
+├─◆ WHAT THE COURT ADDED THAT THE STATUTE DOES NOT SAY
+│     A Governor is entitled to "notice and some opportunity to respond"
+│     before the President may remove them — a procedural floor read into a
+│     clause that contains no procedure. The Court rested the Board's
+│     position on the historical independence of central banking rather than
+│     on anything in § 242.
+│     The district judge below had read the clause as not contemplating
+│     "removing an individual purely for conduct that occurred before they
+│     began in office." The removal was blocked and the officer remains in
+│     the seat while the challenge proceeds.
+│
+└─◆ WHAT THE EXCEPTION DOES NOT COVER                                         ⚑
+      § 242 protects the fourteen-year SEAT. The Chairman and the two Vice
+      Chairmen — including the Vice Chairman for Supervision, who holds the
+      bank-regulation portfolio — are four-year DESIGNATIONS made from among
+      the sitting Governors, and the section attaches no removal clause to
+      any of them. The strongest tenure in the executive branch therefore
+      protects the vote and not the gavel.                                    ◎
+│
+■ PART D — COLUMN 5: ADVANCE NOTICE TO CONGRESS. FOUR SHAPES, ONE REMEDY     ☐
+│   None of these clauses limits the President's grounds. Each requires that
+│   the removal be ANNOUNCED. They were not touched by June 2026, because
+│   they never claimed to be tenure. They are now the strongest surviving
+│   protection in three of the four statutes below.
+│
+├─◆ SHAPE 1 — SIXTY DAYS, BOTH HOUSES, IN ADVANCE                             ☐
+│   │   Director of the Census — 13 U.S.C. § 21.
+│   │   ├─ ★ Senate confirmation, and appointed "without regard to political
+│   │   │     affiliation"
+│   │   ├─ ⏳ five-year term, two-term limit, one-year holdover maximum
+│   │   ├─ qualification requirement: a demonstrated ability to manage large
+│   │   │     organizations, and experience with the collection, analysis and
+│   │   │     use of statistical data
+│   │   ├─ for-cause language: NONE. The President may remove for any reason
+│   │   │     or for none.
+│   │   └─ § 21(b)(3): the President must communicate the reasons in writing
+│   │         to BOTH Houses "not later than 60 days before the removal."
+│   │   ⚑ THE LONGEST CLOCK IN THE SYSTEM, AND [untested]. No removal is
+│   │     recorded as having run through § 21(b)(3) since the clause was
+│   │     enacted in 2012. The seat has stood vacant since February 2025
+│   │     after a resignation announced that January, its duties performed
+│   │     by a departmental official — so the strongest notice requirement
+│   │     in federal law protects a chair nobody currently sits in.           ◎
+│
+├─◆ SHAPE 2 — THIRTY DAYS, BOTH HOUSES, WITH A REASON THAT HAS TO HOLD UP    ☐
+│   │   Inspectors General — 5 U.S.C. § 403(b), as amended in 2022. The most
+│   │   demanding notice clause in federal law, and the only one that
+│   │   specifies CONTENT rather than merely a recipient.
+│   │   ├─ ★ Senate confirmation; appointed "without regard to political
+│   │   │     affiliation and solely on the basis of integrity and
+│   │   │     demonstrated ability"
+│   │   ├─ ⏳ fixed term: NONE
+│   │   ├─ written notice to both Houses and the appropriate committees "not
+│   │   │     later than 30 days before the removal or transfer"
+│   │   ├─ the notice must contain a "substantive rationale, including
+│   │   │     detailed and case-specific reasons"
+│   │   ├─ any open or completed inquiry into the Inspector General must be
+│   │   │     identified, and a completed one's findings included
+│   │   └─ non-duty status is its own 15-day written-rationale requirement
+│   │         and generally may not be imposed inside the 30-day window
+│   │   ⚑⚑ TESTED, BROKEN, AND UNREMEDIED. Seventeen Inspectors General were
+│   │     removed overnight on 24 January 2025 by e-mail citing "changing
+│   │     priorities" — no 30 days, no case-specific reasons. In Storch v.
+│   │     Hegseth the district court found on 24 September 2025 that the
+│   │     removals were UNLAWFUL and declined to reinstate anyone, on the
+│   │     ground that the plaintiffs had shown no irreparable harm: the
+│   │     President could lawfully remove them again by giving the notice.     ⊘
+│   │   ◎ THIS IS THE HINGE OF THE WHOLE PAGE. A notice clause's maximum
+│   │     value is the length of its own delay, and a court has now held
+│   │     that the delay is not an injury a court will restore. The most
+│   │     demanding notice requirement Congress has written produced a
+│   │     declaration that the law was broken and no change in the outcome.
+│
+├─◆ SHAPE 3 — REASONS TO EACH HOUSE, WITH NO CLOCK AT ALL                     ☐
+│   │   Archivist of the United States — 44 U.S.C. § 2103(a).
+│   │   ├─ ★ Senate confirmation; appointed "without regard to political
+│   │   │     affiliations and solely on the basis of the professional
+│   │   │     qualifications required"
+│   │   ├─ ⏳ fixed term: NONE
+│   │   └─ "The President shall communicate the reasons for any such removal
+│   │         to each House of the Congress." No advance period. No deadline
+│   │         of any kind for the communication.
+│   │   ⚑ A DUTY WITH NO DUE DATE CANNOT BE LATE. The Archivist was removed
+│   │     in February 2025; a historians' association wrote to the White
+│   │     House on 10 February 2025 stating that the Administration "has not
+│   │     yet complied with this statute." Whether the reasons were ever
+│   │     communicated is [unconfirmed] here, which is itself the point: a
+│   │     requirement with no date attached has no moment at which a reader
+│   │     can say it was missed.                                               ⊘
+│
+└─◆ SHAPE 4 — REASONS TO ONE CHAMBER, 1863                                    ☐
+      Comptroller of the Currency — 12 U.S.C. § 2. Five-year term, Senate
+      confirmation, and removal by the President "upon reasons to be
+      communicated by him to the Senate." The Senate alone; the House is not
+      a recipient. No clock. The oldest of the four clauses by more than a
+      century, and the narrowest. [untested in this term]
+      ◈ THE FOUR SHAPES, SORTED BY WHAT THEY ACTUALLY COST A PRESIDENT: 60
+        days and two chambers · 30 days, two chambers and a defensible
+        written case · an undated letter to two chambers · an undated letter
+        to one. Only the first two cost any time, and only one of those has
+        ever been put to the test — the one that failed.                       ◈
+│
+■ PART E — COLUMN 2 ALONE: A FIXED TERM AND NOTHING ELSE
+│   These statutes give a term, a confirmation and sometimes a qualification
+│   requirement, and attach nothing to the exit. They are the control group,
+│   and they are where a fixed term can be seen doing nothing.
+│
+├─ Commissioner of Labor Statistics .... 29 U.S.C. § 3
+│    ⏳ four years, ★ Senate-confirmed — and the term runs "unless sooner
+│    removed," with no grounds named and no procedure attached to the phrase.
+│    TESTED, 1 August 2025: removed the day a monthly jobs report was
+│    published, with roughly half the term unexpired, after a confirmation
+│    carried on 86 Senate votes. No litigation is recorded.                    ⚑
+│
+├─ Commissioner of Internal Revenue .... 26 U.S.C. § 7803(a)(1)
+│    ⏳ five years, ★ Senate-confirmed, and a qualification requirement of
+│    "a demonstrated ability in management" — then subparagraph (D):
+│    the Commissioner "may be removed at the will of the President."
+│    ⚑⚑ THIS IS THE WHOLE OF PART A, COLUMNS 2 AND 3, WRITTEN OUT BY
+│      CONGRESS AND THEN ANSWERED IN THE NEXT SUBPARAGRAPH. The statute sets
+│      a term, sets a qualification, and says in terms that neither of them
+│      is a protection. Every other entry in this part means the same thing
+│      by saying nothing.                                                      ◎
+│
+└─ Director of the Federal Bureau of Investigation .. Crime Control Act of
+     1976, P.L. 94-503 § 203
+     ⏳ ten years — the longest term in the executive branch outside the
+     Federal Reserve — ★ Senate-confirmed, no reappointment of an incumbent.
+     The Congressional Research Service records "no statutory conditions on
+     the President's authority to remove the Director." TESTED twice, in
+     1993 and in 2017, both times successfully, by Presidents of different
+     parties.
+│
+■ PART F — OUTSIDE THE EXECUTIVE POWER ALTOGETHER
+│   One officer in this crosswalk has tenure that nothing in June 2026
+│   touched, because the President is not on the list of people who can end
+│   it.
+│
+├─◆ Comptroller General of the United States — 31 U.S.C. § 703
+│     ⏳ fifteen years, no reappointment, ★ Senate confirmation. Removable
+│     "at any time by (A) impeachment; or (B) joint resolution of Congress,
+│     after notice and an opportunity for a hearing, only for" permanent
+│     disability, inefficiency, neglect of duty, malfeasance, or a felony or
+│     conduct involving moral turpitude. The President appears nowhere in
+│     the removal provision.
+│
+└─◆ WHAT THAT PROTECTION COST, AND WHY IT IS THE SAME RULE AS PART B        ⚑⚑
+      Bowsher v. Synar, 478 U.S. 714, decided 7 July 1986, Burger, C.J. —
+      BECAUSE Congress could remove the Comptroller General by joint
+      resolution, he could not be given the job of executing a statute:
+      "Congress in effect has retained control over the execution of the Act
+      and has intruded into executive function." The budget-sequestration
+      duties assigned to him were struck down, not his tenure.
+      ◎ READ THE TWO HOLDINGS TOGETHER AND THEY ARE ONE RULE FROM OPPOSITE
+        ENDS. Bowsher 1986: an officer insulated from the President may not
+        execute the law. Slaughter 2026: an officer who executes the law may
+        not be insulated from the President. The Comptroller General keeps
+        the strongest removal protection in the federal government by not
+        being an executive officer at all — which is also the only stated
+        limit on Slaughter, officers who "exercise no part of the executive
+        power." Forty years apart, the two opinions agree: tenure and
+        executive power cannot sit in the same seat.
+│
+■ PART G — THE SIX COLUMNS RUN ACROSS THE FIVE TIERS
+│   Plus one row the statutes imply and never state: who is actually able
+│   to end the job. No glyphs in this grid — every cell is plain text.
+│
+│                        │ for-cause │ the Fed   │ notice to │ term      │ outside
+│                        │ (voided)  │           │ Congress  │ only      │ Article II
+│  ──────────────────────┼───────────┼───────────┼───────────┼───────────┼────────────
+│   Senate confirmation  │ yes       │ yes       │ yes       │ yes       │ yes
+│  ──────────────────────┼───────────┼───────────┼───────────┼───────────┼────────────
+│   Fixed statutory term │ 3-7 yr    │ 14 yr     │ 0-5 yr    │ 4-10 yr   │ 15 yr
+│  ──────────────────────┼───────────┼───────────┼───────────┼───────────┼────────────
+│   Qualification req't  │ varies    │ none      │ 3 of 4    │ 1 of 3    │ none
+│  ──────────────────────┼───────────┼───────────┼───────────┼───────────┼────────────
+│   For-cause language   │ VOIDED    │ upheld    │ none      │ none      │ yes
+│  ──────────────────────┼───────────┼───────────┼───────────┼───────────┼────────────
+│   Notice to Congress   │ none      │ none *    │ REQUIRED  │ none      │ hearing **
+│  ──────────────────────┼───────────┼───────────┼───────────┼───────────┼────────────
+│   Who can end the job  │ President │ President │ President │ President │ Congress
+│  ──────────────────────┼───────────┼───────────┼───────────┼───────────┼────────────
+│   Ever tested?         │ yes       │ yes       │ yes       │ yes       │ no
+│  ──────────────────────┼───────────┼───────────┼───────────┼───────────┼────────────
+│   What the test did    │ removal   │ removal   │ removal   │ removal   │ no removal
+│                        │ UPHELD    │ BLOCKED   │ held      │ UPHELD,   │ has ever
+│                        │ 2025-26   │ 2026      │ UNLAWFUL  │ no suit   │ been
+│                        │           │           │ and left  │ filed     │ attempted
+│                        │           │           │ standing  │ 2025      │ [untested]
+│                        │           │           │ 2025      │           │
+│
+│   *  12 U.S.C. § 242 requires nothing of Congress. The Court read in
+│      "notice and some opportunity to respond" owed to the OFFICER.
+│   ** 31 U.S.C. § 703(e) is not notice at all: it is a joint resolution of
+│      Congress, after notice and a hearing, on enumerated grounds.
+│
+└─◆ THE SHAPE                                                                 ⚑
+      Read down the "Ever tested?" row and the ranking of these protections
+      inverts. The column with ninety years of doctrine behind it was tested
+      and lost. The column that reads strongest on paper — a closed list of
+      grounds — turned out to be the one the Constitution would not carry.
+      The clause that survived at the Federal Reserve is the vaguest of the
+      lot and survived on history rather than on text. The clause that
+      survives everywhere else, notice to Congress, survives precisely
+      BECAUSE it concedes the President's power and asks only for a letter —
+      and the single time a court examined one, it found the law broken and
+      left the removal standing.
+      That leaves one protection in this crosswalk that has never failed,
+      and it belongs to the one officer who was told forty years ago that he
+      may not execute the law. The price of keeping the job, in this system,
+      is not doing the work.
