@@ -1,0 +1,302 @@
+DEFERRED AND NON-PROSECUTION AGREEMENT CROSSWALK — FOUR EXITS, ONE DOOR
+│   Legend: ☐ filed on a public court docket   ⊘ written down with no remedy attached
+│           ◎ the hinge, where review stops and discretion decides alone
+│           ★ required by Department policy, not discretionary   ⏳ a term of years runs
+│           ⚑ structural point   ◈ this page's own reading
+│           [untested] no court has ruled   [unconfirmed] no primary source found
+│   Time-slice: statutes and rules as in force Oct 2026 · DOJ policy read 27 Oct 2026
+│   No officeholder is named inside this fence. Every row is an instrument or a text.
+│
+■ PART A — THE FOUR EXITS, IN ORDER OF HOW MUCH OF THEM A STRANGER CAN READ
+│   The ordering principle is not severity. It is visibility. Severity and
+│   visibility happen to run together for three of the four and come apart
+│   completely at the second one.
+│
+├─◆ 1 ... DECLINATION, WITH DISGORGEMENT
+│         The Department investigates, decides not to charge, and takes the
+│         money anyway. No charge. No agreement to breach. No term. Under the
+│         March 2026 policy a company that qualifies "will be required to pay
+│         all disgorgement/forfeiture" plus restitution and victim
+│         compensation. What the company buys is the absence of a case.
+│         A declination letter is published; it is not filed anywhere.
+│
+├─◆ 2 ... NON-PROSECUTION AGREEMENT  (NPA)                                  ⏳ ★
+│         A letter. The Department agrees not to charge; the company agrees
+│         to a statement of facts, a compliance program, continued
+│         cooperation, and a term. Nothing is filed. No case number is ever
+│         generated. No judge is ever asked for anything, because nothing is
+│         pending before one. This is the instrument the March 2026 policy
+│         makes mandatory for an entire tier of cases — see Part E.         ◎
+│
+├─◆ 3 ... DEFERRED PROSECUTION AGREEMENT  (DPA)                          ⏳ ☐
+│         A charging document IS filed — an information or an indictment —
+│         and then held. The Department asks the court to stop the speedy
+│         trial clock while the company serves out its term. At the end the
+│         Department moves to dismiss. If the company breaches, the charge
+│         is already sitting there, with an agreed statement of facts the
+│         company has promised not to contradict.
+│         A case number exists. The agreement is a court record.
+│
+└─◆ 4 ... GUILTY PLEA
+          A charge, a conviction, a judgment, a sentence. The judge must
+          find a factual basis for the plea under Fed. R. Crim. P. 11(b)(3)
+          and must accept or reject the agreement itself under Rule 11(c)(3)
+          — and Rule 11(c)(1) forbids the court from taking part in the
+          negotiation that produced it. This is the only one of the four
+          where a judge can say no to the deal and mean it.
+│
+■ PART B — THE NINE COLUMNS
+│   Each is a yes-or-no or a short answer, and each is a thing a reader can
+│   check. Part G runs all nine across all four instruments.
+│
+├─ 1 ... Is a criminal charge filed?
+├─ 2 ... Does a public court docket exist?
+├─ 3 ... What may a judge do about the terms?
+├─ 4 ... Is there an agreed statement of facts?
+├─ 5 ... Is an admission of guilt required?
+├─ 6 ... Is a speedy trial waiver or exclusion needed?
+├─ 7 ... Is there a compliance term, and how long?
+├─ 8 ... Is an independent compliance monitor imposed?
+└─ 9 ... What happens on breach?
+│
+■ PART C — WHERE THE JUDGE ACTUALLY IS, AND WHAT TWO CIRCUITS DID TO IT
+│   The entire judicial role in a deferred prosecution agreement rests on
+│   six words in the Speedy Trial Act. Both circuits that have read those
+│   words read them as narrowly as they can be read.
+│
+├─◆ THE TEXT ... 18 U.S.C. § 3161(h)(2)
+│         Excludes from the speedy trial clock any period of delay during
+│         which prosecution is deferred by the attorney for the Government
+│         pursuant to written agreement with the defendant, "with the
+│         approval of the court," for the purpose of allowing the defendant
+│         to demonstrate good conduct.
+│         Those six words are the only statutory hook for judicial
+│         involvement in a DPA. There is no statute governing DPAs as such,
+│         and none at all governing NPAs.                                   ⚑
+│
+├─◆ FOKKER ... United States v. Fokker Services B.V.
+│         818 F.3d 733 (D.C. Cir., decided 5 April 2016). The district court
+│         had refused to approve a DPA it considered too lenient. Reversed.
+│         Held: "a district court lacks authority to disapprove a DPA under
+│         § 3161(h)(2) on the ground that the prosecution has been too
+│         lenient," and "the Act confers no authority in a court to withhold
+│         exclusion of time pursuant to a DPA" — including on concerns that
+│         the government should have brought different charges or charged
+│         different defendants. The approval power reaches one question
+│         only: whether the agreement is "geared to enabling the defendant
+│         to demonstrate compliance with the law" rather than "a pretext
+│         intended merely to evade the Speedy Trial Act's time
+│         constraints."                                                      ◎
+│
+├─◆ HSBC ... United States v. HSBC Bank USA, N.A.
+│         863 F.3d 125 (2d Cir., decided 12 July 2017). The district court
+│         had invoked its supervisory power to oversee the DPA's
+│         implementation and had moved toward unsealing the monitor's
+│         report. Reversed on both. Held: the district court "erred in sua
+│         sponte invoking its supervisory power" absent "a showing of
+│         impropriety"; the monitor's report "is not a judicial document
+│         because it is not now relevant to the performance of the judicial
+│         function"; § 3161(h)(2) does not confer "an ongoing oversight
+│         power over the government's entry into or implementation of a
+│         DPA." The court's role is "limited to arraigning the defendant,
+│         granting a speedy trial waiver if the DPA does not represent an
+│         improper attempt to circumvent the speedy trial clock, and
+│         adjudicating motions or disputes as they arise."
+│
+└─◆ WHAT IS LEFT OF IT                                                   ⊘ ⚑
+      A DPA goes before a judge, and the judge may examine whether the
+      agreement is a real good-conduct arrangement rather than a device for
+      parking the clock. That is the whole of it. The judge may not reach
+      the length of the term, the size of the payment, the choice of
+      charge, the absence of individual defendants, the presence or absence
+      of a monitor, or anything the monitor later finds. Approval written
+      into a statute, with no power attached to the word.
+      And an NPA does not even get this much, because no case is pending.
+│
+■ PART D — WHAT HAPPENS ON BREACH
+│   This is the column where the two middle instruments separate again, in
+│   the opposite direction from Part A: the one with the docket is the one
+│   with the sharper consequence, precisely because the charge is already
+│   filed and waiting.
+│
+├─◆ DECLINATION ... nothing to breach
+│         There is no agreement with continuing obligations and no term, so
+│         there is no breach to allege. The money was paid at the front.
+│         What protects the Department is the ordinary statute of
+│         limitations and nothing else.
+│
+├─◆ NPA ... the Department may charge, and starts from scratch
+│         Breach releases the Department from its promise. It must then
+│         actually build and file a case — within whatever limitations
+│         period remains, which is why these agreements routinely contain a
+│         tolling clause and a provision making the agreed statement of
+│         facts admissible against the company. There is no pending charge
+│         to revive, because there never was one.                         [untested]
+│
+├─◆ DPA ... the Department moves to lift the deferral
+│         The filed charge is still on the docket. The Department tells the
+│         court the company breached and asks to proceed on the information
+│         it filed at the outset, with the statement of facts the company
+│         agreed not to contradict. The limitations problem was solved on
+│         day one by filing. Whether a company may contest the breach
+│         finding, and before whom, is the live question the case law has
+│         not reached.                                                       ◎
+│
+└─◆ GUILTY PLEA ... nothing to breach either
+      The conviction is entered. What remains are cooperation and
+      compliance provisions whose violation is a sentencing or probation
+      matter, in front of a judge who already has jurisdiction over the
+      company. This is the only one of the four where the judge who hears
+      the breach is the judge who approved the deal.
+│
+■ PART E — THE MARCH 2026 POLICY, AND THE ONE INSTRUMENT IT NAMES
+│   Corporate Enforcement and Voluntary Self-Disclosure Policy, Office of
+│   the Deputy Attorney General, announced 10 March 2026. It applies to all
+│   corporate criminal matters handled by the Department except antitrust
+│   violations under 15 U.S.C. §§ 1-38. Contemporaneous analysis reports
+│   that it supersedes every component-specific and U.S. Attorney's
+│   Office-specific corporate enforcement policy then in effect; see Notes.
+│
+├─◆ PART I ... the declination tier
+│         The Department "will decline to prosecute" where the company made
+│         a qualifying voluntary self-disclosure, fully cooperated, timely
+│         and appropriately remediated, and there are "no aggravating
+│         circumstances related to the nature and seriousness of the
+│         offense." The company pays all disgorgement, forfeiture,
+│         restitution and victim compensation. Prosecutors retain discretion
+│         to grant a declination even with aggravators present.
+│
+├─◆ PART II ... the "near miss" tier, and the word SHALL                   ★
+│         For a company that fully cooperated and remediated but is
+│         ineligible for Part I only because its self-report did not qualify
+│         as a voluntary self-disclosure, or because aggravating factors
+│         warrant a criminal resolution, "the Department shall":
+│           1. "Provide a Non-Prosecution Agreement (NPA) - absent
+│              particularly egregious or multiple aggravating circumstances"
+│           2. "Allow a term length of fewer than three years"        ⏳
+│           3. "Not require an independent compliance monitor"
+│           4. Provide a fine reduction of at least 50% but not more than
+│              75% off the low end of the Sentencing Guidelines range
+│
+├─◆ PART III ... everything else
+│         Prosecutors "maintain discretion to determine the appropriate
+│         resolution including form, term length, compliance obligations,
+│         and monetary penalty," with the reduction capped at 50% off the
+│         Guidelines fine and a presumption of the low end of the range for
+│         companies that fully cooperated and remediated.
+│
+└─◆ WHAT THE DOCUMENT DOES NOT SAY                                      ⚑ ◈
+      The phrases "deferred prosecution" and "plea" appear nowhere in the
+      policy. Its flow chart in Appendix A offers three outcomes:
+      declination; "NPA", with "No monitor"; and "Prosecutorial discretion
+      on form, term, monitor, reduction." The only resolution instrument the
+      Department has committed itself by name to providing is the one that
+      is never filed, never docketed, and never seen by a judge. The two
+      instruments that put a case in front of a court are reachable only
+      through the discretionary tier, where the policy promises nothing.
+      This reading is the page's own; the policy makes no such statement
+      about itself.
+│
+■ PART F — PUBLICATION IS NOT A DOCKET
+│   The standard answer to "so nobody can see an NPA?" is that the
+│   Department publishes them. It does, by its own policy, and that is a
+│   materially different thing from a court record.
+│
+├─◆ THE RULE ... Justice Manual 9-28.200 (revised April 2023)
+│         "Absent exceptional circumstances, corporate criminal resolution
+│         agreements will be published on the Department's public website."
+│         The same section requires that plea, deferred prosecution and
+│         non-prosecution agreements include, to the greatest extent
+│         possible, an agreed statement of facts and a statement of the
+│         Department's reasons for entering into the agreement.
+│
+├─◆ WHAT A POLICY IS NOT                                                   ⊘
+│         The Justice Manual is an internal Department document. It creates
+│         no rights, binds no court, and can be rewritten by the officials
+│         it governs — which is exactly what happened to every
+│         component-level corporate enforcement policy on 10 March 2026.
+│         "Exceptional circumstances" is undefined and self-assessed.
+│         Publication is a practice, revocable, with no remedy if withheld.
+│
+├─◆ WHAT A DOCKET IS
+│         A filed case produces a number, an assigned judge, a public
+│         record that third parties can move to unseal, a forum in which a
+│         journalist or a victim can file a motion, and an appellate route.
+│         None of this exists for an instrument that was never filed. The
+│         gap is not about whether the text can be read. It is about
+│         whether anyone outside the two negotiating parties has standing
+│         to ask a question about it.                                       ◎
+│
+└─◆ AND THE MONITOR'S FILE                                              ⚑
+      Even on the DPA side, where a docket exists, HSBC settles that the
+      monitor's report is not a judicial document. Where a monitor is
+      imposed at all, the record of whether the compliance program actually
+      worked is a Department file. Under the March 2026 policy's Part II a
+      monitor may not be imposed in the first place.
+│
+■ PART G — THE NINE COLUMNS RUN ACROSS THE FOUR INSTRUMENTS
+│   No glyphs in this grid — every cell is plain text.
+│
+│                        │ declination │ NPA         │ DPA         │ guilty plea
+│  ──────────────────────┼─────────────┼─────────────┼─────────────┼─────────────
+│   Charge filed?        │ no          │ no          │ YES         │ YES
+│  ──────────────────────┼─────────────┼─────────────┼─────────────┼─────────────
+│   Public docket?       │ no          │ no          │ yes         │ yes
+│  ──────────────────────┼─────────────┼─────────────┼─────────────┼─────────────
+│   Judge may do what    │ nothing     │ nothing     │ bona fides  │ accept or
+│   about the terms?     │ at all      │ at all      │ only        │ REJECT
+│  ──────────────────────┼─────────────┼─────────────┼─────────────┼─────────────
+│   Statement of facts?  │ in the      │ yes, per    │ yes, per    │ yes, plus a
+│                        │ letter      │ 9-28.200    │ 9-28.200    │ Rule 11(b)(3)
+│                        │             │             │             │ finding
+│  ──────────────────────┼─────────────┼─────────────┼─────────────┼─────────────
+│   Admission of guilt?  │ no          │ no          │ no          │ YES
+│  ──────────────────────┼─────────────┼─────────────┼─────────────┼─────────────
+│   Speedy trial waiver  │ n/a         │ n/a         │ REQUIRED    │ n/a
+│   or exclusion?        │             │             │ § 3161(h)(2)│
+│  ──────────────────────┼─────────────┼─────────────┼─────────────┼─────────────
+│   Compliance term      │ none        │ under 3 yr  │ by          │ probation,
+│                        │             │ in the      │ negotiation │ set by the
+│                        │             │ mandated    │             │ court
+│                        │             │ tier        │             │
+│  ──────────────────────┼─────────────┼─────────────┼─────────────┼─────────────
+│   Independent monitor? │ no          │ barred in   │ by          │ by
+│                        │             │ the         │ negotiation │ negotiation,
+│                        │             │ mandated    │             │ court may
+│                        │             │ tier        │             │ impose
+│  ──────────────────────┼─────────────┼─────────────┼─────────────┼─────────────
+│   On breach            │ nothing to  │ build and   │ lift the    │ nothing to
+│                        │ breach;     │ file a new  │ deferral;   │ breach;
+│                        │ limitations │ case within │ the charge  │ sentencing
+│                        │ period is   │ limitations │ is already  │ or probation
+│                        │ the only    │ (tolling    │ on the      │ consequence
+│                        │ constraint  │ clause)     │ docket      │
+│  ──────────────────────┼─────────────┼─────────────┼─────────────┼─────────────
+│   Named in the         │ yes         │ YES, with   │ no          │ no
+│   March 2026 policy?   │             │ "shall"     │             │
+│  ──────────────────────┼─────────────┼─────────────┼─────────────┼─────────────
+│
+└─◆ THE SHAPE                                                              ⚑
+      Read across the "Judge may do what" row and the four instruments sort
+      into a line with only one break in it. At the plea, a judge holds a
+      real veto: Rule 11 lets the court reject the agreement outright, and
+      requires it to find a factual basis before entering judgment. At the
+      deferred prosecution agreement, a judge holds the word "approval" and
+      nothing the word normally carries — two circuits have now said the
+      court may check that the agreement is genuine and may not look at any
+      term inside it. At the non-prosecution agreement and at the
+      declination, there is no judge, because there is no case; the only
+      thing standing between the agreement and total invisibility is an
+      internal policy about a website.
+      So the sequence runs: a veto, a formality, nothing, nothing.
+      And the Department's own policy, written in March 2026 and binding on
+      every component, reaches into that sequence and mandates the third
+      step. The one resolution instrument the Department has promised, in
+      the imperative, to provide is the one no court will ever read. The two
+      that generate a docket survive only in the tier where the policy
+      guarantees nothing at all.
+      The usual criticism of corporate settlements is that the penalties
+      are too small. The structural point is prior to that one: for most of
+      these cases there is no forum in which the question of whether the
+      penalty was too small can be asked by anyone who was not at the
+      table.
