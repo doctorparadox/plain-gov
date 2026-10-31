@@ -1,0 +1,300 @@
+HOW A LEAK IS INVESTIGATED AND PROSECUTED (October 2026)
+│   From a published story to a criminal charge - and the shorter route that
+│   gets taken instead.
+│   Reporting duties: 28 U.S.C. § 535 · E.O. 12333 § 1.6(b) · 1995 interagency MOU
+│   Procedure: ICD 701 (3 Oct 2017) · Charges: §§ 793, 798, 641, 1924, 1001
+│   The press: 28 C.F.R. § 50.10 · Reporting to Congress: 50 U.S.C. § 3235
+│   ☐ a document is created here        ⊘ foreclosed by statutory text
+│   ◎ the hinge: the criminal track stops, something else decides
+│   ✕ a requirement that does not bind  ⚑ a duty with no due date
+│   ⏳ a clock runs here                 ★ used or decided in 2025-26
+│   ◈ a count or reading made on this page
+│
+■ STAGE 0 — THE DISCLOSURE IS NOTICED
+│
+│  ├─◆ Published. A story, a broadcast, a book. The usual trigger, and the
+│  │    only one a member of the public ever sees.
+│  ├─◆ Detected internally. Audit logs, system monitoring and insider-threat
+│  │    tooling, governed by ICS 500-27 and ICS 700-2.
+│  └─◆ Self-reported, or reported by a colleague. Every cleared employee is
+│       under a standing duty to report suspected unauthorized disclosures,
+│       including disclosures by people who do not work for the government.
+│
+│   ⊘ NOT a trigger on its own: the fact that the information was classified.
+│     Someone has to decide the disclosure was unauthorized AND that it was
+│     damaging enough to be worth reporting.
+│
+──▶
+■ STAGE 1 — THE PRELIMINARY INQUIRY (the agency, not the Justice Department)
+│
+│   Run by the General Counsel of the agency the information came FROM, with
+│   subject-matter experts. Deliberately narrow: agency records, public
+│   information, and interviews with people other than the suspect.
+│
+│  ├─◆ ⏳ Within SEVEN BUSINESS DAYS of opening the inquiry, the head of the
+│  │    element notifies the Intelligence Community Inspector General, its own
+│  │    Inspector General, and any other element whose information is involved.
+│  ├─◆ The inquiry answers the eleven questions at Stage 2.
+│  └─◆ ⊘ The inquiry may NOT interview the suspect, polygraph anyone, or seize
+│       evidence. Those steps belong to Stage 4 and need the Department first.
+│
+│   ◇ Is there a reasonable basis to believe a federal crime occurred?
+│      ├─ no ──▶ ◎ the matter stays inside the agency. Go to PARALLEL TRACK.
+│      └─ yes ──▶ Stage 2
+│
+──▶
+■ STAGE 2 — THE ELEVEN QUESTIONS (the screen that decides whether anyone looks)
+│
+│   ☐ A questionnaire the referring agency must complete before the Justice
+│   Department will open a criminal leak investigation. Known inside the system
+│   as the Traditional 11 Questions. What they go to:
+│
+│   ┌───────────────────────────────────┬──────────────────────────────────────────────┐
+│   │ WHAT THE QUESTIONS MEASURE        │ WHY IT DECIDES THE CASE                      │
+│   ├───────────────────────────────────┼──────────────────────────────────────────────┤
+│   │ What exactly was disclosed        │ Fixes the charge and the classification      │
+│   │                                   │ level                                        │
+│   │ Whether it is accurate            │ Inaccurate leaks are rarely pursued          │
+│   │ How damaging it was               │ The only genuinely harm-facing question      │
+│   │ How widely it had spread          │ Information already public is not covered    │
+│   │ How many people had lawful access │ The decisive one: a short access list is a   │
+│   │                                   │ findable leaker                              │
+│   │ Whether lawful release was        │ Separates a leak from an authorised          │
+│   │ possible                          │ disclosure                                   │
+│   └───────────────────────────────────┴──────────────────────────────────────────────┘
+│
+│   ✕ NONE of the eleven asks whether identifying the leaker would require
+│     compulsory process against a journalist. That question is not part of
+│     the screen. It arrives at Stage 5, and one official answers it.
+│
+──▶
+■ STAGE 3 — THE CRIMES REPORT (the referral itself)
+│
+│   ☐ A written report from the agency's General Counsel to the Justice
+│   Department. Three separate authorities require it:
+│
+│  ├─◆ 28 U.S.C. § 535 — the general duty of an agency to report possible
+│  │    federal criminal violations to the Attorney General.
+│  ├─◆ E.O. 12333 § 1.6(b) — the intelligence-community-specific duty.
+│  └─◆ The 1995 interagency Memorandum of Understanding on the reporting of
+│       federal crimes, which is what sets the form in practice.
+│
+│   The element simultaneously notifies its own Inspector General, the
+│   Intelligence Community Inspector General, and the Director of the National
+│   Counterintelligence and Security Center.
+│
+│  ├─◆ ⚑ There is no deadline on the crimes report itself. The seven-day clock
+│  │    at Stage 1 runs on NOTIFICATION, not on referral.
+│  └─◆ One route is mandatory and immediate: any indication the information
+│       reached a FOREIGN POWER goes to the FBI at once. ⊘ That is a
+│       counterintelligence matter, and it bypasses the screen entirely.
+│
+──▶
+■ STAGE 4 — THE TIER DECISION (what, if anything, happens next)
+│
+│   Made by the National Security Division together with the referring agency.
+│   Three outcomes:
+│
+│  ├─◆ TIER 1 — nothing further. The preliminary inquiry was the whole
+│  │    investigation. ◈ On the published numbers this is where most referrals
+│  │    end, and it leaves no record anyone outside the agency can see.
+│  ├─◆ TIER 2 — the agency investigates internally, once the Department
+│  │    concurs. ⏳ Until the Department concurs, asks for more, or 21 days
+│  │    pass from notification — whichever comes first — the agency must avoid
+│  │    any step that could damage a criminal case: no subject interview, no
+│  │    polygraph, no seizure of evidence.
+│  └─◆ TIER 3 — the FBI investigates, at the Department's request. This is the
+│       only tier that can end in a courtroom.
+│
+│   ◇ Does the FBI take it, or does the Department decline?
+│      ├─ declines ──▶ ◎ the two Inspectors General decide whether an
+│      │                 ADMINISTRATIVE investigation is warranted instead.
+│      │                 Go to PARALLEL TRACK.
+│      └─ takes it ──▶ Stage 5
+│
+──▶
+■ STAGE 5 — THE INVESTIGATION
+│
+│   FBI agents, supervised by National Security Division lawyers and the
+│   relevant United States Attorney's office.
+│
+│  ├─◆ THE ORDINARY ROUTE — start from the access list. Who could have seen
+│  │    the document, who printed it, who badged into the space, who carried a
+│  │    phone out of it. Metadata before testimony, because metadata needs no
+│  │    witness — and no reporter.
+│  ├─◆ ★ WORKED EXAMPLE (January 2026). A cleared contract systems engineer
+│  │    was charged with five counts of unlawful transmission and one of
+│  │    unlawful retention under § 793(e), after allegedly printing classified
+│  │    reports, removing them from a secure facility and passing them to a
+│  │    reporter. The evidence described in the public filings is phone
+│  │    messages recovered in a court-authorised search and a document found
+│  │    in a vehicle. The physical trail, not the journalist.
+│  └─◆ THE PRESS ROUTE — 28 C.F.R. § 50.10. A subpoena, a § 2703(d) order, a
+│       § 3123 order, a search warrant, or the questioning, arrest or charging
+│       of a journalist for conduct arising from newsgathering, each requires
+│       the ATTORNEY GENERAL'S OWN AUTHORIZATION, cleared first by the
+│       responsible United States Attorney or Assistant Attorney General.
+│       ├─ ☐ § 50.10(e): the journalist should normally get advance notice,
+│       │    and the risk that notice would DELAY the investigation is
+│       │    expressly not a sufficient reason to withhold it. Where notice is
+│       │    withheld it must follow within 45 days of the return, extendable
+│       │    once by 45 days, and never beyond 90.
+│       ├─ ☐ § 50.10(c)(4)(iv): in a leak case specifically, the Attorney
+│       │    General may authorise process once the originating agency
+│       │    certifies the harm.
+│       └─ ✕ § 50.10(i): the policy "does not, create any right or benefit"
+│            enforceable at law or in equity by any party.
+│            ◎ THE WHOLE PROTECTION IS AN INTERNAL SIGN-OFF RULE, AND THE
+│              OFFICIAL WHO SIGNS IS THE ONE WHO SETS IT.
+│            ★ Rescinded and rewritten in April and May 2025 — see the Notes.
+│
+──▶
+■ STAGE 6 — THE CHARGE (and the statute that does not exist)
+│
+│   ⊘ THERE IS NO GENERAL LEAK STATUTE. No federal provision makes it a crime,
+│     as such, to give classified information to the press. What exists:
+│
+│  ┌────────────────────┬────────────────────────────────────────┬────────────────────────────────┐
+│  │ PROVISION          │ WHAT IT ACTUALLY REACHES               │ WHAT IT TURNS ON               │
+│  ├────────────────────┼────────────────────────────────────────┼────────────────────────────────┤
+│  │ Section 793(d),    │ Retaining or communicating information │ The phrase "relating to the    │
+│  │ (e)                │ relating to the national defense. The  │ national defense" - not the    │
+│  │                    │ workhorse.                             │ word "classified"              │
+│  │ Section 798        │ Codes, ciphers, cryptographic          │ The fact of classification.    │
+│  │                    │ equipment, communications              │ The only provision where that  │
+│  │                    │ intelligence. Four categories only.    │ is the element                 │
+│  │ Section 641        │ Theft or conversion of government      │ Information treated as         │
+│  │                    │ property                               │ property                       │
+│  │ Section 1924       │ Removing or keeping classified         │ Possession, not disclosure. A  │
+│  │                    │ material in an unauthorised place      │ five-year felony since January │
+│  │                    │                                        │ 2018                           │
+│  │ Section 1001       │ False statements to investigators      │ The interview, not the leak    │
+│  └────────────────────┴────────────────────────────────────────┴────────────────────────────────┘
+│
+│   What "relating to the national defense" requires, as courts have read it:
+│   the information must concern military activity, intelligence or foreign
+│   policy; it must be CLOSELY HELD, meaning the government kept it from the
+│   public and it has not otherwise been published; and its disclosure must be
+│   potentially damaging to the United States or useful to an adversary.
+│   Actual harm need not be proved. Information the government has already
+│   made public falls outside the prohibition.
+│
+──▶
+■ STAGE 7 — THE DEFENSES THAT DO NOT EXIST
+│
+│  ├─◆ ⊘ NO PUBLIC-INTEREST DEFENSE. That the disclosure exposed waste, error
+│  │    or wrongdoing is not an answer to the charge. Courts have indicated
+│  │    that a patriotic motive would not change the outcome.
+│  ├─◆ ⊘ NO MOTIVE ELEMENT TO REBUT. The government need not prove an evil
+│  │    motive. Knowing the information could injure the United States or help
+│  │    a foreign nation satisfies the mental state.
+│  ├─◆ ⊘ UNDER § 798, NO CLASSIFICATION CHALLENGE AT ALL — the propriety of
+│  │    the classification is not an element and not a jury question. Under
+│  │    § 793 the fight is narrower than it sounds: whether information
+│  │    relates to the national defense goes to the jury, but classification
+│  │    is strong evidence and the executive's judgment draws deference.
+│  └─◆ ⚑ WHAT THE DEFENDANT MAY SEE AND SHOW at trial is settled in a separate
+│       procedure, litigated by the prosecuting party. That is its own map.
+│
+│   ◇ Does the case reach a verdict?
+│      ├─ graymail ──▶ the government must weigh confirming sensitive material
+│      │               in open court. Historically this has produced pleas and
+│      │               dismissals as often as verdicts.
+│      └─ verdict ──▶ sentence · and ◎ the clearance is gone either way
+│
+══▶
+■ THE PARALLEL TRACK — WHAT HAPPENS WHEN THE CRIMINAL ROUTE CLOSES
+│
+│   ◎ THIS IS THE DISPOSITION IN MOST CASES. It is available at every exit
+│     above: after a Tier 1 closure, after an FBI declination, after a
+│     Department declination, after an acquittal, and during a prosecution.
+│
+│  ├─◆ Guideline K of the national security adjudicative guidelines, titled
+│  │    HANDLING PROTECTED INFORMATION, treats deliberate or negligent failure
+│  │    to protect classified or other sensitive information as a security
+│  │    concern in its own right. It needs no charge and no conviction.
+│  ├─◆ The standard is not proof beyond a reasonable doubt. It is whether
+│  │    continued access is CLEARLY CONSISTENT with the interests of national
+│  │    security — a formula that resolves doubt against the employee.
+│  ├─◆ ☐ A suspension or revocation of access is recorded in Scattered
+│  │    Castles, the community-wide clearance database. ◈ That record follows
+│  │    the person to every cleared employer, which is the practical sanction
+│  │    whether or not anything else ever happens.
+│  ├─◆ ☐ Classification violations are reported to the Information Security
+│  │    Oversight Office.
+│  └─◆ ⊘ JUDICIAL REVIEW IS LARGELY FORECLOSED. Under Department of the Navy
+│       v. Egan (1988) the substance of a clearance determination is committed
+│       to the executive. Procedure can be challenged; the judgment generally
+│       cannot.
+│
+│   ◈ A person can lose a career, a clearance and future employability on this
+│     track without ever being charged, and none of it is published.
+│
+──▶
+■ THE REPORTING THAT GOES UP, AND STOPS
+│
+│   50 U.S.C. § 3235 requires reports "not less frequently than once every
+│   6 months":
+│
+│  ├─◆ FROM each intelligence community element head and each inspector
+│  │    general with oversight of one: investigations opened, investigations
+│  │    completed, and of those completed, how many were referred to the
+│  │    Attorney General.
+│  ├─◆ FROM the Assistant Attorney General for National Security, on each
+│  │    referral in the last 365 days plus any still open: date received,
+│  │    whether substantiated, the highest classification level involved,
+│  │    whether a criminal investigation is active, whether charges were
+│  │    filed, and whether the disclosure was attributed to anyone.
+│  ├─◆ TO the two congressional intelligence committees; the Department's
+│  │    report also goes to both Judiciary committees.
+│  └─◆ ☐ The reports "shall be unclassified," with a classified annex
+│       permitted. ✕ No public release is required and none is routine.
+│       ◈ Which is why the best figures available to a reader are old ones.
+│
+──▶
+■ THE FUNNEL, IN THE ONLY NUMBERS ANYONE HAS PUBLISHED
+
+  ┌────────────────────────┬────────────────────────────────────────────────┬─────────────────┐
+  │ PERIOD                 │ WHAT WAS COUNTED                               │ COUNT           │
+  ├────────────────────────┼────────────────────────────────────────────────┼─────────────────┤
+  │ Around 2000            │ Leak crimes reports received, per year         │ About 50        │
+  │                        │ (Attorney General Janet Reno)                  │                 │
+  │ Around 2000            │ Investigations the agencies asked for, per     │ 20 to 25        │
+  │                        │ year                                           │                 │
+  │ Around 2000            │ Of those, investigations the Department opened │ Almost all      │
+  │ 1995-1998              │ Written crimes reports to the Department, per  │ About 200       │
+  │                        │ year, all crimes (CIA Inspector General)       │                 │
+  │ Sept 2001 - Feb 2008   │ FBI media-leak investigations opened and       │ 85              │
+  │                        │ closed                                         │                 │
+  │ Sept 2001 - Feb 2008   │ Of those, prosecutions                         │ 0               │
+  │ Sept 2001 - Feb 2008   │ Still open as of February 2008                 │ 21              │
+  │ 2005-2009              │ Referrals of unauthorized disclosure           │ 183             │
+  │ 2005-2009              │ FBI investigations opened                      │ 26              │
+  │ 2005-2009              │ Suspects identified                            │ 14              │
+  │ 2005-2009              │ Prosecutions                                   │ Not published   │
+  │ Jan - July 2017        │ People charged (Attorney General Jeff          │ 4               │
+  │                        │ Sessions)                                      │                 │
+  │ 2010-2026              │ A government-wide referral-to-prosecution      │ Not published   │
+  │                        │ ratio                                          │                 │
+  └────────────────────────┴────────────────────────────────────────────────┴─────────────────┘
+
+  In the first six months of 2017 the Attorney General said the Department had
+  received "nearly as many criminal referrals" as in the prior three years
+  combined, and had "more than tripled" the number of active leak
+  investigations. Neither statement came with a number.
+
+  THE READING, SET OUT PLAINLY
+  ══════════════════════════════════════════════════════════════════
+  Every stage of this process has a document, a deadline or a named
+  official attached to it - except the two stages that decide the
+  outcome.  No deadline governs the crimes report.  No rule requires
+  the Justice Department to open an investigation, and none requires
+  it to close one.  The screen that decides whether anyone looks
+  asks how findable the leaker is, not how much harm was done.  And
+  the sanction that actually lands in most cases - the clearance,
+  and the database entry that follows it - requires no charge, no
+  jury and no published reason.
+  ══════════════════════════════════════════════════════════════════
+  The criminal cases are the ones we can see.  They are not the ones
+  that decide what happens to people who leak.
+  ══════════════════════════════════════════════════════════════════
