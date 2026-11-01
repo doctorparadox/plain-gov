@@ -26,7 +26,7 @@ HOW AN INSPECTOR GENERAL IS APPOINTED AND REMOVED — THE DOORS IN AND OUT (Octo
 │              ◈ The two halves are roughly equal in number and differ in exactly
 │                one structural respect: who signs the appointment and the removal.
 │
-├─◆ PART A — THE WAY IN (one route, seven stops, no clock on anyone but the acting)
+├─◆ PART A — THE WAY IN (one route, eight stops, no clock on anyone but the acting)
 │   │
 │   │  A1 ── THE CHAIR EMPTIES ──▶ death · resignation · removal · transfer · expiry
 │   │        of a prior acting designation ★
@@ -139,7 +139,8 @@ HOW AN INSPECTOR GENERAL IS APPOINTED AND REMOVED — THE DOORS IN AND OUT (Octo
 │   │        ★ Education: the inspector general wrote on 23 May 2025 of "unreasonable
 │   │          denials and repeated delays" in access to documents, staff and information.
 │   │        ◈ This route needs no removal, no notice to Congress and no stated cause,
-│   │          and it is the only route on this chart with no provision governing it.
+│   │          and it is one of two routes on this chart, with the money in Route 6,
+│   │          that no provision governs.
 │   │
 │   │  ROUTE 6 ── THE MONEY (no provision of the Act engages at all)
 │   │        ├─ Staffing: inspector general office staffing down ~12% against 2024

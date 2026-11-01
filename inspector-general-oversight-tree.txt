@@ -44,7 +44,7 @@ INSPECTOR GENERAL OVERSIGHT TREE — THE INTERNAL-WATCHDOG LAYER (as of Septembe
 │   │     [Tammy Hull (USPS IG) was acting chair Jan 2025 – Apr 2026; the race was uncontested]
 │   │     [next election late 2026 for the two-year term beginning 1/1/2027]
 │   ├─ Integrity Committee ..... investigates misconduct allegations against IGs THEMSELVES
-│   │     (IG members + FBI designee + OGE + OSC) ──▶ findings to the President or agency head
+│   │     (IG members + FBI designee + OGE) ──▶ findings to the President or agency head
 │   ├─ Standards & peer review . Quality Standards for Federal OIGs ("Silver Book") · peer review
 │   ├─ Training Institute · Oversight.gov (single public portal for every OIG report)
 │   └─ Funding ................. assessments on member OIGs, routed through OMB
