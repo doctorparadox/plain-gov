@@ -1,0 +1,210 @@
+HOW A FEDERAL EMPLOYEE IS FIRED — THE FIVE ROUTES OUT       (as of 14 October 2026)
+│   Legend:  ──▶ main path   └─▶ branch/off-ramp   ◇ route-selecting decision
+│            ✕ no appeal exists   ⚖ outside adjudicator + judicial review
+│            ⬛ adjudicated inside the executive branch, no judicial review
+│            ⏱ statutory/regulatory clock   ★ changed in 2026
+│
+■ 0. THE PREMISE — the ROUTE is chosen by the POSITION, not by the conduct
+│     Four facts about the appointment, all settled before any misconduct or
+│     budget decision exists, decide what the employee is owed:
+│     ├─ SERVICE ....... competitive · excepted · Senior Executive Service
+│     ├─ SCHEDULE ...... A · B · C · D (Pathways) · E · G · ★ Policy/Career
+│     ├─ TENURE ........ career (group I) · career-conditional (II) · probationary
+│     └─ PREFERENCE .... 30%-or-more disabled · other preference eligible · none
+│
+│     ◇ still inside a probationary or trial period?  ─────────── yes ──▶ ROUTE C
+│     ◇ position moved into Schedule Policy/Career?  ──────────── yes ──▶ ROUTE E
+│     ◇ separation driven by headcount or restructuring?  ─────── yes ──▶ ROUTE B
+│     ◇ OPM asserting post-appointment UNSUITABILITY?  ────────── yes ──▶ ROUTE D
+│     └─ otherwise — performance or conduct  ──────────────────────────▶ ROUTE A
+│
+├─◆ ROUTE A — PERFORMANCE OR CONDUCT                 ⚖ THE ONLY ROUTE TO A COURT
+│   │   [5 U.S.C. ch. 43 · ch. 75 · 5 CFR 432 · 5 CFR 752]
+│   │
+│   ├─ (A1) UNACCEPTABLE PERFORMANCE  [ch. 43, 5 U.S.C. 4303]
+│   │     rating of record at Level 1  ──▶ opportunity to demonstrate acceptable
+│   │        performance (the "PIP")  ──▶ failure to improve
+│   │     ⏱ 30 days advance written notice · specific instances · reply period
+│   │     ⏱ decision within 30 days after the notice period ends
+│   │     ★ PROPOSED, NOT FINAL: a 30-day cap on the opportunity period, removal
+│   │        as the default penalty, no pre-PIP   [91 FR 40444, comments reopened]
+│   │
+│   ├─ (A2) MISCONDUCT / EFFICIENCY OF THE SERVICE  [ch. 75, 5 U.S.C. 7513]
+│   │     ⏱ 30 days advance written notice stating the specific reasons
+│   │     ├─ right to review the material relied on
+│   │     ├─ ⏱ at least 7 days to answer, orally and in writing
+│   │     ├─ right to representation by an attorney or other representative
+│   │     └─ written decision at the earliest practicable date, with reasons
+│   │
+│   └──▶ APPEAL  [5 U.S.C. 7701]
+│         MSPB administrative judge ──▶ initial decision
+│         └─▶ petition for review ──▶ MSPB Board (3 seats · 2 = quorum)
+│               ★ 5 Oct 2026: the 12 DOUGLAS FACTORS are no longer a mandatory
+│                  checklist. Where the Board sustains the charge, the question
+│                  is whether the penalty is "within the tolerable limits of
+│                  reasonableness in light of the totality of the circumstances."
+│                  Lachance v. Devall codified at 5 CFR 1201.56.
+│                  [91 FR 56549 · applies to appeals FILED on or after 5 Oct 2026]
+│         └──▶ ⚖ U.S. Court of Appeals for the FEDERAL CIRCUIT  [5 U.S.C. 7703]
+│
+├─◆ ROUTE B — REDUCTION IN FORCE                        ⬛ MOVED TO OPM 2 SEP 2026
+│   │   [5 CFR 351 · ★ 91 FR 49178 (procedures) · ★ 91 FR 49230 (appeals)]
+│   │
+│   ├─ 1. COMPETITIVE AREA — the organizational unit, or a geographic location
+│   │       defined as its own area.  Must be clearly distinguished from others in
+│   │       operation, work function, staff and supervisory oversight.
+│   │       ⏱ an area in effect under 90 days, or materially modified, must be
+│   │          described and justified to OPM before the RIF  ★
+│   ├─ 2. COMPETITIVE LEVEL — positions interchangeable in grade, series, duties
+│   ├─ 3. RETENTION REGISTER — ★ SEPARATE registers for competitive and excepted
+│   │       service, each with two tenure subgroups
+│   │
+│   ├─ 4. ★ THE NEW ORDER OF RETENTION FACTORS — performance first, tenure last
+│   │       (a) tenure group
+│   │       (b) PERFORMANCE CREDIT, augmented by veterans' preference
+│   │             three most recent ratings of record from the prior 4 years
+│   │             Level 5 = 7 pts · Level 4 = 5 · Level 3 = 3 · Level 1-2 = 0
+│   │             raw maximum 21 · agency may set a cutoff date for new ratings
+│   │             preference: +5 (30%-or-more disabled) · +3 (other) · 0 (none)
+│   │       (c) tenure subgroup ....... tiebreaker
+│   │       (d) service computation date ... final tiebreaker
+│   │       ⚠ a non-preference employee with materially higher ratings can now
+│   │          outrank a preference eligible — preference no longer sits above
+│   │          performance, it is added to it
+│   │
+│   ├─ 5. ★ BUMP AND RETREAT IS GONE — replaced by ASSIGNMENT RIGHTS to a
+│   │       qualifying position held by someone of lower retention standing in the
+│   │       same tenure group, generally within 3 grades (5 if 30%+ disabled)
+│   │
+│   ├─ 6. SPECIFIC RIF NOTICE  [5 CFR 351.802] — retention standing is FIXED on
+│   │       the date this notice is received.  A simplified notice is allowed
+│   │       where an entire competitive area is abolished within 180 days.  ★
+│   │
+│   └──▶ ★ APPEAL — furlough over 30 days · separation · demotion
+│         ⬛ OPM Merit System Accountability and Compliance (MSAC) replaces the
+│            MSPB as the adjudicative agency.  Record-based; a hearing only where
+│            a material credibility dispute cannot be resolved on the record.
+│         ⏱ file within 30 calendar days of the effective date (11:59 pm ET, day 30)
+│         ⏱ agency response + complete certified record: 30 days
+│         ⏱ appellant reply: 15 days — new allegations only from information first
+│            disclosed in the agency response, or by OPM leave for good cause
+│         ⏱ OPM initial decision: 120 days
+│         ⏱ final 30 days after issuance unless reconsideration is requested
+│         └─▶ the OPM DIRECTOR may review a nonfinal decision on the Director's
+│               own initiative.  No party has a right to request that review.
+│         ✕ NO JUDICIAL REVIEW — the rule retains a no-review provision
+│         └─▶ carve-out: notices ISSUED before 2 Sep 2026, and appeals already
+│               pending, stay at the MSPB under the prior procedures
+│
+├─◆ ROUTE C — PROBATIONARY OR TRIAL PERIOD               ⬛ MOVED TO OPM 2 SEP 2026
+│   │   [5 CFR 315 subpt. H · E.O. 14284 · ★ 91 FR 49072]
+│   │
+│   ├─ E.O. 14284, 24 Apr 2025 — "Strengthening Probationary Periods"
+│   │     ├─ agencies may weigh factors BEYOND performance and conduct, including
+│   │     │    whether continued employment "would advance organizational goals"
+│   │     ├─ no obligation to furnish conclusions on inadequate performance
+│   │     └─ ⏱ the agency head or designee must AFFIRMATIVELY CERTIFY continued
+│   │          employment within 30 days before the probationary period ends —
+│   │          silence now ends the appointment instead of confirming it
+│   │
+│   ├─ TERMINATION — no PIP · no 30-day notice · no statement of reasons,
+│   │     unless the termination rests on PRE-APPOINTMENT reasons, which carries
+│   │     notice and a reply
+│   │
+│   └──▶ ★ APPEAL — ⬛ OPM MSAC, on TWO GROUNDS ONLY:
+│         ├─ discrimination based on partisan political reasons or marital status
+│         └─ failure to follow the procedures for a pre-appointment termination
+│         ⏱ file within 30 days · ⏱ OPM initial decision within 60 days
+│         ✕ no appeal on the merits of the performance or conduct judgment
+│         ✕ NO JUDICIAL REVIEW
+│
+├─◆ ROUTE D — SUITABILITY                               ⬛ OPM, SOLE JURISDICTION
+│   │   [5 CFR 731 · ★ 91 FR 39361 (factors) · ★ 91 FR 49034 (appeals)]
+│   │
+│   ├─ ★ 30 Jun 2026 — suitability now reaches CURRENT EMPLOYEES for conduct
+│   │     AFTER appointment, in the competitive service and the career SES.
+│   │     OPM: "Employees who engage in serious misconduct while in the Federal
+│   │     service are equally as unsuitable for Federal employment as applicants."
+│   │     Agencies MUST refer; OPM keeps sole jurisdiction; ch. 75 stays available
+│   │     to the agency as a parallel option.
+│   │
+│   ├─ THE FACTORS  [5 CFR 731.202(b)]
+│   │     ├─ misconduct or negligence in employment — now expressly including
+│   │     │    theft or misuse of Government resources and equipment, and REFUSAL
+│   │     │    TO CERTIFY COMPLIANCE WITH NONDISCLOSURE OBLIGATIONS  ★
+│   │     ├─ failure to comply with financial obligations or generally applicable
+│   │     │    civil legal obligations — the "knowing and willful" intent
+│   │     │    requirement was REMOVED from the proposed text  ★
+│   │     ├─ a bar to lawful employment under law, regulation or executive order,
+│   │     │    with citizenship or nationality requirements as the example  ★
+│   │     ├─ alcohol use — now applies to all individuals, not only applicants  ★
+│   │     └─ criminal or dishonest conduct · false statements · refusal to furnish
+│   │          testimony (the 5 CFR 5.4 example was dropped)  ★
+│   │
+│   ├─ PROCESS OWED  [subpts. C-D] — written notice of the proposed action and
+│   │     its specific reasons · the right to review the material relied on · a
+│   │     written reply · representation · written notice of the final decision
+│   │     ⏱ removal must occur within 5 WORKDAYS of the final decision
+│   │     └─▶ DEBARMENT of up to 3 years, and it may be governmentwide
+│   │
+│   └──▶ ★ APPEAL — ⬛ OPM Suitability Executive Agent (SuitEA)  [subpt. E]
+│         ⏱ 30 days to file · ⏱ OPM initial decision within 60 days
+│         ⏱ final 30 days after issuance unless reconsideration or Director reopen
+│         ✕ NO JUDICIAL REVIEW
+│         └─▶ carve-out: appeals FILED at the MSPB before 2 Sep 2026 stay there
+│
+└─◆ ROUTE E — SCHEDULE POLICY/CAREER                       ✕ NO APPEAL AT ALL
+    │   [5 CFR 213.3601 · 5 CFR 210, 212, 302, 432, 451, 752 · ★ 91 FR 5580]
+    │
+    ├─ THE RULE — 6 Feb 2026, effective 9 Mar 2026.  A new excepted-service
+    │     schedule for career positions "of a confidential, policy-determining,
+    │     policy-making, or policy-advocating character."  OPM's term for them is
+    │     POLICY-INFLUENCING.  They remain career jobs filled on a nonpartisan
+    │     basis — and they are at-will.
+    │
+    ├─ HOW A POSITION GETS THERE
+    │     agency workforce assessment ──▶ petition to OPM ──▶ OPM review and
+    │     recommendation ──▶ THE PRESIDENT decides ──▶ executive order
+    │     └─▶ E.O. 14410, Jun 2026 — about 8,000 positions moved, far below the
+    │           ~50,000 projected while the rule was pending  ★
+    │
+    ├─ WHAT THE INCUMBENT KEEPS AND LOSES
+    │     ├─ KEEPS competitive STATUS, but does not remain in the competitive
+    │     │    SERVICE while in the excepted position
+    │     ├─ KEEPS student loan repayment and recruitment/relocation/retention
+    │     │    incentives — the April 2024 amendments were rescinded  ★
+    │     ├─ LOSES ch. 75 adverse-action procedure and the adverse-action appeal
+    │     └─ LOSES ch. 43 performance-action procedure
+    │
+    └──▶ SEPARATION
+          ✕ no notice period, no reply, no adjudicator, no appeal of the action
+          the only internal check: agencies "must establish and enforce internal
+          policies barring PPPs including whistleblower reprisal," and personal
+          or political loyalty tests are barred as a condition of employment
+          [5 CFR 213.3601(e)] — an agency self-policing obligation, not a remedy
+
+════════════════════════════════════════════════════════════════════════════════
+  COLLATERAL FORUMS — they survive all five routes, and they reach the REASON,
+  never the retention standing, the suitability determination or the penalty
+════════════════════════════════════════════════════════════════════════════════
+  ├─ OSC ...... prohibited personnel practices, 5 U.S.C. 2302(b); whistleblower
+  │               reprisal under 2302(b)(8) and 2302(b)(13); an individual right
+  │               of action to the MSPB after OSC closes or sits on the complaint
+  ├─ EEOC ..... discrimination under the EEO statutes — these claims CANNOT be
+  │               attached to an OPM appeal and must be filed separately
+  ├─ MSPB ..... only where it has INDEPENDENT jurisdiction: USERRA · VEOA
+  ├─ DOL VETS . veterans' employment and reemployment rights
+  └─ IG ....... agency Inspector General complaint
+
+════════════════════════════════════════════════════════════════════════════════
+  THE CONVERGENCE — one road out of five still leaves the executive branch
+════════════════════════════════════════════════════════════════════════════════
+  ROUTE A  ch. 43 / ch. 75 ....... MSPB AJ → Board → Federal Circuit      ⚖
+  ROUTE B  reduction in force .... OPM MSAC → OPM Director                ⬛ ✕
+  ROUTE C  probationary .......... OPM MSAC, two grounds only             ⬛ ✕
+  ROUTE D  suitability ........... OPM SuitEA → OPM Director              ⬛ ✕
+  ROUTE E  Schedule Policy/Career  nothing                                   ✕
+  ─────────────────────────────────────────────────────────────────────────────
+  Routes B, C and D were all moved in ONE Federal Register issue — Vol. 91,
+  No. 147, 3 August 2026 — and all took effect on ONE day, 2 September 2026.
+  Route A, the sole survivor, is also the slowest and the most expensive to run.
