@@ -1,4 +1,4 @@
-THE FEDERAL ADVISORY COMMITTEE SYSTEM — ONE WAY IN, FIVE WAYS OUT (October 2026)
+THE FEDERAL ADVISORY COMMITTEE SYSTEM — ONE GATE IN, FIVE WAYS OUT (October 2026)
 │   Federal Advisory Committee Act of 1972 · 5 U.S.C. ch. 10 · 41 C.F.R. part 102-3
 │   ~1,000 chartered committees across ~50 agencies · 1,021 reported for FY2023
 │   ☐ a published notice is required    ⊘ foreclosed by statutory text
@@ -13,7 +13,7 @@ THE FEDERAL ADVISORY COMMITTEE SYSTEM — ONE WAY IN, FIVE WAYS OUT (October 202
 │   │  full-time or permanent part-time  │  President or an agency. § 1001(2) │
 │   │  federal officer or employee.      │  "Utilized" = the government       │
 │   │  § 1001(2)                         │  "exercises actual management or   │
-│   │                                    │  control over its operation."      │
+│   │                                    │  control of its operation."        │
 │   │  ⊘ A group of federal employees    │  § 102-3.25                        │
 │   │    only is excluded outright by    │  ◎ A group genuinely run by        │
 │   │    § 1001(2)(B)(i).                │    someone else is outside the Act │
@@ -42,7 +42,7 @@ THE FEDERAL ADVISORY COMMITTEE SYSTEM — ONE WAY IN, FIVE WAYS OUT (October 202
 │   │  ├──────────────────┼──────────────────────┼──────────────────────────┤
 │   │  │ ENDS: only by    │ ENDS: when the       │ ENDS: when the agency    │
 │   │  │ legislation      │ directive is         │ head decides it has      │
-│   │  │ ⊘ An executive   │ rescinded            │ served its purpose ☐     │
+│   │  │ ⊘ An executive   │ rescinded            │ served its purpose       │
 │   │  │   order cannot   │                      │ ◎ No vote, no comment    │
 │   │  │   terminate it   │                      │   period, no cause       │
 │   │  ├──────────────────┼──────────────────────┼──────────────────────────┤
@@ -63,7 +63,8 @@ THE FEDERAL ADVISORY COMMITTEE SYSTEM — ONE WAY IN, FIVE WAYS OUT (October 202
 │   │  GSA COMMITTEE MANAGEMENT SECRETARIAT — § 1006
 │   │    ├─ government-wide oversight of the whole FACA program
 │   │    ├─ must be CONSULTED before a discretionary committee is established,
-│   │    │    re-established, renewed, merged or terminated (§ 102-3.60)
+│   │    │    re-established, renewed or merged (§ 102-3.60), and may give an
+│   │    │    assessment of whether it serves the public interest (§ 102-3.65)
 │   │    ├─ writes and maintains 41 C.F.R. part 102-3
 │   │    ├─ runs the public FACA database and the annual comprehensive review
 │   │    └─ ✕ CONSULTATION IS NOT APPROVAL. Nothing in the Act gives this office
@@ -77,7 +78,7 @@ THE FEDERAL ADVISORY COMMITTEE SYSTEM — ONE WAY IN, FIVE WAYS OUT (October 202
 │   │    ├─ designates the Committee Management Officer and the Designated
 │   │    │    Federal Officers; may delegate both
 │   │    ├─ issues the agency's administrative guidelines
-│   │    └─ signs the written determination to close a meeting (§ 102-3.105(d))
+│   │    └─ signs the written determination to close a meeting (§ 102-3.105(e))
 │   │    │
 │   │    ▼
 │   │  COMMITTEE MANAGEMENT OFFICER (CMO) — § 1007(b)
@@ -103,23 +104,27 @@ THE FEDERAL ADVISORY COMMITTEE SYSTEM — ONE WAY IN, FIVE WAYS OUT (October 202
 ├─◆ TIER 3 — THE CHARTERING GATE AND THE TWO-YEAR CLOCK
 │   │
 │   │  A committee may not meet or take any action until a charter is FILED.
-│   │  Filed with, in parallel (§ 1008(c), § 102-3.75):
+│   │  Filed with, in parallel (§ 1008(c), § 102-3.70):
 │   │    ├─ the agency head
 │   │    ├─ the standing committees of jurisdiction in BOTH chambers
 │   │    ├─ the GSA Committee Management Secretariat
+│   │    ├─ the Office of Management and Budget
 │   │    └─ the Library of Congress
 │   │
-│   │  The charter must state: the mission or charge · the specific duties ·
+│   │  The charter must state (§ 102-3.75): the mission or charge · the specific duties ·
 │   │  the general operating characteristics · ⚑ an ESTIMATE of the number and
 │   │  frequency of meetings.
 │   │
-│   │  ADDITIONALLY, FOR A DISCRETIONARY COMMITTEE (§ 102-3.60), the agency
-│   │  must explain to the Secretariat:
-│   │    1. why the committee is needed
-│   │    2. why it is essential to agency business and in the public interest
-│   │    3. why the agency itself, an existing committee, or another method
-│   │       such as a public hearing cannot do the job instead
-│   │  plus file a MEMBERSHIP BALANCE PLAN, now uploaded to the FACA database.
+│   │  ADDITIONALLY, FOR A DISCRETIONARY COMMITTEE (§ 102-3.60(a), § 102-3.65),
+│   │  the agency head must give the Secretariat a written public interest
+│   │  determination, copied to the budget office, which should address:
+│   │    1. why the committee is essential to agency business
+│   │    2. its costs, its member-selection criteria and the agency's other
+│   │       committees
+│   │    3. why the advice is not available from another committee, another
+│   │       federal source or a cheaper, less burdensome one
+│   │  plus ☐ a Federal Register notice at least 7 CALENDAR DAYS before the
+│   │  charter is filed, carrying that determination.
 │   │
 │   │  ◇ THE TWO-YEAR CLOCK — § 1008(c)(1), § 1013(b)(2)
 │   │    Every charter expires two years after filing. Renewal is affirmative:
@@ -139,27 +144,31 @@ THE FEDERAL ADVISORY COMMITTEE SYSTEM — ONE WAY IN, FIVE WAYS OUT (October 202
 │   │    functions to be performed"
 │   │    ├─ for non-discretionary committees, balance is written into the
 │   │    │    statute or directive that created the body
-│   │    ├─ for discretionary committees, a membership balance plan (§ 102-3.60)
+│   │    ├─ for discretionary committees, selection criteria in the written
+│   │    │    determination (§ 102-3.60(a)(3))
 │   │    └─ ★ the § 102-3.60(b) considerations were converted from mandatory to
 │   │         advisory phrasing by the 16 December 2025 final rule
 │   │           ✕ The statutory "shall" is unchanged. The regulation that told
 │   │             agencies how to satisfy it now says "should."
 │   │
 │   │  OPEN MEETINGS AND NOTICE — § 1009, § 102-3.150
-│   │    ├─ ☐ notice in the Federal Register at least 15 CALENDAR DAYS ahead,
+│   │    ├─ ☐ notice in the Federal Register at least 7 CALENDAR DAYS ahead,
 │   │    │    carrying the committee name, time, date, place, agenda summary,
 │   │    │    open-or-closed status and the DFO's contact details
-│   │    ├─ shorter notice only on a PRESIDENTIAL determination of national
-│   │    │    security or exceptional circumstances, with the reasoning
-│   │    │    published before the meeting
+│   │    │    ★ cut from 15 days by the 16 December 2025 final rule
+│   │    ├─ shorter notice only if the President finds national security
+│   │    │    requires it or the agency head finds exceptional circumstances,
+│   │    │    with the reasons stated in the notice
 │   │    ├─ ★ the § 102-3.150(c) website and announcement practices were
 │   │    │    likewise softened in December 2025
 │   │    └─ ◇ CLOSING A MEETING runs on the Sunshine Act's ten exemptions
-│   │         (5 U.S.C. § 552b(c)) plus a written determination by the agency
-│   │         head. Any member may call for a closing vote; the vote is recorded
-│   │         and made public within one day.
-│   │           ◈ EXIT 5 IN PRACTICE. A closed meeting is still a meeting, and
-│   │             the committee is still chartered and still staffed — but the
+│   │         (5 U.S.C. § 552b(c)). The DFO asks the agency head, who issues a
+│   │         written determination, available to the public on request
+│   │         (§ 102-3.155). A closed meeting is still noticed, with the
+│   │         exemption cited.
+│   │           ◈ NOT ONE OF THE FIVE EXITS, BUT THE SAME EFFECT. A closed meeting
+│   │             is still a meeting, and the committee is still chartered and
+│   │             still staffed — but the
 │   │             public channel the Act was written to create is shut. Open
 │   │             meetings at the Department of Health and Human Services
 │   │             averaged 255 a year in the decade before 2025 and numbered 91
@@ -170,46 +179,55 @@ THE FEDERAL ADVISORY COMMITTEE SYSTEM — ONE WAY IN, FIVE WAYS OUT (October 202
 │   │    │    securing certification within 90 days
 │   │    ├─ committee reports deposited with the Library of Congress for public
 │   │    │    inspection (§ 1012)
-│   │    └─ ⚑ The 2024 rule requires charters and membership balance plans in
-│   │         the FACA database; posting minutes and reports there is OPTIONAL,
-│   │         GSA having declined to require posting of all committee records.
+│   │    └─ ⚑ Agencies report committee data to the GSA FACA database. For the
+│   │         public, the regulation says only that agencies SHOULD post minutes
+│   │         on an agency committee website "if one exists" (§ 102-3.165(c)).
 │   │
 │   │  PUBLIC PARTICIPATION — § 102-3.140
 │   │    ├─ any member of the public may file a written statement
-│   │    └─ ✕ speaking to the committee is allowed only "if agency guidelines
-│   │         permit" — the right to be heard aloud is set by the agency being
-│   │         advised.
+│   │    └─ ✕ speaking to the committee is allowed only "if the agency's
+│   │         guidelines so permit" — the right to be heard aloud is set by the
+│   │         agency being advised.
 │
 ├─◆ TIER 5 — THE EXCLUSIONS (where a group sits outside all of Tier 4)
 │   │
 │   │  ├─ WHOLLY FEDERAL — composed only of full-time or permanent part-time
-│   │  │    federal officers or employees. § 1001(2)(B)(i). ⊘ Excluded by the
-│   │  │    statute itself, not by regulation.
+│   │  │    federal officers or employees. § 1001(2)(B)(i), § 102-3.40(g).
+│   │  │    ⊘ Excluded by the statute itself, not only by regulation.
 │   │  │
 │   │  ├─ NOT ACTUALLY MANAGED OR CONTROLLED by the executive branch.
-│   │  │    § 102-3.40(d). ◎ The condition tested and failed in the January
+│   │  │    § 102-3.40(c). ◎ The condition tested and failed in the January
 │   │  │    2026 Energy Department case. ★
 │   │  │
 │   │  ├─ INDIVIDUAL ADVICE, NOT COLLECTIVE — a group assembled so that each
 │   │  │    person gives their own view, or purely to exchange facts and
-│   │  │    information. § 102-3.40(e)–(f). ◈ The most elastic exclusion on the
+│   │  │    information. § 102-3.40(d)–(e). ◈ The most elastic exclusion on the
 │   │  │    list, because it turns on how the meeting is characterised rather
 │   │  │    than on who is in the room.
 │   │  │
 │   │  ├─ INTERGOVERNMENTAL — federal officials with elected state, local and
-│   │  │    tribal officers acting in their official capacities, where the
-│   │  │    purpose is solely intergovernmental. § 102-3.40(g).
+│   │  │    tribal officers acting in their official capacities, exclusively
+│   │  │    on federal programs with shared intergovernmental responsibilities.
+│   │  │    § 102-3.40(f).
+│   │  │
+│   │  ├─ ALSO LISTED IN § 102-3.40 — roundtables, workshops, townhalls, listening
+│   │  │    sessions and small expert meetings seeking individual advice (k);
+│   │  │    outside groups sharing views already formed (m); agencies briefing
+│   │  │    the private sector (n); public engagement required by statute (l);
+│   │  │    local civic groups (h); groups advising state or local officials (i);
+│   │  │    committees with primarily operational functions (j).
 │   │  │
 │   │  ├─ SUBCOMMITTEES — § 102-3.35
 │   │  │    ◇ The test is who receives the advice:
-│   │  │      ├─ reports ONLY to its parent committee ──▶ not separately
-│   │  │      │    chartered, outside FACA's own requirements
-│   │  │      └─ advises a federal officer or the agency DIRECTLY ──▶ must file
-│   │  │           its own charter (§ 102-3.70, § 102-3.75) and is counted as a
-│   │  │           chartered committee
-│   │  │    ◎ The subcommittee's creation must be approved by the establishing
-│   │  │      agency, and the agency MAY choose to apply FACA's provisions to it
-│   │  │      — which makes the protections discretionary at this level.
+│   │  │      ├─ reports ONLY to its parent committee ──▶ the Act and part
+│   │  │      │    102-3 in general do not apply
+│   │  │      └─ advises a federal officer or the agency DIRECTLY, or its advice
+│   │  │           is adopted by the parent without further deliberation ──▶ the
+│   │  │           meeting rules apply (§ 102-3.145)
+│   │  │    ◎ Under a discretionary committee, a subcommittee not made up entirely
+│   │  │      of parent-committee members needs the same consultation and written
+│   │  │      determination as a new committee (§ 102-3.60(a)). The charter states
+│   │  │      whether subcommittees may be created and by whom (§ 102-3.75(l)).
 │   │  │
 │   │  ├─ PREPARATORY AND ADMINISTRATIVE WORK — a gathering solely to collect
 │   │  │    information or handle administrative matters is not a "meeting."
@@ -221,10 +239,13 @@ THE FEDERAL ADVISORY COMMITTEE SYSTEM — ONE WAY IN, FIVE WAYS OUT (October 202
 │
 └─◆ TIER 6 — THE FIVE EXITS, ORDERED BY HOW MUCH ANYONE IS TOLD
     │
-    │  EXIT 1 — TERMINATION BY NOTICE ☐ ★
-    │    The agency head determines the purpose has been fulfilled and publishes
-    │    a notice. Available for discretionary committees only.
-    │    ◈ The only exit on this list that generates a public document.
+    │  EXIT 1 — TERMINATION BY THE AGENCY HEAD ★
+    │    The agency head determines the purpose has been fulfilled or is no
+    │    longer being carried out, and notifies the Secretariat (§ 102-3.55).
+    │    Available for discretionary committees only.
+    │    ◈ The only exit on this list that can generate a public document, and
+    │      part 102-3 does not require one: § 102-3.65 lists Federal Register
+    │      notices for establishing, renewing, reestablishing and merging.
     │    ★ WORKED EXAMPLE: one notice at 90 FR 24383 (10 June 2025) terminated
     │      fourteen Commerce committees together, among them all three of the
     │      Census Bureau's advisory committees.
@@ -236,12 +257,13 @@ THE FEDERAL ADVISORY COMMITTEE SYSTEM — ONE WAY IN, FIVE WAYS OUT (October 202
     │  EXIT 3 — DEPOPULATION ★
     │    Members are removed, or terms are allowed to expire unfilled. The
     │    committee continues to exist with nobody on it.
-    │    ⊘ This is the only route that reaches a STATUTORY committee, because
-    │      no executive action can repeal the statute that requires it.
-    │    ★ WORKED EXAMPLE: all twenty-two members of the National Science Board,
-    │      the governing and oversight body created by the National Science
+    │    ⊘ This route, like Exits 2 and 4, can reach a STATUTORY committee, which
+    │      no executive action can repeal.
+    │    ★ PARALLEL: all twenty-two members of the National Science Board, the
+    │      governing and oversight body created by the National Science
     │      Foundation Act of 1950, were removed on 24 April 2026. The Board
-    │      remains in law.
+    │      remains in law. ◈ Its open sessions run under the Sunshine Act, so
+    │      read it as the method at work, not as a FACA committee case.
     │
     │  EXIT 4 — NO MEETING IS CALLED
     │    The Designated Federal Officer holds the exclusive power to call a
@@ -258,7 +280,7 @@ THE FEDERAL ADVISORY COMMITTEE SYSTEM — ONE WAY IN, FIVE WAYS OUT (October 202
     │      Working Group took this route and a court held in January 2026 that
     │      the route had not worked, because the Department had kept control.
     │
-    └─◆ PART G — WHAT EACH REQUIREMENT BINDS, AND WHAT ENDS IT
+    └─◆ TIER 7 — WHAT EACH REQUIREMENT BINDS, AND WHAT ENDS IT
         ┌────────────────────────┬──────────────────────────┬──────────────────────────────┐
         │ REQUIREMENT            │ WHO IS BOUND             │ WHAT ENDS IT                 │
         ├────────────────────────┼──────────────────────────┼──────────────────────────────┤
@@ -268,7 +290,7 @@ THE FEDERAL ADVISORY COMMITTEE SYSTEM — ONE WAY IN, FIVE WAYS OUT (October 202
         │ Consult the GSA office │ The agency, on setup     │ Consultation, not consent    │
         │ Fairly balanced        │ Membership, by statute   │ Statute stands; the rule     │
         │                        │                          │ now says "should"            │
-        │ 15-day public notice   │ Each meeting             │ A closed-meeting finding     │
+        │ 7-day public notice    │ Each meeting             │ Agency head may shorten it   │
         │ Open the meeting       │ Each meeting             │ Ten Sunshine Act exemptions  │
         │ Detailed minutes       │ The chair and the DFO    │ 90-day certification only    │
         │ Deposit the report     │ Library of Congress copy │ Applies to reports made      │
@@ -281,11 +303,11 @@ THE FEDERAL ADVISORY COMMITTEE SYSTEM — ONE WAY IN, FIVE WAYS OUT (October 202
         ═══════════════════════════════════════════════════════════════════
         Eleven requirements.  Two of them bind without an exit: the charter
         must be filed before the committee acts, and the committee's advice
-        remains advice.  Both constrain the COMMITTEE.  Of the nine aimed at
-        the AGENCY, four are satisfied by publishing or filing a document,
-        three can be switched off by a finding the agency itself makes, one
-        was moved from "must" to "should" in December 2025, and one - the
-        duty to meet at all - was never written.
+        remains advice.  Both limit what the COMMITTEE can do.  Of the nine
+        aimed at the AGENCY, four are satisfied by publishing or filing a
+        document, three can be shortened, closed or withheld on the agency's
+        own say-so, one was moved from "must" to "should" in December 2025,
+        and one - the duty to meet at all - was never written.
         ═══════════════════════════════════════════════════════════════════
         The Act was built to make outside advice public.  It does that well
         while a committee is meeting, and it says almost nothing about
