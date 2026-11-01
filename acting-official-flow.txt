@@ -1,0 +1,202 @@
+HOW AN ACTING OFFICIAL IS INSTALLED                                  (as of 26 October 2026)
+│  ──▶ main path  └─▶ branch  ■ stage  ◆ instrument  ◇ decision  ⊘ foreclosed by statute
+│  ◎ the hinge: the Act stops and something else decides   ☐ notice owed to Congress
+│  ✕ a check that is not one   ⚑ a duty with no due date   ★ used or decided in 2025-26
+│  ◈ a count or reading made here, published nowhere      Offices here are plain text.
+│  Section numbers are 5 U.S.C. unless marked otherwise.
+│
+■ STAGE 0 · IS THIS OFFICE INSIDE THE ACT AT ALL?            (asked before anything else)
+│
+│   The Act reaches an office in an Executive agency that requires appointment by the
+│   President by and with the advice and consent of the Senate.  Three provisions take
+│   an office back out again, and each one is a different kind of exit.
+│
+│   ⊘ § 3349c · OUT OF §§ 3345-3349b ENTIRELY.  No acting rules, no clock, no report:
+│       (1) a member of a multimember board, commission or similar entity, appointed
+│           with the Senate's consent, that governs an independent establishment or a
+│           Government corporation
+│       (2) a Commissioner of the Federal Energy Regulatory Commission
+│       (3) a member of the Surface Transportation Board
+│       (4) a judge appointed with the Senate's consent to an Article I court
+│
+│   ⊘ § 3347(a)(1) · A MORE SPECIFIC STATUTE DISPLACES THE ACT, where that statute
+│       expressly (A) authorises the President, a court, or the head of an Executive
+│       department to designate someone to act temporarily, or (B) names the person.
+│       ★ 28 U.S.C. § 546 is the live example, and the one place the two regimes have
+│         been argued against each other in 2025-26.
+│
+│   ⊘ § 3347(a)(2) · A RECESS APPOINTMENT is not governed by this Act at all.
+│       Largely closed in practice since the pro-forma-session holding of 2014.
+│
+│   ◎ § 3347(b) · AND THE ONE THING THAT IS NOT AN EXIT.  A statute that merely gives
+│     an agency head general power to delegate statutory duties, or to reassign them
+│     among agency personnel, is NOT a § 3347(a)(1) exception.  One sentence, and it
+│     is the whole battleground of 2025-26.
+│
+■ STAGE A · THE TRIGGER                                        (what starts the clock)
+│
+│   ◆ death      ◆ resignation      ◆ "otherwise unable to perform the functions and
+│                                     duties of the office"
+│   ◆ § 3345(c)(2) · THE EXPIRY OF A TERM is deemed an inability.  A term that simply
+│     ran out starts the same clock as a chair someone walked out of.
+│   ⊘ § 3346(a) · A vacancy caused by SICKNESS has no time limit at all.
+│
+│   ──▶ The clock attaches to the VACANCY, not to the person filling it.  Replacing one
+│       acting official with another restarts nothing.
+│
+■ STAGE B · THE THREE DOORS (§ 3345(a))                   (only one opens by itself)
+│
+├─◆ DOOR 1 · THE FIRST ASSISTANT — § 3345(a)(1)
+│    Performs the duties on an acting basis automatically, with no presidential act.
+│    ⚑ The Act never defines "first assistant."  The agency defines it, in a document
+│      the agency writes and can rewrite.
+│    ✕ Only the first assistant IN PLACE WHEN THE VACANCY AROSE takes the seat this
+│      way.  Being moved into the post afterwards is not the same thing.
+│
+├─◆ DOOR 2 · ANOTHER SENATE-CONFIRMED OFFICER — § 3345(a)(2)
+│    The President ALONE may direct any person already holding a different office
+│    filled by appointment with the Senate's consent.  No subject-matter limit: a
+│    confirmed officer of one agency may be directed into a vacancy in another.
+│
+└─◆ DOOR 3 · A SENIOR EMPLOYEE OF THAT SAME AGENCY — § 3345(a)(3)
+     The President ALONE may direct, notwithstanding Door 1, an officer or employee of
+     that agency who meets BOTH tests:
+       ◈ SERVICE · at least 90 days in a position in that agency during the 365 days
+                   before the death, resignation or onset of inability
+       ◈ PAY     · that position paid at or above the minimum rate for GS-15
+     ⚑ Neither test asks what the person did.  Both ask only where they sat and what
+       the seat paid, which is why a 90-day parking place qualifies as well as a
+       career appointment does.
+│
+■ STAGE C · THE DISQUALIFIER (§ 3345(b))
+│
+│   ◇ Has the President submitted THIS PERSON'S nomination for THIS office?
+│     │
+│     ├─ no  ──▶ carry on to the clock.
+│     │
+│     └─ yes ──▶ ⊘ the person MAY NOT ACT — unless they served as the office's first
+│                  assistant for at least 90 of the preceding 365 days, or hold the
+│                  first-assistant post itself by Senate confirmation.
+│                ✕ Withdrawing the nomination does not lift the bar.  A withdrawal
+│                  necessarily comes after the submission, and the submission is the
+│                  trigger.  The bar runs for the rest of the vacancy.
+│
+■ STAGE D · THE CLOCK (§ 3346 · § 3349a · § 3348(c))
+│
+│   ──▶ 210 days, beginning on the date the vacancy occurs.                 § 3346(a)(1)
+│   ──▶ Service may continue for as long as a FIRST or SECOND nomination for the office
+│       is pending in the Senate, however long that is.                     § 3346(a)(2)
+│   └─▶ If that nomination is rejected, withdrawn or returned, a NEW 210 days begins
+│       from that event.                                              § 3346(b)(1), (2)
+│   ⊘ A third nomination adds nothing.  There are three periods and no more.
+│   ◎ § 3348(c) · If the last day of a 210-day period falls on a day the Senate is not
+│     in session, it moves to the second day the Senate next sits and receives
+│     nominations.  The only point in the Act where the Senate's calendar matters.
+│
+┌─ THE CLOCK, AND WHAT IT ADDS UP TO ─────────────────────────────────────────────────────┐
+│
+│  PERIOD                                       LENGTH          ENDS WHEN
+│  -------------------------------------------  --------------  --------------------------
+│  first period, from the date of the vacancy   210 days        it runs out
+│  while a FIRST nomination is pending          no limit        confirmed, or it fails
+│  after that first nomination fails            210 days        it runs out
+│  while a SECOND nomination is pending         no limit        confirmed, or it fails
+│  after that second nomination fails           210 days        it runs out
+│  a third nomination                           nothing         it adds no time at all
+│
+│  floor, two nominations that both fail        630 days        plus both pendencies
+│  vacancy in the 60 days after a new           300 days        the 210 is deemed to
+│  President is sworn in (section 3349a)                        begin 90 days after
+│                                                               inauguration day
+│  a vacancy caused by sickness                 no limit        never
+│
+└─────────────────────────────────────────────────────────────────────────────────────────┘
+│
+■ STAGE E · WHEN THE TIME RUNS OUT (§ 3348(b))
+│
+│   ──▶ The office is simply VACANT.  Nobody is acting in it.
+│   ──▶ For any office other than the head of the agency, ONLY THE HEAD OF THE AGENCY
+│       may then perform its functions and duties.  Not the deputy, not the person who
+│       was acting the day before, not a designee of either.
+│   ⚑ Nothing in the Act requires the seat to be filled, announced or explained, and
+│     nothing sets a date by which a nomination must be sent.
+│
+■ STAGE F · THE REMEDY, AND THE FIVE OFFICES IT DOES NOT REACH (§ 3348(d), (e))
+│
+│   § 3348(d)(1) · An action taken by a person not serving in compliance with the Act,
+│   in performing a FUNCTION OR DUTY of the vacant office, HAS NO FORCE OR EFFECT.
+│   § 3348(d)(2) · And it MAY NOT BE RATIFIED.  No one can sign it afterwards.
+│
+│   ◎ THE HINGE IS THE DEFINITION.  § 3348(a)(2) counts a function or duty only if it
+│     is established by statute, or by a regulation in effect at some point in the 180
+│     days before the vacancy, AND is required to be performed by "the applicable
+│     officer (and only that officer)."  A duty the agency may lawfully assign to
+│     somebody else is outside the remedy no matter who performed it.
+│
+│   ⊘ § 3348(e) · AND THE SECTION DOES NOT APPLY TO FIVE OFFICES AT ALL:
+│       (1) the General Counsel of the National Labor Relations Board
+│       (2) the General Counsel of the Federal Labor Relations Authority
+│       (3) any Inspector General appointed with the advice and consent of the Senate
+│       (4) any Chief Financial Officer appointed with the advice and consent of the
+│           Senate
+│       (5) an office of an Executive agency — the Executive Office of the President
+│           included, the Government Accountability Office excepted — where a statute
+│           expressly prohibits the head of the agency from performing its duties
+│
+│   ✕ In those five, an acting official who served unlawfully leaves behind decisions
+│     that stand.  The clock still applied.  The sanction never did.
+│
+■ STAGE G · WHO IS TOLD (§ 3349)
+│
+│   ☐ The head of the agency must notify the Comptroller General AND EACH HOUSE OF
+│     CONGRESS, "immediately upon the occurrence," of four things: the vacancy and its
+│     date · the name of whoever is serving in an acting capacity and the date that
+│     service began · the name of any nominee and the date of submission · the date any
+│     nomination was rejected, withdrawn or returned.
+│
+│   ☐ If the Comptroller General DETERMINES that an officer has served beyond the
+│     210-day period, the determination goes immediately to six places: the Senate and
+│     House oversight committees, both Appropriations Committees, the committees of
+│     jurisdiction, the President, and the Office of Personnel Management.
+│
+│   ✕ ⚑ But nothing requires the Comptroller General to MAKE the determination.  The
+│       input is self-reported by the agency; the output is discretionary.
+│   ★ 17 SEPTEMBER 2026 · A determination was made, against an acting inspector general
+│     who had used the title thirteen days past the end of lawful service.  The letter
+│     records that a clerical error is no defence — and that § 3348(e)(3) had already
+│     removed that office from the voiding provision, so the question of consequence
+│     did not need to be reached.  The letter was the consequence.
+│
+■ STAGE H · THE ONLY TEST ANY OF THIS EVER GETS
+│
+│   ──▶ A defendant in a criminal case, or a party to an agency action, raises the Act
+│       as a defence.  There is no body that reviews an acting designation before it
+│       takes effect, and no office inside the executive branch with a reason to ask.
+│   ✕ So the Act is construed almost entirely in litigation about something else, and
+│     the remedy runs to whoever happened to be prosecuted or regulated that year.
+│   ★ 1 DECEMBER 2025 · A court of appeals held that delegating ALL the powers of a
+│     Senate-confirmed office to one person violates § 3347 exclusivity, because a
+│     general delegation statute is not an exception to the Act — otherwise the
+│     delegate could serve as the de facto officer indefinitely.  The same opinion
+│     expressly left open whether delegating the same powers to SEVERAL people would
+│     be lawful.
+│   ◈ Which leaves the route around this Act a question of arithmetic rather than
+│     principle: not whether a Senate-confirmed office can be run without the Senate,
+│     but across how many people it must be spread before the Act stops noticing.
+│
+╔═════════════════════════════════════════════════════════════════════════════════════════╗
+║  THE PATTERN                                                                            ║
+║                                                                                         ║
+║  Read forwards, the Act is a limit.  Three named doors, one disqualifier, a 210-day     ║
+║  clock, a reporting duty owed to both chambers, and acts that are void if any of it     ║
+║  is broken.                                                                             ║
+║                                                                                         ║
+║  Read backwards, from the remedy, the shape is different.  The voiding provision does   ║
+║  not reach the inspector general.  It does not reach the chief financial officer.  It   ║
+║  does not reach the two general counsels who decide what their agencies will take to    ║
+║  court.  Those are four of the offices a statute would protect first if the object      ║
+║  were to stop an unconfirmed official doing lasting damage, and they are four of the    ║
+║  five the section names in order to leave out.                                          ║
+║                                                                                         ║
+║  What is left of this Act in those seats is a clock, a filing, and a letter.            ║
+╚═════════════════════════════════════════════════════════════════════════════════════════╝
