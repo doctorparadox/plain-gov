@@ -1,0 +1,249 @@
+HOW A STATISTICAL AGENCY IS DEFUNDED OR DISCONTINUED (November 2026)
+│   Eight ways a federal statistic stops being produced, ranked by how much of
+│   Congress has to agree. Only one of the eight is a repeal.
+│   Collection authority: 13 U.S.C. § 141 · 29 U.S.C. §§ 1-2 · 20 U.S.C. § 9545
+│   Clearance: 44 U.S.C. § 3507(g), (h) · 5 C.F.R. § 1320.12
+│   The system's own rules: 5 C.F.R. pt. 1321 · OMB Statistical Policy Directives
+│   ☐ a document is created here        ⊘ foreclosed by statutory text
+│   ◎ the hinge: the route that needs no vote and leaves no record
+│   ✕ a requirement that does not bind  ⚑ a duty with no due date
+│   ⏳ a clock runs here                 ★ used or decided in 2025-26
+│   ◈ a count or reading made on this page
+│
+■ PART A — THE FOUR THINGS A FEDERAL STATISTIC RESTS ON
+│
+│   A published federal number needs all four of these at once, every year.
+│   Remove any one and the number stops. Only the first involves Congress.
+│
+│  ├─◆ 1. AN AUTHORITY TO COLLECT — a statute that lets the agency ask, and
+│  │    sometimes commands it. 13 U.S.C. § 141 for the census; 29 U.S.C. §§ 1-2
+│  │    for labour statistics; 20 U.S.C. § 9545 for education statistics.
+│  ├─◆ 2. A CLEARED INSTRUMENT — an OMB control number under the Paperwork
+│  │    Reduction Act. ⏳ THREE YEARS MAXIMUM, no exceptions.   [44 § 3507(g)]
+│  ├─◆ 3. MONEY IN THE CURRENT FISCAL YEAR — an appropriation, or a continuing
+│  │    resolution standing in for one.
+│  └─◆ 4. PEOPLE AND CONTRACTS — staff to design and analyse, and in most cases
+│       a contractor to do the fieldwork. Carried by contract, not by statute.
+│
+│   ◈ THE ASYMMETRY THIS PRODUCES: the authority is the hardest of the four to
+│     remove and the least often attacked. The other three are annual, internal,
+│     or both. A statistic is only as durable as its weakest leg, and three of
+│     its four legs are renewed by people nobody elected.
+│
+──▶
+■ PART B — THE EIGHT ROUTES, RANKED BY HOW MUCH OF CONGRESS MUST AGREE
+│
+├─◆ ROUTE 1 — REPEAL THE COLLECTION AUTHORITY
+│   │   House + Senate + signature. The only route that changes the law on the
+│   │   books, and the only one with a published record a reader can find.
+│   └─ ◈ No principal statistical agency lost its collection authority by
+│        repeal in 2025-26. The route exists and was not used, which is the
+│        point: nothing on the rest of this map requires it.
+│
+├─◆ ROUTE 2 — THE RIDER ON A SPENDING BILL
+│   │   One appropriations act. No authorizing committee votes, no hearing on
+│   │   the merits of the statistic, and the vote is on the whole bill.
+│   ├─ ☐ IT DOES LEAVE A RECORD — the text is in an enacted act.
+│   ├─ ★ WORKED EXAMPLE. The Tiahrt rider bars the ATF from releasing the
+│   │    trace data police generate when they ask where a crime gun came from,
+│   │    except in support of a criminal investigation or a licensing case.
+│   ├─ ◎ FOUR WORDS MADE IT PERMANENT. The 2008 omnibus version reads "in
+│   │    fiscal year 2008 and thereafter," which the Government Accountability
+│   │    Office treats as permanent law. A one-year limitation became a
+│   │    standing one without anyone voting on that question.
+│   └─ ⚑ THE CARVE-OUT IS THE TELL. The agency may still publish aggregate
+│        annual statistical reports. The aggregate survives; the detail that
+│        would support an outside analysis does not.
+│
+├─◆ ROUTE 3 — NEVER APPROPRIATE THE MONEY FOR A MANDATED STATISTIC
+│   │   Nobody has to agree. Nobody has to do anything at all.
+│   ├─ ★ THE WORKED EXAMPLE IS FORTY-ONE YEARS OLD. 13 U.S.C. § 141(d) says
+│   │    the Secretary "shall conduct a mid-decade census of population" in
+│   │    1985 and every ten years after. The subsection contains no funding
+│   │    condition. It has never been conducted - not in 1985, 1995, 2005,
+│   │    2015 or 2025.
+│   ├─ ⊘ WHY NOT: § 141(e)(2) provides that mid-decade data "shall not be used
+│   │    for apportionment of Representatives" or for drawing districts. The
+│   │    one census product with no seats attached is the one never funded.
+│   └─ ◎ A STATUTORY COMMAND WITH NO APPROPRIATION AND NO ENFORCEMENT CLAUSE
+│        IS A SENTENCE, NOT A SHIELD. Four decades of non-compliance have
+│        produced no remedy, no litigation and no repeal.
+│
+├─◆ ROUTE 4 — LET THE APPROPRIATION LAPSE
+│   │   Nobody has to agree; a failure to act is enough. Unlike every other
+│   │   route, this one destroys data that already existed to be collected.
+│   ├─ ★ WORKED EXAMPLE (2025). The lapse ran 1 October to 12 November 2025.
+│   │    Consumer Expenditure Survey collection did not resume until 5 December.
+│   ├─ ⊘ THE DIARY SURVEY CANNOT BE BACKFILLED. Its collection months are its
+│   │    reference months, so no diary data exist for October or November 2025.
+│   │    The agency reweighted September and December by a factor of two.
+│   ├─ ◈ THE INTERVIEW SURVEY'S THREE-MONTH RECALL SAVED PART OF IT: roughly a
+│   │    third of expenditures lost for July and October, two-thirds for August
+│   │    and September, patched by multiplying the surviving months.
+│   └─ ⏳ THE NEXT DEADLINE IS LIVE. The continuing resolution signed in early
+│        September 2026 funds the government to 11 DECEMBER 2026.
+│
+├─◆ ROUTE 5 — LET THE CLEARANCE EXPIRE
+│   │   Nobody has to agree. This is the one clock on the map that runs against
+│   │   the agency by default.
+│   ├─ ⏳ OMB "may not approve a collection of information for a period in
+│   │    excess of 3 years."                                    [44 § 3507(g)]
+│   ├─ ⏳ Renewal is affirmative: the agency must seek public comment and
+│   │    resubmit no later than 60 days before the control number expires.
+│   │                                           [44 § 3507(h)(1), 5 § 1320.12]
+│   └─ ◎ NOBODY FILES AND THE SURVEY STOPS. There is no decision to publish,
+│        no notice, no comment period and no appeal, because nothing was
+│        decided. ◈ Note the inversion: in the approval process, inaction is
+│        always a grant. Here inaction is always a denial. The default runs in
+│        favour of the agency both times - toward starting, and toward stopping.
+│
+├─◆ ROUTE 6 — CUT THE STAFF AND CANCEL THE CONTRACTS
+│   │   The agency, or the department above it. No vote, no notice, no rule.
+│   ├─ ★ WORKED EXAMPLE (2025-26). The National Center for Education
+│   │    Statistics had 102 employees in January 2025. A reduction in force in
+│   │    March left all but three terminated; staffing stood at four that
+│   │    September, and about a dozen had been hired back by mid-2026.
+│   ├─ ⚑ THE SURVEYS WERE CARRIED BY CONTRACTS, SO CANCELLING CONTRACTS
+│   │    CANCELLED SURVEYS. ◈ Fourteen named collections and tools were still
+│   │    unavailable in August 2026 - among them the household education
+│   │    survey, the adult-skills assessment, two high-school longitudinal
+│   │    studies, the transcript collection and the education projections.
+│   └─ ◈ WHAT CAME BACK CAME BACK AS CONTRACTS. New awards for the
+│        postsecondary and baccalaureate studies restored specific collections
+│        one at a time. The capacity route is reversible in principle and slow
+│        in fact: a longitudinal study restarted is not the study that stopped.
+│
+├─◆ ROUTE 7 — CHANGE THE METHOD SO THE PRODUCT CANNOT LAWFULLY BE PRODUCED
+│   │   The department. An internal order; no rulemaking, no comment period.
+│   ├─ ★ WORKED EXAMPLE (2026). Commerce Departmental Administrative Order
+│   │    216-26, issued 4 June 2026, prohibits noise infusion and related
+│   │    confidentiality methods at the Census Bureau and the Bureau of
+│   │    Economic Analysis, prefers coarsening, and permits suppression only
+│   │    as a last resort where coarsening is barred by law.
+│   ├─ ◎ IT CANCELLED NOTHING AND STOPPED EVERYTHING FOR SEVEN WEEKS. The 2025
+│   │    one-year American Community Survey estimates, normally out in
+│   │    mid-September, had no release date on 6 August 2026 while the Bureau
+│   │    searched for a compliant method. They were rescheduled on 22 October
+│   │    and released on 29 OCTOBER 2026.
+│   └─ ◈ THE PRODUCT RETURNED AND THE PRECEDENT STAYED. A departmental order
+│        about technique is the only route here that can halt a flagship series
+│        without naming it, without ending it, and without becoming reviewable.
+│
+└─◆ ROUTE 8 — SIMPLY STOP PUBLISHING IT
+    │   The agency alone. ◎ THE QUIETEST ROUTE, AND THE MOST USED.
+    ├─ ★ 133 YEARS, ENDED BY A SENTENCE. The Census Bureau "terminated the
+    │    collection of data for the Statistical Compendia program effective
+    │    October 1, 2011" - the Statistical Abstract of the United States,
+    │    published since 1878. The notice gives no reason.
+    ├─ ★ ABOUT 350 PRODUCER PRICE INDEXES, 2025-26. The labour statistics
+    │    agency announced it would "end calculation and publication of
+    │    approximately 350 indexes," phased across the July 2025, October 2025
+    │    and January 2026 reference months. ✕ The notice states no reason.
+    ├─ ★ THE AGENCY THAT KEEPS ITS OWN LIST. The Bureau of Economic Analysis
+    │    maintains a public page of discontinued and delayed statistics under
+    │    one heading for the whole list: "Statistical products and data tables
+    │    impacted by budget or resource constraints." Entries run from 2024 to
+    │    March 2026 and cover the digital economy, small business, arts and
+    │    culture, the marine economy, travel and tourism, the space economy,
+    │    dozens of national income tables and a long run of direct-investment
+    │    detail. ◈ It is the most honest document on this map and it is a
+    │    web page.
+    └─ ⊘ NONE OF THESE WENT THROUGH THE FEDERAL REGISTER. No notice, no
+         comment, no reviewable final action, no vote.
+
+──▶
+■ PART C — WHO HAS TO BE TOLD
+│
+│   The federal statistical agencies have, since 2024, a codified set of
+│   fundamental responsibilities at 5 C.F.R. part 1321: produce relevant and
+│   timely information, be accurate, be objective, and protect respondents.
+│
+│  ├─◆ ☐ THE ONE NOTICE DUTY ABOUT SCHEDULES RUNS UPWARD. The rule requires an
+│  │    agency to notify the Chief Statistician of the United States of any
+│  │    change to the release schedule of a regular and recurring product.
+│  ├─◆ ✕ A COMMENTER ASKED FOR SCHEDULE CHANGES TO BE ANNOUNCED PUBLICLY WITH
+│  │    AN EXPLANATION. OMB DECLINED TO ADD IT, saying the existing directives
+│  │    sufficiently addressed the concern.
+│  └─◆ ⊘ AND NOTHING IN PART 1321 REQUIRES ADVANCE PUBLIC NOTICE BEFORE A
+│       PRODUCT IS CHANGED OR DISCONTINUED AT ALL.
+│
+│   ◎ SO THE DUTY TO TELL ANYONE RUNS INWARD, TO AN OFFICIAL INSIDE OMB WHO IS
+│     NOT SENATE-CONFIRMED - NOT OUTWARD, TO THE PEOPLE WHO USE THE NUMBER.
+│
+│   ⚑ AND RECOGNITION ITSELF IS A DESIGNATION, NOT A STATUS. OMB recognizes
+│     sixteen statistical agencies and units under 44 U.S.C. § 3562, thirteen
+│     of them "principal." The list is sixteen because the Director says it is.
+│
+──▶
+■ PART D — WHAT A STATUTORY DEADLINE IS WORTH
+│
+│   The strongest-looking protection on the map, tested once, in public.
+│
+│  ├─◆ THE DUTY. 20 U.S.C. § 9545 has required an annual Report on the
+│  │    Condition of Education, delivered to Congress and the President by
+│  │    1 JUNE, since 2002.
+│  ├─◆ ★ 1 JUNE 2025: NOTHING ARRIVED. Reported as the first time the duty had
+│  │    been missed.
+│  ├─◆ ★ 2 JUNE 2025: THE PRODUCT WAS REDEFINED RATHER THAN DELIVERED. The
+│  │    department said it would no longer be a single report; indicators would
+│  │    be updated on a rolling basis, with a short highlights volume.
+│  └─◆ ✕ CONSEQUENCE: NONE. No penalty, no forfeiture, no cause of action, and
+│       no provision anywhere that says what happens if the report is late.
+│
+│   ◈ A DEADLINE WITHOUT A CONSEQUENCE IS A REQUEST. Compare Route 5, where a
+│     missed date stops a survey automatically: the clock that bites is the one
+│     aimed at the agency's own permission, not at its duty to the public.
+│
+──▶
+■ PART E — THE LEDGER
+
+  ROUTE                        WHO HAS TO AGREE       WHAT IT LEAVES BEHIND
+  ============================================================================
+  1 repeal the statute         House, Senate, Pres.   a public law
+  2 a rider on a spending bill one appropriations act a line in an enacted act
+  3 never appropriating it     nobody                 nothing at all
+  4 a lapse in appropriations  nobody                 a gap in the series
+  5 clearance left to expire   nobody                 an expired OMB number
+  6 staff and contracts cut    the agency             a personnel notice
+  7 a method order             the department         a departmental order
+  8 ceasing to publish         the agency             a date on a web page
+
+  ROUTE                         WHO CAN CHALLENGE IT, AND WHERE
+  ====================================================================================
+  1 repeal the statute          nobody - it is the law
+  2 a rider on a spending bill  nobody - it is the law, for as long as it rides
+  3 never appropriating it      no cause of action; the duty is unenforced, not void
+  4 a lapse in appropriations   nobody; and the lost weeks cannot be collected later
+  5 clearance left to expire    nobody; stopping a collection injures no respondent
+  6 staff and contracts cut     personnel and contract forums, by the people cut
+  7 a method order              untested; the order is internal to the department
+  8 ceasing to publish          untested; no notice, no record, no final agency action
+
+  ◈ Seven of the eight routes need no vote of any kind. Six leave no document a
+    member of the public could find by looking. Three destroy data outright
+    rather than stopping its publication: the unfunded mandate, the lapse, and
+    the cancelled longitudinal study.
+
+──▶
+■ THE READING, SET OUT PLAINLY
+  ══════════════════════════════════════════════════════════════════
+  Nothing on this map requires a repeal.  The one route that changes
+  the law needs both chambers and a signature, and in 2025-26 it was
+  not used, because it did not have to be.  The other seven are
+  available without it: one rides on a spending bill, four happen
+  when nobody does anything, and two are internal decisions of an
+  agency or a department.
+  ══════════════════════════════════════════════════════════════════
+  The statutory mandate is the weakest protection here, not the
+  strongest.  A command to conduct a census has gone unperformed for
+  forty-one years.  A command to deliver a report by the first of
+  June went unperformed in 2025 and the product was redefined
+  instead.  Neither carries a consequence, so neither is enforced.
+  ══════════════════════════════════════════════════════════════════
+  The clock that actually stops something is the one pointed at the
+  agency's own permission to ask questions.  The duty pointed at its
+  obligation to the public has no clock at all.
+  ══════════════════════════════════════════════════════════════════
+  A federal statistic does not usually die by decision.  It stops
+  being renewed.
+  ══════════════════════════════════════════════════════════════════
