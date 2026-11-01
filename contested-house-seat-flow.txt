@@ -1,0 +1,141 @@
+HOW A CONTESTED HOUSE SEAT IS DECIDED — THE FCEA CLOCK  (2 U.S.C. §§ 381–396, as of Oct 2026)
+│   Legend:  ──▶ main path   └─▶ branch/off-ramp   ◇ decision   ✕ contest dies
+│            ★ seat changes hands   ⏱ statutory deadline   [cum.] days since declaration
+│
+■ 0. THE CONSTITUTIONAL PREMISE  (Art. I, § 5, cl. 1)
+│     "Each House shall be the Judge of the Elections, Returns and Qualifications
+│      of its own Members"  —  the chamber is the court of last resort
+│     ├─ states run the election itself under Art. I, § 4, cl. 1 (times/places/manner)
+│     ├─ a state recount is NOT a usurpation — Roudebush v. Hartke, 405 U.S. 15 (1972):
+│     │    "A recount does not prevent the Senate from independently evaluating the
+│     │     election any more than the initial count does"
+│     └─ the chamber's final judgment is a POLITICAL QUESTION — no judicial review,
+│          no appeal, no remand.  The road ends in the House.
+│
+│     THREE SEPARATE DOORS — do not confuse them:
+│     ├─ (A) FCEA CONTEST — a defeated candidate's statutory claim to the seat  ◀ THIS MAP
+│     ├─ (B) CHALLENGE AT THE OATH — a member objects to swearing a member-elect in;
+│     │       the House may refuse to seat either claimant pending investigation
+│     └─ (C) EXPULSION — ⅔ vote on CONDUCT, not on the election (Art. I, § 5, cl. 2)
+│
+├─◆ 1. THE TRIGGER — "declared," not "certified," not "election day"       ⏱ § 382(a)
+│     │
+│     │  state canvass completes ──▶ the officer or BOARD OF CANVASSERS authorized
+│     │       by law to declare the result DECLARES it  ──▶ the 30-day clock starts
+│     │
+│     ├─ ◇ who may contest? ─── only "a candidate in the last preceding election"
+│     │     for that seat (§ 381)
+│     │       └─▶ a primary loser, an elector, a party, a bystander
+│     │              ──▶ ✕ NO STANDING.  The FCEA reaches general and special
+│     │                  elections only — never primaries.
+│     │
+│     └─ ◇ filed within 30 days of the DECLARATION?
+│           ├─ yes ──▶ notice of contest filed with the CLERK OF THE HOUSE
+│           │            + served on the contestee  ──▶ stage 2            [cum. ≤30]
+│           └─ no  ──▶ ✕ UNTIMELY, and the committee does not reach the merits.
+│                        This is not theoretical: see Notes, Florida 14th (2025).
+│
+│     THE NOTICE MUST (§ 382(b)):  state the grounds WITH PARTICULARITY · state that
+│     an answer is due in 30 days · be signed and VERIFIED UNDER OATH · and claim
+│     the contestee's seat.  Service: in person · at the dwelling (resident ≥16) ·
+│     at the principal office · on an authorized agent · or by registered/certified
+│     mail, COMPLETE UPON MAILING (§ 382(c)).
+│
+├─◆ 2. THE CONTESTEE ANSWERS — or moves first                       ⏱ 30 days, § 383(a)
+│     │                                                                   [cum. ≤60]
+│     ├─ ANSWER: admit or deny each averment; "insufficient knowledge" counts as a
+│     │    denial; affirmative defenses stated; signed and verified
+│     │
+│     ├─ ◇ PRE-ANSWER MOTION instead (§ 383(b)) — four threshold grounds, and in
+│     │    practice the way contests actually end:
+│     │      ├─ 1. insufficient service of the notice
+│     │      ├─ 2. the contestant LACKS STANDING
+│     │      ├─ 3. the notice states no grounds sufficient to CHANGE THE RESULT
+│     │      └─ 4. the contestant FAILED TO CLAIM THE SEAT
+│     │           └─▶ granted ──▶ ✕ dismissed at the door, no evidence taken
+│     │           └─▶ denied or deferred to the merits ──▶ answer due in 10 days
+│     │
+│     ├─ ◇ MOTION FOR A MORE DEFINITE STATEMENT (§ 383(c)) — notice too vague to
+│     │    answer; if ordered and not obeyed within 10 days, the committee MAY
+│     │    DISMISS  ──▶ ✕
+│     │
+│     └─ ◇ NO ANSWER AT ALL?  (§ 385)
+│           └─▶ default is expressly "NOT ... an admission of the truth of the
+│                averments in the notice of contest."  ⭐ The contestant still has
+│                to prove the whole case.  There is no win by forfeit here.
+│
+├─◆ 3. EVIDENCE — depositions, on a party-run schedule           ⏱ § 386(c), § 387–391
+│     │
+│     ├─ contestant's testimony period ....... 30 days from service of the answer
+│     │     (or from the day the answer deadline expired)                [cum. ≤90]
+│     ├─ contestee's testimony period ........ 30 days from the end of the above
+│     │                                                                 [cum. ≤120]
+│     └─ contestant's REBUTTAL ............... 10 days, and ONLY if the contestee
+│           actually took testimony or filed affidavits/stipulations    [cum. ≤130]
+│
+│     TOOLS: subpoena for attendance at a deposition (§ 388) · officer and witness
+│     fees (§ 389) · a criminal penalty for failure to appear, testify, or produce
+│     documents (§ 390) · certification and filing of depositions (§ 391)
+│
+├─◆ 4. THE RECORD AND THE BRIEFS — the paper case                      ⏱ § 392, § 393
+│     │
+│     │  THE RECORD = the papers, depositions and exhibits filed with the Clerk.
+│     │  That is all of it.  The committee hears the case ON THE PAPERS (§ 392(a)) —
+│     │  there is no trial, and no live witness before the committee as of right.
+│     │
+│     ├─ contestant's brief + appendix ....... 45 days after the testimony period
+│     │                                                                 [cum. ≤175]
+│     ├─ contestee's brief + appendix ........ 30 days after service of the above
+│     │                                                                 [cum. ≤205]
+│     └─ contestant's reply brief ............ 10 days after service of the above
+│                                                                       [cum. ≤215]
+│
+│     ⭐ 215 DAYS — roughly SEVEN MONTHS from the state's declaration before the
+│     committee has a complete record, and the schedule has not yet reached a single
+│     committee vote.  The contestee has been sworn, seated and voting since day one
+│     of the Congress.  In a two-year term, the clock is the remedy's main defect.
+│
+├─◆ 5. THE COMMITTEE ON HOUSE ADMINISTRATION — the only forum
+│     │     Chair: Bryan Steil (R-WI-01) · Ranking Member: Joe Morelle (D-NY-25)
+│     │     (119th Congress, verified Oct 2026)
+│     │
+│     ├─ THE BURDEN, and the reason this almost never works:
+│     │    the state certificate — the "credentials" — is PRIMA FACIE evidence of
+│     │    the regularity of the election and of the result.  The contestant must
+│     │    overcome that presumption AND show the result would have changed.
+│     │    ⭐ The presumption is created by the very count the contestant says is
+│     │    wrong.  The House has called the burden "substantial."
+│     │
+│     ├─ POWERS it may exercise:
+│     │    ├─ impound ballots, records and election materials
+│     │    ├─ order a RECOUNT or an audit, and examine the materials itself
+│     │    ├─ borrow auditors from the GAO to recount under its supervision
+│     │    └─ stand up a TASK FORCE to run the investigation
+│     │         (the 1985 Indiana 8th precedent — see Notes; that case was NOT
+│     │          an FCEA contest but a challenge at the oath, door (B) above)
+│     │
+│     ├─ NOT BOUND BY STATE LAW — it may consider a state statute or a state
+│     │    court's decision, and it may also decline to
+│     │
+│     └─ reports a RESOLUTION to the full House ──▶ stage 6
+│
+└─◆ 6. THE FULL HOUSE — simple majority, three possible dispositions
+      │
+      ├─ (i) AFFIRM the contestee's right to the seat ──▶ ✕ contest dismissed
+      │        — the overwhelmingly normal outcome
+      ├─ (ii) SEAT THE CONTESTANT ──▶ ★ the seat changes hands
+      │        — the outcome the statute exists for, and the one it has not
+      │          delivered in the FCEA era
+      └─ (iii) NEITHER is entitled to the seat ──▶ declare the seat VACANT
+               ──▶ a special election under state law.  The House has been
+                   "very hesitant" to do this.
+
+      ◇ AND THE OFF-RAMPS that end contests in practice, not on the merits:
+        ├─▶ WITHDRAWAL by the contestant (Iowa 2nd, 2021 — see Notes)
+        ├─▶ DISMISSAL ON A THRESHOLD MOTION (both 119th Congress contests)
+        └─▶ THE CLOCK — the next election arrives and the question is moot
+
+      💰 EXPENSES (§ 396): the committee MAY allow a party reimbursement of
+         reasonable expenses INCLUDING ATTORNEYS' FEES, on a verified, itemized
+         application with vouchers, paid from House accounts.  No statutory cap —
+         and no entitlement either.  Everything before approval is out of pocket.
