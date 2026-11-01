@@ -1,0 +1,258 @@
+HOW AN INSPECTOR GENERAL IS APPOINTED AND REMOVED — THE DOORS IN AND OUT (October 2026)
+│   Inspector General Act of 1978, recodified 2022 at 5 U.S.C. ch. 4 · ~72 statutory offices
+│   § 403 = appointed by the President with Senate consent · § 415 = appointed by agency head
+│   ☐ notice to Congress required    ⊘ foreclosed by statutory text    ◎ the Act stops here
+│   ✕ a check that is not one    ⚑ a duty with no due date    ★ used or decided in 2025–26
+│   ◈ a count or reading made on this page
+│
+■ STAGE 0 — WHICH STATUTE GOVERNS THE CHAIR (the fork that decides everything after)
+│
+│   ┌───────────────────────────────┐        ┌───────────────────────────────┐
+│   │  ESTABLISHMENT OFFICE § 403   │        │  DESIGNATED ENTITY   § 415    │
+│   │  the 15 departments, EPA,     │        │  Amtrak, FCC, FEC, FTC, SEC,  │
+│   │  NASA, SSA, GSA, OPM, SBA,    │        │  NLRB, NRC, Peace Corps,      │
+│   │  the intelligence community,  │        │  Smithsonian, Postal Service, │
+│   │  Treasury (two offices)       │        │  Fed Board + consumer bureau  │
+│   ├───────────────────────────────┤        ├───────────────────────────────┤
+│   │  Appointed by: the PRESIDENT  │        │  Appointed by: the HEAD of    │
+│   │  Confirmed by: the SENATE     │        │  the entity being audited     │
+│   │  Removed by:   the PRESIDENT  │        │  Removed by:   that same head │
+│   │  Acting fill:  § 403(h)       │        │  Acting fill:  ⊘ NO PROVISION │
+│   └───────────────┬───────────────┘        └───────────────┬───────────────┘
+│                   │                                        │
+│                   └──────────────────┬─────────────────────┘
+│                                      ▼
+│              SAME 30-DAY NOTICE RULE · SAME SUSPENSION RULE · SAME POWERS
+│              ◈ The two halves are roughly equal in number and differ in exactly
+│                one structural respect: who signs the appointment and the removal.
+│
+├─◆ PART A — THE WAY IN (one route, seven stops, no clock on anyone but the acting)
+│   │
+│   │  A1 ── THE CHAIR EMPTIES ──▶ death · resignation · removal · transfer · expiry
+│   │        of a prior acting designation ★
+│   │          ⚑ The Act sets no deadline for nominating a replacement. What it sets
+│   │            a deadline for is EXPLAINING the absence of one — see A5.
+│   │
+│   │  A2 ── THE ACTING FILL (§ 403(h); establishment offices only)
+│   │        ├─ DOOR 1 — THE FIRST ASSISTANT, which means either the person the
+│   │        │     departing inspector general designated IN WRITING, or, absent any
+│   │        │     designation, the Principal Deputy or the Deputy of that same office.
+│   │        │     Nobody outside the office is eligible by this door.
+│   │        └─ DOOR 2 — PRESIDENTIAL DIRECTION of another officer in that office:
+│   │              must have served there ≥ 90 of the prior 365 days (unless already
+│   │              an inspector general elsewhere) · paid at or above GS-15 minimum ·
+│   │              demonstrated relevant ability · ☐ 30 days' written rationale to
+│   │              Congress BEFORE the direction takes effect · one chair at a time
+│   │        ◎ § 3345(a) is switched off for these offices — the usual Vacancies Act
+│   │          menu of first assistants, other confirmed officers and senior agency
+│   │          staff does not apply. The acting inspector general comes from inside
+│   │          the watchdog office or not at all.
+│   │
+│   │  A3 ── THE ACTING CLOCK (§ 3346 DOES apply, even though § 3345(a) does not)
+│   │        210 days from the vacancy ──▶ plus the full time any first or second
+│   │        nomination is pending ──▶ plus 210 more if that nomination is rejected,
+│   │        withdrawn or returned ──▶ and again for a second one.
+│   │        ★ This clock has ended real tenures: the acting Justice inspector
+│   │          general served Oct 2025 – Jan 2026 and the acting Education inspector
+│   │          general Jul – Dec 2025, both cut off by the time limits rather than by
+│   │          any decision. The chair then sat empty until confirmation.
+│   │
+│   │  A4 ── IDENTIFICATION AND VETTING ──▶ White House counsel · FBI background
+│   │        investigation · financial disclosure to the Office of Government Ethics
+│   │        ◇ Statutory qualification: appointed "without regard to political
+│   │          affiliation and solely on the basis of integrity and demonstrated
+│   │          ability" in accounting, auditing, financial analysis, law, management
+│   │          analysis, public administration or investigations (§§ 403(a), 415(c))
+│   │        ✕ There is no mechanism by which anyone tests that. No committee vote
+│   │          turns on it; no court has ever voided an appointment for failing it.
+│   │
+│   │  A5 ── NOMINATION SENT TO THE SENATE (establishment offices)
+│   │        ⚑ No deadline to send one · ⚑ no deadline for the Senate to act on one
+│   │        ☐ § 3349e, added by the same 2022 law, is the nearest thing to a clock:
+│   │          once a presidentially appointed inspector general chair has been vacant
+│   │          210 days, the President has 30 more days to tell the congressional
+│   │          committees WHY there is no nomination yet and to give a target date —
+│   │          and then to repeat it by 1 June every year the chair stays empty.
+│   │          ✕ No penalty is attached to missing it. The statute's answer to an
+│   │            indefinite vacancy is an annual letter explaining the vacancy.
+│   │
+│   │  A6 ── COMMITTEE ──▶ Homeland Security and Governmental Affairs for most
+│   │        offices, the authorizing committee for several (Judiciary, Veterans'
+│   │        Affairs, Finance, Intelligence) ──▶ hearing ──▶ questions for the record
+│   │        ──▶ reported, held, or left to die at the end of the Congress
+│   │
+│   │  A7 ── FLOOR ──▶ cloture if needed ──▶ simple-majority confirmation; blocs of
+│   │        nominees are routinely confirmed together on one vote ★
+│   │
+│   └─ A8 ── OATH AND ENTRY ON DUTY. The office reports to the agency head and
+│            "shall not report to, or be subject to supervision by, any other officer"
+│            of that agency, and sends its findings to Congress at the same time.
+│            ◎ That dual line is the whole design, and the reason every route in
+│              Part B exists: the chair cannot be overruled, only emptied or starved.
+│
+├─◆ PART B — THE WAYS OUT, ORDERED BY HOW MUCH WARNING ANYONE GETS
+│   │
+│   │  ROUTE 1 ── REMOVAL (§ 403(b) establishment · § 415(e)(2) designated entity)
+│   │        ☐ Written communication to BOTH chambers not later than 30 days before
+│   │          it takes effect, stating "substantive rationale, including detailed
+│   │          and case-specific reasons."
+│   │        ☐ If any inquiry INTO the inspector general is open or finished, the
+│   │          notice must name every body conducting it and, if finished, the findings.
+│   │        ★ For a board- or commission-headed entity, removal requires the written
+│   │          concurrence of TWO-THIRDS of the members (§ 415(e)(1)) — the only
+│   │          supermajority anywhere in the system, and it protects the appointed
+│   │          half rather than the confirmed half.
+│   │        ✕ No cause requirement · no for-cause standard · no fixed term · no
+│   │          reinstatement remedy named anywhere in the Act.
+│   │
+│   │  ROUTE 2 ── TRANSFER. The same sentence of § 403(b) covers "removed from office
+│   │        or transferred to another position or location," so a reassignment out of
+│   │        the job carries the identical 30-day notice. ☐
+│   │
+│   │  ROUTE 3 ── NON-DUTY STATUS, i.e. suspension with pay (§ 403(b), § 415(e)(3))
+│   │        ├─ Only the President (or, for a designated entity, only the entity head)
+│   │        │     may do it — not a deputy, not a general counsel.
+│   │        ├─ ☐ Written reasons to Congress at least 15 days BEFORE it takes effect.
+│   │        └─ ◎ OR on the effective day itself, if the official determines that the
+│   │              inspector general's continued presence is one of the threats listed
+│   │              at § 6329b(b)(2)(A) — to themselves or others, to evidence, to
+│   │              government property, or to "legitimate Government interests" — and
+│   │              files a report on that determination. The last of those four is
+│   │              open-ended, and the official who invokes it is the one being audited.
+│   │              Suspension during the 30 days before a removal is barred except by
+│   │              this same door.
+│   │
+│   │  ROUTE 4 ── THE ACTING DESIGNATION SIMPLY EXPIRES (§ 3346)
+│   │        ⊘ No notice is owed to anyone. Nobody decides. The clock runs out and the
+│   │          office has no head, which is the one exit that requires no actor at all. ★
+│   │
+│   │  ROUTE 5 ── ACCESS WITHDRAWAL — THE OFFICE SURVIVES AND THE FUNCTION DOES NOT
+│   │        ◎ THE ACT DOES NOT ADDRESS THIS. § 403(a) protects the reporting line and
+│   │          the general grant of access sits in § 406, but nothing sets a procedure
+│   │          for revoking a particular system, database or clearance — so there is no
+│   │          notice period, no stated cause and no waiting period to run.
+│   │        ★ Homeland Security: the inspector general wrote on 2 March 2026 that the
+│   │          department had revoked or denied his office's access to at least EIGHT
+│   │          databases and had "systematically obstructed" its work; in February 2026
+│   │          the department's general counsel asked the office for a list of its own
+│   │          ongoing audits and investigations. The Secretary denies blocking anything.
+│   │        ★ Education: the inspector general wrote on 23 May 2025 of "unreasonable
+│   │          denials and repeated delays" in access to documents, staff and information.
+│   │        ◈ This route needs no removal, no notice to Congress and no stated cause,
+│   │          and it is the only route on this chart with no provision governing it.
+│   │
+│   │  ROUTE 6 ── THE MONEY (no provision of the Act engages at all)
+│   │        ├─ Staffing: inspector general office staffing down ~12% against 2024
+│   │        │     [Public Citizen, March 2026, from OPM data]; Treasury's office
+│   │        │     −30.4%, Labor's −18.1%, Veterans Affairs' −16.0% on the same reading.
+│   │        ├─ Budget request: Cabinet offices −12% against FY24 on average, Interior
+│   │        │     and Justice −28% [Partnership for Public Service].
+│   │        └─ ★ The council: appropriated funds withheld in 2025 · 25 staff furloughed
+│   │              · a September 2025 attempt to defund it entirely · funds released
+│   │              after congressional pressure, now requested from the budget office
+│   │              one quarter at a time [Government Executive, March 2026].
+│   │
+│   │  ROUTE 7 ── RESIGNATION, including after an Integrity Committee finding (Part C).
+│   │        ⊘ Nothing is owed to Congress. A resignation ends the matter.
+│   │
+│   └─ ROUTE 8 ── ABOLISHING OR MERGING THE OFFICE ITSELF, which takes an Act of
+│            Congress for a statutory office — the one route on this chart that the
+│            executive branch cannot walk alone. ⊘
+│
+├─◆ PART C — THE ONE BODY THAT INVESTIGATES AN INSPECTOR GENERAL (§ 424(d))
+│   │
+│   │   COMPOSITION — six members: the council member representing the FBI · FOUR
+│   │   inspectors general appointed by the council's elected Chairperson · the
+│   │   Director of the Office of Government Ethics or a designee. The Committee picks
+│   │   its chair from among the four inspectors general, for a two-year term.
+│   │
+│   │   COMPLAINT ──▶ [7 days] joint intake screen by the Justice Department, the
+│   │   Office of Special Counsel and the Committee, deciding where it goes ──▶
+│   │   [30 days, extendable 30 more with ☐ notice to Congress] the Committee decides
+│   │   whether to direct an investigation at all ──▶ [150 days; past that, ☐ notice
+│   │   to Congress and a briefing every 30 days] the chair investigates, staffed by
+│   │   details from other offices, with legal advice from the Justice Department's
+│   │   Public Integrity Section ──▶ findings report to the Committee and the council
+│   │   chair ──▶ [30 days] the Committee forwards it, with recommendations, to the
+│   │   council chair, THE APPOINTING AUTHORITY, and the congressional committees.
+│   │        ◈ 217 days from complaint to report, with no extensions taken.
+│   │
+│   │   ✕ THE COMMITTEE CANNOT DISCIPLINE ANYONE. It recommends. The decision belongs
+│   │     to the appointing authority — the same official who may remove the inspector
+│   │     general without cause, and who may also decline to act on the findings.
+│   │        ★ Substantiated and no removal: the Homeland Security inspector general,
+│   │          findings released October 2024 including misleading the Senate at his
+│   │          own confirmation; still in office through 2026.
+│   │        ★ Substantiated and resignation: the housing-finance inspector general
+│   │          resigned in summer 2021 after findings on mistreatment of her own staff.
+│   │        ◈ The outcome tracks the appointing authority's willingness, not the finding.
+│   │
+│   │   ☐ Since 2023 the council files semiannual reports on the Committee's activity,
+│   │     with counts of allegations received and referred, and must tell Congress
+│   │     within 60 days when it closes a Member's complaint without referral.
+│   │
+├─◆ PART D — WHAT HAPPENS WHEN THE RULES ARE BROKEN (the whole enforcement record)
+│   │
+│   │   ★ THE NOTICE REQUIREMENT. On 24 January 2025, 17 inspectors general were
+│   │     removed overnight by email citing "changing priorities" — no 30-day notice,
+│   │     no case-specific reasons. Eight sued. On 24 September 2025 the district
+│   │     court held the President had almost certainly violated the Act and DENIED
+│   │     reinstatement for want of irreparable harm, reasoning that the removals
+│   │     could lawfully be repeated after 30 days' notice. The case was then stayed
+│   │     pending the Supreme Court's removal-power decision, and after that decision
+│   │     came down on 29 June 2026 the parties returned to summary-judgment briefing.
+│   │        ✕ A violation found and no remedy ordered.
+│   │
+│   │   ⊘ THE VACANCIES ACT SANCTION DOES NOT REACH THIS OFFICE. When someone serves
+│   │     past the acting clock, § 3348(d) normally voids their official acts and bars
+│   │     ratification — but § 3348(e)(3) names the inspector general among the five
+│   │     offices excluded from that sanction. The clock applies; the consequence does not.
+│   │        ★ On 17 September 2026 the Comptroller General determined that use of the
+│   │          Acting Inspector General title on a Commerce report issued 1 December
+│   │          2025 broke the time limits, permissible service having ended on 18
+│   │          November 2025 — and wrote that § 3348(d) "does not apply to IGs under
+│   │          § 3348(e)(3)" and that it "need not consider it here."
+│   │        ◈ That is the only determination of its kind on this record, and it
+│   │          recorded the breach rather than undoing anything.
+│   │
+│   └─ ⚑ THE LEGISLATIVE ANSWER ON THE TABLE. S. 3687, the Inspectors General
+│        Independence Act, introduced 15 January 2026, would bar a President from
+│        appointing his own current or former political appointee as an inspector
+│        general. Read twice and referred to Homeland Security and Governmental
+│        Affairs on the day of introduction; no further action since.
+│        ★ Of the inspectors general confirmed in this term, most had previously
+│          served in the same administration [Government Executive, January 2026].
+│
+└─◆ PART E — THE PROTECTION LEDGER: what each safeguard binds, and what follows
+    ┌──────────────────────────┬────────────────────────────┬────────────────────────────────┐
+    │ SAFEGUARD                │ WHAT IT REQUIRES           │ WHAT FOLLOWS IF IGNORED        │
+    ├──────────────────────────┼────────────────────────────┼────────────────────────────────┤
+    │ 30-day removal notice    │ Reasons to Congress first  │ Breached 2025; no remedy given │
+    │ Case-specific reasons    │ Detail, not "priorities"   │ Never tested; no standard      │
+    │ Open-inquiry disclosure  │ Name who is investigating  │ No enforcement on record       │
+    │ 15-day suspension notice │ Reasons before suspension  │ Waivable on a threat finding   │
+    │ Explain-the-vacancy duty │ Why, plus a target date    │ No penalty; a letter each June │
+    │ Two-thirds board vote    │ Supermajority to remove    │ Binding - the strongest rule   │
+    │ Acting-fill eligibility  │ An official of that office │ No sanction; office excluded   │
+    │ Acting-service clock     │ 210 days plus extensions   │ Acts valid; breach only noted  │
+    │ No-supervision clause    │ Answers to the head only   │ No procedure; fought publicly  │
+    │ Access to records        │ The agency must give it    │ No procedure; 8 systems cut    │
+    │ Integrity Committee      │ Investigate in 217 days    │ Recommends; appointer decides  │
+    │ Semiannual report        │ Counts sent to Congress    │ Reporting only; no effect      │
+    │ Appropriated funding     │ Spend what Congress voted  │ Withheld 2025; now quarterly   │
+    └──────────────────────────┴────────────────────────────┴────────────────────────────────┘
+
+    THE READING, SET OUT PLAINLY
+    ════════════════════════════════════════════════════════════════════════
+    Thirteen safeguards.  Exactly one of them — the two-thirds board vote —
+    binds the official it is aimed at and produces a result if ignored.
+    Six are duties to tell Congress something: one has been breached with a
+    court finding and no remedy, one is waivable by the very official it
+    restrains, and four have no recorded enforcement at all.  Two govern the
+    office's records and its money and have no procedure whatsoever.  The
+    last four attach a clock or a process to a decision made elsewhere.
+    ════════════════════════════════════════════════════════════════════════
+    The office was built so that it could not be overruled.  It can be
+    emptied, suspended, timed out, cut off from its records, or starved —
+    and of those five, only the first two require telling anyone in advance.
+    ════════════════════════════════════════════════════════════════════════
