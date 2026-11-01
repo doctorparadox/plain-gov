@@ -1,0 +1,300 @@
+HOW CLASSIFIED EVIDENCE REACHES A CRIMINAL TRIAL                     (as of 28 October 2026)
+│  ──▶ main path   └─▶ branch   ■ stage   ◆ instrument   ◇ decision
+│  ⊘ a route foreclosed by statutory text
+│  ◎ the hinge: the court's own ruling stops here and the executive decides
+│  ☐ owed to Congress     ✕ a check that turns out not to be one
+│  ⏳ a clock the statute actually sets     ⚑ a duty with no due date
+│  ★ used or decided in 2025-26
+│  ◈ a count or a reading made on this page rather than published anywhere
+│  Section numbers are the Classified Information Procedures Act of 1980, printed in the
+│  appendix to title 18 of the United States Code.  Names here are plain text; the links
+│  are in the prose, the Notes and the See also.
+│
+■ STAGE 0 · IS THERE CLASSIFIED INFORMATION IN THE CASE AT ALL?
+│
+│   ◆ § 1 · THE DEFINITION IS BORROWED, NOT MADE.  "Classified information" is anything
+│       the Government has determined, under an executive order, statute or regulation,
+│       requires protection against unauthorized disclosure.  The Act nowhere says what
+│       MAY be classified.  It inherits the answer from whoever did the classifying.
+│
+│   ◎ So the first question in the case is settled outside the case.  A court applying
+│     this statute asks whether material IS classified, never whether it should have been.
+│
+│   ◆ § 9A · THE AGENCY THAT OWNS THE SECRET IS TOLD, AND KEPT TOLD.  The Assistant
+│       Attorney General for the Criminal Division or for National Security, together
+│       with the United States attorney, must brief the senior official of the agency
+│       the information came from -- as soon as practicable once a prosecution looks
+│       possible, and again as needed to keep that official "fully and currently
+│       informed of the status of the prosecution."  Added 2000, widened 2006.
+│   ⚑   No deadline, no filing, no docket entry.  Nobody else is owed anything like it.
+│
+│   ──▶
+│
+■ STAGE A · THE SECURITY APPARATUS GOES UP BEFORE ANY RULING IS MADE
+│
+│   ◆ § 9 · THE RULES FOR THE COURTS ARE WRITTEN BY THE CHIEF JUSTICE IN CONSULTATION
+│       WITH THE ATTORNEY GENERAL, the Director of National Intelligence and the
+│       Secretary of Defense.  ☐ Each set, and every later change, is submitted to the
+│       congressional committees and takes effect 45 days afterward.  The Security
+│       Procedures now in force were issued 1 December 2010, effective 15 January 2011,
+│       and replaced the first set of 12 February 1981.
+│
+│   ◆ SECURITY PROCEDURES § 2 · THE COURT APPOINTS A CLASSIFIED INFORMATION SECURITY
+│       OFFICER.  Before the designation, the Department of Justice Security Officer
+│       must certify the person in writing.  In practice the Government files the
+│       motion, names the individual and supplies the certification.
+│   ◈   The officer who runs classified security for the court is vouched for by the
+│       department prosecuting the case.  Read on this page from the statute, the
+│       Security Procedures and a filed designation motion; no source frames it so.
+│
+│   ◆ CLEARANCES AND THE ROOM.  The court must provide a secure facility and control
+│       access to it.  Defense counsel ordinarily need a clearance.  The defendant
+│       ordinarily does not get one -- and courts have upheld the arrangement in which
+│       cleared counsel has read material the client never will.
+│   ⊘   Jurors sit outside all of it: no investigation, no clearance requirement.
+│
+│   ──▶
+│
+■ STAGE B · § 2 · THE PRETRIAL CONFERENCE                       (either party may ask)
+│
+│   The one stage with no asymmetry in it.  After the indictment or information is
+│   filed, any party may move for a conference, and the court may call one itself.
+│   It sets the timetable for discovery, for the defendant's notice and for the
+│   Government's hearing motions.
+│
+│   ◆ A statement the defendant or defense counsel makes at the conference may be used
+│       against the defendant only if it is in writing and signed by both.
+│
+│   ──▶
+│
+■ STAGE C · § 3 · THE PROTECTIVE ORDER                       (on the Government's motion)
+│
+│   ◎ "the court SHALL issue an order to protect against the disclosure of any
+│     classified information disclosed by the United States."  The verb is mandatory
+│     and the trigger is the Government's motion.  There is no counterpart motion.
+│
+│   ──▶
+│
+■ STAGE D · § 4 · THE DELETIONS THE DEFENSE NEVER SEES
+│
+│   ◆ WHAT THE COURT MAY ALLOW, on a sufficient showing: deletion of specified items
+│       of classified information from discovery, a summary in place of the material,
+│       or a statement admitting the relevant facts the material would show.
+│
+│   ◆ THE STANDARD IS NOT PLAIN RELEVANCE.  Classified information is discoverable
+│       only if it is relevant AND HELPFUL to the defense -- the informant-privilege
+│       test imported into this Act by the D.C. Circuit in 1989, and now the working
+│       rule.  The Act creates no independent right of discovery of its own.
+│
+│   ◎ § 4 · HOW THE SHOWING IS MADE.  The court may permit the Government to make its
+│     request as "a written statement to be inspected by the court alone."  The court
+│     reads the actual material, in camera and ex parte, and decides what is helpful
+│     to a defense it is hearing about only from the other side.  If relief is granted,
+│     the entire statement is sealed and preserved in the record for a possible appeal.
+│
+│   ✕   The sealing is called preservation for appeal.  § 7 gives the appeal to the
+│       Government only, so the record is kept for the party that filed it.
+│
+│   └─▶ The defense is not simply absent.  Counsel may file a sealed statement of the
+│       defense theory, so that the judge reading the material knows what would help.
+│       It is an argument submitted blind about documents counsel has not read.
+│
+│   ──▶
+│
+■ STAGE E · § 5 · THE NOTICE ONLY ONE SIDE GIVES
+│
+│   ◆ § 5(a) · A defendant who reasonably expects to disclose classified information,
+│       in any way, at any point in the proceeding, must notify the Government and the
+│       court in writing.  ⏳ Within the time the court sets; failing that, thirty days
+│       before trial.  Anything learned later requires prompt notice.
+│
+│   ◆ AND MAY NOT USE IT MEANWHILE.  No disclosure until notice has been given and
+│       the Government has had a reasonable chance to seek a § 6 ruling and to take any
+│       appeal -- so the defendant's own timetable is set by the other side's options.
+│
+│   ◇ NOTICE ADEQUATE?
+│       └─▶ no  · § 5(b): the court may bar disclosure of the unnoticed information and
+│                   bar the defendant from examining any witness about it.
+│       ──▶ yes · on to § 6.
+│
+│   ⊘ There is no reciprocal provision.  The Government files no notice of the
+│     classified information it intends to use, and none of what it will object to.
+│
+│   ──▶
+│
+■ STAGE F · § 6(a)-(b) · THE HEARING, AND WHO CLOSES THE COURTROOM
+│
+│   ◎ § 6(a) · "the United States may request the court to conduct a hearing" on the
+│     use, relevance and admissibility of the classified information.  "Upon such a
+│     request, the court SHALL conduct such a hearing."  The defendant cannot start it.
+│
+│   ◎ § 6(a) · THE CERTIFICATE, NOT THE FINDING, CLOSES THE ROOM.  The hearing, or any
+│     part of it the Attorney General specifies, is held in camera if the Attorney
+│     General certifies that a public proceeding MAY result in disclosure.  The court
+│     takes the certificate; it makes no finding of its own on the point.
+│
+│   ◆ WHAT THE COURT MUST DO IN RETURN.  As to each item of classified information,
+│       set forth IN WRITING the basis for its determination -- and rule before the
+│       proceeding the motion was filed in advance of.  The strongest obligation the
+│       Act puts on the judge is an obligation to explain.
+│
+│   ◆ § 6(b) · WHAT THE DEFENDANT IS TOLD.  Notice of the classified information at
+│       issue.  If he has already received the specific information, it is identified;
+│       if not, a GENERIC CATEGORY approved by the court may be enough.
+│
+│   ──▶
+│
+■ STAGE G · § 6(c) · THE SUBSTITUTION
+│
+│   Once the court has authorized disclosure, the Government may move to give the
+│   defendant something else instead: an admission of the relevant facts, or a summary.
+│
+│   ◆ THE TEST.  The court SHALL grant the motion if the substitute gives the defendant
+│       "substantially the same ability to make his defense as would disclosure of the
+│       specific classified information."  Differences from the original do not by
+│       themselves make a substitute inadequate.
+│
+│   ◎ § 6(c)(2) · THE AFFIDAVIT NOBODY READS BUT THE JUDGE.  The Government may file an
+│     affidavit of the Attorney General certifying that disclosure "would cause
+│     identifiable damage to the national security of the United States," and on the
+│     Government's request the court must examine it in camera and ex parte.
+│
+│   ◇ SUBSTITUTE GRANTED?
+│       ──▶ yes · the trial goes forward on the summary.  Stage I.
+│       └─▶ no  · Stage H, which is where the statute turns over.
+│
+■ STAGE H · § 6(e) · THE OVERRIDE, AND THE SANCTION THE GOVERNMENT MAY UNDO
+│
+│   ◎ § 6(e)(1) · THE COURT'S OWN RULING IS REVERSED BY AFFIDAVIT.  Where the court has
+│     DENIED the substitution -- that is, has held that the defendant may use the real
+│     material -- and the Government files an affidavit of the Attorney General
+│     objecting to disclosure, "the court SHALL order that the defendant not disclose
+│     or cause the disclosure of such information."  No standard.  No review.
+│
+│   ◆ § 6(e)(2) · WHAT IS SUPPOSED TO FOLLOW.  The court "shall dismiss the indictment
+│       or information" -- except where it determines the interests of justice would
+│       not be served by dismissal, in which case it orders something else: dismissal
+│       of specified counts, a finding against the United States on any issue the
+│       excluded information relates to, or striking all or part of a witness.
+│
+│   ✕ AND THE CLAUSE THAT HOLDS IT OPEN.  No such order "shall take effect until the
+│     court has afforded the United States an opportunity to appeal such order under
+│     section 7, and THEREAFTER TO WITHDRAW ITS OBJECTION to the disclosure."
+│
+│   ◈ So the sanction is a price rather than a penalty.  The Attorney General, having
+│     taken the material away from the defendant, chooses afterwards whether to keep
+│     the secret and lose the case or give up the secret and keep it.  Reading made on
+│     this page from the text of § 6(e)(2); no court or report is cited for it.
+│
+│   └─▶ THE ONE CASE THE DISMISSAL IS CITED FOR, AND WHAT IT ACTUALLY SHOWS.  A former
+│       CIA station chief, charged in 1989 with false statements to the agency's
+│       inspector general and to a presidential commission.  The district court found
+│       two categories of classified material relevant and helpful and REFUSED every
+│       substitute offered.  The Attorney General filed the § 6(e)(1) affidavit on
+│       22 November 1989; the indictment was dismissed with prejudice two days later;
+│       the court of appeals affirmed on 6 September 1990.  And the appellant was the
+│       Office of Independent Counsel.  ◈ The one time the sanction bit, the official
+│       who held the veto was not the official prosecuting the case -- the party
+│       choosing the secret was not the party paying for it.
+│
+│   ──▶
+│
+■ STAGE I · § 6(f) · THE ONE PROVISION THAT RUNS THE OTHER WAY
+│
+│   Where the court authorizes disclosure under § 6(a), it must -- unless the interests
+│   of fairness do not so require -- order the United States to give the defendant the
+│   information it expects to use in rebuttal, and may impose a continuing duty to do
+│   so.  If the Government does not comply, the court may exclude the undisclosed
+│   evidence and bar the Government from examining any witness about it.
+│
+│   ◈ It is the only sanction in the Act aimed at the Government that the Government
+│     cannot lift by withdrawing something.  It is also conditioned on an interests-of-
+│     fairness exception, and it reaches only rebuttal.
+│
+│   ──▶
+│
+■ STAGE J · § 7 · THE APPEAL ONLY ONE SIDE HAS
+│
+│   ◎ The United States may take an interlocutory appeal, BEFORE OR AFTER JEOPARDY HAS
+│     ATTACHED, from an order authorizing disclosure, imposing sanctions for
+│     nondisclosure, or refusing a protective order it sought.
+│
+│   ⏳ Fourteen days from the order if the appeal is taken before trial, and the trial
+│     does not begin until the appeal is resolved.  Taken during trial, the trial is
+│     adjourned and the appeal is expedited.
+│
+│   ⊘ The defendant has no counterpart.  An order deleting material from his discovery,
+│     closing the hearing, or barring him from using what the court said he could use,
+│     is reviewable only on appeal from a conviction -- after the trial it shaped.
+│
+│   ──▶
+│
+■ STAGE K · § 8 · AT TRIAL, AND WHAT CONGRESS IS TOLD AFTERWARDS
+│
+│   ◆ § 8(b) · The court may admit part of a writing, recording or photograph, or admit
+│       the whole with the classified portions excised, unless fairness requires the
+│       whole to be considered.
+│   ◆ § 8(c) · The Government may object to a question that would require disclosure of
+│       classified information not already found admissible, and the court then takes
+│       protective steps -- which may include requiring a proffer, from each side, of
+│       what the answer is expected to be.
+│
+│   ◆ § 12 · THE GUIDELINES THAT DECIDE WHETHER THE CASE IS BROUGHT AT ALL.  Within
+│       180 days of enactment the Attorney General was to issue guidelines specifying
+│       the factors the Department uses in deciding whether to prosecute where, in the
+│       Attorney General's judgment, classified information may be revealed.
+│       ☐ They are transmitted to the appropriate committees of Congress.
+│   ⊘   The Act does not require them to be published.
+│   ◆ § 12(b) · A declination requires a written explanation covering four things: the
+│       intelligence that might be disclosed, the purpose of the disclosure, the
+│       likelihood of it, and the possible consequences for national security.
+│
+│   ◆ § 13 · THE REPORTS.  (a) The Attorney General reports semiannually, orally or in
+│       writing, to the two intelligence committees and the chairs and ranking members
+│       of the two judiciary committees -- on the cases the Department decided NOT to
+│       prosecute under § 12(a).  (c) A report on the operation and effectiveness of
+│       the Act was due each year "for the first three years this Act is in effect."
+│   ⚑   "After three years, such reports shall be delivered as necessary."
+│   ◈   The declinations are reported on a clock.  The dispositions -- the deletions,
+│       the substitutions, the overridden rulings, the withdrawn objections -- are not
+│       reported at all, and the one review clause that reached them went discretionary
+│       in 1983 and has stayed there.
+│
+│   ──▶ verdict, or the plea that most of these cases actually end in.
+│
+│
+■ PART L · THE LEVERS, AND WHOSE HAND EACH ONE IS IN
+  LEVER                                   PROVISION  WHOSE HAND         WHO CAN RESIST IT
+  --------------------------------------  ---------  -----------------  ----------------------
+  Protective order over what is produced  § 3        Government         nobody; court "shall"
+  Delete items from discovery             § 4        Government         nobody
+  Make the showing in a sealed filing     § 4        Government         nobody
+  Notice of what will be used at trial    § 5        Defendant only     Government
+  Hearing on use and admissibility        § 6(a)     Government         nobody; court "shall"
+  Close the courtroom                     § 6(a)     Attorney General   nobody
+  Generic category in place of notice     § 6(b)     Government         defendant, in argument
+  Summary in place of the evidence        § 6(c)     Government         defendant, in argument
+  Ex parte damage affidavit               § 6(c)(2)  Attorney General   nobody
+  Override the court’s disclosure ruling  § 6(e)(1)  Attorney General   nobody
+  Suspend, then undo, the sanction        § 6(e)(2)  Government         nobody
+  Rebuttal material to the defendant      § 6(f)     the court          fairness exception
+  Interlocutory appeal                    § 7        Government only    does not arise
+  Objection to a question at trial        § 8(c)     Government         defendant, in argument
+  Whether the case is charged at all      § 12       Attorney General   nobody
+  What Congress is told afterwards        § 13       Attorney General   nobody
+
+╔════════════════════════════════════════════════════════════════════════════════════╗
+║  WHAT THE SEQUENCE ADDS UP TO                                                      ║
+╠════════════════════════════════════════════════════════════════════════════════════╣
+║  Sixteen levers.  Fourteen are moved by the prosecuting side, and four of those    ║
+║  fourteen are moved by the Attorney General in person.  Three of the four move by  ║
+║  an affidavit or a certificate that nobody outside the Government ever reads.      ║
+╠════════════════════════════════════════════════════════════════════════════════════╣
+║  One of the sixteen runs the other way.  The rebuttal duty of § 6(f) is the only   ║
+║  sanction in the Act that the Government cannot lift by taking something back --   ║
+║  and it carries an interests-of-fairness exception and reaches rebuttal alone.     ║
+╠════════════════════════════════════════════════════════════════════════════════════╣
+║  The Act asks the judge for one thing above all others, and it is not a decision.  ║
+║  It is a written statement of the basis for each item, filed under seal, for the   ║
+║  use of the only party the statute lets appeal.                                    ║
+╚════════════════════════════════════════════════════════════════════════════════════╝
