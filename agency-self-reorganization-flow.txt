@@ -1,0 +1,233 @@
+HOW AN AGENCY REORGANIZES ITSELF WITHOUT CONGRESS                    (as of 25 October 2026)
+│  ──▶ main path  └─▶ branch  ■ stage  ◆ instrument  ◇ decision  ⊘ foreclosed by statute
+│  ◎ the hinge: statute stops, an internal document decides   ☐ advance notice to Congress
+│  ✕ stopped, or a check that is not one   ⚑ a duty with no due date   ★ used in 2025-26
+│  ◈ a reading or count made here, published nowhere        Offices here are plain text.
+│
+■ STAGE 0 · THE PROBLEM THIS ROUTE EXISTS TO SOLVE
+│
+│   ⊘ An agency created by statute can be abolished only by statute.
+│   The President's standing power to send Congress a reorganization plan that took
+│   effect unless Congress objected EXPIRED 31 DECEMBER 1984 and was never renewed.
+│   In the years between the legislative veto's fall and that expiry it went unused.
+│
+│   ──▶ So the operative question is never "may this agency be abolished."  It is:
+│       HOW MUCH OF THIS AGENCY DID CONGRESS ACTUALLY WRITE DOWN?
+│
+■ STAGE A · READ THE ORGANIC STATUTE                 (the step that cannot be skipped)
+│
+│   ◆ Count the officers the statute creates.  Anything it does not create was made
+│     by someone inside the department, and can be unmade the same way.
+│
+│   WORKED EXAMPLE — THE CENSUS BUREAU, 13 U.S.C. § 21
+│   ├─ officers the section creates .......... ONE — the Director, and no other
+│   ├─ appointment .......................... the President, with Senate consent,
+│   │                                         "without regard to political affiliation"
+│   ├─ qualification ........................ "a demonstrated ability in managing
+│   │                                         large organizations"
+│   ├─ term ................................. five years; no more than two full terms
+│   ├─ holdover ............................. allowed, but no more than one year
+│   ├─ ☐ removal ............................ the President must give Congress written
+│   │                                         reasons NOT LATER THAN 60 DAYS BEFORE
+│   └─ the Director's duties ................ those "imposed by law, regulations, or
+│                                             orders of the Secretary"
+│
+│   ◎ THE HINGE IS THE LAST LINE.  A statute that defines an office's work by
+│     reference to the Secretary's orders has handed that office's content to the
+│     Secretary.  Hold Stage A beside Stage C: the one protected seat in the statute
+│     is the only seat the statute makes, and its own duties are assignable.
+│
+■ STAGE B · THE INSTRUMENT                                 (what does the reorganizing)
+│
+│   ◆ 5 U.S.C. § 301, the housekeeping statute — the head of an executive department
+│     "may prescribe regulations for the government of his department," including
+│     "the distribution and performance of its business."  No notice, no comment
+│     period, no Federal Register publication, no outside review.
+│   ◆ 5 U.S.C. § 302(b) — the head may DELEGATE final action on matters of "the
+│     employment, direction, and general administration of personnel" downward.
+│   ◆ The vehicle: a department organization order, an administrative order, a
+│     delegation of authority, or a secretarial memorandum.  It is numbered rather
+│     than published, and it is the entire paperwork of a reorganization.
+│
+│   ──▶ WHAT ONE SUCH ORDER CAN DO
+│       ├─ create an office, directorate, division or post
+│       ├─ abolish one — the 2023 Census order abolished a division in one sentence
+│       │                and cited no statute at all for the power to do it
+│       ├─ merge, split or rename one
+│       ├─ move a reporting line
+│       └─ shift a function from one component to another
+│
+│   TWO DEPARTMENTS WHERE CONGRESS WROTE THE RULE DOWN INSTEAD
+│   ├─ ☐ Homeland Security · 6 U.S.C. § 452 — the Secretary may reallocate functions
+│   │     and establish, consolidate, alter or discontinue units, but only after
+│   │     60 DAYS' NOTICE to the committees with the reasons for it;  ⊘ and never to
+│   │     abolish an agency, unit, program or function that a statute requires.
+│   └─ Energy · 42 U.S.C. § 7253(a) — the Secretary may "establish, alter,
+│         consolidate or discontinue such organizational units," with the nuclear
+│         security administration carved out of the authority by a later statute.
+│
+│   ◈ These two are the exception that proves the rule.  Where Congress wanted
+│     advance notice of an internal reorganization, it legislated for it, department
+│     by department.  No general statute supplies one, so outside those grants and
+│     outside the money gate at Stage F the notice owed to Congress is none.
+│
+■ STAGE C · THE POSTS                              (creating and ending jobs nobody voted on)
+│
+│   ──▶ A non-statutory post is created, split, renamed or abolished by the same kind
+│       of order, and the only public trace is whatever the agency chooses to announce.
+│
+│   ★ WORKED EXAMPLE — THE TOP OF THE CENSUS BUREAU, 2025-26
+│   ├─ Feb 2025 ..... the confirmed Director departs.  The career deputy director and
+│   │                 chief operating officer becomes acting director
+│   ├─ 19 Sep 2025 .. A MEMO designates a chief of staff from the office of the
+│   │                 department's under secretary for economic affairs as performing
+│   │                 the duties of Director; the career deputy returns to number two
+│   ├─ 12 Jun 2026 .. A PRESS RELEASE announces two deputy directors — one for data,
+│   │                 policy and science, one for administration and operations.  The
+│   │                 first is described elsewhere as a newly created political post
+│   ├─ late Jul 2026  the charter of the bureau's internal data-stewardship policy
+│   │                 committee is rewritten to seat that new deputy as a co-chair
+│   └─ 7 May 2026 ... ◈ the bureau's own leadership page, as revised that day, lists
+│                     the acting head and NO DEPUTY DIRECTOR OF ANY KIND
+│
+│   ⚑ WHETHER THE CAREER NUMBER-TWO POST STILL EXISTS CANNOT BE SETTLED FROM ANY
+│     PUBLIC DOCUMENT, AND IS NOT ASSERTED HERE.  [unconfirmed]  The department's
+│     organization order for the bureau is still the one signed 22 June 2023, which
+│     describes a single deputy director and none of the 2026 announcements.
+│
+│   ◆ THE TITLE THAT STARTS NO CLOCK
+│     The acting head's title is "performing the NON-EXCLUSIVE functions and duties"
+│     of the Director.  The Vacancies Act's 210-day limit and its provision voiding
+│     the acts of an improperly serving official attach to a "function or duty" that
+│     statute or regulation requires to be performed by "the applicable officer (and
+│     only that officer)."  Everything else is delegable under ordinary law.
+│     ◎ So the thinner the organic statute, the less there is that can be exclusive,
+│       and the less of the office the Act reaches — and § 21 makes the Director's
+│       duties the Secretary's to assign.  ◈ On the reading set out below, a
+│       delegation of all that is delegable is not an acting appointment, and no
+│       clock in the Act begins to run.  [No court has tested this designation.]
+│
+■ STAGE D · THE REPORTING LINE AND THE CHARTER          (control without moving anyone)
+│
+│   ◆ REALIGNMENT — a component keeps its name, its staff and its budget line, and
+│     reports to a different official.  Nothing is created or abolished.  What moves
+│     is who signs off, and there is no document a reader can check for it.
+│   ◆ CHARTER REWRITE — an internal board or policy committee is not a federal
+│     advisory committee and owes the public nothing: no charter filed with anyone,
+│     no notice, no balance requirement, no minutes, no renewal clock.  Its chair and
+│     its membership are set by whoever signs the charter, and reset the same way.
+│   ◇ is the body created by statute? ─no──▶ ⊘ its composition is an internal paper
+│                                    └yes─▶ composition is fixed — but who staffs
+│                                           it, and who chairs it, may not be
+│
+■ STAGE E · THE PEOPLE                           (the two authorities that move humans)
+│
+│   ◆ DETAIL · 5 U.S.C. § 3341 — the department head may detail employees "among the
+│     bureaus and offices" of the department by WRITTEN ORDER, for up to 120 days,
+│     ◈ renewable in further 120-day periods with NO LIMIT ON THE NUMBER OF RENEWALS.
+│     The only place the section mentions reorganization is the defence exception,
+│     and there reorganization REMOVES the time limit rather than imposing one.
+│   ◆ REASSIGNMENT · 5 U.S.C. § 3395 — a career senior executive may be moved to any
+│     senior executive position in the same agency for which they are qualified:
+│     ├─ within the commuting area ..... 15 days' written notice
+│     ├─ outside the commuting area .... consultation about the reasons and the
+│     │                                  appointee's preferences, then 60 days'
+│     │                                  written notice with reasons; waivable in
+│     │                                  writing by the appointee
+│     └─ ✕ NOT INVOLUNTARILY within 120 days of the appointment of a new agency head,
+│           or of a new noncareer immediate supervisor who writes the appraisal; and
+│           up to 60 days spent on a detail do not count toward that 120, so parking
+│           the executive elsewhere does not run the protection down.
+│
+│   ◈ That 120-day bar is the only hard timing limit anywhere on this map.  It
+│     protects the senior executive rather than the structure, and it lapses by
+│     itself four months after the new head arrives.
+│
+■ STAGE F · WHERE CONGRESS SEES IT                        (one gate, and it is about money)
+│
+│   ◇ DOES THE REORGANIZATION MOVE MONEY BETWEEN PROGRAMS?
+│   │
+│   ├─no──▶ ⊘ NOBODY OUTSIDE THE DEPARTMENT HAS TO BE TOLD ANYTHING AT ALL.
+│   │          An order that renames an office, splits a post and moves a reporting
+│   │          line inside a single appropriation triggers no notice anywhere.
+│   │
+│   └─yes─▶ ☐ THE REPROGRAMMING PROVISION.  In the Commerce, Justice, Science act
+│              that funds the Census Bureau, section 505 bars obligating or spending
+│              funds through a reprogramming that
+│              ├─ (1) creates or initiates a new program, project or activity
+│              ├─ (2) eliminates a program, project or activity
+│              ├─ (3) increases funds or personnel for anything denied or restricted
+│              ├─ (4) RELOCATES AN OFFICE OR EMPLOYEES
+│              ├─ (5) REORGANIZES OR RENAMES OFFICES, PROGRAMS OR ACTIVITIES
+│              └─ (6) contracts out or privatizes work done by federal employees
+│              ──▶ items (2) onward require written notice to both Appropriations
+│                  Committees 15 days in advance; after 1 August the period is 30
+│                  days and the reprogramming must be an extraordinary circumstance.
+│                  Item (1) is a flat bar, not a notice requirement.
+│              [the numbered list is read from the FY2026 act itself; the day counts
+│               and the augmentation threshold of $500,000 or 10 per cent, whichever
+│               is less, are quoted from an earlier year of the same recurring
+│               provision and are unconfirmed for FY2026]
+│
+│   ◎ THE GATE IS HUNG ON THE WRONG HINGE.  Clause (5) names reorganization in terms —
+│     and it is a condition on a REPROGRAMMING OF FUNDS.  What is regulated is the
+│     movement of money; the reorganization is only the reason for it.  So the
+│     reorganizations that cost nothing are the ones nobody has to be told about.
+│
+■ STAGE G · WHAT CAN STOP IT                        (three candidates, two of them weak)
+│
+│   ◆ THE RIDER — the one instrument with a record of working.  Beginning in 2007,
+│     appropriations acts barred the use of funds for reorganizations carried out
+│     under the Homeland Security Act's own reorganization section, year after year,
+│     until the FY2017 act left the bar out.  A rider can also require the
+│     Appropriations Committees' prior approval before an account is reorganized, and
+│     consultation before "any significant reorganization or restructuring of
+│     offices."  It expires with the fiscal year and has to be won again every year.
+│   ◆ THE COURT — tested in 2025-26, and tested narrowly.  ★ An executive order of
+│     February 2025 directed agencies to prepare large-scale reductions in force,
+│     and budget- and personnel-office guidance then required every agency to submit
+│     a two-phase reduction-and-reorganization plan for approval.  The Supreme Court
+│     stayed the injunction against the order and the guidance, finding the
+│     government likely to succeed on their lawfulness, and EXPRESSLY LEFT OPEN the
+│     legality of the individual agency plans.  Eleven months later the appellate
+│     fight was still over whether a court may read those plans at all.
+│   ✕ THE PUBLISHED ORDER — not a check, though it looks like one.  The department's
+│     organization order for the bureau is dated 22 June 2023.  Its order for the
+│     department's own mission and organization is dated 2012.  Of the forty-eight
+│     organization orders listed, several were signed in the 1980s or 1990s.
+│     ⚑ Nothing sets a deadline for reissuing one, so the published structure of a
+│     federal agency is a record of some earlier arrangement, of unknown vintage.
+│
+┌─ THE INSTRUMENTS, AND WHO HAS TO BE TOLD ───────────────────────────────────────────────┐
+│
+│  INSTRUMENT                      SIGNED BY            NOTICE OWED    WHO IS TOLD
+│  ------------------------------  -------------------  -------------  -------------
+│  an organization order           a dept. official     none           anyone, if reissued
+│  a delegation of authority       the dept. head       none           on request
+│  a post created or abolished     a dept. official     none           whoever is announced
+│  an internal charter rewrite     the body's overseer  none           nobody
+│  a detail or a reassignment      the dept. head       15 to 60 days  the employee
+│
+│  the same, at Homeland Security  the Secretary        60 days        the committees
+│  the same, if it moves money     the dept. head       15 days        the committees
+│
+└─────────────────────────────────────────────────────────────────────────────────────────┘
+│
+╔═════════════════════════════════════════════════════════════════════════════════════════╗
+║  THE PATTERN                                                                            ║
+║                                                                                         ║
+║  Every protection on this map is attached to a PERSON.  The officer who may not be      ║
+║  removed without sixty days' written reasons to Congress.  The senior executive who     ║
+║  may not be reassigned for one hundred and twenty days after a new head arrives.  The   ║
+║  employee owed fifteen days before a move across town, sixty before a move out of it.   ║
+║                                                                                         ║
+║  Not one of them is attached to the STRUCTURE.  No office has to be announced before    ║
+║  it ends.  No document has to be reissued when it changes.  No number of days is owed   ║
+║  to anyone at all before a post is renamed, split, merged, or left in place and         ║
+║  emptied of the authority that made it worth holding.                                   ║
+║                                                                                         ║
+║  Which is why the sixty-day removal clause on the Census Bureau's one statutory seat    ║
+║  is not the protection it reads as.  It guards the chair.  Everything the chair         ║
+║  presides over is a paragraph in an unpublished order, and an order can be rewritten    ║
+║  in an afternoon by someone whose name the reader will never learn.                     ║
+╚═════════════════════════════════════════════════════════════════════════════════════════╝
