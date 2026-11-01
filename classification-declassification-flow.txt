@@ -1,0 +1,287 @@
+HOW INFORMATION IS CLASSIFIED AND DECLASSIFIED            (as of 18 October 2026)
+│   Legend:  ──▶ main path   └─▶ branch   ◇ decision point   ⏱ clock
+│            ⚖ outside review   ⬛ inside the agency only   ✕ no review exists
+│            ★ changed or acted on in 2025-26   [cite] controlling authority
+│
+■ 0. THE PREMISE — the AUTHORITY is constitutional; the ORDER only describes it
+│     E.O. 13526 (29 Dec 2009) is the operating manual. It is not the grant.
+│     Dept. of the Navy v. Egan, 484 U.S. 518 (1988): the President's authority
+│     over access to national security information "flows primarily from this
+│     constitutional investment of power in the President," Art. II, Sec. 2.
+│     ─▶ CONSEQUENCE: every clock and form below binds AGENCIES. Whether any of
+│        them binds the PRESIDENT is contested and unresolved.  [see Notes]
+│     ★ No successor order has issued in the second Trump administration. The
+│        framework in force in October 2026 is still the 2009 order.
+│
+├─◆ PART 1 — THE ENTRANCE: ORIGINAL CLASSIFICATION                  [Part 1]
+│   │   Four gates. All four are documented, by design.
+│   │
+│   ├─ GATE 1 · WHO                                                 [1.3]
+│   │     ├─ the President and the Vice President ................ inherent
+│   │     ├─ agency heads and officials designated by the President
+│   │     └─ officials delegated the authority IN WRITING
+│   │           TOP SECRET delegable only by Pres., VP, agency head or designee
+│   │     ⏱ delegations reviewed; authority lapses if unused  [1.3(c)-(d)]
+│   │     FY2023 count: 696 TOP SECRET + 979 SECRET + 3 CONFIDENTIAL original
+│   │        classification authorities, across 17 agencies.      [ISOO FY2023]
+│   │
+│   ├─ GATE 2 · THE TEST                                            [1.1]
+│   │     (1) an OCA classifies it, AND
+│   │     (2) the U.S. government owns, produced or controls it, AND
+│   │     (3) it falls in one of the eight categories at 1.4, AND
+│   │     (4) unauthorized disclosure "reasonably could be expected to result
+│   │          in damage to the national security," and the OCA is able to
+│   │          identify or describe that damage.
+│   │     ◇ IF DOUBT about the level ─▶ classify at the lower level  [1.2(b)]
+│   │
+│   ├─ GATE 3 · ◇ WHICH OF THE EIGHT CATEGORIES                      [1.4]
+│   │     ├─ (a) military plans, weapons systems or operations
+│   │     ├─ (b) foreign government information
+│   │     ├─ (c) intelligence activities, sources, methods, cryptology
+│   │     ├─ (d) foreign relations or activities, incl. confidential sources
+│   │     ├─ (e) scientific, technological or economic matters tied to nat. sec.
+│   │     ├─ (f) safeguarding nuclear materials or facilities
+│   │     ├─ (g) vulnerabilities or capabilities of nat.-sec. systems,
+│   │     │        installations, infrastructure, projects, plans, protection
+│   │     └─ (h) weapons of mass destruction
+│   │     ─▶ no category, no classification. The list is exhaustive.
+│   │
+│   ├─ GATE 4 · LEVEL, DURATION, MARKING
+│   │     LEVELS — three, and only three                            [1.2]
+│   │       TOP SECRET ..... "exceptionally grave damage"
+│   │       SECRET ......... "serious damage"
+│   │       CONFIDENTIAL ... "damage"
+│   │     NOT LEVELS — compartments are ACCESS determinations layered on top
+│   │       SCI  Sensitive Compartmented Information .. intelligence sources
+│   │       SAP  Special Access Program ............... need-to-know, enhanced
+│   │       ─▶ a document is TS//SCI, never "SCI level." The distinction matters
+│   │          because an access determination is made by a different official,
+│   │          under a different standard, than a classification decision.
+│   │     DURATION                                                   [1.5]
+│   │       ⏱ a date or event, no more than 10 years out, OR
+│   │       ⏱ up to 25 years where the OCA justifies it
+│   │       ⏱ no date set ─▶ 10 years by default
+│   │       ✕ indefinite classification is not authorized
+│   │     MARKING — level, agency, office of origin, date, declass. instruction,
+│   │       and portion marks  [1.6] ─▶ the marking IS the audit trail
+│   │
+│   └─ THE PROHIBITIONS — what classification may never be used for  [1.7]
+│         ✕ to conceal violations of law, inefficiency or administrative error
+│         ✕ to prevent embarrassment to a person, organization or agency
+│         ✕ to restrain competition
+│         ✕ to withhold information not requiring protection
+│         ✕ basic scientific research unrelated to national security
+│         RECLASSIFICATION after authorized public release: permitted only on
+│            the personal authority of the agency head, in writing, with notice
+│            to the Director of ISOO.                             [1.7(c)-(d)]
+│         ─▶ ENFORCEMENT: self-inspection, ISOO review, and sanctions at 5.5.
+│            There is no private right of action. An authorized holder who
+│            thinks 1.7 was violated uses the challenge track below.
+│
+├─◆ PART 2 — THE MULTIPLIER: DERIVATIVE CLASSIFICATION              [Part 2]
+│   │   This is where essentially all classification actually happens.
+│   │
+│   ├─ WHO: anyone who reproduces, extracts, summarizes or restates classified
+│   │     information, or applies markings from a classification guide.
+│   │     ─▶ NO original classification authority is required.        [2.1]
+│   ├─ DUTIES: identify yourself on the document · observe and respect the
+│   │     original decision · carry forward markings and declassification
+│   │     instructions · ⏱ training at least every 2 years          [2.1(b)-(d)]
+│   ├─ CLASSIFICATION GUIDES: agency-written instructions that pre-decide the
+│   │     level for whole subject areas; thousands government-wide, some running
+│   │     hundreds of pages.                                          [2.2]
+│   │     ─▶ THE LEVERAGE POINT: changing one guide reclassifies or declassifies
+│   │        a whole category of future documents without any single decision
+│   │        that looks like a classification decision.
+│   └─ SCALE: ~99.88% of classification decisions in 2017 were DERIVATIVE, not
+│         original.                                      [Brennan Center, 2022]
+│         ─▶ so the four documented gates in Part 1 govern roughly one decision
+│            in a thousand. The rest run on guides written earlier.
+│
+├─◆ PART 3 — THE FOUR EXITS                                         [Part 3]
+│   │   Authority to declassify: the originating OCA, that official's
+│   │   successor or supervisor, or an official with delegated declassification
+│   │   authority. "Public interest" declassification is reserved to agency
+│   │   heads and senior agency officials.                            [3.1]
+│   │
+│   ├─ EXIT 1 — AUTOMATIC DECLASSIFICATION AT 25 YEARS   ⏱ ⚖         [3.3]
+│   │   │   The only exit that runs without anyone asking.
+│   │   │   Permanent historical value + 25 years old ──▶ declassified on
+│   │   │   31 December of the 25th year, whether or not it was reviewed.
+│   │   │
+│   │   ├─ ◇ DOES AN EXEMPTION APPLY?  nine categories, 3.3(b)(1)-(9):
+│   │   │     (1) human intelligence source · (2) cryptologic systems
+│   │   │     (3) WMD design concepts · (4) foreign-relations damage
+│   │   │     (5) nat.-sec. emergency plans / vulnerabilities
+│   │   │     (6) foreign-government confidences · (7) war plans in effect
+│   │   │     (8) U.S. relations violating a statute/treaty · (9) protective
+│   │   │         services for the President and successors
+│   │   │     ⚖ exemptions require PANEL approval; declass. guides reviewed
+│   │   ├─ ⏱ 50 YEARS — only (1) human sources and (2) key cryptologic
+│   │   │     systems, absent Panel approval of a narrow further exemption
+│   │   ├─ ⏱ 75 YEARS — requires ISCAP approval, case by case
+│   │   ├─ REFERRALS: records containing another agency's equity are referred;
+│   │   │     ★ ISOO Notice 2026-04 (Aug 2026) reissued the list of agencies
+│   │   │       eligible to RECEIVE referrals at 25, 50 and 75 years
+│   │   └─ RUN BY: the NATIONAL DECLASSIFICATION CENTER at the National
+│   │         Archives, which coordinates the multi-agency review  [3.7]
+│   │         FY2023 staffing: 442.7 FTE on automatic declassification
+│   │         government-wide.                                  [ISOO FY2023]
+│   │
+│   ├─ EXIT 2 — SYSTEMATIC DECLASSIFICATION REVIEW   ⏱ ⬛             [3.4]
+│   │     The cleanup crew for EXIT 1. Agencies must establish a program to
+│   │     review the permanent records they EXEMPTED from automatic
+│   │     declassification. The Archivist runs it for records accessioned
+│   │     into the National Archives.
+│   │     ─▶ no requester, no deadline per document, no appeal. This exit is
+│   │        the one with the least external visibility of the four.
+│   │     FY2023 staffing: 88.7 FTE government-wide.          [ISOO FY2023]
+│   │
+│   ├─ EXIT 3 — MANDATORY DECLASSIFICATION REVIEW (MDR)   ⏱ ⚖        [3.5]
+│   │   │   THE PUBLIC'S EXIT. Anyone may file; no standing, no fee regime
+│   │   │   like FOIA's, and the request is for a REVIEW, not for records.
+│   │   │
+│   │   ├─ 1. FILE — must describe the document specifically enough to be
+│   │   │       located with a reasonable effort
+│   │   │     ✕ barred if: in litigation · in an exempted operational file ·
+│   │   │        reviewed within the past 2 years
+│   │   ├─ 2. ⏱ AGENCY DECISION — 1 year to decide          [3.5(a), 3.6]
+│   │   ├─ 3. ◇ DENIED? ──▶ ⏱ 60 days to appeal within the agency
+│   │   ├─ 4. ⏱ AGENCY APPEAL — 60 working days to decide, or the requester
+│   │   │       may go straight to the Panel
+│   │   └─ 5. ──▶ ⚖ ISCAP  [5.3] — the only route by which a member of the
+│   │           public reaches a decisionmaker outside the agency that said no
+│   │     FY2023 dispositions: 74,094 pages declassified in full · 66,911 in
+│   │        part · 16,588 denied.                              [ISOO FY2023]
+│   │
+│   └─ EXIT 4 — DISCRETIONARY / PRESIDENTIAL RELEASE   ✕              [3.1]
+│       │   ★ THE 2026 EXIT. No clock. No form. No reviewing body.
+│       │
+│       ├─ WHO: the President, or an official to whom he says the authority
+│       │     is delegated. ★ 1 Jul 2026, on the record at Joint Base
+│       │     Andrews, re: then-acting DNI Bill Pulte: "I said you can
+│       │     declassify whatever you want."              [Nextgov, 1 Jul 2026]
+│       ├─ ORIGINATING-AGENCY CONSULTATION: standard practice, and the whole
+│       │     mechanism by which an equity-holder's objection is heard.
+│       │     ─▶ NOT a legal prerequisite for the President.
+│       ├─ ◇ MUST IT BE WRITTEN DOWN?  ─── CONTESTED, UNRESOLVED ───
+│       │     NO  — Just Security: no written record is legally required; the
+│       │            order imposes no declassification procedure that binds the
+│       │            President, and documentation is best practice. Informal
+│       │            precedents cited: the bin Laden announcement; posts.
+│       │     YES — Brennan Center, and the 2d Cir. in NYT v. CIA:
+│       │            "declassification, even by the President, must follow
+│       │            established procedures"; and the decision must at minimum
+│       │            be COMMUNICATED — no declassifying by thinking about it.
+│       │     ─▶ WHAT TURNS ON IT: whether a document is still classified
+│       │        determines the marking, the handling, the clearance needed to
+│       │        read it, and whether anyone was ever told it changed. It does
+│       │        NOT determine criminal exposure for retention or transmission:
+│       │        several statutes reach national-defense information whether or
+│       │        not it carries a classification marking.
+│       └─ ★ IN USE, JULY 2026: a primetime address released raw intelligence
+│             reports, a 25 Jun 2020 President's Daily Brief item, a Dec 2021
+│             internal email, technical assessments, a Jun 2026 CIA summary and
+│             a Jul 2020 CIA WIRe assessment — heavily redacted. A White House
+│             review, reported as led by John Solomon, assembled the material.
+│             ✕ The selection criteria are not public and no body reviews them.
+│
+├─◆ THE PARALLEL TRACK THAT IS NOT AN EXIT — FOIA EXEMPTION 1
+│     5 U.S.C. 552(b)(1) withholds matters "specifically authorized under
+│     criteria established by an Executive order to be kept secret in the
+│     interest of national defense or foreign policy" AND properly classified.
+│     ─▶ FOIA runs ALONGSIDE the exits above, on its own clock and in Article
+│        III court. But Exemption 1 is parasitic on classification: a FOIA
+│        court asks whether the document is properly classified, not whether it
+│        should be. Winning a FOIA case does not declassify anything.
+│     ─▶ So the public has two doors: MDR, which attacks the classification
+│        and ends at ISCAP; and FOIA, which attacks the withholding and ends
+│        in court. Neither reaches EXIT 4.
+│
+├─◆ THE APPEAL SPINE — and where it terminates
+│   │
+│   ├─ CLASSIFICATION CHALLENGE  [1.8] — an AUTHORIZED HOLDER (not the public)
+│   │     who believes information is improperly classified is "encouraged and
+│   │     expected" to challenge it.
+│   │     ├─ protection from retribution is required by the order
+│   │     ├─ ⏱ agency must respond substantively within 120 days
+│   │     └─ ──▶ ⚖ ISCAP
+│   │     FY2023: one challenge administratively closed; NONE adjudicated.
+│   │                                                        [ISOO FY2023]
+│   ├─ ⚖ INTERAGENCY SECURITY CLASSIFICATION APPEALS PANEL (ISCAP)   [5.3]
+│   │     MEMBERS — senior representatives of: State · Defense · Justice ·
+│   │        the National Archives · ODNI · the National Security Advisor.
+│   │        The CIA Director may appoint a temporary representative where an
+│   │        appeal concerns CIA information.
+│   │     CHAIR — designated by the President from among the members
+│   │        [unconfirmed: not publicly named as of October 2026]
+│   │     EXECUTIVE SECRETARY — the Director of ISOO, ex officio
+│   │     JURISDICTION — three things, and only three:
+│   │        1.8 classification challenges · 3.5 MDR appeals ·
+│   │        3.3 agency requests to exempt from automatic declassification
+│   │     ★ BACKLOG: more than 1,200 pending appeals. More than half the docket
+│   │        comes from agencies that MISSED their own response deadlines.
+│   │                                                [ISOO, 18 Aug 2026]
+│   │     ★ REFORM: ISOO Notice 2026-05, signed by Director Michael D. Thomas
+│   │        17 Aug 2026 — precedent-setting case selection, batched decisions,
+│   │        votes on REMANDING missed-deadline cases back to agencies, and a
+│   │        requirement that agencies fold ISCAP precedent into their own
+│   │        classification guides, verified by ISOO compliance inspections.
+│   │        ─▶ note what the reform targets: the agencies' clocks, not the
+│   │           Panel's own. The 1,200 cases are the symptom.
+│   │     ★ IN USE: 11 Sep 2026, ISCAP released 9/11 Commission records on
+│   │        appeals 2022-008 and 2023-001 — a ~7,000-word summary of
+│   │        presidential intelligence briefings plus eleven Memoranda for the
+│   │        Record. Residual withholdings under 3.3(b)(1),(4),(5),(7),(8).
+│   └───▶ ◇ APPEAL FROM ISCAP?
+│         ──▶ THE PRESIDENT. And no further.
+│         ─▶ An ISCAP declassification ruling binds the whole executive branch
+│            and is appealable to no court and no other body.
+│
+├─◆ THE OVERSIGHT LAYER — who watches the machine
+│   ├─ INFORMATION SECURITY OVERSIGHT OFFICE (ISOO)                  [5.2]
+│   │     Within the National Archives. Director appointed by the ARCHIVIST
+│   │     with the approval of the PRESIDENT — so the overseer's appointment
+│   │     runs through the President, like the authority being overseen.
+│   │     Director: Michael D. Thomas.  Functions: implementing directives,
+│   │     on-site compliance reviews, complaints, and an ANNUAL REPORT TO THE
+│   │     PRESIDENT.   ─▶ the report goes to the official being described.
+│   ├─ NATIONAL DECLASSIFICATION CENTER (NDC)                        [3.7]
+│   │     Within the National Archives. Runs EXIT 1 and coordinates referrals.
+│   ├─ ARCHIVIST OF THE UNITED STATES
+│   │     ★ Bradford P. Wilson, in office since 21 Aug 2026 — after a seat
+│   │        that was fired-into-vacancy, held by two acting officials and
+│   │        empty outright from 5 Feb to 2 Apr 2026.
+│   ├─ PUBLIC INTEREST DECLASSIFICATION BOARD — advisory; recommends, cannot
+│   │     declassify, and has no role in any of the four exits
+│   ├─ CUI — the parallel control system for information that is NOT
+│   │     classified. ★ ISOO Notices 2026-07 and 2026-08 (Sep 2026) revised
+│   │     the executive-agent guidance and the waiver requirements.
+│   │     ─▶ matters here because information can be withheld under CUI
+│   │        without ever entering the classification system, and therefore
+│   │        without ever being eligible for any of the four exits.
+│   └─ SANCTIONS  [5.5] — reprimand to removal, and loss of access, for
+│         knowing classification abuse. Agency-administered. ⬛
+│
+└─◆ THE ASYMMETRY — read down the three columns
+   ══════════════════════════════════════════════════════════════════════════
+     NODE                            FORM   CLOCK   OUTSIDE REVIEW
+   ══════════════════════════════════════════════════════════════════════════
+     ENTRANCE
+     original classification  [1.3]   yes     yes     ISOO inspection      ⬛
+     derivative classification[2.1]   yes      -      ISOO inspection      ⬛
+     reclassification      [1.7(c)]   yes     yes     notice to ISOO       ⬛
+   ──────────────────────────────────────────────────────────────────────────
+     EXITS
+     EXIT 1  automatic at 25y  [3.3]  yes     yes     ISCAP on exemptions  ⚖
+     EXIT 2  systematic review [3.4]  yes      -      none                 ⬛
+     EXIT 3  MDR               [3.5]  yes     yes     ISCAP                ⚖
+     EXIT 4  discretionary     [3.1]   -       -      none                 ✕
+   ──────────────────────────────────────────────────────────────────────────
+     CHALLENGE / APPEAL
+     challenge                 [1.8]  yes    120 d    ISCAP                ⚖
+     ISCAP ruling              [5.3]  yes      -      the President only
+   ══════════════════════════════════════════════════════════════════════════
+     Three of the four exits have a form, a clock and a body. The fourth has
+     none of the three, and in July 2026 it was the exit in use. The appeal
+     spine for the other three terminates in the same office that operates it.
