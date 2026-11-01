@@ -1,0 +1,223 @@
+CONGRESSIONAL SUBPOENA ENFORCEMENT FLOW                           (as of 16 October 2026)
+│   Legend:  ──▶ main path   └─▶ branch/bypass   ◇ decision   ✕ route dead-ends
+│            ★ compliance obtained   ⚑ load-bearing stage
+│            ◈ exists in practice, in no statute   ⊘ foreclosed by statutory text
+│            [ ] dated note or caveat
+│
+│   SCALE — congressional subpoena enforcement, 20 Jan 2025 to 16 Oct 2026:
+│     · contempt resolutions reported out of committee ............... 3  (4 targets)
+│     · of those, resolutions passed by the full chamber ............. 1
+│     · targets who were executive branch officials .................. 0
+│     · civil enforcement suits filed by a chamber or committee ...... 0
+│     · inherent contempt proceedings initiated ...................... 0
+│     · prosecutions brought on a referral made in this period ....... 0
+│     [ No official tally exists. Assembled from the committee records and reporting
+│       in Notes; a FLOOR, not a census. Lines 3 and 6 are the finding. ]
+│
+■ 0. THE SUBPOENA HAS TO BE VALID, AND IT HAS TO BE DEFIED                    ⚑
+│     Three requirements, all from McGrain and its line: the committee must hold
+│     delegated authority to issue, the inquiry must serve a legitimate
+│     LEGISLATIVE PURPOSE, and the question must be PERTINENT to it.
+│     ◇ does the recipient sue first, to quash?
+│     ├─ YES ──▶ runs into the Speech or Debate Clause, which the D.C. Circuit
+│     │     treats as a formidable JURISDICTIONAL bar to a pre-enforcement
+│     │     challenge to facially legislative acts. Alleging improper motive
+│     │     does not dissolve it. The court may never reach the merits.        ✕
+│     └─ NO ──▶ the recipient simply does not appear, or appears and refuses
+│           ◇ what is the ground of refusal?  ⚑  THIS FORK DECIDES EVERYTHING
+│           ├─ a PERSONAL privilege (Fifth Amendment, attorney-client, trade
+│           │     secret) ──▶ every route below is available
+│           └─ a GOVERNMENTAL privilege the President has authorised
+│                 ──▶ Routes B and C are both foreclosed. See the ⊘ marks.
+│
+├─◆ ROUTE A — ACCOMMODATION                                                   ◈
+│     The route with no statute, no deadline, no docket and no case law, which
+│     disposes of nearly every congressional subpoena ever issued. Narrowing,
+│     staging, in-camera review, a transcribed interview in place of a
+│     deposition, a privilege log instead of the documents.
+│     The D.C. Circuit in 2026 called accommodation "the preferred approach in
+│     interbranch disputes" — in the course of affirming a criminal conviction
+│     of someone who refused to attempt it.                                    ★
+│     [ Route A is the baseline. B, C and D are what a committee reaches for
+│       when A has failed, and all three are worse than A at getting documents. ]
+│
+├─◆ ROUTE B — CRIMINAL CONTEMPT              (2 U.S.C. §§ 192, 194)
+│  │  Punishment, not production. A conviction does not deliver one page.
+│  │
+│  ├─ B1. COMMITTEE REPORTS A CONTEMPT RESOLUTION
+│  │     A markup and a vote. This is the stage that generates the headline.
+│  │
+│  ├─ B2. THE FULL CHAMBER VOTES                                              ⚑
+│  │     § 194 is triggered when the failure "is reported to either House."
+│  │     A committee cannot refer on its own — Wilson v. United States (D.C.
+│  │     Cir. 1966), reaffirmed by a 1982 OLC opinion.
+│  │     ◇ does it get floor time?
+│  │     ├─ HOUSE — simple majority, needs the Speaker to schedule it
+│  │     ├─ SENATE — a resolution subject to the filibuster, so 60 votes
+│  │     └─ NO VOTE TAKEN ──▶ the referral dies here, with no decision by
+│  │           anyone and nothing to appeal. This is the ordinary ending.      ✕
+│  │     [ THREE OF THE FOUR 2026 CONTEMPT TARGETS ARE STILL SITTING HERE. ]
+│  │
+│  ├─ B3. THE PRESIDING OFFICER CERTIFIES                                     ⚑
+│  │     § 194: "it shall be the duty of the said President of the Senate or
+│  │     Speaker of the House, as the case may be, to certify" the facts to
+│  │     the appropriate United States attorney.
+│  │     └─▶ IN RECESS: where Congress is not in session, the statement of
+│  │           facts is filed with the presiding officer, who certifies alone
+│  │           — a one-person route around B2 that has never been tested.
+│  │     [ 2026: a committee chair HAND-DELIVERED a contempt resolution to the
+│  │       Attorney General and the U.S. Attorney with B2 and B3 both skipped.
+│  │       Whether DOJ may act on a referral the statute does not recognise is
+│  │       now a live question about whether § 194 constrains anyone at all. ]
+│  │
+│  ├─ B4. THE U.S. ATTORNEY DECIDES                                           ⚑
+│  │     § 194 says it is the U.S. attorney's "duty ... to bring the matter
+│  │     before the grand jury for its action." Courts split on whether that
+│  │     duty is mandatory (Ex parte Frankfeld) or discretionary (Wilson), and
+│  │     in practice prosecutorial discretion has governed.
+│  │     ◇ is the target an executive official asserting presidential privilege?
+│  │     ├─ YES ──▶ the executive branch's standing position is that criminal
+│  │     │     contempt may not be used against an official following the
+│  │     │     President's instruction, and the Attorney General has directed
+│  │     │     U.S. Attorneys not to proceed. The prosecutor who must act
+│  │     │     reports to the party refusing to comply.                     ⊘ ✕
+│  │     └─ NO ──▶ an ordinary charging decision, by an appointee of the same
+│  │           administration whose allies or opponents the committee is
+│  │           investigating.
+│  │           [ 2014 precedent, and the live analogy: a U.S. Attorney declined
+│  │             a contempt prosecution after concluding the witness had not
+│  │             waived the Fifth Amendment. A valid personal privilege ends
+│  │             Route B at B4 regardless of the floor vote. ]
+│  │
+│  └─ B5. INDICTMENT ──▶ TRIAL ──▶ CONVICTION ──▶ SENTENCE
+│        § 192 is a misdemeanour carrying a fine and "imprisonment in a common
+│        jail for not less than one month nor more than twelve months" — one of
+│        the few mandatory minimums in federal law, and attached to the weakest
+│        remedy on this page, because the sentence produces no documents.
+│        Defences that do NOT work: a blanket assertion of executive privilege;
+│        a sincere but mistaken belief that the President invoked it; a
+│        subjective belief that non-compliance was legally excused. Executive
+│        privilege belongs to the Presidency, and an adviser has none of his own.
+│        [ The modern authority for all three holdings was decided on 21 July
+│          2026 — in an appeal the United States WITHDREW FROM after the change
+│          of administrations, leaving the court to decide it with the defendant
+│          alone. The strongest precedent for enforcing a congressional subpoena
+│          was affirmed in a case the government stopped defending. ]
+│
+├─◆ ROUTE C — CIVIL ENFORCEMENT
+│  │  Production, not punishment. An order to comply, and contempt OF COURT
+│  │  (not of Congress) if the order is then defied — which hands the problem
+│  │  back to the map this one is paired with.
+│  │
+│  ├─ C1. THE SENATE HAS A STATUTE        (2 U.S.C. § 288d · 28 U.S.C. § 1365)
+│  │     The Senate Legal Counsel may sue, on a resolution of the Senate, in
+│  │     the District Court for the District of Columbia, which has original
+│  │     jurisdiction regardless of amount in controversy.
+│  │     ⊘ AND THE STATUTE EXCLUDES THE ONLY DEFENDANT CONGRESS NEEDS IT FOR.
+│  │       § 1365 does not reach a subpoena to an officer or employee of the
+│  │       federal government acting in an official capacity — EXCEPT where
+│  │       the refusal rests on a personal privilege. A governmental privilege
+│  │       the executive has authorised is carved out by text, not by anyone's
+│  │       discretion, and no court has to decide anything for it to apply.  ✕
+│  │     [ The exclusion is not an oversight. It was the price of enactment. ]
+│  │
+│  ├─ C2. THE HOUSE HAS NO STATUTE                                            ⚑
+│  │     No counterpart to § 1365 was ever enacted. The House authorises a
+│  │     committee suit by resolution and argues an implied cause of action.
+│  │     ◇ does a House committee HAVE a cause of action?  — STILL OPEN
+│  │     ├─ the 2008 Miers suit and the 2012 Fast and Furious suit both
+│  │     │     proceeded, because nobody contested the point
+│  │     ├─ a D.C. Circuit panel held in 2020 that there is NONE; the en banc
+│  │     │     court VACATED that opinion; the parties dismissed before
+│  │     │     rehearing — so the only appellate reasoning is no longer law
+│  │     └─ a private subpoena recipient put the question squarely in issue in
+│  │           September 2026 — and the committee's Speech or Debate defence
+│  │           may bar the suit before the court ever reaches it.
+│  │
+│  └─ C3. THE CLOCK                                                           ⚑
+│        The Miers litigation ran roughly nineteen months and ended in a
+│        negotiated accommodation with no merits decision on appeal. A Congress
+│        lasts twenty-four. A subpoena is the property of the Congress that
+│        issued it: the committee's authority expires, the chair may change,
+│        and the case becomes moot without anyone winning it.
+│        [ Delay is not a side effect of Route C. For the recipient it is the
+│          remedy. ]
+│
+└─◆ ROUTE D — INHERENT CONTEMPT                                     DORMANT
+      The one route that needs nothing from the executive branch and nothing
+      from a court. The chamber orders its own Sergeant at Arms to arrest the
+      contemnor and bring him to the bar of the house; the chamber tries the
+      matter itself; the chamber holds him.
+      · Anderson v. Dunn (1821) — the power exists, implied in the legislative
+        power, with punishment limited to the least adequate to the end.
+      · McGrain v. Daugherty (1927) — reaffirmed, against an actual arrest.
+      · Jurney v. MacCracken (1935) — may punish a COMPLETED contempt, where
+        the documents are already destroyed and compliance is impossible.
+      ◇ why is it not used?
+      ├─ the ceiling: detention may not outlast the current SESSION of Congress
+      ├─ the optics: a legislative officer arresting a private citizen, with no
+      │     grand jury, no judge and no jury, tried at the bar of the chamber
+      ├─ the arithmetic: it still needs the same floor vote that B2 needs, and
+      │     a chamber that will not schedule a contempt resolution will not
+      │     schedule an arrest
+      └─ the fine variant: a monetary penalty imposed by resolution rather than
+            detention has been argued for repeatedly and never adopted.
+      [ LAST USED 1935. Ninety-one years. Every proposal to revive it since has
+        died at the same place: it requires the chamber to spend floor time and
+        political capital on a procedure with no modern precedent. ]
+
+╔═══════════════════════════════════════════════════════════════════════════════════════╗
+║  A. WHAT EACH ROUTE ACTUALLY DELIVERS                                                 ║
+║                                                                                       ║
+║     ROUTE    DELIVERS            NEEDS DOJ?   NEEDS A COURT?   REACHES AN EXEC. ★     ║
+║              ───────────────     ──────────   ─────────────    OFFICIAL ASSERTING     ║
+║     A        the documents       no           no               PRIVILEGE?             ║
+║              (by agreement)                                    ── by agreement only   ║
+║     B        a misdemeanour      YES          yes              ⊘ no — OLC policy      ║
+║              conviction                                           + AG instruction    ║
+║     C        an order to         no           YES              ⊘ no — § 1365 text     ║
+║              comply                                               (House: unsettled)  ║
+║     D        detention until     no           no               untested since 1935    ║
+║              the session ends                                                         ║
+║                                                                                       ║
+║     The only route that reaches the target without the target's cooperation is the    ║
+║     only route the subpoenaing chamber does not control.                              ║
+╚═══════════════════════════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════════════════════════╗
+║  B. WHAT A PARDON DOES TO A SUBPOENA                                                  ║
+║                                                                                       ║
+║     A pardon is usually read as putting someone beyond Congress's reach. It does      ║
+║     the opposite to a witness. The Fifth Amendment protects against CRIMINAL          ║
+║     EXPOSURE; remove the exposure and the privilege to refuse goes with it. A         ║
+║     pardoned witness can be compelled to answer the very questions the pardon         ║
+║     covers, and refusal is then ordinary contempt.                                    ║
+║                                                                                       ║
+║     Two limits keep this from being automatic, and both are live in 2026:             ║
+║       · a federal pardon does not reach STATE exposure, and a live state              ║
+║         investigation preserves the privilege against federal questioning             ║
+║       · the scope of a pardon is itself contestable, and a witness asserting the      ║
+║         Fifth is not conceding that the pardon is valid                               ║
+║                                                                                       ║
+║     The practical consequence runs the other way too: a U.S. Attorney who thinks      ║
+║     the privilege was validly invoked will decline the referral at B4, which ends     ║
+║     the criminal route no matter how large the floor vote was.                        ║
+╚═══════════════════════════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════════════════════════╗
+║  C. WHO IS ACTUALLY GETTING SUBPOENAED — AND WHY THAT IS THE STORY                    ║
+║                                                                                       ║
+║     Every contempt target reported out of a congressional committee since January     ║
+║     2026 has been a PRIVATE PARTY or a FORMER official: no sitting executive branch   ║
+║     officer, and an amendment to add one was voted down in the same markup that       ║
+║     produced two of the referrals.                                                    ║
+║                                                                                       ║
+║     Read against the ⊘ marks above, that is not a coincidence and it is not           ║
+║     restraint. It is selection. Contempt is being used exactly where the machinery    ║
+║     works — against people with no governmental privilege, where the DOJ conflict     ║
+║     of interest does not arise and the § 1365 carve-out does not apply.               ║
+║                                                                                       ║
+║     The inference is uncomfortable and worth stating plainly: a rise in contempt      ║
+║     votes is NOT evidence that the oversight power is recovering. The instrument      ║
+║     is being pointed at the targets it can still hit.                                 ║
+╚═══════════════════════════════════════════════════════════════════════════════════════╝
