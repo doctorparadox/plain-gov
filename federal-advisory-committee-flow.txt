@@ -1,0 +1,293 @@
+THE FEDERAL ADVISORY COMMITTEE SYSTEM — ONE WAY IN, FIVE WAYS OUT (October 2026)
+│   Federal Advisory Committee Act of 1972 · 5 U.S.C. ch. 10 · 41 C.F.R. part 102-3
+│   ~1,000 chartered committees across ~50 agencies · 1,021 reported for FY2023
+│   ☐ a published notice is required    ⊘ foreclosed by statutory text
+│   ◎ the Act stops here    ✕ a requirement that does not bind    ⚑ no due date
+│   ★ used or decided in 2025–26    ◈ a count or reading made on this page
+│
+■ TIER 0 — THE COVERAGE TEST (two conditions; fail either and none of this applies)
+│
+│   ┌────────────────────────────────────┬────────────────────────────────────┐
+│   │  CONDITION 1 — MEMBERSHIP          │  CONDITION 2 — CONTROL             │
+│   │  At least one member who is NOT a  │  "Established or utilized" by the  │
+│   │  full-time or permanent part-time  │  President or an agency. § 1001(2) │
+│   │  federal officer or employee.      │  "Utilized" = the government       │
+│   │  § 1001(2)                         │  "exercises actual management or   │
+│   │                                    │  control over its operation."      │
+│   │  ⊘ A group of federal employees    │  § 102-3.25                        │
+│   │    only is excluded outright by    │  ◎ A group genuinely run by        │
+│   │    § 1001(2)(B)(i).                │    someone else is outside the Act │
+│   └────────────────────────────────────┴────────────────────────────────────┘
+│   ★ THE LIVE TEST: the Energy Department convened a Climate Working Group in
+│     April 2025 outside the chartering process. On 30 January 2026 the District
+│     of Massachusetts held it had been a federal advisory committee all along —
+│     established and used, with non-federal members — and that its violations of
+│     the Act were established as a matter of law. The court did not strike the
+│     group's report from the public record; it made it procedurally unusable as
+│     a basis for federal action. The Department continues to publish it.
+│   ◈ The holding matters structurally rather than politically: the way to fail
+│     the coverage test is to give up control, and an agency that wants a
+│     particular answer is the least likely party to do that.
+│
+├─◆ TIER 1 — THE THREE WAYS A COMMITTEE COMES INTO EXISTENCE
+│   │
+│   │  ┌──────────────────┬──────────────────────┬──────────────────────────┐
+│   │  │ STATUTORY        │ PRESIDENTIAL         │ DISCRETIONARY            │
+│   │  │ (non-discretion) │ (non-discretionary)  │                          │
+│   │  ├──────────────────┼──────────────────────┼──────────────────────────┤
+│   │  │ Congress         │ The President, by    │ The agency head, on its  │
+│   │  │ requires it by   │ directive, usually   │ own authority or under a │
+│   │  │ statute, usually │ an executive order   │ general congressional    │
+│   │  │ naming it        │                      │ authorization            │
+│   │  ├──────────────────┼──────────────────────┼──────────────────────────┤
+│   │  │ ENDS: only by    │ ENDS: when the       │ ENDS: when the agency    │
+│   │  │ legislation      │ directive is         │ head decides it has      │
+│   │  │ ⊘ An executive   │ rescinded            │ served its purpose ☐     │
+│   │  │   order cannot   │                      │ ◎ No vote, no comment    │
+│   │  │   terminate it   │                      │   period, no cause       │
+│   │  ├──────────────────┼──────────────────────┼──────────────────────────┤
+│   │  │ 58% of FY2023    │ 3% of FY2023         │ ◈ the balance, ~39%      │
+│   │  └──────────────────┴──────────────────────┴──────────────────────────┘
+│   │  ◈ The percentages are the published FY2023 shares; the discretionary
+│   │    share is the remainder and is where almost all 2025–26 activity landed.
+│   │
+│   │  ◇ WHICH BOX A COMMITTEE SITS IN IS A DRAFTING QUESTION, NOT A POLICY ONE.
+│   │    Authorizing language that does not name a specific committee, and
+│   │    committee-report language in the legislative history, both leave the
+│   │    body DISCRETIONARY — so Congress can ask for an advisory body and still
+│   │    leave the agency free to end it.
+│
+├─◆ TIER 2 — THE CHAIN OF OFFICIALS (nobody in this chain is Senate-confirmed
+│   │        for this purpose, and the top of it is a staff office)
+│   │
+│   │  GSA COMMITTEE MANAGEMENT SECRETARIAT — § 1006
+│   │    ├─ government-wide oversight of the whole FACA program
+│   │    ├─ must be CONSULTED before a discretionary committee is established,
+│   │    │    re-established, renewed, merged or terminated (§ 102-3.60)
+│   │    ├─ writes and maintains 41 C.F.R. part 102-3
+│   │    ├─ runs the public FACA database and the annual comprehensive review
+│   │    └─ ✕ CONSULTATION IS NOT APPROVAL. Nothing in the Act gives this office
+│   │         power to refuse an establishment or stop a termination.
+│   │           ◎ Functions moved here from the budget office in 1977 by
+│   │             Executive Order 12024. The referee is an administrative
+│   │             services agency, by executive order, not by design.
+│   │    │
+│   │    ▼
+│   │  AGENCY HEAD — § 1007(a)
+│   │    ├─ designates the Committee Management Officer and the Designated
+│   │    │    Federal Officers; may delegate both
+│   │    ├─ issues the agency's administrative guidelines
+│   │    └─ signs the written determination to close a meeting (§ 102-3.105(d))
+│   │    │
+│   │    ▼
+│   │  COMMITTEE MANAGEMENT OFFICER (CMO) — § 1007(b)
+│   │    ├─ one per agency · supervises establishment, procedures and reporting
+│   │    └─ custodian of the records: charters, membership lists, closed-meeting
+│   │         determinations (§ 102-3.115)
+│   │    │
+│   │    ▼
+│   │  DESIGNATED FEDERAL OFFICER (DFO) — § 1009(e)–(f), § 102-3.120
+│   │    ├─ CALLS every meeting · APPROVES every agenda · ADJOURNS the meeting
+│   │    ├─ must chair or attend · ⊘ NO MEETING MAY OCCUR WITHOUT THE DFO
+│   │    └─ ◎ THIS IS THE QUIETEST EXIT IN THE WHOLE STRUCTURE. A committee
+│   │         whose designated officer never calls a meeting has not been
+│   │         terminated, has not lost its charter and has not lost its members.
+│   │         It simply does not meet, and no notice of that is published
+│   │         anywhere. ⚑ The Act sets no minimum meeting frequency; the charter
+│   │         states an ESTIMATE of number and frequency (§ 1008(c)(2)(H)).
+│   │    │
+│   │    ▼
+│   │  THE COMMITTEE — advisory only. § 1002(b)(6): its role is advisory, and
+│   │    determinations of action remain with the federal officials.
+│
+├─◆ TIER 3 — THE CHARTERING GATE AND THE TWO-YEAR CLOCK
+│   │
+│   │  A committee may not meet or take any action until a charter is FILED.
+│   │  Filed with, in parallel (§ 1008(c), § 102-3.75):
+│   │    ├─ the agency head
+│   │    ├─ the standing committees of jurisdiction in BOTH chambers
+│   │    ├─ the GSA Committee Management Secretariat
+│   │    └─ the Library of Congress
+│   │
+│   │  The charter must state: the mission or charge · the specific duties ·
+│   │  the general operating characteristics · ⚑ an ESTIMATE of the number and
+│   │  frequency of meetings.
+│   │
+│   │  ADDITIONALLY, FOR A DISCRETIONARY COMMITTEE (§ 102-3.60), the agency
+│   │  must explain to the Secretariat:
+│   │    1. why the committee is needed
+│   │    2. why it is essential to agency business and in the public interest
+│   │    3. why the agency itself, an existing committee, or another method
+│   │       such as a public hearing cannot do the job instead
+│   │  plus file a MEMBERSHIP BALANCE PLAN, now uploaded to the FACA database.
+│   │
+│   │  ◇ THE TWO-YEAR CLOCK — § 1008(c)(1), § 1013(b)(2)
+│   │    Every charter expires two years after filing. Renewal is affirmative:
+│   │    somebody has to sign. ☐ Renewal and re-establishment require the same
+│   │    Secretariat consultation as establishment.
+│   │      ◎ EXIT 2. A committee can be ended by nobody signing. The charter
+│   │        lapses on its own terms, the committee becomes unable to conduct
+│   │        business, and no termination decision is ever made or announced.
+│   │    ★ A statutory committee whose termination requirement has been waived
+│   │      but which holds no approved charter is administratively inactive —
+│   │      it exists in law and cannot act.
+│
+├─◆ TIER 4 — THE RULES THAT APPLY ONCE THE CHARTER IS FILED
+│   │
+│   │  FAIR BALANCE — § 1004(b)(2)
+│   │    "fairly balanced in terms of the points of view represented and the
+│   │    functions to be performed"
+│   │    ├─ for non-discretionary committees, balance is written into the
+│   │    │    statute or directive that created the body
+│   │    ├─ for discretionary committees, a membership balance plan (§ 102-3.60)
+│   │    └─ ★ the § 102-3.60(b) considerations were converted from mandatory to
+│   │         advisory phrasing by the 16 December 2025 final rule
+│   │           ✕ The statutory "shall" is unchanged. The regulation that told
+│   │             agencies how to satisfy it now says "should."
+│   │
+│   │  OPEN MEETINGS AND NOTICE — § 1009, § 102-3.150
+│   │    ├─ ☐ notice in the Federal Register at least 15 CALENDAR DAYS ahead,
+│   │    │    carrying the committee name, time, date, place, agenda summary,
+│   │    │    open-or-closed status and the DFO's contact details
+│   │    ├─ shorter notice only on a PRESIDENTIAL determination of national
+│   │    │    security or exceptional circumstances, with the reasoning
+│   │    │    published before the meeting
+│   │    ├─ ★ the § 102-3.150(c) website and announcement practices were
+│   │    │    likewise softened in December 2025
+│   │    └─ ◇ CLOSING A MEETING runs on the Sunshine Act's ten exemptions
+│   │         (5 U.S.C. § 552b(c)) plus a written determination by the agency
+│   │         head. Any member may call for a closing vote; the vote is recorded
+│   │         and made public within one day.
+│   │           ◈ EXIT 5 IN PRACTICE. A closed meeting is still a meeting, and
+│   │             the committee is still chartered and still staffed — but the
+│   │             public channel the Act was written to create is shut. Open
+│   │             meetings at the Department of Health and Human Services
+│   │             averaged 255 a year in the decade before 2025 and numbered 91
+│   │             in 2025 [Nature, April 2026].
+│   │
+│   │  RECORDS AND MINUTES — § 1009(c), § 1012, § 102-3.165
+│   │    ├─ detailed minutes, certified by the chair, the DFO responsible for
+│   │    │    securing certification within 90 days
+│   │    ├─ committee reports deposited with the Library of Congress for public
+│   │    │    inspection (§ 1012)
+│   │    └─ ⚑ The 2024 rule requires charters and membership balance plans in
+│   │         the FACA database; posting minutes and reports there is OPTIONAL,
+│   │         GSA having declined to require posting of all committee records.
+│   │
+│   │  PUBLIC PARTICIPATION — § 102-3.140
+│   │    ├─ any member of the public may file a written statement
+│   │    └─ ✕ speaking to the committee is allowed only "if agency guidelines
+│   │         permit" — the right to be heard aloud is set by the agency being
+│   │         advised.
+│
+├─◆ TIER 5 — THE EXCLUSIONS (where a group sits outside all of Tier 4)
+│   │
+│   │  ├─ WHOLLY FEDERAL — composed only of full-time or permanent part-time
+│   │  │    federal officers or employees. § 1001(2)(B)(i). ⊘ Excluded by the
+│   │  │    statute itself, not by regulation.
+│   │  │
+│   │  ├─ NOT ACTUALLY MANAGED OR CONTROLLED by the executive branch.
+│   │  │    § 102-3.40(d). ◎ The condition tested and failed in the January
+│   │  │    2026 Energy Department case. ★
+│   │  │
+│   │  ├─ INDIVIDUAL ADVICE, NOT COLLECTIVE — a group assembled so that each
+│   │  │    person gives their own view, or purely to exchange facts and
+│   │  │    information. § 102-3.40(e)–(f). ◈ The most elastic exclusion on the
+│   │  │    list, because it turns on how the meeting is characterised rather
+│   │  │    than on who is in the room.
+│   │  │
+│   │  ├─ INTERGOVERNMENTAL — federal officials with elected state, local and
+│   │  │    tribal officers acting in their official capacities, where the
+│   │  │    purpose is solely intergovernmental. § 102-3.40(g).
+│   │  │
+│   │  ├─ SUBCOMMITTEES — § 102-3.35
+│   │  │    ◇ The test is who receives the advice:
+│   │  │      ├─ reports ONLY to its parent committee ──▶ not separately
+│   │  │      │    chartered, outside FACA's own requirements
+│   │  │      └─ advises a federal officer or the agency DIRECTLY ──▶ must file
+│   │  │           its own charter (§ 102-3.70, § 102-3.75) and is counted as a
+│   │  │           chartered committee
+│   │  │    ◎ The subcommittee's creation must be approved by the establishing
+│   │  │      agency, and the agency MAY choose to apply FACA's provisions to it
+│   │  │      — which makes the protections discretionary at this level.
+│   │  │
+│   │  ├─ PREPARATORY AND ADMINISTRATIVE WORK — a gathering solely to collect
+│   │  │    information or handle administrative matters is not a "meeting."
+│   │  │    § 102-3.160.
+│   │  │
+│   │  └─ STATUTORY CARVE-OUTS — Congress exempts particular committees by name
+│   │       in substantive legislation (for example 42 U.S.C. § 1320a-7c(a)(6)(I)
+│   │       and 16 U.S.C. § 7702(d)(C)(iv)).
+│
+└─◆ TIER 6 — THE FIVE EXITS, ORDERED BY HOW MUCH ANYONE IS TOLD
+    │
+    │  EXIT 1 — TERMINATION BY NOTICE ☐ ★
+    │    The agency head determines the purpose has been fulfilled and publishes
+    │    a notice. Available for discretionary committees only.
+    │    ◈ The only exit on this list that generates a public document.
+    │    ★ WORKED EXAMPLE: one notice at 90 FR 24383 (10 June 2025) terminated
+    │      fourteen Commerce committees together, among them all three of the
+    │      Census Bureau's advisory committees.
+    │
+    │  EXIT 2 — THE CHARTER LAPSES
+    │    Two years pass and nobody renews. No decision, no notice, no record of
+    │    a choice having been made. The committee cannot conduct business.
+    │
+    │  EXIT 3 — DEPOPULATION ★
+    │    Members are removed, or terms are allowed to expire unfilled. The
+    │    committee continues to exist with nobody on it.
+    │    ⊘ This is the only route that reaches a STATUTORY committee, because
+    │      no executive action can repeal the statute that requires it.
+    │    ★ WORKED EXAMPLE: all twenty-two members of the National Science Board,
+    │      the governing and oversight body created by the National Science
+    │      Foundation Act of 1950, were removed on 24 April 2026. The Board
+    │      remains in law.
+    │
+    │  EXIT 4 — NO MEETING IS CALLED
+    │    The Designated Federal Officer holds the exclusive power to call a
+    │    meeting (§ 1009(f)) and is under no duty to exercise it. ⚑
+    │    ◈ Indistinguishable from the outside from an active committee between
+    │      meetings. Nothing is filed and nothing expires.
+    │
+    │  EXIT 5 — RECONSTITUTION OUTSIDE THE ACT ★
+    │    The function is moved to a body that fails Tier 0: an all-federal
+    │    working group, a contractor-convened panel, a consultation framed as
+    │    individual rather than collective advice, or a subcommittee reporting
+    │    inward. The advice keeps arriving; the public channel closes.
+    │    ★ WORKED EXAMPLE AND ITS LIMIT: the Energy Department's 2025 Climate
+    │      Working Group took this route and a court held in January 2026 that
+    │      the route had not worked, because the Department had kept control.
+    │
+    └─◆ PART G — WHAT EACH REQUIREMENT BINDS, AND WHAT ENDS IT
+        ┌────────────────────────┬──────────────────────────┬──────────────────────────────┐
+        │ REQUIREMENT            │ WHO IS BOUND             │ WHAT ENDS IT                 │
+        ├────────────────────────┼──────────────────────────┼──────────────────────────────┤
+        │ File a charter         │ The agency, before any   │ Nothing - it is the gate     │
+        │                        │ meeting or action        │ into the whole system        │
+        │ Renew every 2 years    │ Whoever signs            │ Not signing                  │
+        │ Consult the GSA office │ The agency, on setup     │ Consultation, not consent    │
+        │ Fairly balanced        │ Membership, by statute   │ Statute stands; the rule     │
+        │                        │                          │ now says "should"            │
+        │ 15-day public notice   │ Each meeting             │ A closed-meeting finding     │
+        │ Open the meeting       │ Each meeting             │ Ten Sunshine Act exemptions  │
+        │ Detailed minutes       │ The chair and the DFO    │ 90-day certification only    │
+        │ Deposit the report     │ Library of Congress copy │ Applies to reports made      │
+        │ Public may speak       │ Only if agency permits   │ Agency guidelines            │
+        │ Advisory role only     │ The committee            │ Binding - advice is advice   │
+        │ Hold any meeting       │ Nobody                   │ No duty exists               │
+        └────────────────────────┴──────────────────────────┴──────────────────────────────┘
+
+        THE READING, SET OUT PLAINLY
+        ═══════════════════════════════════════════════════════════════════
+        Eleven requirements.  Two of them bind without an exit: the charter
+        must be filed before the committee acts, and the committee's advice
+        remains advice.  Both constrain the COMMITTEE.  Of the nine aimed at
+        the AGENCY, four are satisfied by publishing or filing a document,
+        three can be switched off by a finding the agency itself makes, one
+        was moved from "must" to "should" in December 2025, and one - the
+        duty to meet at all - was never written.
+        ═══════════════════════════════════════════════════════════════════
+        The Act was built to make outside advice public.  It does that well
+        while a committee is meeting, and it says almost nothing about
+        whether a committee meets.
+        ═══════════════════════════════════════════════════════════════════
