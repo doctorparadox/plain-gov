@@ -1,0 +1,233 @@
+HOW A FEDERAL COURT ORDER IS ENFORCED                             (as of 15 October 2026)
+│   Legend:  ──▶ main path   └─▶ branch/bypass   ◇ decision   ✕ route dead-ends
+│            ★ compliance obtained   ⚑ load-bearing stage
+│            ◈ exists in practice, in no statute        [ ] dated note or caveat
+│
+│   SCALE — contempt against the federal executive, 20 Jan 2025 to 15 Oct 2026:
+│     · civil contempt entered against a government attorney ......... 1  (purged in 1 day)
+│     · civil contempt entered against a department ................... 2  (one judge, one case)
+│     · criminal contempt reaching an appointed prosecutor ............ 0
+│     · criminal-contempt inquiries terminated by mandamus ............ 2
+│     · dollars actually collected from the United States ............. 0
+│     [ No official tally exists. This is assembled from the dockets and reporting in
+│       Notes and is a FLOOR, not a census. The last line is the finding. ]
+│
+■ 0. THERE HAS TO BE AN ORDER, AND IT HAS TO BE CLEAR AND SPECIFIC            ⚑
+│     Nothing downstream survives a defective stage 0, and this is where the
+│     government now wins. The order must be definite enough that a reasonable
+│     person knows what it forbids; ambiguity is resolved in the alleged
+│     contemnor's favour, and in CRIMINAL contempt that rule is near-absolute.
+│     ◇ is the order still in force?
+│     ├─ VACATED or REVERSED ──▶ civil contempt dies with it. A court cannot coerce
+│     │     compliance with an order that no longer exists.                         ✕
+│     ├─ VACATED but violated while in force ──▶ criminal contempt survives in theory,
+│     │     because it punishes a past act rather than compelling a future one
+│     └─ IN FORCE ──▶ continue
+│     ◇ is it clear and specific?
+│     ├─ AMBIGUOUS ──▶ no criminal contempt, full stop                              ✕
+│     └─ CLEAR ──▶ continue
+│     [ J.G.G.: the 15 Mar 2025 TRO barring "removing" detainees was held ambiguous,
+│       and that single word ended the criminal-contempt route twice — D.C. Cir.
+│       8 Aug 2025 (2-1) and again 14 Apr 2026 (2-1). Both were MANDAMUS, which means
+│       the government did not have to wait to be charged to appeal. ]
+│
+├─◆ ROUTE A. THE STRICTER ORDER        — the route judges actually use           ⚑ ◈
+│     Before contempt, the judge restates the order in narrower language and adds
+│     the machinery that makes non-compliance legible:
+│     ├─ a finding that the prior order was "clear and unambiguous" (building stage 0
+│     │     for whatever comes next)
+│     ├─ itemised relief — the specific funds, files, people or documents
+│     ├─ a hard deadline with a time of day
+│     ├─ a certification of compliance, signed, filed on the docket
+│     └─ a named declarant: an official who must swear personally to the facts
+│     └─▶ then daily or weekly status reports, and sometimes a show-cause order held
+│          in reserve rather than issued
+│     ◇ complied?  ──yes──▶ ★  (this is the ordinary ending, and it is not reported)
+│                  ──no───▶ Route B
+│     [ The 2026 pattern is to EXTEND rather than punish. Asked for contempt in the
+│       diversity-visa litigation on 23 Sep 2026, the court instead gave a 10-day
+│       extension on 30 Sep — because the government had spent the first 10 days not
+│       instructing its posts to comply. The remedy for not using the time was
+│       more time. ]
+│
+├─◆ ROUTE B. CIVIL CONTEMPT            — coercive, remedial, PURGEABLE           ⚑
+│     Purpose is future compliance, not punishment, which is why the contemnor
+│     always holds the keys. Burden: clear and convincing evidence of a clear order,
+│     notice, and non-compliance.
+│     ├─ WILLFULNESS IS NOT AN ELEMENT. Good faith, understaffing and caseload are
+│     │     mitigation, not defences.
+│     ├─ B1 the conditional fine ──▶ a per-day amount that begins on a stated date
+│     │     UNLESS the act is done. Paid to the court (coercive) or to the injured
+│     │     party (compensatory) — a distinction that decides who may waive it.
+│     ├─ B2 the conditional confinement ──▶ available against a natural person; the
+│     │     contemnor is released on compliance. Rarely reached; has been ordered.
+│     ├─ B3 the compensatory award ──▶ the movant's actual losses from the violation
+│     └─ B4 against a government DEFENDANT ──▶ the fine is largely uncollectable.
+│           Sovereign immunity is not waived for contempt sanctions against the
+│           United States; the workable target is the individual officer or the
+│           individual attorney, in their personal capacity.
+│     ◇ purged?  ──yes──▶ ★ fine lifted, nothing collected, no appealable sanction
+│                ──no───▶ Route C or Route D
+│     [ WORKED EXAMPLE, and the whole route in miniature: D. Minn., 18 Feb 2026 —
+│       a $500/day conditional fine on a Special Assistant U.S. Attorney personally,
+│       for a release order ignored in all three of its requirements. Documents
+│       returned 19 Feb; fine lifted by written order 20 Feb. No money changed hands.
+│       The first civil contempt of a federal attorney in the second term WORKED,
+│       in one day, and cost nothing — which is the argument for the route and the
+│       argument against it at the same time. ]
+│
+├─◆ ROUTE C. CRIMINAL CONTEMPT         — punitive, NOT purgeable, and blocked    ⚑
+│     18 U.S.C. § 401: disobedience of a lawful writ, process, order, rule, decree
+│     or command. Compliance after the fact is no defence, because the point is
+│     punishment for a completed act.
+│     │
+│     ├─ C1 ◇ WAS IT IN THE JUDGE'S PRESENCE?
+│     │     ├─ YES ──▶ SUMMARY DISPOSITION, Rule 42(b). The judge who saw or heard it
+│     │     │     certifies the facts, signs the order, files it. No prosecutor, no
+│     │     │     jury, no notice. This is the one fast route, and it is unavailable
+│     │     │     for anything an agency does outside the courtroom.
+│     │     └─ NO  ──▶ PROSECUTION ON NOTICE, Rule 42(a) ──▶ C2
+│     │
+│     ├─ C2 THE NOTICE — Rule 42(a)(1). In open court, or by order to show cause, or
+│     │     by arrest order. Must state the time and place of trial, allow reasonable
+│     │     time to prepare, state the essential facts, and SAY IT IS CRIMINAL
+│     │     CONTEMPT. A probable-cause finding is the usual predicate.
+│     │
+│     ├─ C3 THE PROSECUTOR — Rule 42(a)(2)                              ⚑ THE CHOKEPOINT
+│     │     ├─ the court must FIRST request an attorney for the government, unless
+│     │     │     the interest of justice requires another attorney
+│     │     ├─ that attorney works for the Department of Justice
+│     │     ├─ ◇ where the contemnor is a federal official, the prosecuting office
+│     │     │     reports up to the same administration being prosecuted
+│     │     └─ ◇ GOVERNMENT DECLINES ──▶ the court MUST appoint another attorney.
+│     │           A private prosecutor, paid or pro bono, exercising federal
+│     │           prosecutorial power by judicial appointment. Challenged on
+│     │           Appointments Clause grounds; cert denied 2023. The provision is
+│     │           what keeps the route from being a pure veto — and no court has
+│     │           reached it against a federal official in the second term.
+│     │
+│     ├─ C4 THE TRIAL — Rule 42(a)(3)
+│     │     ├─ the referring judge must RECUSE if the contempt involved disrespect
+│     │     │     toward or criticism of that judge, unless the defendant consents
+│     │     ├─ ◇ JURY?  constitutional floor: a jury is required where the penalty
+│     │     │     imposed exceeds the petty-offence line (over six months), because
+│     │     │     contempt carries no statutory maximum to measure in advance
+│     │     └─ ◇ JURY ON DEMAND, 18 U.S.C. § 3691: yes, where the act is ALSO a crime
+│     │           under federal or state law — EXCEPT for contempt of an order in a
+│     │           suit "brought by or on behalf of the United States," and except
+│     │           contempt in the court's presence.
+│     │           ⚑ So the jury right turns on WHO SUED. A private plaintiff's
+│     │             injunction is enforced with a jury on demand; the government's
+│     │             own injunction is not.
+│     │
+│     ├─ C5 THE CLOCK — 18 U.S.C. § 3285: a § 402 contempt proceeding must be begun
+│     │     within ONE YEAR of the act. A contempt proceeding is also no bar to a
+│     │     later ordinary prosecution for the same conduct.
+│     │
+│     └─ C6 THE EXIT — conviction is a federal criminal conviction, and criminal
+│           contempt is a federal offence against the United States, so it is
+│           PARDONABLE. The route that punishes rather than coerces therefore ends
+│           in the discretion of the officer most likely to have directed the
+│           defiance.                                                               ✕
+│     [ No criminal-contempt prosecution of a federal official has reached C3 in the
+│       second term. J.G.G. got to C2 on 17 Apr 2025 (probable cause, with a stated
+│       intention to appoint a Rule 42(a)(2) prosecutor) and was vacated 8 Aug 2025;
+│       a 8 Dec 2025 order compelling testimony from two DOJ lawyers was vacated
+│       14 Apr 2026 with a direction to TERMINATE the proceedings outright. ]
+│
+├─◆ ROUTE D. STOP ASKING — PERFORMANCE BY SOMEONE ELSE                           ⚑
+│     The only route that does not depend on the defendant's cooperation, because it
+│     transfers the duty instead of punishing its breach.
+│     ├─ D1 Rule 70(a) ──▶ the court directs the act be done BY ANOTHER PERSON
+│     │     appointed by the court, at the disobedient party's expense
+│     ├─ D2 Rule 70(b) ──▶ where the act is conveying title, the CLERK's deed or the
+│     │     judgment itself does the legal work the party refused to do
+│     ├─ D3 Rule 70(d) ──▶ writ of attachment or sequestration against the party's
+│     │     property, and a writ of assistance to put the prevailing party in
+│     │     possession
+│     ├─ D4 THE MONITOR ──▶ a court-appointed outsider with reporting and sometimes
+│     │     decision authority inside the institution, reporting to the judge
+│     ├─ D5 THE RECEIVER ──▶ operational control removed from the defendant
+│     │     altogether. The strongest remedy in the civil toolkit.
+│     └─ ◇ APPLIED TO A FEDERAL AGENCY?  ──▶ not yet. Every modern example is a
+│           state or municipal institution, where the Eleventh Amendment problem is
+│           different and there is no coequal-branch objection.
+│     [ WORKED EXAMPLE: the New York City jails. Receivership ordered 13 May 2025;
+│       a "remediation manager" named 27 Jan 2026 with authority to act independently
+│       of the mayor, reporting to the district judge rather than the city, budgeted
+│       at roughly $10m for the following year. Eight months from order to a named
+│       person with a budget — which is why this route is a remedy for institutions
+│       and not for a single defied deadline. ]
+│
+├─◆ ROUTE E. MANDAMUS — compel the ministerial act
+│     28 U.S.C. § 1361 (action in the nature of mandamus) and § 1651 (All Writs Act).
+│     ├─ reaches only duties that are NONDISCRETIONARY and purely ministerial —
+│     │     disbursing money owed, issuing a document, performing a step the statute
+│     │     leaves no judgment about
+│     ├─ does NOT reach a discretionary judgment, however badly exercised
+│     └─ ◇ its real use in 2025-26 has been the OTHER WAY: the government using
+│           mandamus in the court of appeals to stop a district judge's contempt
+│           inquiry before any charge existed. Both J.G.G. terminations were
+│           mandamus.                                                                ⚑
+│
+└─◆ ROUTE F. THE LAWYERS AND THE BILL — no contempt required
+      ├─ F1 Rule 11 (FRCP) ──▶ sanctions for filings made for an improper purpose,
+      │     including unnecessary delay. Reaches the attorney, not the policy.
+      ├─ F2 Rule 37 ──▶ discovery sanctions, up to adverse-inference and default
+      ├─ F3 FRAP 46 ──▶ appellate discipline: fine, suspension, disbarment, for
+      │     conduct unbecoming a member of the bar or failure to comply with a rule
+      ├─ F4 referral to the state bar or to the court's own disciplinary panel
+      ├─ F5 FEE-SHIFTING ──▶ 28 U.S.C. § 2412, the Equal Access to Justice Act: fees
+      │     against the United States where the government's position was not
+      │     substantially justified. Congress HAS waived immunity here, which is why
+      │     fees are the one money route that actually collects.
+      └─ F6 ADVERSE PROCEDURAL CONSEQUENCE ──▶ waiver of unfiled arguments, striking
+            a pleading, deeming facts admitted. Costs the government the case rather
+            than money, and needs no sanction finding at all.
+
+══ THE ENFORCEMENT ARM ═══════════════════════════════════════════════════════════════
+   28 U.S.C. § 561 ──▶ the United States Marshals Service is a BUREAU OF THE
+   DEPARTMENT OF JUSTICE. The Director is appointed by the President with Senate
+   confirmation and reports to the Attorney General. The Marshals serve the courts'
+   process, execute their orders, and make the arrests — and a marshal asked to
+   arrest a federal official for contempt of an order against the executive is an
+   employee of the executive.
+   └─▶ There is no judicial police force. The courts' bailiff is the defendant's
+        subordinate, by statute, and that is the structural fact every route above
+        eventually runs into.
+   [ Director since 1 Aug 2025: Senate-confirmed; see Notes. The seat is named in
+     Notes rather than here because it turns over and this map should not. ]
+
+══ WHAT CONGRESS TRIED, AND HOW ══════════════════════════════════════════════════════
+   The 2025 reconciliation bill reported by the House Judiciary Committee on
+   29 Apr 2025 contained a provision barring any court of the United States from
+   using APPROPRIATED FUNDS to enforce a contempt citation for failure to comply with
+   an injunction or temporary restraining order "if no security was given when the
+   injunction or order was issued pursuant to Federal Rule of Civil Procedure 65(c)" —
+   and it applied to orders issued before, on, or after enactment.
+   ├─ Rule 65(c) security is almost never required, and essentially never required of
+   │     a plaintiff suing the government, so the provision would have switched off
+   │     contempt enforcement for nearly every injunction against the United States
+   │     then in existence.
+   ├─ ⚑ THE METHOD IS THE POINT: it repealed nothing. It left § 401, Rule 42 and the
+   │     contempt power intact and defunded the enforcement of the result — an
+   │     appropriations rider doing the work of a jurisdictional statute.
+   ├─ a court could have defeated it prospectively by setting a $1 bond
+   └─ ✕ ruled out of the reconciliation vehicle by the Senate parliamentarian under
+         the Byrd rule in June 2025; NOT in the enacted Act.
+
+══ WHAT NONE OF THESE ROUTES REACHES ═════════════════════════════════════════════════
+   ├─ THE PRESIDENT PERSONALLY. No federal court has held a sitting president in
+   │     contempt. The routes above run against agencies, departments, officials and
+   │     attorneys.
+   ├─ COMPLIANCE THAT IS SLOW RATHER THAN REFUSED. Every route needs a violation to
+   │     point at; "processing, but not yet" is the hardest posture to charge, and it
+   │     is the posture that produced an extension instead of a sanction in 2026.
+   ├─ THE OFFICIAL WHO SET THE POLICY. Civil contempt reaches whoever is in the
+   │     courtroom — usually a line attorney. The policy-maker is reachable only by
+   │     criminal contempt, which is the route that does not work.
+   ├─ MONEY FROM THE TREASURY, absent a waiver. Fee-shifting collects; contempt fines
+   │     against the United States do not.
+   └─ THE ORDER THAT WAS NEVER CLEAR ENOUGH. After stage 0, the drafting of the
+         original injunction is itself an enforcement decision, made months before
+         anyone defies anything.
