@@ -1,0 +1,285 @@
+STATE CANVASS DEADLINE CROSSWALK — four columns, three of them published, and the
+one that decides everything written in almost no state's code   (as of 12 October 2026)
+│  Legend:  ▸ column / lane   ⏱ deadline   ↗ who may move it   ⊘ duty with no remedy
+│           ⚖ remedy from outside the election code   ✱ structural point
+│           ⚑ changed for Nov 2026   ◈ count derived here, see Notes
+│
+■ PART A — WHAT A CANVASS IS, AND WHY THERE ARE TWO OF THEM
+│
+├─ A canvass is not a count. The count happens on election night and after; the canvass
+│  is the ACCOUNTING for that count — precinct returns reconciled, provisional and cured
+│  ballots resolved, the totals aggregated and declared official.
+│
+├─◆ STAGE 1 · THE COUNTY (or municipal) CANVASS
+│   ├─ Who: a county board of canvassers — in many states the county commission or board
+│   │       of supervisors sitting in a different capacity, with the clerk as secretary
+│   ├─ Output: the ABSTRACT OF VOTES, the county's official return
+│   └─ ✱ The board is almost always a body of general-purpose elected officials doing a
+│        MINISTERIAL task. That mismatch is the whole of Part E.
+│
+└─◆ STAGE 2 · THE STATE CANVASS
+    ├─ Who: a board of state canvassers, a state board of elections, or the chief election
+    │       officer — composition varies more than any other element here
+    ├─ Input: every county abstract. The state cannot finish until the last county reports,
+    │         which is why most extension instruments in Part D are triggered by a MISSING
+    │         RETURN rather than by a difficulty at the state level
+    └─ Output: the official statewide result, and the certificate downstream law runs on
+
+■ PART B — THE COUNTY CANVASS DEADLINE, FIFTY STATES, SORTED BY TIME ALLOWED
+│
+├─◆ 24–48 HOURS — the canvass begins before the dust settles
+│   ├─ Alaska .......... day 1 (AS 15.15.370)
+│   ├─ Delaware ....... 10 a.m. on day 2 — and NO completion deadline specified
+│   │                   (Const. art. V § 6; 15 Del. Code § 5701)
+│   ├─ Connecticut .... 48 hours after polls close (§ 9-314)
+│   ├─ Vermont ........ 48 hours after polls close (§ 2588)
+│   ├─ New Hampshire .. 8 a.m. on the day after, unless the Secretary sets another date
+│   └─ Maine .......... 5 p.m. on the second business day (tit. 21A § 711)
+│
+├─◆ DAYS 4–10 — the modal band
+│   ├─ Louisiana ...... noon on day 6 (§ 18:574(3))     ├─ South Dakota .. within 6 days
+│   ├─ Michigan ....... day 7 presidential / day 14 other  ├─ Minnesota .... day 8
+│   ├─ Arkansas ....... day 8 presidential electors       ├─ Missouri ..... day 8 pres.
+│   ├─ Idaho .......... day 9 ⚑ (§ 34-1205 — was ten)     ├─ Nevada ....... on or before 10
+│   ├─ North Carolina . 11 a.m. on day 10 (§ 163-182.5(b))├─ Mississippi .. day 10
+│   ├─ New Mexico ..... within 10 days — 13 days for counties over 150,000 (§ 1-13-13)
+│   └─ Virginia ....... within 10 days (§ 24.2-671)
+│
+├─◆ DAYS 11–21
+│   ├─ Florida ........ noon on day 13 (§ 102.112(2))    ├─ Iowa ......... within 13 days
+│   ├─ Texas .......... not later than day 14 (§ 67.003) ├─ Utah ......... day 14
+│   ├─ Wisconsin ...... no later than day 14 (§ 7.60) ⚑  ├─ Montana ...... within 14 days
+│   ├─ Massachusetts .. within 15 days                   ├─ New Jersey ... day 15
+│   ├─ Ohio ........... no later than day 21 (§ 3505.32) ├─ Illinois ..... within 21 days
+│   └─ Washington ..... not later than day 21 (§ 29A.60.190)
+│
+├─◆ DAYS 22–30 — longer than most states' ENTIRE two-stage process
+│   ├─ Colorado ....... no later than day 22 (§ 1-10-102) — but see Part D, lane 5
+│   ├─ New York ....... within 25 days (§ 9-214)
+│   ├─ Oregon ........ no later than day 27 (§ 254.545(3))
+│   ├─ California .... day 28 presidential electors / day 30 other offices (§ 15372)
+│   └─ West Virginia . day 30 (§ 3-6-11)
+│      ✱ West Virginia's COUNTY deadline falls after the point at which Florida has
+│        finished its county canvass, its state canvass and issued the official result —
+│        the whole Florida sequence closes at 9 a.m. on day 14.
+│
+└─◆ SET BY WEEKDAY RATHER THAN BY COUNT — a date that moves with the calendar
+    ├─ Alabama ........ second Friday after      ├─ Arizona ...... by 3rd Thursday after
+    ├─ Georgia ........ 5 p.m. Monday after      ├─ Indiana ...... noon 2nd Monday after
+    ├─ Kansas ......... second Tuesday after     ├─ Kentucky ..... noon Tuesday after
+    ├─ Maryland ....... second Friday after      ├─ Missouri ..... 2nd Tuesday (non-pres.)
+    ├─ Nebraska ....... third Monday after ⚑     ├─ Oklahoma ..... 5 p.m. Friday after
+    ├─ South Carolina . noon Saturday after      ├─ Tennessee .... 3rd Monday after
+    ├─ Wyoming ........ first Friday after       └─ Pennsylvania . final 5 days after the
+    └─ Hawaii ......... within 5 days               unofficial return, absent a recount
+                                                    petition (25 Pa. Stat. § 3154(f))
+
+■ PART C — THE STATE CANVASS DEADLINE, AND THE FINDING THAT NINETEEN AREN'T DEADLINES
+│
+├─◆ LANE 1 · UNCONDITIONAL COMPLETION DATE — 31 states ◈
+│   │  A date by which the state-level canvass must be DONE.
+│   ├─ Day 14 Florida · Day 15/Dec Missouri · Day 16 Minnesota · Day 17–18 Georgia
+│   ├─ Day 20 Michigan · Day 21 Idaho · Day 22 Alabama · Day 27 Colorado, Montana, Iowa
+│   ├─ Day 30 Mississippi, New Jersey, Oregon, Washington · Day 31 Illinois · Day 33 Texas
+│   ├─ Day 38 California · Within 20 Maine · Within 30 Maryland, Arkansas
+│   ├─ 3rd Monday Kentucky · 3rd Tuesday New Mexico · 3rd Monday+ Arizona (postponable)
+│   ├─ 4th Monday Nebraska, Utah · 4th Tuesday Nevada · Last Tuesday Nov. Indiana
+│   ├─ Dec. 1 Wisconsin · 1st Mon. after 1st Wed. Dec. New York · 3rd Mon. Dec.+ Virginia
+│   └─ Ohio: 10 days after the county abstracts arrive · North Carolina: 10 days after the
+│      Tuesday three weeks out — ✱ both measured from an EVENT, not from election day
+│
+├─◆ LANE 2 · CONVENE-ONLY — a date to START and none to FINISH — 4 states
+│   ├─ Alaska ......... begins no later than day 16 and "continues until completed"
+│   ├─ Kansas ......... "must begin by Dec. 1" (§ 25-3206(b)) — a start, not a finish
+│   ├─ Vermont ........ board convenes 10 a.m. one week after; no completion deadline
+│   └─ Wyoming ........ convenes no later than the 2nd Wednesday; no completion deadline
+│      ⊘ The duty to canvass is stated. The date it must end is not.
+│
+├─◆ LANE 3 · CONVENE + A STATUTORY ADJOURNMENT CAP — 4 states
+│   │  An outer bound exists, but by arithmetic rather than by a stated deadline.
+│   ├─ North Dakota ... meets by day 17, may adjourn up to 3 days (§§ 16.1-15-35, -38)
+│   ├─ South Carolina . convenes within 10 days, may adjourn 5 days presidential /
+│   │                   15 days other offices (§§ 7-17-220, 7-17-230)
+│   ├─ South Dakota ... convenes within 7 days, may adjourn up to 10 (§ 12-20-47)
+│   └─ Virginia ....... meets 3rd Monday in December, may adjourn up to 3 (§ 24.2-679)
+│
+├─◆ LANE 4 · CONTINGENT ON NO CONTEST OR RECOUNT BEING FILED — 5 states
+│   │  ✱ The deadline exists only in the uncontested case — so the closer the race, the
+│   │    less of a deadline there is, which inverts what a deadline is for.
+│   ├─ Connecticut .... day 30 if no contest; after the 3rd Monday in Dec. if contested
+│   ├─ Hawaii ......... after the time to bring a contest expires (§§ 11-155, 11-174.5)
+│   ├─ Louisiana ...... on or before day 14 IF no contest is filed (§ 18:574)
+│   ├─ New Hampshire .. after the recount filing period passes (§§ 659:84, 660:1)
+│   └─ Oklahoma ....... 5 p.m. Friday after, IF no contest is filed (26 Okla. Stat. 8-108)
+│      [Iowa sits in lane 1 but carries the same feature: § 50.48(6) delays the state
+│       canvass for any office subject to a recount.]
+│
+└─◆ LANE 5 · NO STATE COMPLETION DEADLINE SPECIFIED AT ALL — 6 states
+    ├─ Delaware ....... not specified — and its county stage names only a start time
+    ├─ Massachusetts .. presidential only (declared day 10 after returns, certified 14
+    │                   days later if no contest); OTHER OFFICES not specified
+    ├─ Pennsylvania ... not specified
+    ├─ Rhode Island ... not specified; completed once all returns reach the Secretary
+    ├─ Tennessee ...... not specified
+    └─ West Virginia .. not specified — the state with the LATEST county deadline (day 30)
+       ✱ Pennsylvania is in this lane. The 2026-10-11 build turned on a Pennsylvania
+         recount-waiver window that expires at noon on the 2nd Wednesday (25 P.S.
+         § 3154(h)) — a deadline measured to the hour, sitting in a state with no stated
+         deadline for finishing the canvass it governs.
+
+■ PART D — WHO MAY MOVE THE DATE: FIVE INSTRUMENTS, AND ONE THAT ISN'T A STATUTE
+│
+├─◆ 1 · BOARD ADJOURNMENT WITH A CAP — the board moves its own date, up to a limit
+│   └─ North Dakota 3 days · South Carolina 5/15 · South Dakota 10 · Virginia 3
+│      ↗ Held by the canvassing board itself. No outside approval.
+│
+├─◆ 2 · AUTOMATIC DAY-TO-DAY POSTPONEMENT UNTIL THE RETURNS ARRIVE
+│   ├─ Montana ........ if returns are incomplete the board postpones "day to day" until
+│   │                   they are received (§ 13-15-401)
+│   └─ Maryland ....... second Friday after, or within 48 hours of completion if later
+│      ↗ Held by nobody — it operates by law. ✱ The cleanest design on this map: the
+│        deadline cannot be missed, because a missing return moves it automatically.
+│
+├─◆ 3 · CHIEF ELECTION OFFICER DISCRETION
+│   ├─ New Hampshire .. the Secretary of State may order a different county canvass date
+│   │                   (§ 659:75)
+│   └─ Arizona ........ the state canvass may be POSTPONED UP TO 30 DAYS until all county
+│                       results are received (§ 16-648)
+│      ✱ Arizona's 30-day postponement is the instrument that made the 2022 Cochise
+│        County standoff survivable — one county's refusal could not run the state out
+│        of time. See Part E.
+│
+├─◆ 4 · CONTEST OR RECOUNT CONTINGENCY — the filing moves the date
+│   └─ Connecticut · Hawaii · Iowa · Louisiana · New Hampshire · Oklahoma · Massachusetts
+│      ↗ Held by whichever party files. ✱ The only lane where a PRIVATE actor moves a
+│        public deadline, which is the same structure the recount-waiver statutes use —
+│        see How a Conceded Election Is Finalized.
+│
+└─◆ 5 · AN AUTHORIZATION GATE — Colorado, and it is a RULE rather than a statute
+    ├─ ⏱ Statute: the county canvass is due no later than day 22 (§ 1-10-102); the state
+    │      canvass no later than day 27 (§ 1-10-103)
+    ├─ ↗ Election Rule 10.4 (8 CCR 1505-1): "The Secretary of State may extend the canvass
+    │      deadline for one or more counties" "in order to complete the risk-limiting
+    │      audit in accordance with Rule 25.2"
+    └─ ✱ AND THE SENTENCE THAT INVERTS THE WHOLE COLUMN: "No canvass board may certify
+         official results until authorized to do so by the Secretary of State." In
+         Colorado the day-22 date is not a deadline a county races toward — it is the
+         far edge of a window the STATE opens. The county cannot be late without
+         permission and cannot be early without permission either. The instrument that
+         does this is an administrative rule, not the Election Code, so it is changeable
+         without a legislature.
+
+■ PART E — WHAT HAPPENS WHEN THE DEADLINE PASSES UNMET: THE COLUMN NO TABLE CARRIES
+│
+├─◆ THE BASELINE · NOTHING STATED — the modal case ⊘
+│   └─ NCSL's canvass-deadline page describes NO penalty and NO consequence for a missed
+│      deadline in any of the fifty states, beyond the extension and adjournment
+│      provisions in Part D. ✱ A canvass deadline is, in most states, a duty with a date
+│      and no sanction — which is why the question has to be answered from case law and
+│      from chapters of the code that are not about elections.
+│
+├─◆ REMEDY 1 · THE WRIT OF MANDAMUS — the universal answer, and it is not election law ⚖
+│   ├─ An extraordinary order compelling an official to perform a non-discretionary duty.
+│   │  It works here precisely BECAUSE the canvass is ministerial: there is no judgment
+│   │  for a court to defer to.
+│   ├─ New Mexico, June 2022 — Otero County's commission refused to certify the primary.
+│   │  The Secretary of State went to court to compel it; the commission then certified
+│   │  2–1 at an emergency meeting. ✱ The statute relied on dates to at least 1953 and,
+│   │  by contemporaneous reporting, had never been used before that month.
+│   └─ ✱ The enforcement mechanism of American canvass law is a writ older than the
+│        statutes it enforces, invented for an unrelated purpose, and essentially unused
+│        until 2022.
+│
+├─◆ REMEDY 2 · CRIMINAL LIABILITY — Arizona, and it sits in the criminal chapter ⚖
+│   ├─ 2022: two of the three Cochise County supervisors voted against canvassing the
+│   │  midterm results by the November 28 deadline, after the County Attorney's Office
+│   │  advised that the canvass was a non-discretionary duty.
+│   ├─ The Secretary of State sued; the court ordered the board to reconvene; it certified
+│   │  2–0, one supervisor absent.
+│   ├─ A state grand jury indicted both on 27 November 2023 on two class 5 felonies —
+│   │  CONSPIRACY and INTERFERENCE WITH AN ELECTION OFFICER.
+│   ├─ One pleaded guilty on 21 October 2024 and received probation and a fine.
+│   └─ ✱ Note what the charges are NOT: there is no offense of "missing the canvass
+│        deadline." The conduct was reached by general conspiracy and interference
+│        statutes, which is the same borrowing pattern as remedy 1.
+│
+├─◆ REMEDY 3 · THE COST OF THE COURIER — Nebraska, the one express statutory consequence
+│   │  ⚑ and the only column-4 legislation passed anywhere in 2026
+│   ├─ If a county's abstract has not reached the Secretary of State by the third Monday
+│   │  after the election (§ 32-1034), the Secretary MAY, under § 32-1035:
+│   │    ├─ require the abstract sent by overnight delivery with a tracking number, or by
+│   │    │  next-day hand delivery, AT THE COUNTY'S EXPENSE; or
+│   │    └─ send a messenger to the county clerk, AT THE COUNTY'S EXPENSE
+│   ├─ And if the delay was the official's own fault or neglect, "he or she shall be
+│   │  responsible to the county for the cost of the messenger."
+│   └─ ✱ This is the complete set of express consequences found in the canvass chapters
+│        examined: a shipping invoice, and in the worst case the clerk pays for it
+│        personally. Set beside remedy 2, the fifty-state spread on what a missed canvass
+│        deadline costs runs from TWO CLASS 5 FELONIES to ONE OVERNIGHT ENVELOPE.
+│
+└─◆ WHAT NO STATE APPEARS TO HAVE — the holes, named rather than filled
+    ├─ No self-executing fallback: nowhere examined does a missed county deadline cause
+    │  the state to canvass the county's returns ITSELF, or cause the unofficial return to
+    │  become official by operation of law. The duty does not transfer.
+    ├─ No removal trigger tied to the deadline as such.
+    └─ ⊘ So in the modal state the answer to "what if they just don't" is: somebody must
+         go to court, and a court must be willing to act inside the remaining calendar.
+
+■ PART F — THE FEDERAL CLOCK OVER THE TOP, AND WHY IT DOES NOT REACH NOVEMBER 2026
+│
+├─◆ IN A PRESIDENTIAL YEAR — the Electoral Count Reform Act supplies the hard outer bound
+│   ├─ ⏱ The state executive must issue the CERTIFICATE OF ASCERTAINMENT six days before
+│   │     the meeting of electors.
+│   ├─ ✱ That date works BACKWARD through every lane in Part C: a state's canvass, its
+│   │     recounts and its contests must all finish inside it, whatever its own code says
+│   │     — including the states in lanes 2, 4 and 5 that set no completion date at all.
+│   ├─ ⚖ If the certificate is not issued or names the wrong winner: an action for an
+│   │     order compelling issuance, heard by a THREE-JUDGE DISTRICT COURT (two circuit
+│   │     judges and one district judge), with Supreme Court review on expedited
+│   │     certiorari. The court has until the day before the electors meet. A certificate
+│   │     issued under that order binds Congress in the count.
+│   └─ ✱ So the one place American law DOES answer the missed-deadline question in advance
+│        is the only place where the answer could not be left to the states.
+│
+└─◆ IN A MIDTERM — there is no federal backstop at all
+    ├─ No certificate of ascertainment · no electors · no ECRA clock.
+    ├─ U.S. Const. art. I § 5 cl. 1 makes each chamber the judge of its own members'
+    │  elections, and the Federal Contested Elections Act's 30-day notice clock runs from
+    │  the state's DECLARATION of the result — whenever that comes. A state that never
+    │  finishes its canvass does not trip a federal deadline; it postpones the start of
+    │  the federal one.
+    └─ ✱ THE MIDTERM PAYOFF: on 3 November 2026 the canvass runs on state deadlines alone.
+         In 19 states (Part C lanes 2–5) there is no unconditional date by which the state
+         canvass must be done, and in the modal state no stated consequence if it is not.
+         The downstream map is How a Contested House Seat Is Decided (queued).
+
+■ PART G — WHAT CHANGED FOR NOVEMBER 2026 ⚑
+│
+├─◆ IDAHO · county canvass 10 days → NINE
+│   ├─ § 34-1205 now reads: the board "shall meet within nine (9) days after an election."
+│   ├─ Attributed by Ballotpedia to H 873, enacted as Session Law ch. 286, signed
+│   │  2 April 2026, effective 1 July 2026; passed House 69–0–1 and Senate 34–0–1.
+│   └─ [unconfirmed] WHICH session law made it nine. The statute page's amendment history
+│      runs 1970–2025 (most recently 2025 ch. 113 § 18) and carries no 2026 citation, and
+│      the site notes statutes are updated 1 July following each session. The OPERATIVE
+│      TEXT is nine days; the attribution is not independently verified here.
+│
+├─◆ NEBRASKA · LB 1075, approved by the Governor 15 April 2026 — and NOT what it looked like
+│   ├─ Reported as creating a submission deadline where none existed. What the bill text
+│   │  shows is narrower and more interesting:
+│   ├─ § 32-1034 — the abstract must reach the Secretary by the third Monday after the
+│   │  election; if sent electronically or by fax, the original by the fourth Wednesday.
+│   ├─ § 32-1035 — the late-abstract remedies are re-pinned FROM "the deadlines specified
+│   │  in section 32-1034" TO the third Monday itself.
+│   └─ ✱ So the 2026 change is not a new deadline. It is the ENFORCEMENT TRIGGER being
+│        fastened to a specific date — the only state legislating in column 4 this year.
+│
+└─◆ WISCONSIN · 2025 Wisconsin Act 214 — real, and it does not apply to this election
+    ├─ Replaces the flat 1 December state canvass for PRESIDENTIAL elections: county
+    │  canvass before noon on the Saturday after, state canvass within 21 days.
+    ├─ Purpose: conformity with the federal Electoral Count Reform Act clock in Part F.
+    ├─ Applicability: the 2028 presidential election.
+    └─ ✱ The only 2026 canvass legislation aimed at the federal deadline is the only one
+         that does nothing for 3 November 2026. Wisconsin's midterm deadlines are
+         unchanged: county day 14 (§ 7.60), state 1 December (§ 7.70).
+         [Act text not independently retrieved — see Notes 8.]
