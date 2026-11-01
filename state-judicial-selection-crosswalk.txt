@@ -1,0 +1,260 @@
+STATE JUDICIAL SELECTION CROSSWALK — five designs, fifty states, and the finding that
+the mechanism built to depoliticize the bench is the one that removes judges
+                                                              (as of 17 October 2026)
+│  Legend:  ▸ design / lane   ◆ sub-block   ⚖ controlling case   ✱ structural point
+│           ⚑ live in 2026   ◈ count derived here, see Notes   $ money
+│           ⊘ foreclosed by constitutional text   [ ] dated note
+│
+■ PART A — THE FIVE DESIGNS, AND WHY ONE LABEL HIDES MORE THAN THE OTHER FOUR
+│
+├─▸ 1 · PARTISAN ELECTION ....... the candidate runs with a party label on the ballot
+├─▸ 2 · NONPARTISAN ELECTION .... contested election, no party label printed
+├─▸ 3 · ASSISTED APPOINTMENT .... a nominating commission screens and sends the
+│         ("merit selection",      governor a short list; the governor must pick from it
+│          the "Missouri Plan")
+├─▸ 4 · GUBERNATORIAL APPOINTMENT  the governor picks, with no commission binding
+│                                  the choice (confirmation body may still exist)
+└─▸ 5 · LEGISLATIVE ELECTION ..... the legislature itself elects the judge
+│
+│  ✱ FOUR OF THESE LABELS TELL YOU WHO DECIDES. THE THIRD ONE DOES NOT.
+│    "Merit selection" names a commission but says nothing about who appoints the
+│    commission — and that is the only variable anyone has moved since 2010. A
+│    commission with a bar-elected majority and a commission with a governor-
+│    appointed majority are both "merit selection" and are not the same system.
+│    Part D is that fight. Parts B and C are the published tables.
+│
+│  ✱ AND NO STATE'S DESIGN IS ONE DESIGN. Nearly every state runs a different rule
+│    for (a) a seat that opens on schedule, (b) a seat that opens mid-term, and
+│    (c) keeping the seat once you have it. A state can be an "election state" whose
+│    sitting justices all first arrived by appointment to a mid-term vacancy.
+│
+■ PART B — INITIAL SELECTION TO THE HIGHEST COURT, FIFTY STATES
+│
+├─◆ PARTISAN ELECTION — 8 states
+│   ├─ Alabama · Illinois · Louisiana · New Mexico · North Carolina
+│   └─ Ohio ⚑ · Pennsylvania · Texas
+│      ⚑ Ohio joined this lane in 2021, when the legislature added party labels to
+│        supreme court ballots by statute — a one-bill move requiring no amendment.
+│      ⚑ Louisiana ran its first CLOSED PARTY PRIMARY for supreme court seats in
+│        2026, under a 2024 law; the general-election field is now party-gated.
+│      [ ] New Mexico is a hybrid and appears in all three of Parts B, C and D:
+│          commission → gubernatorial appointment → partisan election at the next
+│          general → retention thereafter. It is the only state that runs all three.
+│      [ ] Illinois, Kentucky, Louisiana and Mississippi elect by JUDICIAL DISTRICT
+│          rather than statewide — so the map that draws those districts is an
+│          instrument of court composition, and is redrawn by the legislature.
+│
+├─◆ NONPARTISAN ELECTION — 13 states
+│   ├─ Arkansas · Georgia · Idaho · Kentucky · Minnesota · Mississippi · Montana
+│   └─ Nevada · North Dakota · Oregon · Washington · West Virginia · Wisconsin
+│      ✱ "Nonpartisan" describes the BALLOT, not the race. The most expensive
+│        judicial contest in American history was run on a nonpartisan ballot —
+│        see Part E.
+│      [ ] West Virginia moved here from the partisan lane in 2015 by statute.
+│
+├─◆ THE MICHIGAN METHOD — 1 state
+│   └─ Michigan ..... party conventions nominate the candidates; the ballot prints
+│                     no party label. Categorized separately because it is neither:
+│                     the party controls access, the voter is not told. 8-year terms.
+│      ✱ The purest demonstration that the ballot label and the selection gate are
+│        two different things, and only one of them is published.
+│
+├─◆ ASSISTED APPOINTMENT / COMMISSION — 21 states
+│   ├─ Alaska · Arizona · Colorado · Connecticut · Delaware · Florida · Hawaii
+│   ├─ Indiana · Iowa · Kansas · Maryland · Missouri · Nebraska · New York
+│   ├─ Oklahoma ⚑ · Rhode Island · South Dakota · Tennessee · Utah ⚑ · Vermont
+│   └─ Wyoming                                        [ ] D.C. also, not a state
+│      ⚑ Oklahoma's commission composition is ON THE BALLOT 3 NOVEMBER 2026 — Part D
+│      ⚑ Kansas voters REJECTED abolishing this design 4 August 2026, ~62% no — Part D
+│      ⚑ Utah expanded its supreme court from five seats to seven; the new seats
+│        were unfilled as of the 2026 cycle, so the expansion is itself a vacancy
+│        instrument operating through this lane.
+│
+├─◆ GUBERNATORIAL APPOINTMENT, NO BINDING COMMISSION — 5 states
+│   ├─ California ... appoint → confirm by the Commission on Judicial Appointments
+│   │                 → voter RETENTION at the next general, 12-year terms
+│   ├─ Maine ........ appoint → legislative confirmation, 7-year terms, reappointable
+│   ├─ Massachusetts  appoint → Governor's Council confirms → serve to age 70 ⊘
+│   ├─ New Hampshire  appoint → Executive Council confirms → serve to age 70 ⊘
+│   └─ New Jersey ... appoint → senate consent, 7 years → reappointment to tenure
+│      ⊘ In Massachusetts and New Hampshire there is NO reselection event at all.
+│        Once seated, the only scheduled exit is the birthday. No ballot, no
+│        reappointment, no commission review — foreclosed by constitutional text,
+│        not by anyone's forbearance.
+│
+└─◆ LEGISLATIVE ELECTION — 2 states
+    ├─ South Carolina  a screening commission certifies candidates; the General
+    │                  Assembly elects from the certified list
+    └─ Virginia ...... the General Assembly elects outright, 12-year terms
+       ✱ In these two states the voter's only input into the bench is the
+         legislative election, one step removed — and the same body that elects
+         the judges writes the statutes those judges construe.
+
+■ PART C — KEEPING THE SEAT: THE QUESTION THAT DECIDES MORE THAN PART B DOES
+│
+├─◆ LANE 1 · RETENTION ELECTION — 19 states ◈
+│   │  An unopposed yes/no ballot. No opponent, no second name, no choice of
+│   │  successor. The 19 arrive here from FOUR different places:
+│   ├─ from assisted appointment (15) .. Alaska · Arizona · Colorado · Florida
+│   │     Indiana · Iowa · Kansas · Maryland · Missouri · Nebraska · Oklahoma
+│   │     South Dakota · Tennessee · Utah · Wyoming
+│   ├─ from PARTISAN election (2) ...... Illinois · Pennsylvania
+│   │     ✱ Elected in a party contest, retained in a no-party referendum. The
+│   │       voter is asked two different questions about the same seat.
+│   ├─ from gubernatorial appointment (1)  California
+│   └─ from the hybrid (1) ............. New Mexico
+│
+│   ◆ THE THRESHOLD — the sleeper variable
+│     ├─ 48 states ..... simple majority, 50% + 1
+│     ├─ NEW MEXICO .... 57% required
+│     └─ ILLINOIS ...... 60% required  ⊘ state constitution, art. VI § 12(d)
+│        ✱ In 2020 an Illinois justice took ~56% YES and lost the seat. A majority
+│          of voters voted to retain him. This is the only American office in this
+│          map series where a clear majority is a defeat, and no legislature can
+│          change it — it takes an amendment.
+│
+├─◆ LANE 2 · CONTESTED RE-ELECTION — the election states
+│   ├─ The incumbent runs again, on the same ballot type as the first time, against
+│   │  anyone who files. Alabama · Arkansas · Georgia · Idaho · Kentucky · Louisiana
+│   │  Michigan · Minnesota · Mississippi · Montana · Nevada · North Carolina
+│   │  North Dakota · Ohio · Oregon · Texas · Washington · West Virginia · Wisconsin
+│   └─ [ ] Montana is a hybrid: an UNOPPOSED incumbent faces a retention ballot
+│          instead of a contested one, so the challenger's filing decision chooses
+│          which of the two mechanisms the voter gets.
+│
+├─◆ LANE 3 · REAPPOINTMENT — no voter involvement after the first day
+│   ├─ Connecticut ... commission review → governor renominates → legislature confirms
+│   ├─ Delaware ...... the incumbent REAPPLIES to the commission and competes against
+│   │                  the open field → governor renominates → senate confirms
+│   ├─ Hawaii ........ the judicial selection commission alone decides, 10-year terms
+│   ├─ New York ...... Court of Appeals, 14-year terms → commission → governor →
+│   │                  senate. The longest fixed term of any state high court.
+│   ├─ New Jersey .... governor + senate, at which point the term becomes tenure
+│   ├─ Maine ......... governor + legislative confirmation
+│   └─ Vermont ....... the GENERAL ASSEMBLY votes to retain, 6-year terms
+│        ✱ Vermont is the only state where a legislature holds the retention vote.
+│          Delaware is the only state where a sitting justice must re-apply for the
+│          job against outside applicants.
+│
+└─◆ LANE 4 · NOTHING — no reselection event exists
+    ├─ Rhode Island .. life tenure, no mandatory retirement age ⊘
+    ├─ Massachusetts . to age 70 ⊘
+    └─ New Hampshire . to age 70 ⊘
+       ✱ Three states. Rhode Island's high court is the only American bench outside
+         Article III with life tenure and no age limit — a stronger tenure
+         protection than a federal judge has in practice, because senior status does
+         not exist there to create a vacancy (see Notes).
+
+■ PART D — THE COMMISSION, WHERE THE ACTUAL FIGHT IS
+│
+├─ A nominating commission is not one thing. Ballotpedia classifies them by who
+│  appoints a MAJORITY of the members, and the three classes are different systems
+│  wearing the same name:
+│  ├─▸ BAR-CONTROLLED ....... the state bar association appoints a majority
+│  ├─▸ GOVERNOR-CONTROLLED .. the governor appoints a majority, or may decline the
+│  │                          commission's entire list
+│  └─▸ HYBRID ............... neither holds a majority; every state writes its own
+│
+│  ◈ THE OPEN QUESTION, AND IT IS THE CENTRAL ONE: no published national table
+│    assigns the 21 commission states to these three classes. The taxonomy is
+│    public; the state-by-state assignment is not. Everything below is therefore
+│    case-by-case, and the gap is flagged in the Notes as the next map.
+│
+├─◆ CASE 1 · KANSAS — ABOLITION, PUT TO THE VOTERS, AND BEATEN  ⚑ 4 AUGUST 2026
+│   ├─ The design under attack: a 9-member commission — FIVE elected by the state's
+│   │  attorneys, FOUR appointed by the governor — sends the governor three
+│   │  finalists. Bar-controlled by one seat. Adopted by >70% of voters in 1958,
+│   │  the year after the "triple play" scandal, in which an outgoing governor
+│   │  resigned so his successor could appoint him chief justice.
+│   ├─ The instrument: a constitutional amendment to elect justices outright,
+│   │  stripping the restrictions on judicial political activity and fundraising
+│   │  and leaving it to the LEGISLATURE to decide afterward whether the elections
+│   │  would be partisan or nonpartisan, statewide or by districts it would draw.
+│   │  ✱ That is the part to notice: the amendment did not specify the system it
+│   │    was installing. It transferred the choice of system to the legislature.
+│   ├─ $ ~$12.8 million on both sides combined, much of it undisclosed.
+│   └─ RESULT: rejected, roughly 62% NO. The design survived by amendment failure.
+│
+├─◆ CASE 2 · OKLAHOMA — COMPOSITION, NOT ABOLITION  ⚑ ON THE BALLOT 3 NOV 2026
+│   ├─ The design: a 15-member Judicial Nominating Commission — SIX lawyers elected
+│   │  by the state bar, SIX non-lawyers appointed by the governor, ONE each by the
+│   │  House Speaker and Senate Pro Tem, ONE at-large chosen by the commission.
+│   │  Created in 1967 by SQ 447, after a bribery scandal on the state supreme court.
+│   ├─ SQ 845 (Legislative Referendum 379, from HJR 1024, 2026 session) KEEPS the
+│   │  bar's six seats and changes everything around them:
+│   │  ├─ lets the governor's appointees and the at-large members be LAWYERS
+│   │  ├─ removes the bar on members having immediate family who practice law
+│   │  ├─ removes the PARTY-BALANCE CAPS on the governor's and at-large seats
+│   │  ├─ allows consecutive terms, up to 12 consecutive years
+│   │  └─ updates the districts from the 1967 congressional map to the current one
+│   └─ ✱ The structural contrast with Kansas is the whole of this part. Kansas put
+│        the DESIGN on the ballot and lost 62–38. Oklahoma put the MEMBERSHIP RULES
+│        on the ballot. Same objective, a far smaller target, and no campaign can
+│        easily be run against a party-balance cap. [ ] Reporting on an earlier
+│        version described eliminating the bar's seats; the enrolled ballot title
+│        does not. Verify against the ballot title, not the coverage — see Notes.
+│
+└─◆ WHAT THE TWO CASES SHARE
+    ├─ Both commissions were created IN RESPONSE TO A CORRUPTION SCANDAL — Kansas
+    │  1958, Oklahoma 1967 — and in both states the reform is now the thing being
+    │  reformed, two generations later, by people for whom the scandal is history.
+    └─ ✱ Neither fight is about whether judges are elected. Both are about who
+         holds the pen before the ballot is printed.
+
+■ PART E — THE MONEY, AND WHAT IT BOUGHT
+│
+├─◆ THE CONTESTED-RACE CEILING
+│   └─ $ WISCONSIN 2025 .... >$100 MILLION in a single state supreme court race,
+│        the most expensive judicial contest in American history — on a NONPARTISAN
+│        ballot, in a state of ~5.9 million people, for one seat on one court.
+│        [ ] Spending in the April 2026 Wisconsin race fell sharply from that peak;
+│            the ceiling is not yet an annual floor.
+│
+├─◆ THE RETENTION BARGAIN — why the cheap mechanism is the effective one
+│   ├─ $ IOWA 2010 ........ THREE justices removed at once — ~45% yes apiece — over
+│   │     one unanimous 2009 ruling on same-sex marriage. The ouster campaign was
+│   │     funded largely out of state: a national marriage group bought $600,000 of
+│   │     advertising, a national family-policy group did most of the financing, a
+│   │     presidential PAC gave $125,000. The defense raised a little over $350,000.
+│   │     ✱ Three seats on a state supreme court turned over for roughly the price
+│   │       of one competitive state senate race.
+│   ├─ $ IOWA 2012 ........ the same campaign, against a fourth justice from the
+│   │     same ruling, FAILED — he held with ~54%. Same mechanism, same funders,
+│   │     opposite result two years later, with nothing changed but the electorate.
+│   └─ $ ILLINOIS 2020 .... ~$4.3 million spent to defeat ONE retention, against
+│         ~$5.5 million raised to defend it — the costliest retention fight on
+│         record. Two individual donors supplied $5.5 million of the attack. The
+│         justice took ~56% yes against a 60% requirement and lost the seat.
+│
+└─◆ ✱ THE STRUCTURAL POINT OF THE WHOLE MAP
+    │  A contested seat costs what a candidate costs. A RETENTION seat costs what a
+    │  NO costs — and a no needs no candidate, no filing deadline, no primary, no
+    │  successor, and no plan for who sits in the chair afterward. In the appointment
+    │  states, the chair is refilled by the governor.
+    └─ ⚖ The doctrinal floor under all of it is thin. Republican Party of Minnesota
+         v. White (2002) struck down state limits on what a judicial candidate may
+         say about disputed issues; Caperton v. A.T. Massey Coal Co. (2009) held
+         that due process required recusal where one litigant's spending was
+         extreme — a standard pitched at the extraordinary case, which the ordinary
+         $100-million case does not obviously meet.
+
+■ PART F — WHAT IS ON THE BALLOT IN 2026  ⚑
+│
+├─ 32 states · 60+ high-court seats · 19 contested cycles and 13 retention cycles
+├─◆ The two courts whose composition can actually change hands
+│   ├─ MONTANA ..... one open seat, nonpartisan ballot, retiring incumbent
+│   └─ WASHINGTON .. five of nine seats, two of them open
+├─◆ Mechanism changes already applied this cycle
+│   ├─ Ohio ........ party labels on the ballot by statute (since 2021)
+│   ├─ Louisiana ... first closed party primaries for the court (2024 law)
+│   ├─ Arkansas .... two appointed justices SWAPPED SEATS to get around the state
+│   │                constitutional bar on an appointee running for the seat he
+│   │                was appointed to ⊘ — the bar was not changed; it was routed
+│   ├─ Minnesota ... an interim appointment to the chief justice seat effectively
+│   │                cancelled an associate seat's election: by statute an interim
+│   │                justice must serve a year before facing voters
+│   ├─ Mississippi . supreme court elections CANCELLED for the cycle following the
+│   │                Callais ruling and its redistricting consequences
+│   └─ Utah ........ court expanded 5 → 7 seats; the new seats sat unfilled
+└─ ✱ Read Part F against Part B. Five of the six changes above moved the MECHANISM,
+     not the seat. None of the five required a voter to approve anything.
