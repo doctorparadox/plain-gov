@@ -1,0 +1,265 @@
+HOW A STATE LEGISLATURE MAKES LAW                                (as of 9 November 2026)
+│   Legend:  ──▶ main path  └─▶ branch or bypass  ◇ decision  ✕ the bill dies here
+│            ★ the vote that decides it   ⚑ load-bearing stage, where bills actually
+│            die   ☐ the rule is a published number a sponsor can count in advance
+│            ◎ one person decides alone, with no vote and no record   § the rule is in
+│            the state constitution, so the chamber cannot change it   ⊘ a power that
+│            exists on paper and cannot be used   ◈ a consequence written in no statute
+│            ≠ two products of one body, held to unequal standards   [ ] dated note
+│   Scale:   4,632 election-related bills and resolutions were tracked across the
+│            states in 2026 and 419 were enacted, in 44 states — 9.0 percent. The
+│            citizen petition route to the same ballots ran at 7.6 percent the same
+│            year. The two rates are nearly equal; almost none of the gates are.
+│            [ Ballotpedia, Election Policy Legislation Tracker, through 14 Aug 2026. ]
+│
+■ 0. DOES THE BODY MEET AT ALL   ⚑ §   (the first gate, and the least visible)
+│     ☐ 46 STATES MEET ANNUALLY. FOUR DO NOT — Montana, Nevada, North Dakota and
+│       Texas hold regular sessions in odd-numbered years only. In the 2026 midterm
+│       year those four legislatures held no regular session at all, so in a year when
+│       states enacted 419 election bills, four states could enact none except by
+│       special session.
+│     § THE LIMIT IS USUALLY CONSTITUTIONAL, WHICH MEANS THE CHAMBER CANNOT EXTEND IT.
+│       Where no constitution speaks, the limit is in statute, in a chamber rule, or
+│       is indirect — the per diem and mileage simply stop being paid on a fixed day.
+│       [ NCSL's chapter-length tally of those four mechanisms dates to the mid-2000s
+│         and its "no limit" column has since moved, so it is not reproduced here. ]
+│     ☐ AT LEAST NINE STATES SET NO LIMIT ON THE LENGTH OF A REGULAR SESSION: Idaho,
+│       Illinois, Michigan, New Jersey, New York, North Carolina, Ohio, Pennsylvania
+│       and Rhode Island. California and Kansas set none in odd years only.
+│     └─▶ AT THE OTHER END, THE EVEN-YEAR SESSION IS SHORT ENOUGH TO BE THE WHOLE
+│          STORY: 30 days in Arkansas, New Mexico and Indiana, 35 calendar days in
+│          Oregon. Arkansas convened on 8 April 2026 and adjourned on 29 April — a
+│          21-day window for every bill any member wished to file that year.
+│     ◈ A SHORT SESSION DOES NOT REDUCE THE NUMBER OF BILLS; IT RAISES THE VALUE OF
+│       CONTROLLING THE CALENDAR. Nothing in a session limit says which bills get the
+│       days. That is decided at stages 3 and 5 by people the limit does not bind.
+│
+├─◆ 1. WHERE THE TEXT COMES FROM   ◈   (five sources; only one of them is a legislator)
+│     ◇ who wrote the words?
+│     │
+│     ├─ 1a THE MEMBER OR THE MEMBER'S STAFF ──▶ the picture most people hold, and in
+│     │     a part-time body with a handful of shared staff it is the exception rather
+│     │     than the rule.
+│     │
+│     ├─ 1b THE LEGISLATURE'S OWN DRAFTING OFFICE ──▶ a nonpartisan legislative
+│     │     service agency or revisor of statutes turns a member's request into bill
+│     │     form. It does not choose the subject and it does not refuse one.
+│     │
+│     ├─ 1c AN EXECUTIVE AGENCY ──▶ the departmental or "agency bill," drafted by the
+│     │     people who will administer it and carried by a member who agrees to file
+│     │     it. In most states it travels under ordinary member sponsorship and is
+│     │     indistinguishable on the face of the bill.
+│     │
+│     ├─ 1d A DELIBERATIVE UNIFORM-LAW BODY ──▶ the Uniform Law Commission, founded
+│     │     1892, roughly 350 commissioners who must all be attorneys, funded chiefly
+│     │     by state appropriations. A draft is considered section by section at no
+│     │     fewer than two annual meetings; each of 53 state and territorial
+│     │     delegations casts one vote; approval takes at least 20 jurisdictions. It
+│     │     has produced more than 450 uniform acts and, in its own words, "can only
+│     │     propose — no uniform law is effective until a state legislature adopts it."
+│     │
+│     └─ 1e AN ADVOCACY MODEL-BILL SHOP ──▶ ◈ THE STAGE THAT APPEARS IN NO PROCEDURE
+│           MANUAL AND LEAVES NO MARK ON THE BILL. A 2019 investigation by USA TODAY,
+│           the Arizona Republic and the Center for Public Integrity ran a
+│           text-comparison tool across state bills from 2010 to 2018, identified more
+│           than 2,100 model acts, and found legislators had introduced bills based on
+│           them at least 10,000 times. In Mississippi alone, 744 bills traced to model
+│           acts and 57 became law.
+│           The best-documented shop is the American Legislative Exchange Council:
+│           nine task forces generate the drafts, private-sector members hold what
+│           amounts to a veto over what the task forces produce, and a board composed
+│           only of legislators must then approve a text before it is a model bill.
+│           Around a thousand bills carrying its language were reported introduced in a
+│           year and roughly 200 enacted. Think tanks in the State Policy Network write
+│           drafts that reach the same meetings.
+│           [ Investigation figures are 2010–2018. The ALEC volume figures are from
+│             2011 reporting and the organisation publishes no current count. ]
+│           ◎ NO STATE REQUIRES A SPONSOR TO DISCLOSE WHO WROTE A BILL. The route a
+│              text travelled is recoverable only by comparing it to another text.
+│
+├─◆ 2. DRAFTING, PREFILING AND INTRODUCTION
+│     ──▶ the bill is numbered, read for the first time, and printed. In many states
+│          members may prefile before the session convenes, which is how a 30-day
+│          session can open with several hundred bills already waiting.
+│     └─▶ SOME CHAMBERS CAP HOW MANY BILLS A MEMBER MAY FILE, by rule rather than by
+│          constitution, which converts the drafting stage into a choice among a
+│          member's own priorities before anyone else has seen them.
+│          [ The state-by-state caps are set by chamber rule and change with each
+│            organising session, and are not listed here. ]
+│
+├─◆ 3. THE COMMITTEE REFERENCE   ⚑ ◎   (one signature, and most bills are over)
+│     ◎ THE PRESIDING OFFICER DECIDES WHICH COMMITTEE GETS THE BILL. In most chambers
+│       that is the Speaker or the Senate President, acting alone, under a rule the
+│       chamber itself wrote. There is no vote, no stated standard and no appeal in
+│       most chambers, and the choice is frequently outcome-determinative, because
+│       committees differ in who chairs them and what they report.
+│     └─▶ MULTIPLE REFERENCE ──▶ a bill sent to two or three committees in sequence
+│          must clear each of them inside the same session clock. In a short session
+│          this is a decision about arithmetic disguised as a decision about subject.
+│     ✕ ◈ THE CHAIR'S DRAWER. A committee chair who never schedules a hearing ends
+│       the bill, and nothing requires an explanation, a motion, or a notation in the
+│       journal. The bill simply does not appear. This is the single most common
+│       terminal stage in American state lawmaking and the one that generates no
+│       document — which is why no national figure for it exists.
+│     └─▶ THE ONE CHAMBER THAT CLOSED THE DRAWER: in Nebraska every bill is guaranteed
+│          a public hearing. The guarantee is a rule of the Legislature, not a
+│          provision of the state constitution — which is to say the body that made it
+│          could unmake it.
+│     └─▶ THE DISCHARGE PETITION, WHERE IT EXISTS, is the formal route around a
+│          committee, and it requires a floor majority to overturn the judgment of a
+│          chair who was appointed by the person who controls the floor majority.
+│
+├─◆ 4. THE COMMITTEE ACTS
+│     ──▶ hearing ──▶ amendment ──▶ a vote to report the bill out, with or without
+│          recommendation. A committee may also report a substitute, which replaces
+│          the sponsor's text entirely while keeping the bill number.
+│     ◇ does the bill as reported still do what the sponsor filed it to do?
+│       └─▶ ◈ a gut-and-replace, where a live bill's contents are struck and
+│            unrelated text inserted, moves a new subject into a vehicle that has
+│            already cleared the deadlines the new subject would have missed.
+│     § THE LIMIT ON THAT, WHERE THERE IS ONE, IS CONSTITUTIONAL — the single-subject
+│       requirement, present in most state constitutions for ordinary legislation, and
+│       enforceable only by a court after the fact.
+│
+├─◆ 5. THE FIRST CHAMBER'S FLOOR   ★
+│     ──▶ second reading, debate and amendment from the floor ──▶ third reading and
+│          the recorded vote. ☐ passage is a simple majority of those voting in almost
+│          every chamber on almost every bill.
+│     ◎ THE CALENDAR IS SET BY LEADERSHIP OR BY A RULES COMMITTEE IT CONTROLS, so a
+│       bill reported favourably may still never be called. Being out of committee is
+│       permission to be scheduled, not a right to a vote.
+│     └─▶ GERMANENESS limits what may be added on the floor — again a chamber rule,
+│          waivable by the chamber.
+│     └─▶ NEBRASKA IS THE ONLY UNICAMERAL LEGISLATURE AND THE ONLY STATE CHAMBER WITH
+│          A FILIBUSTER THAT BITES: 49 senators, elected on a nonpartisan ballot, and
+│          cloture requires two-thirds of the elected membership — 33 votes — against
+│          the 25 needed to pass a bill. ◈ A measure can therefore hold a majority of
+│          the only chamber in the state and still never be voted on, and the rules
+│          governing the rules themselves are not subject to cloture at all.
+│     § SOME SUBJECTS CARRY A HIGHER BAR THAN THE BILL BESIDE THEM. Supermajorities to
+│       raise taxes are written into roughly fifteen states' constitutions or statutes.
+│       [ Count from an NCSL tally of 2010; several states have amended since. ]
+│     ✕ A bill not passed by the first chamber before the session ends is dead, unless
+│       the state allows carryover into the second year of the biennium.
+│
+├─◆ 6. THE SECOND CHAMBER   ⚑   (the same machine again, on a shorter clock)
+│     ──▶ reference ──▶ committee ──▶ floor. Every gate at stages 3, 4 and 5 is met a
+│          second time, under a different presiding officer, different chairs and
+│          different rules.
+│     ☐ THE CROSSOVER DEADLINE IS THE PUBLISHED NUMBER THAT DOES THE KILLING. Most
+│       chambers fix a day by which a bill must have passed its house of origin to be
+│       considered at all in the other. It is a chamber rule, it is published in
+│       advance, and after it passes a bill that is merely slow is as dead as a bill
+│       that was defeated.
+│     ⊘ ONE-CHAMBER STATES HAVE NO STAGE 6, which is why the Nebraska filibuster at
+│       stage 5 is doing work that in other states is done by a second chamber.
+│     ✕ Most bills that die after a committee hearing die here, of the clock.
+│
+├─◆ 7. RECONCILING TWO VERSIONS
+│     ◇ did the second chamber change the text?
+│     ├─ NO ──▶ straight to the governor.
+│     └─ YES ──▶ the originating chamber concurs, or a conference committee is
+│          appointed. ◎ ITS MEMBERS ARE APPOINTED BY THE PRESIDING OFFICERS, and in
+│          most states its report is voted up or down without amendment — so the last
+│          substantive edit to a statute is often made by a handful of members nobody
+│          chose for that purpose, on a text no committee ever held a hearing on.
+│
+├─◆ 8. THE GOVERNOR   ◇   (four kinds of veto, and a clock that can enact a bill)
+│     ◇ sign · veto · or do nothing?
+│     │
+│     ├─ 8a SIGN ──▶ the bill is law on its effective date. ──▶ STAGE 10.
+│     │
+│     ├─ 8b DO NOTHING ──▶ in 39 states inaction makes the bill law at all times,
+│     │     which means a governor can let a statute take effect without endorsing it.
+│     │     In nine states inaction enacts the bill only while the legislature sits.
+│     │     Iowa requires the governor to sign or veto.
+│     │     ◎ THE POCKET VETO IS THE MIRROR IMAGE: in eleven states a bill left
+│     │        unsigned after adjournment simply dies, with no veto message and nothing
+│     │        to override, because there is no chamber in session to override it.
+│     │     ☐ THE CLOCK IS SHORT AND PUBLISHED: as little as three days in Iowa,
+│     │        Minnesota, New Mexico, North Dakota and Wyoming, up to sixty in
+│     │        Illinois, with ten days the most common figure.
+│     │     [ Veto-type and deadline counts in this stage come from an NCSL procedures
+│     │       chapter of the late 1990s and should be checked against current state
+│     │       constitutions before being relied on. ]
+│     │
+│     ├─ 8c VETO THE WHOLE BILL ──▶ STAGE 9.
+│     │
+│     └─ 8d VETO PART OF IT ──▶ the instrument no president has: 44 states give the
+│           governor an item veto over appropriations. Six do not — Indiana, Nevada,
+│           New Hampshire, North Carolina, Rhode Island and Vermont.
+│           └─▶ A REDUCTION VETO, in about a dozen states, lets the governor lower a
+│                number rather than strike it, which is a power to write a figure the
+│                legislature never voted on.
+│           └─▶ AN AMENDATORY VETO, in a handful of states, returns the bill with the
+│                governor's own suggested language, which the legislature may accept by
+│                majority. ◈ The result is a statute whose operative words were drafted
+│                in the executive branch and never introduced as a bill.
+│           [ The 44-state item-veto figure traces to an NCSL summary archived
+│             in 2012. ]
+│
+├─◆ 9. THE OVERRIDE   ★ §   (where the veto is real, and where it is a delay)
+│     § THE THRESHOLD IS IN THE CONSTITUTION IN EVERY STATE, so this is the one stage
+│       on the map that neither the legislature nor the governor can adjust.
+│     ☐ TWO-THIRDS IS THE COMMONEST RULE, counted off the elected membership in some
+│       states and off those present in others — a distinction that decides overrides,
+│       because two-thirds of a thin Friday floor is a smaller number than two-thirds
+│       of the whole chamber.
+│     ☐ THREE-FIFTHS in Delaware, Illinois, Maryland, Nebraska and Ohio; three-fifths
+│       of those present and voting in North Carolina and Rhode Island.
+│     ⚑ SIX STATES REQUIRE ONLY A MAJORITY OF THE ELECTED MEMBERSHIP: Alabama,
+│       Arkansas, Indiana, Kentucky, Tennessee and West Virginia. ◈ THAT IS THE SAME
+│       MAJORITY THAT PASSED THE BILL. In those six states the veto is not a check on
+│       the legislature at all; it is a delay, and the only question it raises is
+│       whether the majority will trouble to turn up a second time.
+│     └─▶ Alaska raises its own bar in the other direction: two-thirds generally, and
+│          three-quarters for revenue and appropriation bills.
+│     └─▶ Virginia requires two-thirds of those present and, within that two-thirds, a
+│          majority of the members elected — a floor beneath the fraction.
+│
+├─◆ 10. WHAT THE NEW LAW IS STILL SUBJECT TO
+│     ──▶ THE EFFECTIVE DATE. A statute's date is set in the bill, and the gap between
+│          enactment and effect is the window in which it can be enjoined before it has
+│          ever applied to anyone.
+│     └─▶ ◈ THE EMERGENCY CLAUSE DOES TWO THINGS AT ONCE. It makes a statute effective
+│          immediately, and in states with a popular referendum it also places the
+│          statute beyond the reach of that referendum, because there is no 90-day
+│          window in which signatures could suspend a law that is already in force.
+│          A clause justified as urgency is also a clause that removes a check.
+│     └─▶ THE POPULAR REFERENDUM, where it exists, is the voters' veto on this map's
+│          output, and it runs on the adjournment or signing date rather than the
+│          election calendar — see the measure map for the mechanics.
+│     └─▶ THE COURTS, on single subject, on the state constitution, and on federal law.
+│
+└─◆ 11. ≠ THE SECOND PRODUCT: A QUESTION ON THE BALLOT
+      ≠ THE SAME BODY HAS A SECOND OUTPUT, AND IT MEETS ALMOST NONE OF THE ABOVE. A
+        legislatively referred constitutional amendment needs no petition, no
+        signatures, no circulators, no distribution across counties, no officer-written
+        ballot title and no verification. Its threshold is a vote of its own members.
+      ☐ § THE THRESHOLD IS CONSTITUTIONAL AND PUBLISHED: a simple majority in one
+        session in ten states · three-fifths in nine · two-thirds in seventeen · a
+        majority in two successive sessions in seven · and four states that will take
+        either a supermajority once or a majority twice.
+      ⊘ IN DELAWARE THERE IS NO REFERENDUM STAGE AT ALL. Two successive legislatures at
+        two-thirds amend the constitution, and the voters are never asked. It is the
+        only state where that is true; the other 49 require voter approval.
+      ◈ THE SCALE OF THE ASYMMETRY IS THE FINDING. Of 164 statewide measures certified
+        for 2026, 111 were referred by legislatures and 91 of those were constitutional
+        amendments — more than every citizen-initiated measure of every kind combined.
+      └─▶ Several states cap the number of amendments one session may refer — three in
+           Arkansas, four in Kentucky, five in Kansas — and some bar a rejected
+           amendment from returning for years. Those are the only numbers on this
+           branch that resemble a petition requirement, and they bind quantity rather
+           than effort.
+
+│   Legend, restated:
+│      ──▶ main path            └─▶ branch or bypass      ◇ decision point
+│      ✕ the bill dies here     ★ the vote that decides it
+│      ⚑ load-bearing stage, where bills actually die
+│      ☐ the rule is a published number a sponsor can count in advance
+│      ◎ one person decides alone, with no vote and no record
+│      § the rule is in the state constitution, so the chamber cannot change it
+│      ⊘ a power that exists on paper and cannot be used
+│      ◈ a consequence written in no statute
+│      ≠ two products of one body, held to unequal standards
+│      [ ] a dated note or caveat
