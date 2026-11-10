@@ -1,0 +1,359 @@
+HOW A FEDERAL CONTRACTOR IS SUSPENDED AND DEBARRED              (as of 10 November 2026)
+│   Legend:  ──▶ main path  └─▶ branch or bypass  ◇ decision  ✕ out of federal work
+│            ★ the step that decides it   ⚑ load-bearing stage, where the attrition is
+│            ☐ a deadline or period the company can count in advance
+│            ◎ one agency employee decides alone, with no hearing and no vote
+│            § the rule is in statute, not the regulation   ⊘ a right nobody counts
+│            ◈ a consequence written in no rule   ≠ unequal process, same contract
+│            [ ] dated note
+│   Scale:   Across the 24 largest federal agencies in fiscal year 2023: 2,018 cases
+│            referred · 423 suspensions · 1,165 proposed debarments · 1,009 debarments
+│            · 97 show-cause letters · 56 declinations · 15 voluntary exclusions · and
+│            47 administrative agreements, entered by 10 agencies. Proposed debarments
+│            outnumber suspensions nearly three to one, and the negotiated exits are
+│            rarer than either — about one administrative agreement for every 21
+│            debarments.
+│            [ Interagency Suspension and Debarment Committee, Section 873 report to
+│              Congress for FY2023, transmitted 31 Dec. 2024, Appendices 2 and 3. ]
+│
+■ 0. TWO INSTRUMENTS, TWO STANDARDS OF PROOF        (FAR 9.406-2 · 9.407-2)   ⚑
+│     The subpart holds two tools that look alike and are not. Everything downstream
+│     — how fast it bites, what the company gets to say, how long it lasts — follows
+│     from which one is used.
+│
+├─◆ SUSPENSION · "suspected, upon adequate evidence"              (FAR 9.407-2)
+│     ☐ Temporary, pending an investigation and any legal proceedings that follow.
+│     § An INDICTMENT is by itself adequate evidence. Nothing more is required.
+│     The lowest evidentiary bar in the subpart, and the fastest instrument.
+│
+└─◆ DEBARMENT · a conviction, a civil judgment, or a preponderance  (FAR 9.406-2)
+      ☐ A fixed period, ended by the calendar rather than by an investigation.
+      Three tracks into it:
+        (a) a CONVICTION or CIVIL JUDGMENT — contract fraud, antitrust bid-rigging,
+            embezzlement, forgery, bribery, falsified records, false statements, tax
+            evasion, receiving stolen property, a false "Made in America" label, or
+            "any other offense indicating a lack of business integrity."
+        (b) a PREPONDERANCE OF THE EVIDENCE — no court involved at all. Covers wilful
+            non-performance or a history of failure to perform; drug-free workplace
+            violations; unfair trade practices; delinquent federal taxes over $10,000;
+            and the disclosure rule below.
+        ◈ (b)(vi) is the one most contractors are surprised by: a principal's KNOWING
+            FAILURE to disclose credible evidence of fraud, bribery, conflict of
+            interest, a False Claims Act violation or a significant overpayment — a
+            duty that runs until three years after final payment. Staying quiet is
+            itself a cause.
+        (c) the CATCH-ALL — "any other cause of so serious or compelling a nature
+            that it affects the present responsibility of the contractor." No list,
+            no court, no ceiling.
+│
+■ 1. WHO DECIDES            (FAR 2.101 · 9.406-1 · 9.407-1)      ◎ ⚑ ★
+│     ONE PERSON. The suspending and debarring official — "a designee authorized by
+│     the agency head to impose a suspension and/or a debarment." Not a board, not a
+│     judge, not a commission. An employee of the agency doing the excluding, holding
+│     no fixed term and no removal protection, deciding in the first instance and
+│     with no appeal inside the subpart.
+│     ◎ The title was unified in 2025: before then the regulation named a separate
+│       "debarring official" and "suspending official."
+│       [ FAR Case 2019-015, final rule effective 17 Jan. 2026 — see stage 13. ]
+│     § Once a cause exists, THE BURDEN FLIPS. The company must demonstrate that it
+│       is presently responsible and that exclusion is not necessary. The government
+│       does not have to show that it is.      (FAR 9.406-1(b))
+│     Where two agencies both have an interest, they coordinate through the
+│     Interagency Suspension and Debarment Committee to pick the official best
+│     situated to act; occasionally two act jointly. The committee is an unfunded
+│     interagency body created by Executive Order 12549, and it has no power to
+│     decide a case itself.
+│
+│     ──▶
+│
+■ 2. THE ORDER OF OPERATIONS, WHICH IS THE WHOLE POINT       ⚑ ≠
+│     This is where the two instruments split, and it is the stage a reader should
+│     slow down on.
+│
+├─◆ 2a. SUSPENSION — EFFECT FIRST, NOTICE SECOND     (FAR 9.407-3(b)-(c))   ✕
+│     │  The suspension is imposed. The company "shall be immediately advised" —
+│     │  afterwards. The opportunity to oppose it comes "following the imposition
+│     │  of suspension."
+│     │  ☐ The notice gives 30 days to respond.
+│     │  ◈ The notice describes the conduct "without disclosing the Government's
+│     │    evidence." The company is told what it is accused of and not what the
+│     │    accusation rests on.
+│     └─▶ The company is out of new federal work from this moment, before it has
+│         said a word.
+│
+└─◆ 2b. DEBARMENT — NOTICE FIRST, BUT THE NOTICE ALREADY EXCLUDES  (FAR 9.406-3(c))
+      │  A notice of PROPOSED debarment goes to the company and any named affiliates,
+      │  stating the reasons and the cause relied on.
+      │  ☐ 30 days to submit information and argument in opposition — in writing, in
+      │    person, or through a representative.
+      │  ✕ ◈ A PROPOSED debarment carries the same exclusionary effect as a finished
+      │      one. A company under proposal is already off the eligible list while the
+      │      proposal is pending. The word "proposed" does not soften anything.
+      │      (FAR 9.405(a) · and see stage 7)
+      └─▶ A pre-notice letter — a warning shot that excludes nobody — exists and is
+          optional: "A pre-notice letter is not required to initiate debarment."
+          97 were sent government-wide in FY2023, against 1,165 proposed debarments.
+│
+│     ──▶
+│
+■ 3. THE 30 DAYS         (FAR 9.406-3(b)(1), (c) · 9.407-3(b)(1), (c)(5))   ☐
+│     Both tracks converge on one written submission, and the regulation sets the
+│     register deliberately low: the procedures are to be "as informal as is
+│     practicable, consistent with principles of fundamental fairness."
+│     ⚑ The single most consequential sentence for a company drafting that letter:
+│       "A general denial is insufficient to raise a genuine dispute over facts
+│       material to the proposed debarment."   (FAR 9.406-3(c)(3)(viii)(A))
+│       A denial is not a dispute. Specificity in these thirty days is what decides
+│       whether stage 4 ever opens.
+│
+│     ──▶
+│
+■ 4. ◇ THE HEARING THAT USUALLY DOES NOT HAPPEN   (FAR 9.406-3(b)(2) · 9.407-3)  ⚑ ★
+│     Everything that looks like a trial in this subpart lives behind two gates, and
+│     most cases never reach them.
+│
+│     ◇ GATE ONE — IS THE ACTION BASED ON A COURT'S WORK?
+│     ├─▶ YES (a conviction · a civil judgment · for suspension, an indictment)
+│     │     ✕ No fact proceedings. The decision is made "on the basis of all the
+│     │       information in the administrative record." The company's 30-day letter
+│     │       is in that record; nothing else is added.
+│     │     § This is the hinge of the whole design: an indictment is adequate
+│     │       evidence for a suspension (stage 0), and an indictment-based action is
+│     │       also exempt from fact proceedings. A grand jury's finding, reached
+│     │       without the company present, both triggers the exclusion and forecloses
+│     │       the hearing about it.
+│     │
+│     └─▶ NO ──▶ ◇ GATE TWO — DID THE LETTER RAISE A GENUINE DISPUTE OVER FACTS
+│                   MATERIAL TO THE ACTION?
+│           ├─▶ NO  ✕ Administrative record again. No hearing.
+│           └─▶ YES ──▶ ★ THE FULL PROCEDURE OPENS, and it is substantial:
+│                 appear with counsel · submit documentary evidence · present
+│                 witnesses · "confront any person the agency presents" · a
+│                 transcribed record · and WRITTEN FINDINGS OF FACT.
+│                 ◈ A fact-finder's findings bind the deciding official, who may
+│                   reject them "only after specifically determining them to be
+│                   arbitrary and capricious or clearly erroneous."
+│                 ⊘ For SUSPENSION there is a third gate on top of these two: the
+│                   Department of Justice or the responsible prosecutor may determine
+│                   that substantial interests in a related proceeding would be
+│                   prejudiced — and the fact proceedings do not happen at all. The
+│                   company's right to a hearing can be switched off by a party that
+│                   is not the deciding official and not reviewable in the
+│                   proceeding.          (FAR 9.407-3(c)(6) · (d)(1))
+│
+│     ──▶
+│
+■ 5. THE DECISION       (FAR 9.406-3(d) · 9.407-3(d))      ★
+│     ☐ Where no suspension is already in effect and the case is decided on the
+│       record, the debarment decision is due within 45 days of the record closing,
+│       extendable for good cause. Where a suspension IS in effect, the clock in this
+│       stage does not bind — the company stays excluded while the official takes
+│       longer.
+│     For a debarment not based on a conviction or judgment, cause "must be
+│     established by a preponderance of the evidence." For a suspension the standard
+│     never rises above "adequate evidence."
+│     ◈ A suspension may be modified, terminated, or left in force — and termination
+│       is "without prejudice" to a later suspension or debarment by ANY agency. A
+│       company that wins is not cleared; it is returned to the queue.
+│
+│     ──▶
+│
+■ 6. THE EXCLUSION, GOVERNMENT-WIDE AND IMMEDIATE      (FAR 9.404 · 9.405)   ✕ ⚑
+│     § One agency's decision binds the whole executive branch. A debarment or
+│       proposed debarment "shall be effective throughout the executive branch of the
+│       Government." Agencies "shall not solicit offers from, award contracts to, or
+│       consent to subcontracts with these contractors."
+│     ☐ The record goes into the exclusions section of the System for Award
+│       Management within 3 working days of the action taking effect, carrying the
+│       agency, the cause, the effect and the termination date. Contracting officers
+│       must re-check it before award.
+│     What the exclusion reaches, beyond new prime contracts:
+│       · the company may not act as an agent or representative of another contractor
+│         in dealings with the government
+│       · it may not act as an individual surety
+│       · its bids are rejected and its proposals are not evaluated — no discussions
+│         are even held — absent a written compelling-reason determination
+│       · other contractors are barred from subcontracting with it above $45,000
+│       · ordering activities may not place new orders, place schedule orders, or add
+│         work or options under existing vehicles
+│     └─▶ ◎ THE ONE DOOR THAT STAYS OPEN: the agency head, or a designee, may state
+│         in writing a COMPELLING REASON to keep dealing with an excluded company.
+│         Existing contracts also continue by default "unless the agency head directs
+│         otherwise." So the instrument that binds every agency at once can be
+│         unbound, one agency at a time, by one official with a memo.
+│         ⊘ No public source found in this survey counts how often that happens.
+│
+│     ──▶
+│
+■ 7. HOW LONG       (FAR 9.406-4 · 9.407-4)      ☐ §
+│
+├─◆ SUSPENSION — THE ONLY HARD CEILING IN THE SUBPART
+│     ☐ If legal proceedings are not begun within 12 MONTHS of the suspension notice,
+│       the suspension "shall be terminated" — unless a prosecuting office asks for
+│       more, in which case it "may be extended for an additional 6 months."
+│     ☐ "In no event may a suspension extend beyond 18 months, unless legal
+│       proceedings have been initiated within that period."
+│     § The suspending official must notify the Justice Department or the responsible
+│       prosecutor at least 30 days before the 12 months run out, so that office can
+│       ask for the extension. The deadline comes with a built-in reminder to the
+│       party most likely to want it extended.
+│     ◈ AND THERE THE CEILING STOPS. Once proceedings are begun inside the 18 months,
+│       the suspension runs "pending the completion of an investigation and any
+│       ensuing legal proceedings," with no further outer limit written anywhere. The
+│       temporary instrument becomes open-ended at the moment a case is filed.
+│
+└─◆ DEBARMENT — A PRESUMPTION, NOT A LIMIT
+      ☐ "Generally, debarment should not exceed 3 years," and must be "commensurate
+        with the seriousness of the cause(s)." Three statutory departures:
+          · drug-free workplace violations — up to 5 years
+          · immigration-law determinations by Homeland Security or the Attorney
+            General — 1 year, extendable in further one-year periods, and that
+            determination "is not reviewable in the debarment proceedings"
+          · false arms-control certifications — NOT LESS THAN 2 years, a floor rather
+            than a ceiling, counting any suspension already served
+      ☐ Time served under a suspension counts toward the debarment period.
+      ◈ Both directions are open afterwards. The official MAY EXTEND a debarment to
+        protect the government's interest — but "may not be extended solely on the
+        basis of the facts and circumstances upon which the initial debarment action
+        was based," so an extension needs something new. And the official MAY REDUCE
+        it on the company's documented request: newly discovered evidence, a reversed
+        conviction, or "a bona fide change in ownership or management."
+      ⚑ That last clause is the most consequential sentence in the stage. Debarment
+        attaches to present responsibility, and present responsibility can be
+        acquired by replacing the people who lacked it. A change of management is a
+        route out that a fine or a prosecution has no equivalent of.
+│
+│     ──▶
+│
+■ 8. THE FOUR EXITS, AND THEY ARE NOT EQUIVALENT    (FAR 9.406-3(f)-(g) · 9.406-4)
+│
+├─◆ 8a. THE PERIOD EXPIRES ──▶ the SAM record carries a termination date; the
+│       company becomes eligible again with no further decision required.
+├─◆ 8b. REDUCTION OR EARLY TERMINATION ──▶ the official shortens it on request
+│       (stage 7), or terminates a suspension outright — without prejudice.
+├─◆ 8c. VOLUNTARY EXCLUSION ──▶ the company agrees to be excluded rather than
+│       litigate. § It "must have Governmentwide effect," and it is entered in the
+│       EXCLUSIONS SECTION OF SAM. 15 government-wide in FY2023.
+└─◆ 8d. ADMINISTRATIVE AGREEMENT ──▶ ⚑ ★ the negotiated settlement in which the
+        company accepts compliance obligations — monitors, certifications, reporting
+        — and is NOT suspended and NOT debarred. It keeps selling. 47 entered by 10
+        agencies in FY2023, against 1,009 debarments.
+        ◈ This is the outcome a well-advised large contractor is working toward from
+          the first notice, and the only exit that leaves the customer relationship
+          intact.
+│
+│     ──▶
+│
+■ 9. WHO CAN SEE IT        (FAR 9.404 · 9.406-3(f) · 41 U.S.C. § 2313)     ⚑ ◈ ≠
+│     The four exits land in two different databases with two different readerships,
+│     and this is the sharpest asymmetry on the page.
+│
+├─◆ SUSPENSIONS · DEBARMENTS · VOLUNTARY EXCLUSIONS ──▶ the exclusions section of
+│     the System for Award Management. Agency, cause, effect, termination date. This
+│     is the list every contracting officer must check, and it is the list that makes
+│     an exclusion a public fact.
+│
+└─◆ ADMINISTRATIVE AGREEMENTS ──▶ the Federal Awardee Performance and Integrity
+      Information System, reached through the contractor performance reporting
+      system, within 3 working days.
+      § The filing is not discretionary. Congress required it: the database must
+        include "each Federal administrative agreement entered into by the person and
+        the Federal Government" to resolve a suspension or debarment proceeding.
+        (41 U.S.C. § 2313(c)(4))
+      ⚑ AND THE READERSHIP IS NOT THE PUBLIC. The current statute makes the database
+        available to acquisition officials of federal agencies, to other government
+        officials as the General Services Administration determines appropriate, and
+        on request to the chairman and ranking member of the relevant congressional
+        committees. It contains no public-access provision.   (§ 2313(e)(1))
+      [ The predecessor statute did. Former 41 U.S.C. § 417b directed that the
+        information be posted, "excluding past performance reviews, on a publicly
+        available Internet website." That language survives in the current code only
+        as an editorial note to the section that replaced it. ]
+      ◈ So the exit that ends the relationship is published, and the exit that
+        preserves it is filed where the public has no statutory right to look. The
+        47 agreements of FY2023 are known as a COUNT, from the committee's report to
+        Congress, and not as DOCUMENTS.
+│
+│     ──▶
+│
+■ 10. ⊘ CAN THE COMPANY SUE — AND THE HONEST ANSWER IS PARTLY UNSETTLED
+│     Yes, and the route is sixty years old: a debarment is reviewable under the
+│     Administrative Procedure Act.   [ Gonzalez v. Freeman, 334 F.2d 570 (D.C. Cir.
+│     1964). ] Courts have also set a due-process floor: absent an indictment, a
+│     hearing should follow a suspension within thirty days [ Horne Bros. v. Laird,
+│     463 F.2d 1268 (D.C. Cir. 1972) ], and an agency that excludes a company in
+│     practice without saying so owes it notice of the charges [ Old Dominion Dairy
+│     Prods. v. Sec'y of Def., 631 F.2d 953 (D.C. Cir. 1980) ].
+│     ⊘ THREE THINGS THIS MAP DOES NOT ASSERT, BECAUSE THEY COULD NOT BE ESTABLISHED
+│       TO TWO SOURCES HERE:
+│         · WHICH COURT. Challenges have been entertained in federal district court
+│           and in the Court of Federal Claims, and the sources surveyed do not
+│           establish an exclusive forum. [ District court: Agility Defense & Gov't
+│           Servs. v. DoD (N.D. Ala. 2012), rev'd, 739 F.3d 586 (11th Cir. 2013);
+│           Friedler v. GSA (D.D.C. 2017). Court of Federal Claims: Inchcape Shipping
+│           Servs. Holdings v. United States, No. 13-953 (Fed. Cl. 2 Jan. 2014). ]
+│         · THE STANDARD. The Administrative Procedure Act confines a reviewing court
+│           to "the whole record or those parts of it cited by a party" and permits
+│           fresh factfinding only where a statute provides for trial de novo — and
+│           no statute provides for one here. (5 U.S.C. § 706) Whether and how
+│           closely courts in fact scrutinise these decisions is contested in the
+│           literature and is not settled on this page.
+│         · HOW OFTEN IT WORKS. No source found in this survey publishes a rate at
+│           which suspensions or debarments are overturned. The government counts the
+│           actions it takes and nobody appears to count the ones that do not hold.
+│
+■ 11. ≠ THE MIRROR, WHICH IS WHY THIS PAGE EXISTS
+│     The same alleged fraud, two parties, two procedures.
+│
+│     THE EMPLOYEE WHO REPORTS IT            │  THE COMPANY ACCUSED OF IT
+│     (41 U.S.C. § 4712)                     │  (FAR Subpart 9.4)
+│     ───────────────────────────────────────┼────────────────────────────────────────
+│     § an inspector general MUST            │  ◎ one agency employee, no fixed term,
+│       investigate                          │    decides alone
+│     ☐ 180 days to a determination or       │  ☐ 30 days to write a letter
+│       report, extendable by agreement      │
+│     § agency head must decide within 30    │  ◇ a hearing only if the action rests
+│       days of the report                   │    on no court finding AND the letter
+│                                            │    raises a genuine factual dispute
+│     ☐ after 210 days, remedies are deemed  │  ✕ for a suspension, prosecutors can
+│       exhausted and the courthouse opens   │    close even that door
+│     ★ a DE NOVO action in federal district │  ⊘ review exists; the forum and the
+│       court — "shall, at the request of    │    standard are unsettled, and the
+│       either party, be tried by the court  │    success rate is uncounted
+│       with a jury"                         │
+│     ☐ 3 years to complain · 2 years to sue │  ◈ exclusion begins before any of it
+│                                            │
+│     ◈ The asymmetry is not an accident of drafting. The employee's remedy is a
+│       statute Congress wrote to create a private right of action. The company's
+│       is a regulation the executive branch wrote to protect its own purchasing.
+│       One is designed to be used by the party it protects; the other is designed
+│       to be used ON the party it binds.
+│
+■ 12. WHAT IS PENDING          [ as of 10 November 2026 ]
+│     Subpart 9.4 is inside the government-wide rewrite of the acquisition rules. The
+│     proposal for Part 9 was published on 18 September 2026 and comments closed on
+│     19 October 2026. For a reader the two things worth knowing are:
+│       ☐ IT KEEPS THE SUBPART. Debarment, suspension and ineligibility survive the
+│         rewrite with their section numbers, and the preamble says the Part 9
+│         streamlining does "not substantively change policy or procedures in the
+│         part." The deadlines, periods and procedures mapped above are the current
+│         rules and are proposed to stay.
+│       ◈ IT ADDS A CAUSE. The proposal would make non-compliance with a new clause
+│         on diversity-related discrimination by federal contractors a cause for both
+│         debarment and suspension, inserted into the lists at stage 0.
+│       [ FAR Case 2026-011, RIN 9000-AO84, 91 Fed. Reg. 59584 (18 Sept. 2026),
+│         proposed rule; the added cause implements Executive Order 14398 of 26 March
+│         2026, 91 Fed. Reg. 16147 (31 Mar. 2026). A proposed rule is not law; no
+│         final rule had issued as of this page's date. ]
+│
+│   Legend, restated:
+│      ──▶ main path            └─▶ branch or bypass      ◇ decision point
+│      ✕ out of federal work    ★ the step that decides it
+│      ⚑ load-bearing stage, where the attrition is
+│      ☐ a deadline or period the company can count in advance
+│      ◎ one agency employee decides alone, with no hearing and no vote
+│      § the rule is in statute, not the regulation
+│      ⊘ a right that exists on paper and that no public source counts
+│      ◈ a consequence written in no rule
+│      ≠ two parties to one contract, given unequal process
+│      [ ] a dated note or caveat
