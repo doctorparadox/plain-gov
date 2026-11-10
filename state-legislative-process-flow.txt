@@ -29,7 +29,9 @@ HOW A STATE LEGISLATURE MAKES LAW                                (as of 9 Novemb
 │     └─▶ AT THE OTHER END, THE EVEN-YEAR SESSION IS SHORT ENOUGH TO BE THE WHOLE
 │          STORY: 30 days in Arkansas, New Mexico and Indiana, 35 calendar days in
 │          Oregon. Arkansas convened on 8 April 2026 and adjourned on 29 April — a
-│          21-day window for every bill any member wished to file that year.
+│          21-day window, and in an Arkansas fiscal session only appropriation bills
+│          may be considered unless two-thirds of each house agrees to take up
+│          another (Ark. Const. art. 5, § 5(c)).
 │     ◈ A SHORT SESSION DOES NOT REDUCE THE NUMBER OF BILLS; IT RAISES THE VALUE OF
 │       CONTROLLING THE CALENDAR. Nothing in a session limit says which bills get the
 │       days. That is decided at stages 3 and 5 by people the limit does not bind.
@@ -101,10 +103,12 @@ HOW A STATE LEGISLATURE MAKES LAW                                (as of 9 Novemb
 │       journal. The bill simply does not appear. This is the single most common
 │       terminal stage in American state lawmaking and the one that generates no
 │       document — which is why no national figure for it exists.
-│     └─▶ THE ONE CHAMBER THAT CLOSED THE DRAWER: in Nebraska every bill is guaranteed
-│          a public hearing. The guarantee is a rule of the Legislature, not a
-│          provision of the state constitution — which is to say the body that made it
-│          could unmake it.
+│     └─▶ WHERE THE DRAWER IS CLOSED: § in Colorado, since a 1988 citizen initiative,
+│          the constitution requires every measure referred to a committee to be
+│          considered on its merits and bars any rule that denies it a committee vote
+│          (Colo. Const. art. V, § 20). In Nebraska every bill is guaranteed a public
+│          hearing, but by a rule of the Legislature, not a provision of the state
+│          constitution — which is to say the body that made it could unmake it.
 │     └─▶ THE DISCHARGE PETITION, WHERE IT EXISTS, is the formal route around a
 │          committee, and it requires a floor majority to overturn the judgment of a
 │          chair who was appointed by the person who controls the floor majority.
@@ -151,8 +155,9 @@ HOW A STATE LEGISLATURE MAKES LAW                                (as of 9 Novemb
 │       considered at all in the other. It is a chamber rule, it is published in
 │       advance, and after it passes a bill that is merely slow is as dead as a bill
 │       that was defeated.
-│     ⊘ ONE-CHAMBER STATES HAVE NO STAGE 6, which is why the Nebraska filibuster at
-│       stage 5 is doing work that in other states is done by a second chamber.
+│     ◈ NEBRASKA, THE ONLY ONE-CHAMBER STATE, HAS NO STAGE 6, which is why its
+│       filibuster at stage 5 is doing work that in other states is done by a second
+│       chamber.
 │     ✕ Most bills that die after a committee hearing die here, of the clock.
 │
 ├─◆ 7. RECONCILING TWO VERSIONS
@@ -171,11 +176,13 @@ HOW A STATE LEGISLATURE MAKES LAW                                (as of 9 Novemb
 │     │
 │     ├─ 8b DO NOTHING ──▶ in 39 states inaction makes the bill law at all times,
 │     │     which means a governor can let a statute take effect without endorsing it.
-│     │     In nine states inaction enacts the bill only while the legislature sits.
-│     │     Iowa requires the governor to sign or veto.
-│     │     ◎ THE POCKET VETO IS THE MIRROR IMAGE: in eleven states a bill left
+│     │     In the rest, inaction enacts the bill only while the legislature sits.
+│     │     ◎ THE POCKET VETO IS THE MIRROR IMAGE: in those states a bill left
 │     │        unsigned after adjournment simply dies, with no veto message and nothing
 │     │        to override, because there is no chamber in session to override it.
+│     │        Iowa's constitution directs the governor to deposit end-of-session bills
+│     │        within 30 days of adjournment, approved or with objections, and says
+│     │        nothing of a bill left unsigned (Iowa Const. art. III, § 16).
 │     │     ☐ THE CLOCK IS SHORT AND PUBLISHED: as little as three days in Iowa,
 │     │        Minnesota, New Mexico, North Dakota and Wyoming, up to sixty in
 │     │        Illinois, with ten days the most common figure.
@@ -223,12 +230,12 @@ HOW A STATE LEGISLATURE MAKES LAW                                (as of 9 Novemb
 │          ever applied to anyone.
 │     └─▶ ◈ THE EMERGENCY CLAUSE DOES TWO THINGS AT ONCE. It makes a statute effective
 │          immediately, and in states with a popular referendum it also places the
-│          statute beyond the reach of that referendum, because there is no 90-day
-│          window in which signatures could suspend a law that is already in force.
+│          statute beyond the reach of that referendum, because there is no waiting
+│          period in which signatures could suspend a law that is already in force.
 │          A clause justified as urgency is also a clause that removes a check.
 │     └─▶ THE POPULAR REFERENDUM, where it exists, is the voters' veto on this map's
 │          output, and it runs on the adjournment or signing date rather than the
-│          election calendar — see the measure map for the mechanics.
+│          election calendar.
 │     └─▶ THE COURTS, on single subject, on the state constitution, and on federal law.
 │
 └─◆ 11. ≠ THE SECOND PRODUCT: A QUESTION ON THE BALLOT
@@ -238,8 +245,11 @@ HOW A STATE LEGISLATURE MAKES LAW                                (as of 9 Novemb
         ballot title and no verification. Its threshold is a vote of its own members.
       ☐ § THE THRESHOLD IS CONSTITUTIONAL AND PUBLISHED: a simple majority in one
         session in ten states · three-fifths in nine · two-thirds in seventeen · a
-        majority in two successive sessions in seven · and four states that will take
-        either a supermajority once or a majority twice.
+        majority in two successive sessions in seven · four states that will take
+        either a supermajority once or a majority twice · and two, Tennessee and
+        Vermont, that require two sessions with a supermajority in one of them.
+        [ Ballotpedia, Legislatively referred constitutional amendment, read
+          9 November 2026. ]
       ⊘ IN DELAWARE THERE IS NO REFERENDUM STAGE AT ALL. Two successive legislatures at
         two-thirds amend the constitution, and the voters are never asked. It is the
         only state where that is true; the other 49 require voter approval.
