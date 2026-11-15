@@ -1,0 +1,200 @@
+HOW A FEDERAL CASE GETS ITS JUDGE                              (as of 15 November 2026)
+│   Legend: ──▶ main path  └─▶ branch/consequence  ◇ decision  ✕ the choice closes
+│           ★ the filer's choice survives   ⚑ load-bearing   ◎ one person decides alone
+│           § a federal statute a district court cannot change   ⊘ duty with no remedy
+│           ◈ a stage in no statute and on no official diagram   ≠ two rules collide
+│           ☐ published where a filer can read it before filing
+│   Authority: 28 U.S.C. §§ 137, 138, 144, 455, 1391, 1404, 1407, 2284 ·
+│              Fed. R. Crim. P. 18 · Judicial Conference policy of 12 Mar. 2024
+│   Scale: 94 district courts, 94 assignment plans. Federal statutes that COMMAND
+│          the random assignment of a case: ONE — and it is about music licences.
+│
+■ 0. WHICH COURT   § venue is the part of the choice Congress did write down
+│     CIVIL — § 1391(b): a district where any defendant resides, if all of them
+│     reside in that State · a district where "a substantial part of the events
+│     or omissions giving rise to the claim occurred" · and, if neither exists,
+│     anywhere a defendant is subject to the court's personal jurisdiction.
+│     ☐ § 1391(e)(1) — suing a federal officer, employee or agency in an official
+│          capacity widens it to three districts, one of them wherever "the
+│          plaintiff resides if no real property is involved in the action."
+│     └─▶ ★ That clause carries most of the weight. A challenger to a federal
+│          rule chooses the district by choosing where the plaintiff lives, and
+│          can look for a plaintiff who already lives where it wants to file.
+│     CRIMINAL — Fed. R. Crim. P. 18: "the government must prosecute an offense
+│     in a district where the offense was committed," and the court "must set
+│     the place of trial within the district."
+│     ≠ The government picks on the criminal side and the plaintiff picks on the
+│          civil side, which is why forum selection is a challenger's instrument
+│          and almost never a defendant's.
+│
+├─◆ 1. WHICH DIVISION   ◈ the step with no federal law attached to it at all
+│     Congress divides most districts into divisions by statute and names the
+│     cities where court is held. It does not say which judge sits in which
+│     division, and it does not say that a case filed in a division must be
+│     heard by a judge who sits there. Both come from the district's own plan.
+│     └─▶ ⊘ Nothing in Title 28 requires a district to publish that plan, to
+│          explain it, to take comment on it, or to keep it stable.
+│
+├─◆ 2. WHO DIVIDES THE BUSINESS   ⚑ § 137(a), and the hinge of the whole map
+│     "The business of a court having more than one judge shall be divided among
+│     the judges as provided by the rules and orders of the court."
+│     ◎ "The chief judge of the district court shall be responsible for the
+│          observance of such rules and orders, and shall divide the business and
+│          assign the cases" — one judge, and the statute requires no vote.
+│     ◇ can the district judges agree on rules or orders?
+│     ├─ YES ──▶ the plan is whatever they adopt. No floor, no template, and no
+│     │    approval by anyone outside the district.
+│     └─ NO  ──▶ ◎ "the judicial council of the circuit shall make the necessary
+│          orders." The only outside actor § 137 admits, and only on deadlock.
+│
+├─◆ 3. THE ONE RANDOM-ASSIGNMENT COMMAND IN THE CODE   § § 137(b)
+│     ⚑ Subsection (b) is titled "Random Assignment of Rate Court Proceedings."
+│     It governs an application to set a music licence fee under a performing
+│     rights society's consent decree, and it is mandatory: the application
+│     "shall be made in the district court with jurisdiction over that consent
+│     decree and randomly assigned to a judge of that district court."
+│     ☐ It screens for conflicts by name — not the judge already holding that
+│          society's consent decree, and not a judge already assigned another
+│          licence-fee proceeding — and carves out individual proprietors.
+│     ≠ So the Code commands a random draw, with conflict screens, for the price
+│          of a song licence, and says nothing about the draw for an action
+│          asking one judge to bar a federal statute nationwide.
+│     [ Added by Pub. L. 115-264, title I, § 104, 11 Oct. 2018, 132 Stat. 3726,
+│       which also designated the pre-existing text as subsection (a). ]
+│
+├─◆ 4. THE DRAW, AS A DISTRICT ACTUALLY RUNS IT
+│     The shape common to the plans surveyed: assign by courthouse or division
+│     first, draw blind inside it, then pull named categories back out and run
+│     those district-wide.
+│     └─▶ Northern District of California, General Order 44, amended 18 Nov.
+│          2025: cases "shall be assigned by the Clerk to the judges holding
+│          chambers in the courthouse," then "blindly and at random by the Clerk
+│          by means of an automated" system — with a district-wide system kept,
+│          notwithstanding any other provision, for prisoner petitions,
+│          intellectual property rights, Social Security, federal tax suits, and
+│          antitrust and securities class actions.
+│     ◈ Note what is on that district-wide list and what is not: five categories
+│          chosen for docket management, and no category defined by how far the
+│          remedy the plaintiff is asking for would reach.
+│
+├─◆ 5. THE SINGLE-JUDGE DIVISION   ◈ nobody designed it; stages 1 and 4 produce it
+│     A division with one resident judge, plus a plan that assigns by division,
+│     equals a filer who can name the judge by naming the courthouse. No statute
+│     creates it, no rule authorises it, and it appears on no official diagram
+│     of how a case is assigned.
+│     └─▶ ★ The two choices compound. Venue picks the court from a menu Congress
+│          wrote; the division picks the judge from a menu the district wrote;
+│          and neither step asks the filer to say why it chose as it did.
+│
+├─◆ 6. THE 2024 GUIDANCE   ⊘ the correction, and the word it turns on
+│     On 12 March 2024, under the heading "ASSIGNMENT OF CIVIL CASES WITH
+│     STATEWIDE OR NATIONWIDE IMPACT," the Judicial Conference of the United
+│     States "approved the following policy regarding case assignment
+│     practices":
+│     ⚑ "District courts should apply district-wide assignment to:"
+│       a. actions seeking to bar or mandate STATEWIDE enforcement of a state law
+│       b. actions seeking to bar or mandate NATIONWIDE enforcement of a federal
+│          law — in both cases including a rule, regulation, policy or order of
+│          the executive branch or an agency, and in both cases "whether by
+│          declaratory judgment and/or any form of injunctive relief."
+│     ⊘ The policy preserves the thing it is correcting. It "inform[s] the
+│          district courts' statutory authority and discretion to divide the
+│          business of the court pursuant to 28 U.S.C. § 137," and the same
+│          passage adds that the policies "should not be viewed as impairing a
+│          court's authority or discretion."
+│     └─▶ ✕ No deadline, no reporting requirement, no review. The Conference's
+│          committee "planned to send to all district judges guidance on civil
+│          case assignment in district courts," and the guidance is the remedy.
+│
+├─◆ 7. WHAT THE DISTRICTS DID WITH IT   ◈ six documents, no two the same
+│     A sample of the orders, not a census of the 94 — see the Notes:
+│     ├─ S.D. Fla., Admin. Order 2024-34, 3 May 2024 — both categories, assigned
+│     │    district-wide "without regard to Division," plus a route for relief
+│     │    first sought by amended pleading or motion after filing.
+│     ├─ W.D. Pa., Admin. Order 2024-09, 17 July 2024 — both categories word for
+│     │    word, but the case is "randomly assigned to a judge within the
+│     │    Division where the civil case is being filed"; the district-wide
+│     │    wheel is reached only after the assigned judge reviews it.
+│     ├─ E.D. Pa., order of 8 Oct. 2024 — one new local-rule category, "Cases
+│     │    Seeking Systemic Relief," assigned district-wide, and neither the
+│     │    order nor the published notice says what the category covers.
+│     ├─ D. Mass., Gen. Order 25-1, 11 Feb. 2025 — the federal nationwide
+│     │    category only, reaching only cases filed in the Central or Western
+│     │    Divisions, and expressly not pro se cases.
+│     ├─ W.D. Ky., Gen. Order 25-05, 14 Apr. 2025 — both categories, a
+│     │    district-wide deck with weighted shares, a 30-day window for
+│     │    reassignment if the relief is added later, and a label the filer must
+│     │    type on the caption: "[NATIONWIDE] [STATEWIDE] RELIEF SOUGHT."
+│     └─ N.D. Tex. — ✕ declined. Its chief judge wrote on 29 Mar. 2024 that the
+│          district judges "met on March 27, 2024, and discussed case
+│          assignment," and that "[t]he consensus was not to make any change to
+│          our case assignment process at this time," resting on the "wide
+│          latitude" § 137 gives each court and on Local Civil Rule 83.3.
+│     ◈ N.D. Cal. amended its assignment plan on 18 Nov. 2025, twenty months
+│          after the policy, and the amended plan contains no statewide or
+│          nationwide provision of any kind.
+│     ☐ Five of the six cite § 137. Not one names the policy's title or its
+│          date; each calls it "Judicial Conference policy," "the 2024 policy of
+│          the Judicial Conference," "a recent Judicial Conference of the United
+│          States recommendation," or nothing at all.
+│
+├─◆ 8. THE TRACKS THAT TAKE THE CHOICE AWAY   § and hand it to someone else
+│     ├─ THREE-JUDGE COURT — § 2284(a) requires one for an action "challenging
+│     │    the constitutionality of the apportionment of congressional districts
+│     │    or the apportionment of any statewide legislative body."
+│     │    ◎ § 2284(b)(1): the judge the request is presented to notifies "the
+│     │    chief judge of the circuit, who shall designate two other judges, at
+│     │    least one of whom shall be a circuit judge." The appointer sits
+│     │    outside the district the case was filed in.
+│     └─ MULTIDISTRICT LITIGATION — § 1407(a): transfer "for coordinated or
+│          consolidated pretrial proceedings" is made by the judicial panel on
+│          multidistrict litigation, on a party's motion or "upon its own
+│          initiative," and each action "shall be remanded by the panel at or
+│          before the conclusion of such pretrial proceedings."
+│          ◎ § 1407(d): the panel is "seven circuit and district judges
+│          designated from time to time by the Chief Justice," "no two of whom
+│          shall be from the same circuit."
+│     ≠ Three doors, three appointers. Who chooses the judge depends entirely on
+│          which door the case came through, and only the ordinary door leaves
+│          the answer to the district itself.
+│
+├─◆ 9. THE EXITS, AND WHY NONE OF THEM IS A REVIEW OF THE ASSIGNMENT
+│     ├─ § 455(a) ◎ the judge "shall disqualify himself in any proceeding in
+│     │    which his impartiality might reasonably be questioned." The official
+│     │    who decides is the judge the motion is about, and the section names
+│     │    no appeal. § 455(e) forbids the parties to waive a subsection (b)
+│     │    ground, but allows waiver of an (a) ground when it is "preceded by a
+│     │    full disclosure on the record."
+│     ├─ § 144 ⊘ a party's affidavit of "personal bias or prejudice" means "such
+│     │    judge shall proceed no further therein, but another judge shall be
+│     │    assigned to hear such proceeding" — and its deadline is a dead letter
+│     │    on the face of the Code. The affidavit "shall be filed not less than
+│     │    ten days before the beginning of the term at which the proceeding is
+│     │    to be heard," while § 138 reads, in its entirety: "The district court
+│     │    shall not hold formal terms."
+│     │    ≠ There has been no term to count back from since 16 Oct. 1963.
+│     │    [ One affidavit per party per case, and it must be accompanied by "a
+│     │      certificate of counsel of record stating that it is made in good
+│     │      faith." ]
+│     └─ § 1404(a) transfer "for the convenience of parties and witnesses, in
+│          the interest of justice" moves the case to a different DISTRICT —
+│          another court and another draw, not a ruling on the first assignment.
+│          § 1404(b) moves it between divisions of the same court only "upon
+│          motion, consent or stipulation of all parties."
+│
+└─◆ 10. WHAT THE CHOSEN JUDGE CAN DO   ⚑ the reason stage 1 carries so much
+      The stakes of the draw are the reach of the order at the end of it, and
+      that reach moved in 2025. In Trump v. CASA, Inc., decided 27 June 2025,
+      the Supreme Court held that universal injunctions "likely exceed the
+      equitable authority that Congress has granted to federal courts," and that
+      relief may run only as far as needed to give complete relief to the
+      parties before the court.
+      └─▶ ◈ The route around that limit runs back through the same draw. Two
+           weeks later a single district judge in New Hampshire certified a
+           nationwide class and enjoined the same executive order again — and a
+           class certification, like a vacatur of agency action, is decided in
+           the first instance by whichever judge stage 4 produced.
+      ⊘ Nothing in the sequence above requires anyone to record WHY a case went
+          to the judge it went to. The assignment is an administrative act under
+          a plan the court wrote for itself: no finding, no explanation, and
+          nothing to appeal.
