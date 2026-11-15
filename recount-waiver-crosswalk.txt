@@ -1,0 +1,248 @@
+STATE RECOUNT WAIVER CROSSWALK — the six states where the defeated candidate can
+switch off a public recount, and the deadline that did not hold
+                                                        (as of 2 November 2026)
+│  Legend:  ▸ column or lane
+│           ☐ the instrument is a WRITTEN FILING, not a statement or a concession
+│           ⊘ the instrument does not exist in this state's statute
+│           ◎ the hinge — where the statute stops and an administrative
+│             decision governs the outcome instead
+│           ⏳ a deadline the statute actually states
+│           $ who pays for the count being switched off
+│           ✱ the structural point of the block
+│           ★ the only state on this map where that is true
+│           ◈ a count derived here rather than published anywhere
+│           [bracketed] notes are dated caveats
+│
+│  THE ONE-LINE VERSION: IN SEVEN STATES AN AUTOMATIC RECOUNT IS THE ONLY SECOND
+│  COUNT A LOSING CANDIDATE CAN GET, AND IN FOUR OF THEM THAT CANDIDATE CAN ALSO
+│  CANCEL IT. The power runs one way: nowhere on this map can the loser ask for a
+│  recount, and in six states the loser can stop one. Read Part D before trusting
+│  any deadline here — on the one recent occasion the deadline was tested, it
+│  governed the filing and not the result.
+│
+■ PART A — THE SIX STATES WHERE THE DEFEATED CANDIDATE CAN SWITCH IT OFF
+│
+├─▸ PENNSYLVANIA ................................ 25 P.S. § 3154(h)
+│     ☐ "A recount and recanvass shall not be ordered ... if the defeated
+│       candidate requests in writing that a recount and recanvass not be made."
+│     ▸ who may file: the defeated candidate, singular
+│     ⏳ "by 12 o'clock noon on the second Wednesday following the election" —
+│       and the order itself is due by 5 p.m. on the second THURSDAY, so the
+│       window shuts about twenty-nine hours before the duty attaches
+│     ⊘ ballot questions: the waiver reaches subsection (g)(1)(i) only, which is
+│       the candidate trigger. A question approved or rejected by the same
+│       half-point margin recounts and nobody can stop it.
+│     $ the Commonwealth. A completed statewide recount was estimated above
+│       $1 million in 2024.
+│     ✱ THE ONLY STATE ON THIS MAP WHOSE WAIVER CLOCK IS SET BY THE CALENDAR
+│       RATHER THAN BY THE CANVASS, AND THE ONLY ONE THAT HAS BEEN TESTED.
+│
+├─▸ MICHIGAN .................................... Mich. Comp. Laws § 168.880a(6)
+│     ☐ the recount "must not be conducted if, within 48 hours after the
+│       election is certified, the losing candidate files a written statement
+│       with the secretary of state requesting that the recount ... not be
+│       conducted"
+│     ▸ who may file: the losing candidate — ★ OR A LOSING BALLOT QUESTION
+│       COMMITTEE, which has the same option in the same subsection
+│     ⏳ 48 hours after certification. Keyed to the canvass, not to election
+│       day, so the date moves when the canvass moves.
+│     ★ THE ONLY STATE FOUND WHERE A BALLOT-QUESTION RECOUNT CAN BE SWITCHED
+│       OFF AT ALL, AND THE ONLY ONE WHERE THE FILER NEED NOT BE A PERSON.
+│     ▸ triggers: 0.1% statewide · 75 votes or fewer for state senate · 25 or
+│       fewer for state representative
+│
+├─▸ FLORIDA ..................................... Fla. Stat. § 102.141(7)
+│     ☐ "A recount need not be ordered with respect to the returns for any
+│       office ... if the candidate or candidates defeated or eliminated from
+│       contention ... request in writing that a recount not be made."
+│     ▸ who may file: EVERY candidate inside the half-point margin. The plural
+│       is the operative word — one trailing candidate cannot switch it off
+│       over another trailing candidate's objection.
+│     ⊘ deadline: none stated anywhere in the subsection
+│     ⊘ ballot questions: the waiver clause names offices only. The same
+│       subsection's recount duty for measures and judicial-retention
+│       questions has no comparable exit.
+│
+├─▸ SOUTH CAROLINA .............................. S.C. Code § 7-17-280
+│     ☐ no recount is required if "such other candidate or candidates shall
+│       waive a recount in writing"
+│     ▸ who may file: again every other candidate inside the one-point margin
+│     ⊘ deadline: none. The recount is otherwise ordered "forthwith", which is
+│       a speed instruction and not a date, so the waiver races an unscheduled
+│       duty.
+│     ⊘ ballot questions: amendments, questions and other issues are recounted
+│       on order of the Board of State Canvassers, with no waiver clause.
+│
+├─▸ CONNECTICUT ................................. Conn. Gen. Stat. § 9-311a
+│     ☐ the defeated candidate files a written statement "waiving this right to
+│       such canvass"
+│     ▸ where it is filed: ★ TWO DIFFERENT OFFICES BY RACE — the municipal
+│       clerk for a municipal office, the Secretary of the State for a state or
+│       district office
+│     ⊘ deadline: none stated in the section
+│     ✱ Connecticut calls the recanvass the candidate's RIGHT. See Part C.
+│
+└─▸ NEBRASKA .................................... Neb. Rev. Stat. § 32-1119(2)
+      ☐ "Any losing candidate may waive his or her right to a recount by filing
+        a written statement with the Secretary of State, election commissioner,
+        or county clerk with whom he or she made his or her filing."
+      ▸ where it is filed: whichever office the candidate filed to run with —
+        the statute routes the waiver by the candidacy rather than by the race
+      ⊘ deadline: none stated
+      $ "all expenses of a recount under this section shall be paid by those
+        political subdivisions involved" — so the thing being waived is a
+        publicly funded count, and the statute still calls it the loser's right
+│
+■ PART B — THE FIVE WHERE NOBODY CAN
+│
+├─▸ ARIZONA ..................................... A.R.S. § 16-661
+│     a recount "is required" at a margin within one-half of one per cent of
+│     the votes cast for both candidates. ⊘ NO WAIVER APPEARS ANYWHERE IN THE
+│     SECTION. What the statute does instead is remove whole offices from the
+│     duty: precinct committeemen, school and community-college boards, fire
+│     districts and other special districts are exempt by subsection (B).
+│     ✱ Arizona switches recounts off by OFFICE, in advance, by statute —
+│       never by a candidate, and never after the votes are in.
+│
+├─▸ NEW YORK .................................... N.Y. Elec. Law § 9-208(4)
+│     the board "shall conduct a full manual recount" on any one of three
+│     triggers: a margin of twenty votes or fewer · a margin of 0.5% or less ·
+│     or a contest of a million ballots or more decided by under 5,000 votes.
+│     ⊘ no waiver, and ⊘ no concession exception. A conceded race inside any of
+│     the three triggers is recounted by hand regardless.
+│
+├─▸ HAWAII ...................................... HRS § 11-158
+│     the chief election officer "shall conduct a recount", completed and
+│     announced by the fifth business day after the election, and "no candidate
+│     shall be charged for the cost of a mandatory recount". ⊘ no waiver.
+│     ✱ The one state that both pays for the count and refuses to let the
+│       beneficiary decline it, which is the clearest statement on the map that
+│       the recount is owed to the public rather than to the loser.
+│
+├─▸ WASHINGTON .................................. RCW 29A.64.021
+│     mandatory below 2,000 votes AND below 0.5%. ⊘ no waiver — but ★ THE ONLY
+│     STATE HERE WHERE THE WINNER HAS ANY SAY AT ALL: under subsection (3) "the
+│     apparent winning candidate and the next leading candidate may jointly
+│     choose to request an alternative method of conducting the recount."
+│     ✱ The candidates together may change HOW the ballots are recounted and
+│       neither may stop the recount. Method is negotiable; existence is not.
+│
+└─▸ COLORADO .................................... C.R.S. § 1-10.5-101(1)(b)
+      a recount "shall be held" where the gap is at or under one-half of one
+      percent of the HIGHEST vote cast in the contest. ⊘ nothing in subsection
+      (1) or (2) lets anyone decline it. The interested-party route at
+      § 1-10.5-106 runs the other way: it is how someone GETS a recount, at
+      their own expense. [§ 1-10.5-106 was not read in full for this map.]
+│
+■ PART C — ONE NAME, THREE DIFFERENT LEGAL ACTS
+│
+├─▸ (a) A CONDITION ON THE STATE'S DUTY ......... Pa. · Fla. · Mich.
+│     The statute speaks to the officer: the recount "shall not be ordered",
+│     "need not be ordered", "must not be conducted". The candidate's filing is
+│     a fact that switches off somebody else's obligation.
+│
+├─▸ (b) A WAIVER OF THE CANDIDATE'S OWN RIGHT ... Conn. · Neb. · S.C.
+│     The statute speaks to the candidate: the losing candidate "may waive his
+│     or her right". This presupposes the recount exists for the candidate's
+│     benefit, and a right is the holder's to give away.
+│
+└─▸ (c) ✱ THE DIFFERENCE IS NOT COSMETIC, AND IT IS THE FINDING OF THIS PART.
+      A duty owed to the public is not a losing candidate's to release; a
+      personal right is. Two of these states write a recount PAID FOR BY THE
+      PUBLIC as the loser's own property — Nebraska says so in the same section
+      that charges the political subdivisions for it. Nothing in either design
+      asks what the voters in the contest are owed, and no statute on this map
+      gives them anyone to ask.
+│
+■ PART D — THE DEADLINE, AND THE ONE TIME IT WAS TESTED
+│
+├─  ONLY TWO OF THE SIX STATE A DEADLINE AT ALL. Pennsylvania sets a calendar
+│   date and hour; Michigan sets a 48-hour clock off certification. Florida,
+│   South Carolina, Connecticut and Nebraska ⊘ state none, which means the
+│   practical limit in those four is whenever the count is finished.
+│
+├─  THE 2024 PENNSYLVANIA SENATE SEQUENCE, which is the whole argument for why
+│   this column is the one that matters:
+│
+│      5 Nov   election. Margin under 0.25%, about 16,500 votes, inside the
+│              half-point trigger
+│     13 Nov   ⏳ NOON — the § 3154(h) window closes. No waiver is filed.
+│     13 Nov   evening — the recount is ordered statewide. Estimated cost above
+│              $1 million.
+│     20 Nov   the recount begins in the counties
+│     21 Nov   evening — the trailing candidate concedes and asks the state to
+│              end the recount. ◎ THIS IS EIGHT DAYS AFTER THE STATUTORY WINDOW
+│              CLOSED, SO THE INSTRUMENT IN PART A WAS NO LONGER AVAILABLE.
+│     21 Nov   counties are told that night that they need not finish. About
+│              ten had already completed their recounts.
+│     22 Nov   the state announces the recount is over.
+│
+├─  ◎ THE HINGE. The statute's deadline governed the FILING and did not govern
+│   the OUTCOME. What stopped the recount was not the waiver instrument but an
+│   administrative decision to honour a request the statute no longer
+│   authorised — announced in the language of saving taxpayers money, which is
+│   the reasoning the deadline exists to take out of anyone's hands.
+│
+└─  ✱ SO THE REAL COLUMN IS NOT "WHAT IS THE DEADLINE" BUT "IS ANYONE BOUND BY
+    IT." On the only recent occasion when the two answers differed, the second
+    one decided. A deadline no court was asked to enforce is a deadline that
+    held for eight days and then did not.
+│
+■ PART E — THE FILING AND ITS CLOCK, ELEVEN STATES READ
+│  STATE            WHAT THE FILING IS                         WHEN IT IS DUE
+│  ---------------  -----------------------------------------  -----------------------
+│  Pennsylvania     written request that the recount           noon, 2nd Wednesday
+│                   and recanvass not be made                  after the election
+│  Michigan         written statement requesting the           48 hours after the
+│                   recount not be conducted                   election is certified
+│  Florida          written request that a recount             not stated
+│                   not be made                                in the statute
+│  South Carolina   written waiver of a recount                not stated
+│  Connecticut      written statement waiving the              not stated
+│                   right to the recanvass
+│  Nebraska         written statement waiving the              not stated
+│                   right to a recount
+│  ---------------  -----------------------------------------  -----------------------
+│  Arizona          no such filing exists                      --
+│  New York         no such filing exists                      --
+│  Hawaii           no such filing exists                      --
+│  Washington       no such filing exists; the two             --
+│                   candidates may jointly pick the
+│                   method, not cancel the count
+│  Colorado         no such filing exists                      --
+│
+■ PART F — WHAT NO WAIVER ON THIS MAP REACHES
+│
+├─  A BALLOT QUESTION, IN EVERY STATE BUT ONE. Pennsylvania, Florida and South
+│   Carolina each write the waiver for offices and leave the question recount
+│   running; Michigan alone hands the same switch to a ballot question
+│   committee. ✱ The reason is structural rather than principled: a question
+│   has no defeated candidate to do the asking, and only Michigan went looking
+│   for a substitute.
+│
+├─  ⊘ THE RECOUNT THE LOSER WANTS. The power on this map runs one direction
+│   only. In Arizona, Connecticut, Florida, Hawaii, New York, Pennsylvania and
+│   South Carolina there is no candidate-initiated recount at all, so a losing
+│   candidate's entire statutory authority over the second count is the
+│   authority to cancel one. ✱ Four of those seven states give the loser a
+│   switch that only turns off.
+│
+├─  A RECOUNT ALREADY UNDER WAY. ⊘ No statute read here says what becomes of
+│   one. Pennsylvania's window shuts before the order issues, so on the
+│   statute's own timetable the question cannot arise; it arose anyway in 2024
+│   and was answered by an instruction to the counties.
+│
+├─  THE ELECTION CONTEST. Waiving a recount is not conceding and does not
+│   forfeit a contest in court, which is a separate instrument with its own
+│   standing rules and its own clock.
+│
+├─  ⊘ THE PUBLIC. No statute on this map requires the waiver to be published,
+│   docketed or served on anyone, and none requires that the voters in the
+│   contest be told that a recount their state had ordered was called off at
+│   the request of the person who lost it.
+│
+└─  ◈ THE OTHER THIRTY-NINE STATES. Eleven statutes are read on this page and
+    the column is unmapped in the rest. That is a gap in the published record
+    rather than in this page: the fifty-state recount tables in circulation
+    carry triggers, thresholds, costs and completion deadlines, and the
+    standard reference brief on recounts does not mention waiver at all.
